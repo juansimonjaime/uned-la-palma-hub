@@ -21,6 +21,19 @@ const ElCentro = () => (
       title="Conoce el Centro Asociado UNED La Palma"
       subtitle="Acercamos la formación universitaria pública a distancia a toda la isla, con un equipo humano y académico al servicio del estudiante."
     />
+    <section className="container-prose pt-12">
+      <figure className="overflow-hidden rounded-2xl border border-border shadow-card reveal">
+        <img
+          src="https://www.unedlapalma.es/images/Uned_La_Palma_1.png"
+          alt="Acto de graduación del Centro Asociado UNED La Palma 2024"
+          loading="lazy"
+          className="w-full h-auto object-cover"
+        />
+        <figcaption className="bg-card px-5 py-3 text-xs text-muted-foreground">
+          Acto de graduación del curso 2023-2024 — Centro Asociado UNED La Palma.
+        </figcaption>
+      </figure>
+    </section>
     <section className="container-prose py-16 md:py-20 grid md:grid-cols-2 gap-12">
       <div className="reveal">
         <h2 className="text-2xl md:text-3xl font-bold tracking-tight text-primary">Nuestra misión</h2>
