@@ -81,12 +81,6 @@ const Noticias = () => (
                   Contacto: <span className="text-secondary font-medium">{n.contact}</span>
                 </p>
               )}
-              <a
-                href="#"
-                className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-secondary group-hover:gap-2 transition-all"
-              >
-                Leer más <ArrowRight className="h-3.5 w-3.5" />
-              </a>
             </div>
           </article>
         ))}
