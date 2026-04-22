@@ -6,15 +6,19 @@ const sedes = [
   {
     name: "Sede Santa Cruz de La Palma",
     address: "Avenida Tte. Gral. Gutiérrez Mellado, 26 — 38700 S/C de La Palma",
-    phone: "922 411 338",
-    email: "info@lapalma.uned.es",
+    phones: ["922 411 338", "669 761 018"],
+    emails: [
+      { addr: "info@santa-cruz.uned.es", label: "Información general" },
+      { addr: "secretaria@santa-cruz.uned.es", label: "Secretaría" },
+      { addr: "director@santa-cruz.uned.es", label: "Dirección" },
+    ],
     schedule: "Lunes a viernes · 10:30 – 14:00 / 16:30 – 20:00",
   },
   {
     name: "Sede Los Llanos de Aridane",
     address: "Los Llanos de Aridane — La Palma",
-    phone: "922 462 230",
-    email: "llanos@lapalma.uned.es",
+    phones: ["922 462 230", "630 670 771"],
+    emails: [{ addr: "info.losllanos@santa-cruz.uned.es", label: "Información Los Llanos" }],
     schedule: "Consultar horario de atención",
   },
 ];
@@ -47,11 +51,34 @@ const Contacto = () => (
             </li>
             <li className="flex items-start gap-3">
               <Phone className="h-5 w-5 text-secondary mt-0.5 shrink-0" />
-              <a href={`tel:${s.phone.replace(/ /g, "")}`} className="text-foreground/85 hover:text-secondary">{s.phone}</a>
+              <div className="flex flex-col gap-1">
+                {s.phones.map((p) => (
+                  <a
+                    key={p}
+                    href={`tel:${p.replace(/ /g, "")}`}
+                    className="text-foreground/85 hover:text-secondary"
+                  >
+                    {p}
+                  </a>
+                ))}
+              </div>
             </li>
             <li className="flex items-start gap-3">
               <Mail className="h-5 w-5 text-secondary mt-0.5 shrink-0" />
-              <a href={`mailto:${s.email}`} className="text-foreground/85 hover:text-secondary">{s.email}</a>
+              <div className="flex flex-col gap-1.5">
+                {s.emails.map((e) => (
+                  <a
+                    key={e.addr}
+                    href={`mailto:${e.addr}`}
+                    className="text-foreground/85 hover:text-secondary break-all"
+                  >
+                    <span className="block text-[11px] uppercase tracking-wider text-muted-foreground">
+                      {e.label}
+                    </span>
+                    {e.addr}
+                  </a>
+                ))}
+              </div>
             </li>
             <li className="flex items-start gap-3">
               <Clock className="h-5 w-5 text-secondary mt-0.5 shrink-0" />
@@ -74,7 +101,7 @@ const Contacto = () => (
           Imagen en directo de la Plaza de España de Santa Cruz de La Palma, junto a nuestra sede principal.
         </p>
         <a
-          href="https://www.unedlapalma.es/"
+          href="https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/santa-cruz-de-la-palma-la-palma.html"
           target="_blank"
           rel="noopener noreferrer"
           className="group mt-5 block overflow-hidden rounded-xl border border-border"
