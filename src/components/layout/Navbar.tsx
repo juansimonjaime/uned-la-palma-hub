@@ -10,6 +10,7 @@ const links = [
   { to: "/servicios", label: "Servicios" },
   { to: "/cuid", label: "CUID" },
   { to: "/extension-universitaria", label: "Extensión" },
+  { to: "/noticias", label: "Noticias" },
   { to: "/contacto", label: "Contacto" },
 ];
 

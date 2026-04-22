@@ -1,5 +1,15 @@
 import { Link } from "react-router-dom";
-import { Facebook, Instagram, Mail, MapPin, Phone, Twitter } from "lucide-react";
+import { ExternalLink, Facebook, Instagram, Mail, MapPin, Phone, Twitter } from "lucide-react";
+
+const unedLinks = [
+  { label: "Campus UNED", href: "http://portal.uned.es/portal/page?_pageid=93,1652697&_dad=portal&_schema=PORTAL" },
+  { label: "Admisión y Matrícula", href: "https://app.uned.es/portal/admision-matricula-por-internet" },
+  { label: "Becas y Ayudas", href: "https://www.uned.es/universidad/inicio/estudiantes/becas-y-ayudas.html" },
+  { label: "Repositorio de Exámenes", href: "http://www.calatayud.uned.es/Examenes/examenes_step_1.asp" },
+  { label: "INTECCA", href: "https://www.intecca.uned.es/inteccainfo/" },
+  { label: "Fundación UNED", href: "https://www.fundacion.uned.es/" },
+  { label: "UNED Sénior", href: "https://www.uned.es/universidad/inicio/estudios/uned-senior.html" },
+];
 
 const Footer = () => {
   return (
@@ -13,6 +23,24 @@ const Footer = () => {
             <li><Link to="/servicios" className="hover:text-accent transition-colors">Servicios</Link></li>
             <li><Link to="/cuid" className="hover:text-accent transition-colors">Idiomas (CUID)</Link></li>
             <li><Link to="/extension-universitaria" className="hover:text-accent transition-colors">Extensión Universitaria</Link></li>
+            <li><Link to="/noticias" className="hover:text-accent transition-colors">Noticias</Link></li>
+          </ul>
+
+          <h4 className="mt-7 text-xs font-bold uppercase tracking-wider text-accent/90 mb-3">UNED General</h4>
+          <ul className="grid grid-cols-1 sm:grid-cols-2 gap-x-4 gap-y-1.5 text-xs text-footer-foreground/70">
+            {unedLinks.map((l) => (
+              <li key={l.label}>
+                <a
+                  href={l.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1 hover:text-accent transition-colors"
+                >
+                  {l.label}
+                  <ExternalLink className="h-3 w-3 opacity-60" />
+                </a>
+              </li>
+            ))}
           </ul>
         </div>
         <div>

@@ -10,6 +10,7 @@ import Tutorias from "./pages/Tutorias.tsx";
 import Servicios from "./pages/Servicios.tsx";
 import Cuid from "./pages/Cuid.tsx";
 import Extension from "./pages/Extension.tsx";
+import Noticias from "./pages/Noticias.tsx";
 import Contacto from "./pages/Contacto.tsx";
 import NotFound from "./pages/NotFound.tsx";
 
@@ -29,6 +30,7 @@ const App = () => (
             <Route path="/servicios" element={<Servicios />} />
             <Route path="/cuid" element={<Cuid />} />
             <Route path="/extension-universitaria" element={<Extension />} />
+            <Route path="/noticias" element={<Noticias />} />
             <Route path="/contacto" element={<Contacto />} />
             {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
             <Route path="*" element={<NotFound />} />
