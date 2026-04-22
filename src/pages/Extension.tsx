@@ -1,5 +1,6 @@
 import { CalendarDays, MapPin } from "lucide-react";
 import PageHeader from "@/components/PageHeader";
+import SEO from "@/components/SEO";
 
 const events = [
   { date: "15 May", title: "Jornadas de Astronomía en La Palma", place: "Sede S/C de La Palma", desc: "Ciclo de conferencias sobre el cielo de Canarias y los grandes telescopios del Roque de los Muchachos." },
@@ -10,6 +11,11 @@ const events = [
 
 const Extension = () => (
   <>
+    <SEO
+      title="Extensión Universitaria — UNED La Palma"
+      description="Cursos de verano, jornadas, conferencias y actividades culturales del Centro Asociado UNED La Palma, abiertos a toda la ciudadanía."
+      path="/extension-universitaria"
+    />
     <PageHeader
       eyebrow="Extensión Universitaria"
       title="Cursos, jornadas y actividades culturales"

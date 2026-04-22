@@ -1,5 +1,6 @@
 import { BookOpen, Headphones, Laptop, Library, Users, Wifi } from "lucide-react";
 import PageHeader from "@/components/PageHeader";
+import SEO from "@/components/SEO";
 
 const services = [
   { icon: Library, title: "Biblioteca", desc: "Servicio de préstamo, consulta de fondos UNED y acceso a bases de datos académicas." },
@@ -12,6 +13,11 @@ const services = [
 
 const Servicios = () => (
   <>
+    <SEO
+      title="Servicios al Estudiante — UNED La Palma"
+      description="Biblioteca, aulas AVIP, salas de exámenes, conectividad WiFi y orientación académica en el Centro Asociado UNED La Palma."
+      path="/servicios"
+    />
     <PageHeader
       eyebrow="Servicios"
       title="Servicios al Estudiante"

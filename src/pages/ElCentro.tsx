@@ -1,5 +1,6 @@
 import { Award, BookOpen, Building2, Users } from "lucide-react";
 import PageHeader from "@/components/PageHeader";
+import SEO from "@/components/SEO";
 
 const stats = [
   { icon: Users, value: "1.200+", label: "Estudiantes matriculados" },
@@ -10,6 +11,11 @@ const stats = [
 
 const ElCentro = () => (
   <>
+    <SEO
+      title="El Centro Asociado — UNED La Palma"
+      description="Conoce el equipo, la misión y las cifras del Centro Asociado de la UNED en La Palma. Más de 1.200 estudiantes y 50 años de trayectoria universitaria en la isla."
+      path="/el-centro"
+    />
     <PageHeader
       eyebrow="El Centro"
       title="Conoce el Centro Asociado UNED La Palma"

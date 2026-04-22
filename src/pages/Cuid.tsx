@@ -1,5 +1,6 @@
 import { CheckCircle2, Globe2 } from "lucide-react";
 import PageHeader from "@/components/PageHeader";
+import SEO from "@/components/SEO";
 
 const languages = [
   { lang: "Inglés", levels: "A1 · A2 · B1 · B2 · C1" },
@@ -8,6 +9,11 @@ const languages = [
 
 const Cuid = () => (
   <>
+    <SEO
+      title="CUID — Cursos de Idiomas | UNED La Palma"
+      description="Cursos de inglés y alemán del CUID UNED en La Palma. Niveles oficiales del Marco Común Europeo de Referencia con metodología a distancia y tutorías presenciales."
+      path="/cuid"
+    />
     <PageHeader
       eyebrow="CUID"
       title="Centro Universitario de Idiomas a Distancia"
