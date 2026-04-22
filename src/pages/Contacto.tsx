@@ -1,5 +1,6 @@
 import { Clock, Mail, MapPin, Phone } from "lucide-react";
 import PageHeader from "@/components/PageHeader";
+import SEO from "@/components/SEO";
 
 const sedes = [
   {
@@ -20,6 +21,11 @@ const sedes = [
 
 const Contacto = () => (
   <>
+    <SEO
+      title="Contacto y Sedes — UNED La Palma"
+      description="Contacta con el Centro Asociado UNED La Palma. Sedes en Santa Cruz de La Palma y Los Llanos de Aridane: teléfonos, correos y horarios de atención."
+      path="/contacto"
+    />
     <PageHeader
       eyebrow="Contacto"
       title="Estamos para ayudarte"

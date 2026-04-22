@@ -10,6 +10,8 @@ import {
   Phone,
 } from "lucide-react";
 import heroImage from "@/assets/hero-lapalma.jpg";
+import SEO from "@/components/SEO";
+import AlertBanner from "@/components/AlertBanner";
 
 const quickLinks = [
   { icon: ClipboardList, title: "Tablón de Anuncios", desc: "Información oficial y comunicados del centro.", to: "/el-centro" },
@@ -39,6 +41,12 @@ const news = [
 const Index = () => {
   return (
     <>
+      <SEO
+        title="UNED La Palma — Centro Asociado | Estudia en La Palma"
+        description="Centro Asociado de la UNED en La Palma, Canarias. Formación universitaria a distancia con apoyo presencial. Tutorías, biblioteca, extensión universitaria y cursos de idiomas."
+        path="/"
+      />
+      <AlertBanner />
       {/* Hero */}
       <section className="relative isolate overflow-hidden" style={{ height: "80vh", minHeight: 560 }}>
         <img

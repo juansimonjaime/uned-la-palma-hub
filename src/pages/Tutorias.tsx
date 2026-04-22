@@ -1,5 +1,6 @@
 import { Clock, MapPin } from "lucide-react";
 import PageHeader from "@/components/PageHeader";
+import SEO from "@/components/SEO";
 
 const schedule = [
   { subject: "Derecho Civil I", teacher: "Prof. M. Hernández", day: "Lunes", time: "17:00 – 18:30", room: "Aula 2 · S/C" },
@@ -12,6 +13,11 @@ const schedule = [
 
 const Tutorias = () => (
   <>
+    <SEO
+      title="Horario de Tutorías — UNED La Palma"
+      description="Consulta los horarios de tutorías presenciales del Centro Asociado UNED La Palma. Atención académica en dos sedes: Santa Cruz de La Palma y Los Llanos de Aridane."
+      path="/tutorias"
+    />
     <PageHeader
       eyebrow="Tutorías"
       title="Horario de Tutorías Presenciales"
