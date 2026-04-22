@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { ExternalLink, Facebook, Instagram, Mail, MapPin, Phone, Twitter } from "lucide-react";
+import { ExternalLink, Facebook, Mail, MapPin, Phone, Youtube } from "lucide-react";
 
 const unedLinks = [
   { label: "Campus UNED", href: "http://portal.uned.es/portal/page?_pageid=93,1652697&_dad=portal&_schema=PORTAL" },
@@ -51,26 +51,46 @@ const Footer = () => {
               <span>Sede S/C de La Palma · Sede Los Llanos de Aridane</span>
             </li>
             <li className="flex items-center gap-2">
-              <Phone className="h-4 w-4 text-accent" /> 922 411 338 · 922 462 230
+              <Phone className="h-4 w-4 shrink-0 text-accent" />
+              <a href="tel:922411338" className="hover:text-accent transition-colors">922 411 338</a>
+              <span>·</span>
+              <a href="tel:922462230" className="hover:text-accent transition-colors">922 462 230</a>
             </li>
             <li className="flex items-center gap-2">
-              <Mail className="h-4 w-4 text-accent" /> info@lapalma.uned.es
+              <Mail className="h-4 w-4 shrink-0 text-accent" />
+              <a href="mailto:info@santa-cruz.uned.es" className="hover:text-accent transition-colors break-all">
+                info@santa-cruz.uned.es
+              </a>
+            </li>
+            <li className="flex items-center gap-2">
+              <Mail className="h-4 w-4 shrink-0 text-accent" />
+              <a href="mailto:info.losllanos@santa-cruz.uned.es" className="hover:text-accent transition-colors break-all">
+                info.losllanos@santa-cruz.uned.es
+              </a>
             </li>
           </ul>
         </div>
         <div>
           <h3 className="text-sm font-bold uppercase tracking-wider text-accent mb-4">Redes sociales</h3>
           <div className="flex gap-3">
-            {[Facebook, Instagram, Twitter].map((Icon, i) => (
-              <a
-                key={i}
-                href="#"
-                aria-label="Red social"
-                className="flex h-10 w-10 items-center justify-center rounded-full border border-footer-foreground/15 hover:border-accent hover:text-accent transition-colors"
-              >
-                <Icon className="h-4 w-4" />
-              </a>
-            ))}
+            <a
+              href="https://www.facebook.com/UNEDLaPalma"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Facebook UNED La Palma"
+              className="flex h-10 w-10 items-center justify-center rounded-full border border-footer-foreground/15 hover:border-accent hover:text-accent transition-colors"
+            >
+              <Facebook className="h-4 w-4" />
+            </a>
+            <a
+              href="https://www.youtube.com/channel/UCeuK5Vd7uOqreFxPViVGerQ"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="YouTube UNED La Palma"
+              className="flex h-10 w-10 items-center justify-center rounded-full border border-footer-foreground/15 hover:border-accent hover:text-accent transition-colors"
+            >
+              <Youtube className="h-4 w-4" />
+            </a>
           </div>
           <p className="mt-6 text-xs text-footer-foreground/60 leading-relaxed">
             Síguenos para conocer convocatorias, eventos académicos y actividades de extensión universitaria.
@@ -105,7 +125,7 @@ const Footer = () => {
       </div>
       <div className="border-t border-footer-foreground/10">
         <div className="container-prose py-5 text-center text-xs text-footer-foreground/60">
-          © 2025 Centro Asociado UNED La Palma · Powered by UNED
+          © 2026 Centro Asociado UNED La Palma
         </div>
       </div>
     </footer>

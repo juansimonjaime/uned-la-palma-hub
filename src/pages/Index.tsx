@@ -12,34 +12,16 @@ import {
 import heroImage from "@/assets/hero-lapalma.jpg";
 import SEO from "@/components/SEO";
 import AlertBanner from "@/components/AlertBanner";
+import { news as allNews } from "@/data/news";
 
 const quickLinks = [
-  { icon: ClipboardList, title: "Tablón de Anuncios", desc: "Información oficial y comunicados del centro.", to: "/el-centro" },
+  { icon: ClipboardList, title: "Tablón de Anuncios", desc: "Información oficial y comunicados del centro.", to: "/noticias" },
   { icon: CalendarDays, title: "Horario de Tutorías", desc: "Consulta los horarios por asignatura y cuatrimestre.", to: "/tutorias" },
   { icon: BookOpen, title: "Biblioteca", desc: "Servicio de préstamo, salas de estudio y recursos.", to: "/servicios" },
   { icon: MapPin, title: "Contacto y Sedes", desc: "Sedes en Santa Cruz y Los Llanos de Aridane.", to: "/contacto" },
 ];
 
-const news = [
-  {
-    date: "Abril 2026",
-    title: "Convocatoria de Plazas de Profesorado Tutor 2026-27",
-    excerpt: "Abierto el plazo de presentación de solicitudes para nuevas plazas de profesorado tutor en distintas áreas de conocimiento.",
-    image: "https://www.unedlapalma.es/images/banners/1920x530_MASTERES.jpg",
-  },
-  {
-    date: "Abril 2025",
-    title: "Graduación Curso 2023-2024 — Un éxito emotivo",
-    excerpt: "El acto de graduación reunió a estudiantes, familiares y profesorado en una jornada inolvidable de reconocimiento académico.",
-    image: "https://www.unedlapalma.es/images/Uned_La_Palma_1.png",
-  },
-  {
-    date: "Marzo 2025",
-    title: "Becas UNED 2025/26 — Plazo ampliado hasta el 30 de mayo",
-    excerpt: "Se amplía el plazo para solicitar las becas propias de la UNED. Consulta los requisitos y la documentación necesaria.",
-    image: "https://www.unedlapalma.es/images/banners/414x530_becas_25.jpg",
-  },
-];
+const news = allNews.slice(0, 3);
 
 const Index = () => {
   return (
@@ -153,7 +135,7 @@ const Index = () => {
                   </span>
                   <h3 className="mt-4 text-lg font-bold tracking-tight text-primary leading-snug">{n.title}</h3>
                   <p className="mt-3 text-sm text-muted-foreground leading-relaxed flex-1">{n.excerpt}</p>
-                  <Link to="/noticias" className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-secondary group-hover:gap-2 transition-all">
+                  <Link to={`/noticias/${n.slug}`} className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-secondary group-hover:gap-2 transition-all">
                     Leer más <ArrowRight className="h-3.5 w-3.5" />
                   </Link>
                 </div>
