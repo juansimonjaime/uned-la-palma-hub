@@ -3,11 +3,7 @@ import PageHeader from "@/components/PageHeader";
 
 const languages = [
   { lang: "Inglés", levels: "A1 · A2 · B1 · B2 · C1" },
-  { lang: "Francés", levels: "A1 · A2 · B1 · B2" },
   { lang: "Alemán", levels: "A1 · A2 · B1" },
-  { lang: "Italiano", levels: "A1 · A2 · B1" },
-  { lang: "Español para extranjeros", levels: "A1 · A2 · B1 · B2" },
-  { lang: "Chino", levels: "A1 · A2" },
 ];
 
 const Cuid = () => (
