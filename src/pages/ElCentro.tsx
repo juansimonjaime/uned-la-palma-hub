@@ -214,14 +214,30 @@ const ElCentro = () => {
             </h2>
             <p className="mt-5 text-muted-foreground leading-relaxed">
               Los representantes de los estudiantes son el canal de comunicación entre el alumnado y los órganos de
-              gobierno del centro. Para contactar con el Delegado de Estudiantes:
+              gobierno del Centro Asociado UNED La Palma.
             </p>
-            <a
-              href="mailto:dgestudiantes@palma.uned.es"
-              className="mt-8 inline-flex items-center gap-2 rounded-md bg-secondary px-6 py-3 text-sm font-semibold text-secondary-foreground transition-smooth hover:brightness-110"
-            >
-              <Mail className="h-4 w-4" /> dgestudiantes@palma.uned.es
-            </a>
+
+            <div className="mt-8 rounded-xl border border-border bg-card p-6 md:p-8 shadow-card">
+              <div className="flex items-start gap-4">
+                <span className="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-primary/10 text-primary">
+                  <User className="h-6 w-6" />
+                </span>
+                <div className="flex-1">
+                  <div className="text-xs font-semibold uppercase tracking-wider text-accent">
+                    Delegado/a de Estudiantes
+                  </div>
+                  <a
+                    href="mailto:dgestudiantes@palma.uned.es"
+                    className="mt-3 inline-flex items-center gap-2 rounded-md bg-secondary px-5 py-2.5 text-sm font-semibold text-secondary-foreground transition-smooth hover:brightness-110"
+                  >
+                    <Mail className="h-4 w-4" /> dgestudiantes@palma.uned.es
+                  </a>
+                  <p className="mt-4 text-xs text-muted-foreground italic">
+                    Se recomienda el uso del correo electrónico.
+                  </p>
+                </div>
+              </div>
+            </div>
           </div>
         )}
       </section>

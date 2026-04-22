@@ -1,4 +1,4 @@
-import { CheckCircle2, Globe2 } from "lucide-react";
+import { ArrowRight, CheckCircle2, Globe2, Info } from "lucide-react";
 import PageHeader from "@/components/PageHeader";
 import SEO from "@/components/SEO";
 
@@ -46,6 +46,29 @@ const Cuid = () => (
               <p className="mt-1 text-xs uppercase tracking-wider text-muted-foreground">{l.levels}</p>
             </div>
           ))}
+        </div>
+      </div>
+
+      <div className="mt-12 rounded-2xl border border-secondary/30 bg-secondary/5 p-6 md:p-8 reveal">
+        <div className="flex items-start gap-4">
+          <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-lg bg-secondary/15 text-secondary">
+            <Info className="h-5 w-5" />
+          </span>
+          <div className="flex-1">
+            <h3 className="text-lg font-bold tracking-tight text-primary">Más idiomas a distancia</h3>
+            <p className="mt-2 text-sm text-muted-foreground leading-relaxed">
+              Además de inglés y alemán, el CUID UNED ofrece otros idiomas a distancia. Consulta la oferta completa en el
+              campus virtual.
+            </p>
+            <a
+              href="https://www.uned.es/universidad/inicio/estudios/cuid.html"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-5 inline-flex items-center gap-2 rounded-md bg-secondary px-5 py-2.5 text-sm font-semibold text-secondary-foreground transition-smooth hover:brightness-110"
+            >
+              Ver todos los idiomas CUID <ArrowRight className="h-4 w-4" />
+            </a>
+          </div>
         </div>
       </div>
     </section>
