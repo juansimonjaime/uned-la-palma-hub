@@ -128,7 +128,7 @@ const Index = () => {
                 Últimas Noticias y Avisos
               </h2>
             </div>
-            <Link to="/el-centro" className="inline-flex items-center gap-1 text-sm font-semibold text-secondary hover:gap-2 transition-all">
+            <Link to="/noticias" className="inline-flex items-center gap-1 text-sm font-semibold text-secondary hover:gap-2 transition-all">
               Ver todas <ArrowRight className="h-4 w-4" />
             </Link>
           </div>
@@ -153,9 +153,9 @@ const Index = () => {
                   </span>
                   <h3 className="mt-4 text-lg font-bold tracking-tight text-primary leading-snug">{n.title}</h3>
                   <p className="mt-3 text-sm text-muted-foreground leading-relaxed flex-1">{n.excerpt}</p>
-                  <a href="#" className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-secondary group-hover:gap-2 transition-all">
+                  <Link to="/noticias" className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-secondary group-hover:gap-2 transition-all">
                     Leer más <ArrowRight className="h-3.5 w-3.5" />
-                  </a>
+                  </Link>
                 </div>
               </article>
             ))}
@@ -179,9 +179,9 @@ const Index = () => {
               { src: "https://www.unedlapalma.es/images/banners/Taller_Meteo_UNED.jpg", alt: "Curso de Meteorología" },
               { src: "https://www.unedlapalma.es/images/banners/2019_banner_unidis.jpg", alt: "UNIDIS — Atención a la diversidad" },
             ].map((b) => (
-              <a
+              <Link
                 key={b.alt}
-                href="#"
+                to="/noticias"
                 className="group relative block overflow-hidden rounded-lg border border-accent/20 bg-primary-foreground/5 aspect-square transition-smooth hover:border-accent hover:-translate-y-0.5"
                 aria-label={b.alt}
               >
@@ -191,7 +191,7 @@ const Index = () => {
                   loading="lazy"
                   className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
                 />
-              </a>
+              </Link>
             ))}
           </div>
         </div>
