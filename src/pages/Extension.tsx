@@ -64,14 +64,6 @@ const Extension = () => (
                 Matricularme en Extensión Universitaria
                 <ArrowRight className="h-5 w-5" />
               </a>
-              <a
-                href="https://extension.uned.es/tipologiacursos/extension"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-1.5 text-sm font-semibold text-primary underline-offset-4 hover:underline hover:text-secondary transition-smooth"
-              >
-                Ver todos los cursos de Extensión UNED →
-              </a>
             </div>
           </div>
         </div>
