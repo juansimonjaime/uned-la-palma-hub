@@ -50,6 +50,32 @@ const Footer = () => {
         </div>
       </div>
       <div className="border-t border-footer-foreground/10">
+        <div className="container-prose py-10">
+          <h3 className="text-center text-sm font-bold uppercase tracking-wider text-accent mb-6">
+            Instituciones colaboradoras
+          </h3>
+          <div className="grid grid-cols-2 sm:grid-cols-4 items-center gap-6">
+            {[
+              { src: "https://www.unedlapalma.es/images/cabildo.JPG", alt: "Cabildo de La Palma", href: "https://cabildodelapalma.es/" },
+              { src: "https://www.unedlapalma.es/images/cobcanarias.JPG", alt: "Gobierno de Canarias", href: "https://www.gobiernodecanarias.org/principal/" },
+              { src: "https://www.unedlapalma.es/images/escudito.JPG", alt: "Ayuntamiento de Santa Cruz de La Palma", href: "https://sede.santacruzdelapalma.es/" },
+              { src: "https://www.unedlapalma.es/images/otroescudiro.JPG", alt: "Ayuntamiento de Los Llanos de Aridane", href: "https://www.aridane.org/city/" },
+            ].map((i) => (
+              <a
+                key={i.alt}
+                href={i.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center justify-center rounded-lg bg-white/95 p-4 transition-transform hover:-translate-y-0.5 hover:bg-white"
+                aria-label={i.alt}
+              >
+                <img src={i.src} alt={i.alt} className="h-16 w-auto object-contain" loading="lazy" />
+              </a>
+            ))}
+          </div>
+        </div>
+      </div>
+      <div className="border-t border-footer-foreground/10">
         <div className="container-prose py-5 text-center text-xs text-footer-foreground/60">
           © 2025 Centro Asociado UNED La Palma · Powered by UNED
         </div>

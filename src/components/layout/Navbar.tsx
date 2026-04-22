@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { NavLink, Link } from "react-router-dom";
-import { GraduationCap, Menu, X } from "lucide-react";
+import { Menu, X } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 const links = [
@@ -28,9 +28,12 @@ const Navbar = () => {
     <header className="sticky top-0 z-50 w-full border-b border-border/60 bg-background/85 backdrop-blur-md">
       <div className="container-prose flex h-16 items-center justify-between">
         <Link to="/" className="flex items-center gap-2.5 group">
-          <span className="flex h-9 w-9 items-center justify-center rounded-md bg-primary text-primary-foreground transition-transform group-hover:scale-105">
-            <GraduationCap className="h-5 w-5" />
-          </span>
+          <img
+            src="https://www.unedlapalma.es/images/logo1.PNG"
+            alt="UNED La Palma"
+            className="h-10 w-auto transition-transform group-hover:scale-105"
+            loading="eager"
+          />
           <span className="flex flex-col leading-tight">
             <span className="text-base font-bold tracking-tight text-primary">UNED La Palma</span>
             <span className="text-[10px] uppercase tracking-wider text-muted-foreground">Centro Asociado</span>

@@ -25,16 +25,19 @@ const news = [
     date: "Abril 2026",
     title: "Convocatoria de Plazas de Profesorado Tutor 2026-27",
     excerpt: "Abierto el plazo de presentación de solicitudes para nuevas plazas de profesorado tutor en distintas áreas de conocimiento.",
+    image: "https://www.unedlapalma.es/images/banners/1920x530_MASTERES.jpg",
   },
   {
     date: "Abril 2025",
     title: "Graduación Curso 2023-2024 — Un éxito emotivo",
     excerpt: "El acto de graduación reunió a estudiantes, familiares y profesorado en una jornada inolvidable de reconocimiento académico.",
+    image: "https://www.unedlapalma.es/images/Uned_La_Palma_1.png",
   },
   {
     date: "Marzo 2025",
     title: "Becas UNED 2025/26 — Plazo ampliado hasta el 30 de mayo",
     excerpt: "Se amplía el plazo para solicitar las becas propias de la UNED. Consulta los requisitos y la documentación necesaria.",
+    image: "https://www.unedlapalma.es/images/banners/414x530_becas_25.jpg",
   },
 ];
 
@@ -133,17 +136,27 @@ const Index = () => {
             {news.map((n, i) => (
               <article
                 key={n.title}
-                className="group flex flex-col rounded-xl border border-border bg-card p-7 shadow-card transition-smooth hover:-translate-y-1 hover:shadow-card-hover reveal"
+                className="group flex flex-col overflow-hidden rounded-xl border border-border bg-card shadow-card transition-smooth hover:-translate-y-1 hover:shadow-card-hover reveal"
                 style={{ animationDelay: `${0.08 * i}s` }}
               >
-                <span className="inline-flex w-fit items-center gap-1.5 rounded-full bg-accent/15 px-3 py-1 text-xs font-semibold text-accent-foreground">
-                  <Bell className="h-3 w-3" /> {n.date}
-                </span>
-                <h3 className="mt-4 text-lg font-bold tracking-tight text-primary leading-snug">{n.title}</h3>
-                <p className="mt-3 text-sm text-muted-foreground leading-relaxed flex-1">{n.excerpt}</p>
-                <a href="#" className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-secondary group-hover:gap-2 transition-all">
-                  Leer más <ArrowRight className="h-3.5 w-3.5" />
-                </a>
+                <div className="aspect-[16/10] overflow-hidden bg-muted">
+                  <img
+                    src={n.image}
+                    alt={n.title}
+                    loading="lazy"
+                    className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+                  />
+                </div>
+                <div className="flex flex-1 flex-col p-7">
+                  <span className="inline-flex w-fit items-center gap-1.5 rounded-full bg-accent/15 px-3 py-1 text-xs font-semibold text-accent-foreground">
+                    <Bell className="h-3 w-3" /> {n.date}
+                  </span>
+                  <h3 className="mt-4 text-lg font-bold tracking-tight text-primary leading-snug">{n.title}</h3>
+                  <p className="mt-3 text-sm text-muted-foreground leading-relaxed flex-1">{n.excerpt}</p>
+                  <a href="#" className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-secondary group-hover:gap-2 transition-all">
+                    Leer más <ArrowRight className="h-3.5 w-3.5" />
+                  </a>
+                </div>
               </article>
             ))}
           </div>
@@ -152,6 +165,36 @@ const Index = () => {
 
       {/* Two Locations */}
       <section className="bg-primary text-primary-foreground">
+        <div className="container-prose pt-20 md:pt-24 pb-0">
+          <div className="text-center mb-10">
+            <span className="text-xs font-semibold uppercase tracking-[0.2em] text-accent">Convocatorias destacadas</span>
+            <h2 className="mt-2 text-3xl md:text-4xl font-bold tracking-tight">Programas y formación</h2>
+          </div>
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+            {[
+              { src: "https://www.unedlapalma.es/images/banners/414x530_becas_25.jpg", alt: "Becas UNED 2025/26" },
+              { src: "https://www.unedlapalma.es/images/banners/445x300.jpg", alt: "Cursos de Verano UNED 2025" },
+              { src: "https://www.unedlapalma.es/images/banners/1920x530_MASTERES.jpg", alt: "Másteres Oficiales UNED" },
+              { src: "https://www.unedlapalma.es/images/banners/1080x1080_FP_CAS.jpg", alt: "Formación Permanente" },
+              { src: "https://www.unedlapalma.es/images/banners/Taller_Meteo_UNED.jpg", alt: "Curso de Meteorología" },
+              { src: "https://www.unedlapalma.es/images/banners/2019_banner_unidis.jpg", alt: "UNIDIS — Atención a la diversidad" },
+            ].map((b) => (
+              <a
+                key={b.alt}
+                href="#"
+                className="group relative block overflow-hidden rounded-lg border border-accent/20 bg-primary-foreground/5 aspect-square transition-smooth hover:border-accent hover:-translate-y-0.5"
+                aria-label={b.alt}
+              >
+                <img
+                  src={b.src}
+                  alt={b.alt}
+                  loading="lazy"
+                  className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+                />
+              </a>
+            ))}
+          </div>
+        </div>
         <div className="container-prose py-20 md:py-24">
           <div className="text-center mb-14">
             <span className="text-xs font-semibold uppercase tracking-[0.2em] text-accent">Estamos cerca de ti</span>

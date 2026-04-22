@@ -1,4 +1,4 @@
-import { Clock, Mail, MapPin, Phone } from "lucide-react";
+import { Clock, Mail, MapPin, Phone, Video } from "lucide-react";
 import PageHeader from "@/components/PageHeader";
 import SEO from "@/components/SEO";
 
@@ -60,6 +60,34 @@ const Contacto = () => (
           </ul>
         </div>
       ))}
+    </section>
+    <section className="container-prose pb-20">
+      <div className="rounded-2xl border border-border bg-card p-6 md:p-8 shadow-card reveal">
+        <div className="flex items-center gap-2 text-secondary">
+          <Video className="h-5 w-5" />
+          <span className="text-xs font-semibold uppercase tracking-[0.2em]">Webcam</span>
+        </div>
+        <h2 className="mt-2 text-xl md:text-2xl font-bold tracking-tight text-primary">
+          Plaza de España en directo
+        </h2>
+        <p className="mt-2 text-sm text-muted-foreground leading-relaxed">
+          Imagen en directo de la Plaza de España de Santa Cruz de La Palma, junto a nuestra sede principal.
+        </p>
+        <a
+          href="https://www.unedlapalma.es/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="group mt-5 block overflow-hidden rounded-xl border border-border"
+          aria-label="Abrir webcam de la Plaza de España"
+        >
+          <img
+            src="https://www.unedlapalma.es/images/La_Plaza_de_Espana.jpg"
+            alt="Webcam de la Plaza de España, Santa Cruz de La Palma"
+            loading="lazy"
+            className="w-full h-auto object-cover transition-transform duration-500 group-hover:scale-[1.02]"
+          />
+        </a>
+      </div>
     </section>
   </>
 );
