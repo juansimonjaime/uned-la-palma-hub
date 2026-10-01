@@ -1,0 +1,16 @@
+{
+  "name": "quinta-hyperframes",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx --yes hyperframes@0.8.103 preview",
+    "check": "npx --yes hyperframes@0.8.103 check",
+    "render": "npx --yes hyperframes@0.8.103 render"
+  },
+  "dependencies": {
+    "@fontsource/lato": "^5.3.0",
+    "@fontsource/montserrat": "^5.3.0",
+    "@fontsource/playfair-display": "^5.3.0",
+    "gsap": "^3.12.5"
+  }
+}

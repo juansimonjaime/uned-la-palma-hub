@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <title>Quinta Bachmann · promo v3</title>
+    <script src="assets/gsap.min.js"></script>
+    <style>
+      @font-face { font-family: "Playfair Display"; font-weight: 400; font-style: normal; src: url("assets/fonts/playfair-display-latin-400-normal.woff2") format("woff2"); }
+      @font-face { font-family: "Playfair Display"; font-weight: 400; font-style: italic; src: url("assets/fonts/playfair-display-latin-400-italic.woff2") format("woff2"); }
+      @font-face { font-family: "Lato"; font-weight: 300; src: url("assets/fonts/lato-latin-300-normal.woff2") format("woff2"); }
+      @font-face { font-family: "Lato"; font-weight: 400; src: url("assets/fonts/lato-latin-400-normal.woff2") format("woff2"); }
+      @font-face { font-family: "Montserrat"; font-weight: 500; src: url("assets/fonts/montserrat-latin-500-normal.woff2") format("woff2"); }
+
+      :root { --deep: #033e47; --mid: #0a6b70; --light: #4ea19f; --gold: #c5a059; --gold-text: #8c6d2a; --gold-light: #e8c57a; }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { width: 1080px; height: 1920px; overflow: hidden; background: #fff; }
+      #root { position: relative; width: 100%; height: 100%; overflow: hidden; font-family: "Lato", sans-serif; font-weight: 300; }
+      .clip { position: absolute; inset: 0; overflow: hidden; }
+      .shake, .zoom { position: absolute; inset: 0; }
+      .bg { position: absolute; inset: 0; }
+      .bg.light { background: linear-gradient(160deg, #f4fbfb 0%, #e3f3f3 55%, #d3ecec 100%); }
+      .bg.dark { background: linear-gradient(170deg, #054e58 0%, #033e47 55%, #022a31 100%); }
+      svg.water { position: absolute; inset: 0; width: 1080px; height: 1920px; }
+      .box { position: absolute; left: 60px; right: 60px; display: flex; flex-direction: column; align-items: center; text-align: center; }
+      .pf { font-family: "Playfair Display", serif; font-weight: 400; letter-spacing: -.015em; line-height: 1.04; display: block; white-space: nowrap; }
+      .it { font-style: italic; }
+      .label { font-family: "Montserrat", sans-serif; font-weight: 500; text-transform: uppercase; letter-spacing: .22em; font-size: 26px; }
+      .dk { color: var(--deep); } .md { color: var(--mid); } .gt { color: var(--gold-text); } .gl { color: var(--gold-light); } .wh { color: #fff; }
+      .rule { height: 2px; background: var(--gold); width: 140px; transform-origin: center; }
+
+      .glow { position: absolute; width: 900px; height: 900px; border-radius: 50%; background: radial-gradient(circle, rgba(78,161,159,.32) 0%, rgba(78,161,159,0) 68%); }
+      .pillar { display: flex; gap: 36px; padding: 40px 0; border-top: 1px solid rgba(232,197,122,.55); align-items: center; }
+      .pillar:last-child { border-bottom: 1px solid rgba(232,197,122,.55); }
+      .pillar .n { font-family: "Playfair Display", serif; font-style: italic; font-size: 64px; color: var(--gold-light); min-width: 90px; line-height: 1; }
+      .pillar .t { font-family: "Montserrat", sans-serif; font-weight: 500; letter-spacing: .16em; font-size: 33px; color: #fff; text-transform: uppercase; }
+      .pillar .d { font-size: 31px; color: rgba(255,255,255,.85); margin-top: 10px; }
+      .pchip { font-family: "Montserrat", sans-serif; font-weight: 500; letter-spacing: .16em; text-transform: uppercase; font-size: 28px; color: var(--deep); border: 2px solid var(--gold); padding: 20px 30px; background: rgba(255,255,255,.7); }
+      #btn { margin-top: 56px; background: var(--mid); color: var(--gold-light); font-family: "Montserrat", sans-serif; font-weight: 500; letter-spacing: .18em; text-transform: uppercase; font-size: 34px; padding: 40px 64px; }
+      #url { margin-top: 50px; font-family: "Playfair Display", serif; font-style: italic; font-size: 62px; color: var(--mid); }
+      #share { margin-top: 44px; font-size: 34px; color: var(--deep); }
+
+      #ov { z-index: 50; pointer-events: none; }
+      #flash { position: absolute; inset: 0; background: #fff; opacity: 0; }
+      #mark { position: absolute; top: 80px; left: 0; right: 0; text-align: center; font-family: "Montserrat", sans-serif; font-weight: 500; letter-spacing: .38em; font-size: 24px; color: var(--gold-text); text-transform: uppercase; }
+      #bar { position: absolute; left: 0; bottom: 0; height: 6px; width: 1080px; background: var(--gold); transform-origin: left; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="15" data-width="1080" data-height="1920">
+
+      <!-- S1 HOOK 0-1.5 -->
+      <section id="s1" class="clip" data-start="0" data-duration="1.5" data-track-index="1">
+        <div class="shake" id="sh1"><div class="zoom" id="zm1">
+          <div class="bg light"></div><svg class="water" id="ws1" style="opacity:0" viewBox="0 0 1080 1920"><rect width="1080" height="1920" filter="url(#caus)"/></svg>
+          <div class="box" style="top: 560px">
+            <span class="pf dk" id="a1" style="font-size:156px">Llevas años</span>
+            <span class="pf dk" id="a2" style="font-size:142px">sosteniéndolo</span>
+            <span class="pf it gt" id="a3" style="font-size:230px">todo.</span>
+          </div>
+        </div></div>
+      </section>
+
+      <!-- S2 1.5-3.5 -->
+      <section id="s2" class="clip" data-start="1.5" data-duration="2" data-track-index="1">
+        <div class="shake" id="sh2"><div class="zoom" id="zm2">
+          <div class="bg light"></div><svg class="water" id="ws2" style="opacity:0" viewBox="0 0 1080 1920"><rect width="1080" height="1920" filter="url(#caus)"/></svg>
+          <div class="box" style="top: 580px">
+            <div class="rule" id="r2"></div><div style="height:60px"></div>
+            <span class="pf it md" id="b1" style="font-size:112px">Ya sabes que</span>
+            <span class="pf it md" id="b2" style="font-size:112px">el problema</span>
+            <span class="pf it dk" id="b3" style="font-size:112px">no es el entorno.</span>
+          </div>
+        </div></div>
+      </section>
+
+      <!-- S3 METODO 3.5-7.5 -->
+      <section id="s3" class="clip" data-start="3.5" data-duration="4" data-track-index="1">
+        <div class="shake" id="sh3"><div class="zoom" id="zm3">
+          <div class="bg dark"></div><div class="glow" id="gw1a" style="left:-200px; top:380px"></div><div class="glow" id="gw1b" style="left:380px; top:1100px"></div>
+          <div class="box" style="top: 250px">
+            <div class="label gl" id="k3">El método</div><div style="height:36px"></div>
+            <span class="pf wh" id="c1" style="font-size:84px">La libertad no nace</span>
+            <span class="pf wh it" id="c2" style="font-size:84px">de cambiar el entorno.</span>
+          </div>
+          <div id="pillars" class="abs" style="position:absolute; left:110px; right:110px; top: 800px">
+            <div class="pillar" id="p1"><div class="n">01</div><div><div class="t">El lugar interno</div><div class="d">Observación sociológica y sistémica</div></div></div>
+            <div class="pillar" id="p2"><div class="n">02</div><div><div class="t">Estrategia humana</div><div class="d">Programación neurolingüística</div></div></div>
+            <div class="pillar" id="p3"><div class="n">03</div><div><div class="t">Liderazgo en coherencia</div><div class="d">Enfoque Gestalt</div></div></div>
+          </div>
+        </div></div>
+      </section>
+
+      <!-- S4 TAGLINE 7.5-10 -->
+      <section id="s4" class="clip" data-start="7.5" data-duration="2.5" data-track-index="1">
+        <div class="shake" id="sh4"><div class="zoom" id="zm4">
+          <div class="bg dark"></div><div class="glow" id="gw2a" style="left:-200px; top:380px"></div><div class="glow" id="gw2b" style="left:380px; top:1100px"></div>
+          <div class="box" style="top: 600px">
+            <span class="pf wh" id="d1" style="font-size:104px">Coaching estratégico</span>
+            <span class="pf wh" id="d2" style="font-size:104px">para recuperar</span>
+            <span class="pf it gl" id="d3" style="font-size:150px">tu dirección</span>
+            <span class="pf it gl" id="d4" style="font-size:150px">desde dentro.</span>
+          </div>
+        </div></div>
+      </section>
+
+      <!-- S5 SESION 10-12.5 -->
+      <section id="s5" class="clip" data-start="10" data-duration="2.5" data-track-index="1">
+        <div class="shake" id="sh5"><div class="zoom" id="zm5">
+          <div class="bg light"></div><svg class="water" id="ws5" style="opacity:0" viewBox="0 0 1080 1920"><rect width="1080" height="1920" filter="url(#caus)"/></svg>
+          <div class="box" style="top: 470px">
+            <span class="pf dk" id="e1" style="font-size:120px">Sesión de</span>
+            <span class="pf dk" id="e2" style="font-size:132px">transparencia</span>
+            <span class="pf it gt" id="e3" style="font-size:210px">gratuita.</span>
+          </div>
+          <div class="box" style="top: 1230px; flex-direction: row; gap: 18px; justify-content: center; flex-wrap: wrap">
+            <div class="pchip" id="q1">45 minutos</div><div class="pchip" id="q2">Online</div><div class="pchip" id="q3">Sin compromiso</div>
+          </div>
+        </div></div>
+      </section>
+
+      <!-- S6 CTA 12.5-15 -->
+      <section id="s6" class="clip" data-start="12.5" data-duration="2.5" data-track-index="1">
+        <div class="shake" id="sh6"><div class="zoom" id="zm6">
+          <div class="bg light"></div><svg class="water" id="ws6" style="opacity:0" viewBox="0 0 1080 1920"><rect width="1080" height="1920" filter="url(#caus)"/></svg>
+          <div class="box" style="top: 380px">
+            <span class="pf dk" id="f1" style="font-size:150px">Recupera</span>
+            <span class="pf it md" id="f2" style="font-size:150px">tu dirección.</span>
+            <div id="btn">Sesión gratuita →</div>
+            <div id="url">quintabachmann.com</div>
+            <div id="share">Envíaselo a quien lo necesite ↗</div>
+          </div>
+        </div></div>
+      </section>
+
+      <!-- S7 LOOP 14.6-15 -->
+      <section id="s7" class="clip" data-start="14.6" data-duration="0.4" data-track-index="2">
+        <div class="bg light"></div><svg class="water" id="ws7" style="opacity:0" viewBox="0 0 1080 1920"><rect width="1080" height="1920" filter="url(#caus)"/></svg>
+        <div class="box" style="top: 700px"><span class="pf dk" id="l1" style="font-size:156px">Llevas años</span></div>
+      </section>
+
+      <section id="ov" class="clip" data-start="0" data-duration="15" data-track-index="9">
+        <div id="flash"></div><div id="bar"></div>
+        <div id="mark">Quinta Bachmann</div>
+      </section>
+
+      <audio id="music" src="assets/music.wav" data-start="0" data-duration="15" data-track-index="10" data-volume="0.9"></audio>
+    </div>
+
+    <svg width="0" height="0" style="position:absolute">
+      <defs>
+        <filter id="caus" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+          <feTurbulence id="turb_caus" type="fractalNoise" baseFrequency="0.0055 0.0085" numOctaves="3" seed="11" result="n"/>
+          <feColorMatrix in="n" type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  1 0 0 0 0" result="a"/>
+          <feComponentTransfer in="a"><feFuncA type="table" tableValues="0 0 0 0 0.3 0 0 0 0 0"/></feComponentTransfer>
+        </filter>
+        <filter id="causd" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+          <feTurbulence id="turb_causd" type="fractalNoise" baseFrequency="0.0055 0.0085" numOctaves="3" seed="11" result="n"/>
+          <feColorMatrix in="n" type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  1 0 0 0 0" result="a"/>
+          <feComponentTransfer in="a"><feFuncA type="table" tableValues="0 0 0 0 0.16 0 0 0 0 0"/></feComponentTransfer>
+        </filter>
+      </defs>
+    </svg>
+
+    <script>
+      const tl = gsap.timeline({ paused: true });
+      // elegant "hit": soft scale + blur settle on the beat
+      const hit = (sel, t, from = 1.14) => tl.fromTo(sel, { scale: from, opacity: 0, filter: "blur(10px)", transformOrigin: "50% 50%" }, { scale: 1, opacity: 1, filter: "blur(0px)", duration: 0.32, ease: "power3.out", immediateRender: false }, t);
+      const nudge = (sel, t, a = 8) => tl.fromTo(sel, { y: a }, { y: 0, duration: 0.4, ease: "elastic.out(1,.5)", immediateRender: false }, t);
+      const push = (sel, t, d, s = 1.07) => tl.fromTo(sel, { scale: 1, transformOrigin: "50% 50%" }, { scale: s, duration: d, ease: "none", immediateRender: false }, t);
+      const flash = (t, o = 0.5) => tl.fromTo("#flash", { opacity: o }, { opacity: 0, duration: 0.3, ease: "power2.out", immediateRender: false }, t);
+
+      tl.set("#flash", { opacity: 0 }, 0);
+      tl.fromTo("#turb_caus, #turb_causd", { attr: { baseFrequency: "0.0055 0.0085" } }, { attr: { baseFrequency: "0.0075 0.0105" }, duration: 15, ease: "none" }, 0);
+      tl.fromTo("#gw1a, #gw2a", { x: 0, y: 0 }, { x: 260, y: 160, duration: 3.5, ease: "sine.inOut" }, 3.5);
+      tl.fromTo("#gw1b, #gw2b", { x: 0, y: 0 }, { x: -240, y: -140, duration: 3.5, ease: "sine.inOut" }, 3.5);
+      // water texture only during its own (light) scene
+      tl.set("#ws1", { opacity: 1 }, 0).set("#ws1", { opacity: 0 }, 1.6);
+      tl.set("#ws2", { opacity: 1 }, 1.5).set("#ws2", { opacity: 0 }, 3.6);
+      tl.set("#ws5", { opacity: 1 }, 10).set("#ws5", { opacity: 0 }, 12.6);
+      tl.set("#ws6", { opacity: 1 }, 12.5);
+      tl.set("#ws7", { opacity: 1 }, 14.6);
+      tl.fromTo("#bar", { scaleX: 0 }, { scaleX: 1, duration: 15, ease: "none" }, 0);
+      tl.fromTo("#mark", { opacity: 0 }, { opacity: 1, duration: 0.6 }, 0.2);
+      tl.set("#mark", { color: "#e8c57a" }, 3.5).set("#mark", { color: "#8c6d2a" }, 10.0);
+
+      // S1 hook (0-1.5): visible within the first frames
+      hit("#a1", 0.0, 1.2); nudge("#sh1", 0.0); hit("#a2", 0.5); nudge("#sh1", 0.5); hit("#a3", 1.0, 1.25); nudge("#sh1", 1.0, 12); flash(1.0, 0.35);
+      push("#zm1", 0, 1.5, 1.08);
+      // S2 (1.5-3.5)
+      flash(1.5, 0.55);
+      tl.fromTo("#r2", { scaleX: 0 }, { scaleX: 1, duration: 0.4, ease: "expo.out", immediateRender: false }, 1.5);
+      hit("#b1", 1.6); hit("#b2", 2.1); hit("#b3", 2.6, 1.2); nudge("#sh2", 2.6, 10);
+      push("#zm2", 1.5, 2, 1.07);
+      // S3 (3.5-7.5)
+      flash(3.5, 0.6);
+      tl.fromTo("#k3", { opacity: 0 }, { opacity: 1, duration: 0.4, immediateRender: false }, 3.55);
+      hit("#c1", 3.6); hit("#c2", 4.1);
+      ["#p1", "#p2", "#p3"].forEach((p, i) => { tl.fromTo(p, { opacity: 0, x: -50 }, { opacity: 1, x: 0, duration: 0.45, ease: "expo.out", immediateRender: false }, 4.6 + i * 0.5); });
+      push("#zm3", 3.5, 4, 1.06);
+      // S4 (7.5-10)
+      flash(7.5, 0.5);
+      hit("#d1", 7.5); hit("#d2", 8.0); hit("#d3", 8.5, 1.2); nudge("#sh4", 8.5, 10); hit("#d4", 9.0, 1.2); nudge("#sh4", 9.0, 12);
+      push("#zm4", 7.5, 2.5, 1.07);
+      // S5 (10-12.5)
+      flash(10.0, 0.6);
+      hit("#e1", 10.0); hit("#e2", 10.5); hit("#e3", 11.0, 1.25); nudge("#sh5", 11.0, 12);
+      hit("#q1", 11.4, 1.2); hit("#q2", 11.65, 1.2); hit("#q3", 11.9, 1.2);
+      push("#zm5", 10, 2.5, 1.06);
+      // S6 CTA (12.5-15)
+      flash(12.5, 0.6);
+      hit("#f1", 12.5); hit("#f2", 13.0, 1.2); nudge("#sh6", 13.0, 10);
+      tl.fromTo("#btn", { opacity: 0, y: 30, scale: 0.9 }, { opacity: 1, y: 0, scale: 1, duration: 0.45, ease: "back.out(2)", immediateRender: false }, 13.4);
+      tl.fromTo("#url", { opacity: 0 }, { opacity: 1, duration: 0.35, immediateRender: false }, 13.8);
+      tl.fromTo("#share", { opacity: 0 }, { opacity: 1, duration: 0.35, immediateRender: false }, 14.1);
+      push("#zm6", 12.5, 2.5, 1.05);
+      // S7 loop back to the hook
+      hit("#l1", 14.6, 1.2); flash(14.6, 0.5);
+
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

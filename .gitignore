@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# HyperFrames skills (installed with: npx skills add heygen-com/hyperframes)
+.agents/
+.claude/skills/
+skills-lock.json
