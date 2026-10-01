@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <title>Quinta Bachmann · promo 15s</title>
+    <script src="assets/gsap.min.js"></script>
+    <style>
+      @font-face { font-family: "Playfair Display"; font-weight: 400; font-style: normal; src: url("assets/fonts/playfair-display-latin-400-normal.woff2") format("woff2"); }
+      @font-face { font-family: "Playfair Display"; font-weight: 400; font-style: italic; src: url("assets/fonts/playfair-display-latin-400-italic.woff2") format("woff2"); }
+      @font-face { font-family: "Lato"; font-weight: 300; src: url("assets/fonts/lato-latin-300-normal.woff2") format("woff2"); }
+      @font-face { font-family: "Lato"; font-weight: 400; src: url("assets/fonts/lato-latin-400-normal.woff2") format("woff2"); }
+      @font-face { font-family: "Montserrat"; font-weight: 500; src: url("assets/fonts/montserrat-latin-500-normal.woff2") format("woff2"); }
+
+      :root {
+        --deep: #033e47; --mid: #0a6b70; --light: #4ea19f;
+        --gold: #c5a059; --gold-text: #8c6d2a; --gold-light: #e8c57a; --cream: #fafafa;
+      }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { width: 1080px; height: 1920px; overflow: hidden; background: #fff; }
+      #root { position: relative; width: 100%; height: 100%; overflow: hidden; font-family: "Lato", sans-serif; font-weight: 300; }
+      .clip { position: absolute; inset: 0; overflow: hidden; }
+      .scene { position: absolute; inset: 0; }
+      .bg { position: absolute; inset: 0; }
+      .bg.light { background: linear-gradient(160deg, #f4fbfb 0%, #e3f3f3 55%, #d3ecec 100%); }
+      .bg.dark { background: linear-gradient(170deg, #054e58 0%, #033e47 55%, #022a31 100%); }
+      svg.water { position: absolute; inset: 0; width: 1080px; height: 1920px; }
+      .center { position: absolute; left: 80px; right: 80px; display: flex; flex-direction: column; align-items: center; text-align: center; }
+      .label { font-family: "Montserrat", sans-serif; font-weight: 500; text-transform: uppercase; letter-spacing: .22em; font-size: 24px; }
+      .label.gold { color: var(--gold-text); }
+      .label.goldl { color: var(--gold-light); }
+      .mask { overflow: hidden; padding: 6px 0 16px; line-height: 1.1; }
+      .mask > span { display: block; font-family: "Playfair Display", serif; font-weight: 400; letter-spacing: -.01em; }
+      .rule { height: 2px; background: var(--gold); width: 120px; transform-origin: center; }
+
+      #s1 .center { top: 560px; }
+      #s1 .mask > span { font-size: 128px; color: var(--deep); }
+      #s2 .center { top: 600px; }
+      #s2 .mask > span { font-size: 82px; font-style: italic; color: var(--mid); }
+      #s3 .hd { top: 250px; }
+      #s3 .hd .mask > span { font-size: 74px; color: #fff; }
+      #pillars { position: absolute; left: 110px; right: 110px; top: 800px; }
+      .pillar { display: flex; gap: 36px; padding: 40px 0; border-top: 1px solid rgba(232,197,122,.5); }
+      .pillar:last-child { border-bottom: 1px solid rgba(232,197,122,.5); }
+      .pillar .n { font-family: "Playfair Display", serif; font-style: italic; font-size: 54px; color: var(--gold-light); line-height: 1; min-width: 80px; }
+      .pillar .t { font-family: "Montserrat", sans-serif; font-weight: 500; letter-spacing: .18em; font-size: 31px; color: #fff; text-transform: uppercase; }
+      .pillar .d { font-size: 30px; color: rgba(255,255,255,.8); margin-top: 10px; font-weight: 300; }
+      #s4 .center { top: 640px; }
+      #s4 .mask > span { font-size: 84px; color: #fff; }
+      #s4 .mask > span.g { color: var(--gold-light); font-style: italic; }
+      #s5 .center { top: 480px; }
+      #s5 .mask > span { font-size: 112px; color: var(--deep); }
+      #btn { margin-top: 70px; background: var(--mid); color: var(--gold-light); font-family: "Montserrat", sans-serif; font-weight: 500; letter-spacing: .16em; text-transform: uppercase; font-size: 27px; padding: 36px 52px; }
+      #note { margin-top: 36px; font-size: 30px; color: var(--deep); }
+      #url { margin-top: 56px; font-family: "Playfair Display", serif; font-style: italic; font-size: 54px; color: var(--mid); }
+
+      #ov { z-index: 50; pointer-events: none; }
+      #mark { position: absolute; top: 90px; left: 0; right: 0; text-align: center; font-family: "Montserrat", sans-serif; font-weight: 500; letter-spacing: .38em; font-size: 24px; color: var(--gold-text); text-transform: uppercase; }
+      #bar { position: absolute; left: 0; bottom: 0; height: 5px; width: 1080px; background: var(--gold); transform-origin: left; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="15" data-width="1080" data-height="1920">
+
+      <!-- S1 · 0-3.6 -->
+      <section id="s1" class="clip" data-start="0" data-duration="4.3" data-track-index="1">
+        <div class="scene" id="sc1">
+          <div class="bg light"></div>
+          <svg class="water w-light" viewBox="0 0 1080 1920"><rect width="1080" height="1920" filter="url(#caus)" opacity=".75"/></svg>
+          <div class="center">
+            <div class="label gold" id="k1">Estrategia humana · Liderazgo interior</div>
+            <div style="height:56px"></div>
+            <div class="mask"><span>Llevas años</span></div>
+            <div class="mask"><span>sosteniéndolo</span></div>
+            <div class="mask"><span>todo.</span></div>
+            <div style="height:44px"></div>
+            <div class="rule" id="r1"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- S2 · 3.4-6.9 -->
+      <section id="s2" class="clip" data-start="3.4" data-duration="3.9" data-track-index="1">
+        <div class="scene" id="sc2">
+          <div class="bg light"></div>
+          <svg class="water w-light" viewBox="0 0 1080 1920"><rect width="1080" height="1920" filter="url(#caus)" opacity=".75"/></svg>
+          <div class="center">
+            <div class="rule" id="r2a"></div>
+            <div style="height:60px"></div>
+            <div class="mask"><span>Ya sabes que</span></div>
+            <div class="mask"><span>el problema</span></div>
+            <div class="mask"><span>no es el entorno.</span></div>
+            <div style="height:56px"></div>
+            <div class="rule" id="r2b"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- S3 · 6.6-10.9 -->
+      <section id="s3" class="clip" data-start="6.6" data-duration="4.8" data-track-index="1">
+        <div class="scene" id="sc3">
+          <div class="bg dark"></div>
+          <svg class="water w-dark" viewBox="0 0 1080 1920"><rect width="1080" height="1920" filter="url(#caus)" opacity=".2"/></svg>
+          <div class="center hd">
+            <div class="label goldl" id="k3">El método</div>
+            <div style="height:40px"></div>
+            <div class="mask"><span>La libertad no nace</span></div>
+            <div class="mask"><span>de cambiar el entorno.</span></div>
+          </div>
+          <div id="pillars">
+            <div class="pillar" id="p1"><div class="n">01</div><div><div class="t">El lugar interno</div><div class="d">Observación sociológica y sistémica</div></div></div>
+            <div class="pillar" id="p2"><div class="n">02</div><div><div class="t">Estrategia humana</div><div class="d">Programación neurolingüística</div></div></div>
+            <div class="pillar" id="p3"><div class="n">03</div><div><div class="t">Liderazgo en coherencia</div><div class="d">Enfoque Gestalt</div></div></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- S4 · 10.7-12.9 -->
+      <section id="s4" class="clip" data-start="10.7" data-duration="2.7" data-track-index="1">
+        <div class="scene" id="sc4">
+          <div class="bg dark"></div>
+          <svg class="water w-dark" viewBox="0 0 1080 1920"><rect width="1080" height="1920" filter="url(#caus)" opacity=".2"/></svg>
+          <div class="center">
+            <div class="mask"><span>Coaching estratégico</span></div>
+            <div class="mask"><span>para recuperar</span></div>
+            <div class="mask"><span class="g">tu dirección</span></div>
+            <div class="mask"><span class="g">desde dentro.</span></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- S5 · 12.7-15 -->
+      <section id="s5" class="clip" data-start="12.7" data-duration="2.3" data-track-index="1">
+        <div class="scene" id="sc5">
+          <div class="bg light"></div>
+          <svg class="water w-light" viewBox="0 0 1080 1920"><rect width="1080" height="1920" filter="url(#caus)" opacity=".75"/></svg>
+          <div class="center">
+            <div class="mask"><span>Recupera</span></div>
+            <div class="mask"><span>tu dirección.</span></div>
+            <div id="btn">Sesión de transparencia · Gratuita</div>
+            <div id="note">Online · 45 minutos · Sin compromiso</div>
+            <div id="url">quintabachmann.com</div>
+          </div>
+        </div>
+      </section>
+
+      <section id="ov" class="clip" data-start="0" data-duration="15" data-track-index="9">
+        <div id="mark">Quinta Bachmann</div>
+        <div id="bar"></div>
+      </section>
+
+      <audio id="music" src="assets/music.wav" data-start="0" data-duration="15" data-track-index="10" data-volume="0.85"></audio>
+    </div>
+
+    <!-- shared caustic filter -->
+    <svg width="0" height="0" style="position:absolute">
+      <defs>
+        <filter id="caus" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+          <feTurbulence id="turb" type="fractalNoise" baseFrequency="0.0055 0.0085" numOctaves="3" seed="11" result="n"/>
+          <feColorMatrix in="n" type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  1 0 0 0 0" result="a"/>
+          <feComponentTransfer in="a">
+            <feFuncA type="table" tableValues="0 0 0 0 0.9 0 0 0 0 0"/>
+          </feComponentTransfer>
+        </filter>
+      </defs>
+    </svg>
+
+    <script>
+      const tl = gsap.timeline({ paused: true });
+      const E = "power3.out";
+      const reveal = (scene, t0, gap = 0.18) =>
+        document.querySelectorAll(scene + " .mask > span").forEach((el, i) =>
+          tl.fromTo(el, { yPercent: 115 }, { yPercent: 0, duration: 1.0, ease: "expo.out" }, t0 + i * gap));
+      const fadeScene = (id, a, b) => {
+        tl.fromTo(id, { opacity: 0 }, { opacity: 1, duration: 0.6, ease: "sine.inOut" }, a);
+      };
+
+      // slow caustic drift (seekable)
+      tl.fromTo("#turb", { attr: { baseFrequency: "0.0055 0.0085" } }, { attr: { baseFrequency: "0.0075 0.0105" }, duration: 15, ease: "none" }, 0);
+      tl.fromTo(".water", { x: 0, y: 0 }, { x: -30, y: 40, duration: 15, ease: "none" }, 0);
+
+      // overlay
+      tl.fromTo("#bar", { scaleX: 0 }, { scaleX: 1, duration: 15, ease: "none" }, 0);
+      tl.fromTo("#mark", { opacity: 0 }, { opacity: 1, duration: 1.0 }, 0.4);
+      tl.set("#mark", { color: "#e8c57a" }, 6.9).set("#mark", { color: "#8c6d2a" }, 12.9);
+
+      // S1 (0-3.7)
+      tl.set("#sc1", { opacity: 1 }, 0);
+      tl.fromTo("#k1", { opacity: 0, y: 14 }, { opacity: 1, y: 0, duration: 0.9, ease: E }, 0.3);
+      reveal("#s1", 0.6, 0.22);
+      tl.fromTo("#r1", { scaleX: 0 }, { scaleX: 1, duration: 1.0, ease: "expo.out" }, 1.9);
+
+      // content leaves before the next scene's text arrives (background stays)
+      tl.to("#sc1 .center", { opacity: 0, duration: 0.4 }, 3.2);
+      tl.to("#sc2 .center", { opacity: 0, duration: 0.35 }, 6.3);
+      tl.to("#sc3 .center, #pillars", { opacity: 0, duration: 0.35 }, 10.35);
+      tl.to("#sc4 .center", { opacity: 0, duration: 0.35 }, 12.3);
+
+      // S2 (3.4-6.9)
+      fadeScene("#sc2", 3.4, 6.9);
+      tl.fromTo("#r2a", { scaleX: 0 }, { scaleX: 1, duration: 0.9, ease: "expo.out" }, 3.6);
+      reveal("#s2", 3.9, 0.35);
+      tl.fromTo("#r2b", { scaleX: 0 }, { scaleX: 1, duration: 0.9, ease: "expo.out" }, 5.2);
+
+      // S3 (6.6-10.9)
+      fadeScene("#sc3", 6.6, 10.9);
+      tl.fromTo("#k3", { opacity: 0 }, { opacity: 1, duration: 0.7 }, 6.9);
+      reveal("#s3", 7.1, 0.25);
+      ["#p1", "#p2", "#p3"].forEach((p, i) => tl.fromTo(p, { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.8, ease: E }, 7.9 + i * 0.55));
+
+      // S4 (10.7-12.9)
+      fadeScene("#sc4", 10.7, 12.9);
+      reveal("#s4", 10.95, 0.2);
+
+      // S5 (12.7-15)
+      tl.fromTo("#sc5", { opacity: 0 }, { opacity: 1, duration: 0.6, ease: "sine.inOut" }, 12.7);
+      reveal("#s5", 13.0, 0.22);
+      tl.fromTo("#btn", { opacity: 0, y: 24 }, { opacity: 1, y: 0, duration: 0.8, ease: E }, 13.6);
+      tl.fromTo("#note", { opacity: 0 }, { opacity: 1, duration: 0.7 }, 13.9);
+      tl.fromTo("#url", { opacity: 0 }, { opacity: 1, duration: 0.8 }, 14.1);
+
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>
