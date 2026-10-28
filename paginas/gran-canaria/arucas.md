@@ -1,7 +1,7 @@
 ---
 title: "Dron agrícola en Arucas | Agrodrón Canarias"
 slug: "arucas"
-meta_description: "Dron agrícola en Arucas para platanera entre cortavientos en Bañaderos y El Puertillo y bancales de medianías. Con desplazamiento desde La Palma; pide presupuesto."
+meta_description: "Dron agrícola en Arucas para platanera entre cortavientos en Bañaderos y bancales de medianías. Desplazamiento desde La Palma; pide presupuesto."
 keyword: "dron agrícola en Arucas"
 keywords_secundarias: "fumigar con dron en Arucas, tratamiento con drones en platanera de Bañaderos, dron fitosanitario norte de Gran Canaria, pulverización aérea en Arucas"
 parent: "dron-agricola-gran-canaria"
@@ -20,29 +20,29 @@ Agrodrón viene desde La Palma, con desplazamiento y bajo consulta de disponibil
 
 ## El terreno: muros en la costa, bancales en Santidad y Visvique
 
-En la costa el alisio del nordeste sopla casi a diario, con humedad y nubosidad altas, y las fincas se defienden con cortavientos de bloque o de malla. Son parcelas llanas pero cerradas: paredes, cadenas de riego, cables y alguna nave en medio. Hacia el interior, Santidad y Visvique suben por laderas con bancales de hortaliza, papa y frutales, con la Montaña de Arucas en medio y el barranco de Tenoya marcando el límite con la capital.
+En la costa el alisio del nordeste sopla casi a diario, con humedad y nubosidad altas, y las fincas se defienden con cortavientos de bloque o de malla. Son parcelas llanas pero cerradas: paredes, cadenas de riego, cables y alguna nave en medio. Hacia el interior, Santidad y Visvique suben por laderas con bancales de hortaliza, papa y frutales, con la Montaña de Arucas en medio y el barranco de Tenoya en el límite con la capital.
 
 No hay cifra municipal de superficie cultivada en los datos de partida [VERIFICAR: hectáreas cultivadas de Arucas en el ISTAC]. Para situarlo, el ISTAC da 8.102,8 ha cultivadas en Gran Canaria en 2024 y el Mapa de Cultivos de ese año 1.940,7 ha de platanera en la isla.
 
 ## Lo que cuesta tratar hoy una finca así
 
-Con mochila o pistola, el aplicador va bajo el dosel mojando hacia arriba, entre paredes que cortan el aire y con el suelo húmedo del riego. Con tractor y atomizador hace falta pasillo, giro y una entrada que admita la máquina, y en muchas fincas de Bañaderos y El Puertillo los muros están demasiado cerca. En Santidad o Visvique el problema es otro: bancales a los que no sube ningún tractor.
+Con mochila o pistola, el aplicador va bajo el dosel mojando hacia arriba, entre paredes que cortan el aire y con el suelo húmedo del riego. Con tractor y atomizador hace falta pasillo, giro y entrada para la máquina, y en muchas fincas de Bañaderos y El Puertillo los muros están demasiado cerca. En Santidad o Visvique el problema es otro: bancales a los que no sube ningún tractor.
 
 ## Qué cambia con un dron agrícola en Arucas
 
 El DJI Agras T50 vuela por encima del dosel, despega desde el borde de la finca y se recarga ahí, con un depósito de 40 litros y hasta 16 L/min de caudal con dos boquillas centrífugas o 24 L/min con cuatro, según DJI. Su radar de matriz en fase y la visión binocular detectan muros, cables y árboles altos, y la velocidad se adapta a la pendiente al pasar de la plataforma a los bancales.
 
-Durante la aplicación nadie está debajo de la nube de caldo y la finca no se pisa con ruedas. Los límites también son claros: lo que esté bajo malla de techo o invernadero queda fuera, y en Arucas parte de la platanera va cubierta [VERIFICAR: porcentaje de platanera bajo malla en Arucas]. Con viento fuerte de costa no se vuela.
+Durante la aplicación nadie está bajo la nube de caldo y la finca no se pisa con ruedas. Los límites: lo que esté bajo malla de techo o invernadero queda fuera, y en Arucas parte de la platanera va cubierta [VERIFICAR: porcentaje de platanera bajo malla en Arucas]. Con viento fuerte de costa no se vuela.
 
 [IMAGEN: Dron agrícola sobre platanera con muros cortavientos en El Puertillo, con el operador en el camino de acceso | alt: Dron pulverizador sobre platanera al aire libre en El Puertillo, Arucas]
 
 ## Cultivos y plagas documentadas en Arucas
 
-El picudo negro (Cosmopolites sordidus) se detectó por primera vez en Canarias en 1945 en la finca El Carril, en Arucas (revista La Granja del Cabildo, informe de GMR Canarias). Vive en el cormo y se maneja con trampas, no con pulverización. Araña roja (Tetranychus urticae) y trips (Hercinothrips) son las plagas de hoja y fruto documentadas a escala de Canarias (Phytoma 2025, Koppert), y ahí sí tiene sentido un tratamiento aéreo si el plan de aplicación lo recoge.
+El picudo negro (Cosmopolites sordidus) se detectó por primera vez en Canarias en 1945 en la finca El Carril, en Arucas (revista La Granja del Cabildo, informe de GMR Canarias). Vive en el cormo y se maneja con trampas, no con pulverización. Araña roja (Tetranychus urticae) y trips (Hercinothrips) son las plagas de hoja y fruto documentadas a escala de Canarias (Phytoma 2025, Koppert), y ahí sí cabe un tratamiento aéreo si el plan de aplicación lo recoge.
 
 Fuera de la platanera, Arucas tiene hortalizas, papa de medianías y flores [VERIFICAR: hectáreas por cultivo en Arucas], y el proyecto Lairaga Tropical del Cabildo lo incluye entre los municipios con tierras en desuso a recuperar para mango, aguacate y papaya. Mango y aguacate al aire libre son tratables; la papaya suele ir bajo malla.
 
-Páginas relacionadas: [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/), [dron agrícola para platanera](https://agrodroncanarias.es/dron-agricola-platanera/), [dron agrícola para frutales subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/) y, subiendo por el norte, [dron agrícola en Moya](https://agrodroncanarias.es/dron-agricola-gran-canaria/moya/).
+Páginas relacionadas: [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/), [dron agrícola para platanera](https://agrodroncanarias.es/dron-agricola-platanera/), [dron agrícola para frutales subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/) y la vecina [dron agrícola en Moya](https://agrodroncanarias.es/dron-agricola-gran-canaria/moya/).
 
 ## La ley, en dos frases
 
@@ -57,7 +57,7 @@ Sí, mientras la platanera esté descubierta por arriba. Los muros se cargan com
 No. El picudo vive en el cormo, fuera del alcance de una pulverización aérea; el manejo documentado son las trampas de feromonas. El dron encaja con araña roja o trips, que están en la hoja.
 
 ### ¿Qué hace falta para que una finca de Arucas entre en una salida desde La Palma?
-Datos de la parcela, producto previsto y margen de tiempo. Fuera de La Palma el servicio lleva desplazamiento y depende de la disponibilidad del equipo; cuantas más fincas de la comarca se junten, más fácil es cuadrar la visita.
+Datos de la parcela, producto previsto y margen de tiempo. Fuera de La Palma el servicio lleva desplazamiento y depende de la disponibilidad del equipo; con varias fincas de la comarca juntas, la visita se cuadra mejor.
 
 ### ¿Se tratan con dron las parcelas nuevas de mango y aguacate de las medianías?
 Sí, si están al aire libre: son frutales arbóreos descubiertos. Lo que vaya bajo malla, como suele ir la papaya, no.
@@ -112,7 +112,7 @@ Mándanos la zona (Bañaderos, Cardones, Trasmontaña, Santidad...), el cultivo,
         {
           "@type": "Question",
           "name": "¿Qué hace falta para que una finca de Arucas entre en una salida desde La Palma?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Datos de la parcela, producto previsto y margen de tiempo. Fuera de La Palma el servicio lleva desplazamiento y depende de la disponibilidad del equipo; cuantas más fincas de la comarca se junten, más fácil es cuadrar la visita." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Datos de la parcela, producto previsto y margen de tiempo. Fuera de La Palma el servicio lleva desplazamiento y depende de la disponibilidad del equipo; con varias fincas de la comarca juntas, la visita se cuadra mejor." }
         },
         {
           "@type": "Question",

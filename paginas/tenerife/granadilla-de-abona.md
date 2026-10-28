@@ -16,26 +16,26 @@ En Granadilla de Abona el calendario lo marcan dos cultivos al aire libre: la pa
 
 [IMAGEN: Papas en flor en bancales de jable de Charco del Pino, Granadilla de Abona, con el Teide al fondo | alt: Cultivo de papa sobre jable en Charco del Pino, medianías de Granadilla de Abona]
 
-## De julio a noviembre: siembra de papa y vendimia en Abona
+## De julio a noviembre: siembra de papa y vendimia
 
-En la vecina Vilaflor la siembra de papa va del 15 de julio al 15 de agosto según su web municipal, y en las cotas altas de Granadilla el calendario es parecido [VERIFICAR: fechas de siembra en Charco del Pino y Cruz de Tea]. En la provincia el 60 % de la papa es de media estación, el 25 % temprana y el 15 % tardía (Plan Anual del Cabildo, 2017): las siembras se escalonan.
+En la vecina Vilaflor la siembra de papa va del 15 de julio al 15 de agosto según su web municipal, y en las cotas altas de Granadilla es parecido [VERIFICAR: fechas de siembra en Charco del Pino y Cruz de Tea]. En la provincia el 60 % de la papa es de media estación, el 25 % temprana y el 15 % tardía (Plan Anual del Cabildo, 2017): las siembras se escalonan.
 
-Para la viña, el final de julio trae riesgo elevado de oídio en distintas zonas vitícolas, riesgo medio de mildiu en algunas comarcas y atención a la botritis en envero (boletín Agrocabildo del 31 de julio, año sin indicar). Luego la vendimia, con bioseguridad y límites al movimiento de uva desde la filoxera detectada en Tenerife en 2025 (AtlánticoHoy, 2026) [VERIFICAR: si Granadilla está en la zona demarcada].
+Para la viña, el final de julio trae riesgo elevado de oídio, riesgo medio de mildiu en algunas comarcas y atención a la botritis en envero (boletín Agrocabildo del 31 de julio, año sin indicar). Luego la vendimia, con bioseguridad y límites al movimiento de uva desde la filoxera detectada en Tenerife en 2025 (AtlánticoHoy, 2026) [VERIFICAR: si Granadilla está en la zona demarcada].
 
-## De diciembre a marzo: la papa en pie y la humedad que trae el mildiu
+## De diciembre a marzo: papa en pie y mildiu
 
 Con la papa de media estación en desarrollo, el riesgo es el mildiu (Phytophthora infestans), con avisos de riesgo alto por comarcas del Cabildo, y la polilla guatemalteca (Tecia solanivora), que entró en Tenerife por Icod en 1999 y en secano y medianías deja pérdidas que rozan la mitad (Cabildo, ICIA).
 
-El tomate de invernadero de San Isidro, cultivo de exportación tras la llegada del regadío (EnciclopediaGuanche) y hoy residual (102,4 ha en toda Tenerife en 2021, SITCAN), tiene su propio invierno: la Tuta absoluta se desbordó en el de 2019. Pero va bajo plástico y el dron no entra.
+El tomate de invernadero de San Isidro, de exportación tras la llegada del regadío (EnciclopediaGuanche) y hoy residual (102,4 ha en toda Tenerife en 2021, SITCAN), tiene su propio invierno: la Tuta absoluta se desbordó en el de 2019. Va bajo plástico y el dron no entra.
 
-## De abril a junio: brotación de la viña y oídio en las zonas bajas
+## De abril a junio: brotación de la viña y oídio
 
-Entre el 30 de abril y el 7 de mayo el Cabildo lanzó un aviso de riesgo alto de oídio para las zonas bajas de Tenerife; la viña de Granadilla, entre 600 y 1.200 m, sigue los avisos por comarca de mildiu, oídio y botritis de datos.tenerife.es. Es cuando conviene tener el expediente andando: la autorización la concede el Gobierno de Canarias y no sale de un día para otro.
+Entre el 30 de abril y el 7 de mayo el Cabildo lanzó un aviso de riesgo alto de oídio para las zonas bajas de Tenerife; la viña de Granadilla, entre 600 y 1.200 m, sigue los avisos por comarca de mildiu, oídio y botritis de datos.tenerife.es. Conviene tener ya el expediente andando: la autorización la concede el Gobierno de Canarias y no sale de un día para otro.
 
 ## Qué encaja con dron agrícola en Granadilla de Abona y cuándo
 
 - Papa en bancal (otoño-invierno): cultivo bajo al aire libre en parcelas estrechas donde el tractor no entra; el dron aplica lo que marque la etiqueta y el plan, y el producto lo elige tu técnico.
-- Viña de la DOP Abona (primavera-verano): parcelas pequeñas en pendiente sobre jable; el DJI Agras T50 ajusta la velocidad a la pendiente y su depósito de 40 litros, con hasta 16 o 24 L/min según monte dos o cuatro boquillas centrífugas (ficha de DJI), cubre varias parcelas por carga.
+- Viña de la DOP Abona (primavera-verano): parcelas pequeñas en pendiente sobre jable; el DJI Agras T50 ajusta la velocidad a la pendiente y su depósito de 40 litros, a 16 o 24 L/min según monte dos o cuatro boquillas centrífugas (ficha de DJI), cubre varias parcelas por carga.
 - Hortalizas al aire libre y frutales de secano: si hay varias parcelas juntas.
 - Tomate y hortaliza de invernadero: nunca, por la cubierta.
 
@@ -43,7 +43,7 @@ Entre el 30 de abril y el 7 de mayo el Cabildo lanzó un aviso de riesgo alto de
 
 Granadilla tiene 162 km² y va de la costa de El Médano a la cumbre de Las Cañadas. En medio, los llanos de San Isidro con sus invernaderos y las medianías del casco y Charco del Pino, entre 600 y 1.000 m, con jable y bancales. Pistas estrechas y muros: el radar del T50 sigue el relieve y detecta obstáculos, pero un cable se marca antes.
 
-El viento manda. El Médano es la zona más ventosa de Tenerife por el alisio canalizado y en costa casi no hay días de vuelo; las medianías son más tranquilas y ahí se trabaja. Vertiente árida y de alta radiación (tenerifeconnect, webtenerife): se vuela a primera hora y se para si el viento sube.
+El viento manda: El Médano es la zona más ventosa de Tenerife por el alisio canalizado y en costa casi no hay días de vuelo; en las medianías, más tranquilas, se trabaja. Vertiente árida y de alta radiación (tenerifeconnect, webtenerife): se vuela a primera hora y se para si el viento sube.
 
 ## Papeles antes que vuelo
 
@@ -65,7 +65,7 @@ En las medianías sí, eligiendo hora y midiendo el viento en la parcela antes d
 No. La cubierta impide la pulverización aérea; el tomate de invernadero se trata por dentro.
 
 ### ¿Se puede juntar la papa de Granadilla con fincas de San Miguel o Vilaflor en la misma salida?
-Sí, y es lo habitual: la salida desde La Palma se organiza por comarca y bajo disponibilidad. Cuantas más parcelas del sur entren en la misma semana, más sentido tiene el desplazamiento.
+Sí, es lo habitual: la salida desde La Palma se organiza por comarca y bajo disponibilidad. Cuantas más parcelas del sur entren en la misma semana, más sentido tiene el desplazamiento.
 
 ## Pide presupuesto con el calendario en la mano
 
@@ -119,7 +119,7 @@ Dinos cultivo, pago, número de parcelas y en qué mes esperas el problema; te d
         {
           "@type": "Question",
           "name": "¿Se puede juntar la papa de Granadilla con fincas de San Miguel o Vilaflor en la misma salida?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, y es lo habitual: la salida desde La Palma se organiza por comarca y bajo disponibilidad. Cuantas más parcelas del sur entren en la misma semana, más sentido tiene el desplazamiento." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, es lo habitual: la salida desde La Palma se organiza por comarca y bajo disponibilidad. Cuantas más parcelas del sur entren en la misma semana, más sentido tiene el desplazamiento." }
         }
       ]
     }

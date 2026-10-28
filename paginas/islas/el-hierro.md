@@ -1,7 +1,7 @@
 ---
 title: "Dron agrícola en El Hierro | Agrodrón Canarias"
 slug: "dron-agricola-el-hierro"
-meta_description: "Dron agrícola en El Hierro: viña, piña tropical y platanera de El Golfo, 1.835 ha cultivadas en 2021, viento y secano. Desplazamiento desde La Palma y presupuesto."
+meta_description: "Dron agrícola en El Hierro: viña, piña tropical y platanera de El Golfo, 1.835 ha cultivadas en 2021, viento y secano. Desplazamiento desde La Palma."
 keyword: "dron agrícola en El Hierro"
 keywords_secundarias: "fumigar con dron en El Hierro, tratamiento con drones en piña tropical, dron fitosanitario El Hierro, pulverización aérea en viña de El Hierro"
 parent: ""
@@ -26,7 +26,7 @@ La piña tropical de El Golfo va de 123 ha (ICIA, vía RTVC) a "llegó a 130 ha 
 
 El Valle de El Golfo (Frontera) es una depresión de deslizamiento con plataforma costera, laderas hasta un escarpe de más de 1.000 m y laurisilva en el borde. Brisas marinas, unas 3.000 horas de sol al año y la agricultura "más próspera que en el resto de la isla" (spain.info): piña, platanera, viña del Valle del Golfo y Sabinosa, mango, papaya y aguacate.
 
-Las medianías del noreste (Valverde, Echedo, Guarazoca, Mocanal) mezclan policultivo y viña; Echedo es subzona de la DO con viñas en picón a 360 m, y la meseta de Nisdafe sube a unos 1.000 m con pastos, nieblas del alisio y viento del noreste. El sur (El Pinar) recibe unos 150 mm al año frente a los 700 del norte: viña de la subzona El Pinar, higueras de higos pasados y almendros en Las Casas y Taibique, a 800–1.000 m.
+Las medianías del noreste (Valverde, Echedo, Guarazoca, Mocanal) mezclan policultivo y viña; Echedo es subzona de la DO con viñas en picón a 360 m, y la meseta de Nisdafe sube a unos 1.000 m con pastos, nieblas del alisio y viento del noreste. El sur (El Pinar) recibe unos 150 mm al año frente a los 700 del norte: viña de la subzona El Pinar, higueras y almendros en Las Casas y Taibique, a 800–1.000 m.
 
 El viento manda sobre el vuelo: alisio en la cumbre, viento del noreste en las medianías, brisa marina en El Golfo. Se mide en la finca antes de cargar el depósito y, si no acompaña, se cambia la fecha.
 
@@ -68,9 +68,6 @@ La viña va al aire libre y es tratable si el producto y el plan lo permiten. En
 
 ### ¿El viento de El Hierro impide volar?
 A veces. Alisio en cumbre, noreste en medianías, brisa en El Golfo: se mide en la finca el mismo día y con racha fuerte no se trata. Por eso se viaja con margen de días.
-
-### ¿Qué hace falta para pedir presupuesto?
-Ubicación de la parcela, cultivo, superficie, accesos y si hay malla, cables o árboles altos. Con eso decimos si el dron encaja y qué no se puede tratar.
 
 ## Presupuesto para tu finca en El Hierro
 
@@ -125,11 +122,6 @@ Cuéntanos qué tienes en El Golfo, en las medianías o en el sur, cuánta super
           "@type": "Question",
           "name": "¿El viento de El Hierro impide volar?",
           "acceptedAnswer": { "@type": "Answer", "text": "A veces. Alisio en cumbre, noreste en medianías, brisa en El Golfo: se mide en la finca el mismo día y con racha fuerte no se trata. Por eso se viaja con margen de días." }
-        },
-        {
-          "@type": "Question",
-          "name": "¿Qué hace falta para pedir presupuesto?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Ubicación de la parcela, cultivo, superficie, accesos y si hay malla, cables o árboles altos. Con eso decimos si el dron encaja y qué no se puede tratar." }
         }
       ]
     }
