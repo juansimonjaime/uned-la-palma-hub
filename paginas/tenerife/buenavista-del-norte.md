@@ -12,7 +12,7 @@ municipio: "Buenavista del Norte"
 
 # Dron agrícola en Buenavista del Norte: de las fincas de costa a los bancales de Teno
 
-Buenavista del Norte es el municipio con más platanera de la Isla Baja: 567,2 hectáreas en 2011 según el boletín de Desarrollo Rural del Cabildo (agosto de 2011), en el llano que se abre a los pies del macizo de Teno. Detrás, en El Palmar, Las Portelas y Teno Alto, la agricultura cambia a bancales de papa y viña. Un dron agrícola en Buenavista del Norte tiene que servir en los dos sitios. Agrodrón Canarias trabaja aquí con desplazamiento desde La Palma y bajo consulta de disponibilidad.
+Buenavista del Norte es el municipio con más platanera de la Isla Baja: 567,2 hectáreas en 2011 según el boletín de Desarrollo Rural del Cabildo (agosto de 2011), en el llano a los pies del macizo de Teno. Detrás, en El Palmar, Las Portelas y Teno Alto, la agricultura cambia a bancales de papa y viña. Un dron agrícola en Buenavista del Norte tiene que servir en ambos sitios. Agrodrón Canarias trabaja aquí con desplazamiento desde La Palma y bajo consulta de disponibilidad.
 
 [IMAGEN: Llano platanero de Buenavista del Norte con el macizo de Teno cerrando el fondo y el mar a la izquierda | alt: Platanera de costa en Buenavista del Norte frente al macizo de Teno, Tenerife]
 
