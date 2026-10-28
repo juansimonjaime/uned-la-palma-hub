@@ -20,7 +20,7 @@ Fuencaliente tiene la mayor superficie de viña de La Palma: 297,5 hectáreas se
 
 Malvasía aromática, Negramoll, Listán y Sabro, casi siempre rastreras o en vaso bajo sobre el lapilli de los volcanes de San Antonio (1677) y Teneguía (1971), con muros cortavientos de piedra volcánica que el Gobierno de Canarias (ICCA) describe como la seña de las viñas de Malvasía de la zona. La planta vive pegada a la tierra para aguantar el viento.
 
-Las parcelas son pequeñas y están desperdigadas por los lomos del sur, con malpaíses entre medias y pendientes fuertes. Se llega por pistas sobre picón [VERIFICAR: estado de los accesos a las parcelas de viña]. Aquí está la sede del Consejo Regulador de la DO Vinos La Palma y la Cooperativa Llanovid, que embotella la Malvasía de la zona.
+Las parcelas son pequeñas y están desperdigadas por los lomos del sur, con malpaíses entre medias y pendientes fuertes. Se llega por pistas sobre picón [VERIFICAR: estado de los accesos a las parcelas de viña]. Aquí está la sede del Consejo Regulador de la DO Vinos La Palma y la Cooperativa Llanovid, de vino y Malvasía.
 
 El Ayuntamiento destinó 50.000 euros en 2023 a recuperar viña en Llanos Negros y Las Machuqueras, donde la Malvasía y el Sabro estaban en riesgo de abandono.
 

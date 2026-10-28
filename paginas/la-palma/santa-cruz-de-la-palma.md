@@ -42,7 +42,7 @@ Se puede estudiar, que no es lo mismo. El T50 va leyendo el relieve con su radar
 
 Todo eso se dibuja en el mapa de la parcela antes de volar. Hay fincas en los barrancos de la capital donde el plan de vuelo sale limpio y otras donde no sale, y preferimos decirlo con el mapa delante que después de haber ido. Como la base está a un paso, mirar la finca sobre el terreno no supone desplazamiento.
 
-[IMAGEN: Finca de platanera pequeña con agua propia en la costa norte de Santa Cruz de La Palma, encajada entre la ladera y una vivienda | alt: platanera pequeña entre viviendas en la costa de Santa Cruz de La Palma]
+[IMAGEN: Finca de platanera pequeña en la costa de Santa Cruz de La Palma, encajada entre la ladera y una vivienda | alt: platanera pequeña entre viviendas en la costa de Santa Cruz de La Palma]
 
 ## ¿Qué hace falta para contratar un tratamiento con dron desde la capital?
 
@@ -68,7 +68,7 @@ No tienen sentido:
 
 Porque desde aquí se llega a toda la isla. La capital tiene la menor superficie agrícola de los 14 municipios, pero está a un paso de las Breñas, de Mazo y de Puntallana, y a una carretera de la costa platanera del oeste. Agrodrón Canarias trabaja en toda La Palma sin desplazamiento; en el resto de Canarias, con desplazamiento y bajo consulta.
 
-Los datos de toda la isla están en el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/), y los del vecino de arriba, con 82 hectáreas de aguacate, en [dron agrícola en Breña Alta](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/). Para el cultivo, mira [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/) y [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/).
+La isla entera, municipio a municipio, está en el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/), y los del vecino de arriba, con 82 hectáreas de aguacate, en [dron agrícola en Breña Alta](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/). Para el cultivo, mira [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/) y [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/).
 
 ## Preguntas frecuentes de agricultores de Santa Cruz de La Palma
 

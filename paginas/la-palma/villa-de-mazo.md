@@ -86,7 +86,7 @@ Depende de superficie, cultivo, accesos y producto del plan de aplicación, no d
 
 ## Pide presupuesto para tu finca de Mazo antes de la próxima campaña
 
-Entra en [agrodroncanarias.es](https://agrodroncanarias.es/), cuéntanos el pago, el cultivo y la superficie, y te respondemos si el dron tiene sentido en tu caso y qué papeles lleva. Si tu finca cae más al sur, mira la página de [dron agrícola en Fuencaliente](https://agrodroncanarias.es/dron-agricola-la-palma/fuencaliente/); el resto de la isla está en el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/).
+Entra en [agrodroncanarias.es](https://agrodroncanarias.es/), cuéntanos el pago, el cultivo y la superficie, y te respondemos si el dron tiene sentido en tu caso y qué papeles lleva. Si tu finca cae más al sur, mira la página de [dron agrícola en Fuencaliente](https://agrodroncanarias.es/dron-agricola-la-palma/fuencaliente/), y la visión de toda la isla, en el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/).
 
 ```json
 {
