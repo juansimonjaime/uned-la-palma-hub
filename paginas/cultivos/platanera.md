@@ -26,7 +26,7 @@ Para el dron importa otro número del mismo informe: algo más de 3.100 ha van b
 
 La platanera canaria vive por debajo de los 300 m, en sorribas sobre lava o con tierra traída, cerradas por muros de piedra o de bloque y, donde pega el alisio, por cortavientos de malla vertical. Parcelas de media hectárea a dos o tres, con la cadena de riego por dentro y una pista que no siempre admite un tractor.
 
-Para el DJI Agras T50 esa finca es terreno conocido. Su radar de matriz en fase y sus cámaras binoculares siguen el relieve y ven el muro, el poste del cortavientos o el cable de la cadena antes de llegar, y ajusta la velocidad cuando la finca sube en escalones. El depósito de 40 litros, con hasta 16 L/min por dos boquillas centrífugas o 24 L/min por cuatro, cubre una parcela corriente con pocas recargas. Las líneas eléctricas y los invernaderos vecinos se marcan en el plano antes de despegar.
+Para el DJI Agras T50 esa finca es terreno conocido. Su radar de matriz en fase y sus cámaras binoculares siguen el relieve y ven el muro, el poste del cortavientos o el cable de la cadena antes de llegar, y ajusta la velocidad cuando la finca sube en escalones. El depósito de 40 litros, con hasta 16 L/min por dos boquillas centrífugas o 24 L/min por cuatro, cubre una parcela corriente con pocas recargas.
 
 ## Picudo, mangla, trips y araña roja: qué se ataca desde arriba y qué no
 
@@ -43,7 +43,7 @@ La campaña 2025-2026 ha sido dura: la prensa agraria habla de una crisis por co
 
 La platanera no tiene parada: se corta todo el año y en la misma finca conviven hijos recién deshijados, matas en flor y piñas a punto de cortar. El dron despega desde el borde, trata la parcela y vuelve sin meter una rueda dentro ni esperar a que el empaquetado dé un respiro.
 
-El verano manda en el calendario de riesgo: Agroseguro contabilizó en 2024 unas 7.400 parcelas y 1.650 ha de plátano dañadas por calor en la vertiente oeste de La Palma. Con esas temperaturas, el viento de tarde y la humedad baja también mandan en el vuelo: se comprueban antes de cargar y, si no acompañan, se vuela a primera hora o se deja para otro día.
+El verano manda en el calendario de riesgo: Agroseguro contabilizó en 2024 unas 7.400 parcelas y 1.650 ha de plátano dañadas por calor en la vertiente oeste de La Palma. El viento de tarde y la humedad baja se comprueban antes de cargar; si no acompañan, se vuela a primera hora o se deja para otro día.
 
 [IMAGEN: Piña de plátano enfundada en una finca de la Isla Baja de Tenerife, con las hojas de la platanera cerrándose por encima del pasillo | alt: Platanera en producción con piña enfundada en Buenavista del Norte, Tenerife]
 
@@ -51,7 +51,9 @@ El verano manda en el calendario de riesgo: Agroseguro contabilizó en 2024 unas
 
 Agrodrón Canarias tiene la base en Santa Cruz de La Palma, así que en la isla no cobramos desplazamiento. En Tenerife, Gran Canaria, La Gomera y El Hierro salimos con desplazamiento y según disponibilidad, agrupando fincas de la misma comarca cuando se puede.
 
-Tenerife tiene el 45 % de la superficie platanera (Confederación Canaria de Empresarios sobre datos del ISTAC, 2022), pero su sur va en buena parte bajo invernadero; La Palma concentra un tercio de la producción (Justicia Alimentaria, enero de 2025) y es la isla con más platanera descubierta [VERIFICAR: porcentaje de platanera protegida por isla]. En [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) están [Tazacorte, con 450,54 ha de plátano en el Mapa de Cultivos 2022](https://agrodroncanarias.es/dron-agricola-la-palma/tazacorte/), y [Los Llanos de Aridane, que reúne el 28,8 % de la platanera palmera](https://agrodroncanarias.es/dron-agricola-la-palma/los-llanos-de-aridane/) según un estudio de la ULL.
+Tenerife tiene el 45 % de la superficie platanera (Confederación Canaria de Empresarios sobre datos del ISTAC, 2022) y La Palma un tercio de la producción (Justicia Alimentaria, enero de 2025), con la mayor parte de su platanera descubierta [VERIFICAR: porcentaje de platanera protegida por isla].
+
+En [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) están [Tazacorte, con 450,54 ha de plátano en el Mapa de Cultivos 2022](https://agrodroncanarias.es/dron-agricola-la-palma/tazacorte/), y [Los Llanos de Aridane, que reúne el 28,8 % de la platanera palmera](https://agrodroncanarias.es/dron-agricola-la-palma/los-llanos-de-aridane/) según un estudio de la ULL.
 
 En [Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [Guía de Isora sumaba 845,4 ha en 2021](https://agrodroncanarias.es/dron-agricola-tenerife/guia-de-isora/) según Mercatenerife. En [Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/), [Gáldar tiene 630,42 ha de platanera](https://agrodroncanarias.es/dron-agricola-gran-canaria/galdar/) según su portal de transparencia, de las 1.940,7 ha de la isla (Mapa de Cultivos 2024). En [La Gomera](https://agrodroncanarias.es/dron-agricola-la-gomera/), la platanera de Hermigua y Valle Gran Rey va en terrazas de fondo de barranco donde la maquinaria terrestre apenas entra.
 
@@ -60,20 +62,20 @@ Sobre el papel, dos cosas. La aplicación aérea de fitosanitarios está prohibi
 ## Preguntas frecuentes sobre el dron en la platanera
 
 ### ¿Se puede fumigar con dron una platanera con malla cortavientos?
-Sí, si la malla es vertical, de lindero, y la finca queda abierta por arriba. No se trata desde el aire la platanera bajo malla de cubierta o invernadero, como la mayoría de la del sur de Tenerife o las 165 ha bajo protección de Villa de Mazo.
+Sí, si la malla es vertical, de lindero, y la finca queda abierta por arriba. No se trata desde el aire la platanera bajo malla de cubierta o invernadero, como la del sur de Tenerife o las 165 ha bajo protección de Villa de Mazo.
 
 ### ¿Sirve el dron contra el picudo negro de la platanera?
 No. El picudo vive en el cormo y en la base del pseudotallo, donde ninguna pulverización foliar llega; Agrocabildo recomienda trampas de feromonas. El dron tiene sentido para problemas de hoja y racimo, con un producto cuya etiqueta lo permita.
 
 ### ¿Cuánto se tarda en tratar una hectárea de platanera con dron?
-Depende de la forma de la parcela, de los obstáculos y de la dosis que marque el plan de aplicación. No damos cifras de rendimiento sin ver la finca: con el plano y el producto te decimos cuántos vuelos y recargas hacen falta.
+Depende de la forma de la parcela, de los obstáculos y de la dosis del plan de aplicación. No damos cifras de rendimiento sin ver la finca: con el plano y el producto te decimos cuántos vuelos hacen falta.
 
 ### ¿Hay que parar el corte el día del tratamiento?
-Solo en la parcela que se trata y mientras dura el vuelo. Después se respeta el plazo de seguridad de la etiqueta antes de volver a cortar en esa parcela. El resto de la finca sigue con su ritmo.
+Solo en la parcela que se trata y mientras dura el vuelo. Después se respeta el plazo de seguridad de la etiqueta antes de volver a cortar ahí. El resto de la finca sigue con su ritmo.
 
 ## Pide presupuesto para tu finca de platanera
 
-Mándanos el municipio, las hectáreas, si la finca va a cielo abierto o tiene parte bajo malla de cubierta, y qué problema quieres tratar. Con eso te decimos si el dron encaja y te preparamos el presupuesto. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/): en La Palma sin desplazamiento, en el resto de islas con desplazamiento y según disponibilidad.
+Mándanos el municipio, las hectáreas, si la finca va a cielo abierto o tiene parte bajo malla de cubierta, y qué problema quieres tratar. Con eso te decimos si el dron encaja y te preparamos el presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/): en La Palma sin desplazamiento, en el resto de islas con desplazamiento y según disponibilidad.
 
 ```json
 {
@@ -104,7 +106,7 @@ Mándanos el municipio, las hectáreas, si la finca va a cielo abierto o tiene p
         {
           "@type": "Question",
           "name": "¿Se puede fumigar con dron una platanera con malla cortavientos?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si la malla es vertical, de lindero, y la finca queda abierta por arriba. No se trata desde el aire la platanera bajo malla de cubierta o invernadero, como la mayoría de la del sur de Tenerife o las 165 ha bajo protección de Villa de Mazo." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si la malla es vertical, de lindero, y la finca queda abierta por arriba. No se trata desde el aire la platanera bajo malla de cubierta o invernadero, como la del sur de Tenerife o las 165 ha bajo protección de Villa de Mazo." }
         },
         {
           "@type": "Question",
@@ -114,12 +116,12 @@ Mándanos el municipio, las hectáreas, si la finca va a cielo abierto o tiene p
         {
           "@type": "Question",
           "name": "¿Cuánto se tarda en tratar una hectárea de platanera con dron?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la forma de la parcela, de los obstáculos y de la dosis que marque el plan de aplicación. No damos cifras de rendimiento sin ver la finca: con el plano y el producto te decimos cuántos vuelos y recargas hacen falta." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la forma de la parcela, de los obstáculos y de la dosis del plan de aplicación. No damos cifras de rendimiento sin ver la finca: con el plano y el producto te decimos cuántos vuelos hacen falta." }
         },
         {
           "@type": "Question",
           "name": "¿Hay que parar el corte el día del tratamiento?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Solo en la parcela que se trata y mientras dura el vuelo. Después se respeta el plazo de seguridad de la etiqueta antes de volver a cortar en esa parcela. El resto de la finca sigue con su ritmo." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Solo en la parcela que se trata y mientras dura el vuelo. Después se respeta el plazo de seguridad de la etiqueta antes de volver a cortar ahí. El resto de la finca sigue con su ritmo." }
         }
       ]
     }
