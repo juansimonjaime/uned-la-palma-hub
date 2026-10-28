@@ -18,19 +18,19 @@ San Cristóbal de La Laguna tenía 1.676 hectáreas cultivadas, 456 de platanera
 
 ## Costa norte: Tejina, Bajamar, Valle de Guerra y Punta del Hidalgo
 
-Entre el mar y los 300 metros está la platanera lagunera, históricamente al aire libre [VERIFICAR: proporción actual bajo malla o invernadero en la costa de La Laguna], con cortavientos y un clima más cálido que el de la ciudad. El dron trata desde arriba una planta alta; el radar de matriz en fase y la visión binocular del DJI Agras T50 detectan cortavientos, cables y edificios.
+En la franja baja de la costa norte está la platanera lagunera, históricamente al aire libre [VERIFICAR: proporción actual bajo malla o invernadero en la costa de La Laguna], con cortavientos y un clima más cálido que el de la ciudad. El dron trata desde arriba una planta alta; el radar de matriz en fase y la visión binocular del DJI Agras T50 detectan cortavientos, cables y edificios.
 
 Hay una excepción grande: los invernaderos de flor cortada y planta ornamental que cubren el valle de Tejina (elcanario.net). Nada de eso se trata con dron. En Valle de Guerra queda viña de la DO Tacoronte-Acentejo, que sí.
 
 ## La Vega Lagunera y Los Rodeos: papa, cereal y forraje en llano
 
-La meseta, entre 550 y 650 metros, concentraba en 2007 más de 500 hectáreas de secano con forrajeros y cereales (ISTAC vía elcanario.net), además de la papa. Es llana, ventosa y con nieblas frecuentes. El tractor entra sin problema; aquí el dron suma con el suelo encharcado, para no pisar el cultivo o en parcelas partidas por muros y acequias.
+La meseta de la ciudad y el aeropuerto concentraba en 2007 más de 500 hectáreas de secano con forrajeros y cereales (ISTAC vía elcanario.net), además de la papa. Es llana, ventosa y con nieblas frecuentes. El tractor entra sin problema; aquí el dron suma con el suelo encharcado, para no pisar el cultivo o en parcelas partidas por muros y acequias.
 
 Hay otro condicionante propio de La Laguna: el aeropuerto de Los Rodeos. Su entorno condiciona la planificación de los vuelos y las autorizaciones que haya que pedir; la referencia para cada finca es el mapa de zonas geográficas de UAS de ENAIRE (https://drones.enaire.es/), que se consulta antes de aceptar un trabajo en la Vega.
 
 ## Anaga lagunero: bancales en pendiente
 
-La parte de Anaga que cae en La Laguna son bancales en ladera, huerta y viña de la DO en parcelas pequeñas [VERIFICAR: superficie cultivada en el Anaga lagunero]. Pistas estrechas, mucha humedad y accesos a pie. Es donde la mochila pesa más y donde el dron, que ajusta la velocidad a la pendiente, evita subir escalones con el caldo encima.
+En la parte de Anaga que cae en La Laguna hay bancales en ladera, huerta y viña de la DO en parcelas pequeñas [VERIFICAR: superficie cultivada en el Anaga lagunero]. Pistas estrechas, mucha humedad y accesos a pie. Es donde la mochila pesa más y donde el dron, que ajusta la velocidad a la pendiente, evita subir escalones con el caldo encima.
 
 [IMAGEN: Bancales de cultivo en una ladera de Anaga, en el término de La Laguna, con niebla en la cumbre | alt: Bancales en pendiente del macizo de Anaga, San Cristóbal de La Laguna]
 
@@ -44,7 +44,7 @@ La cochinilla algodonosa (Dysmicoccus grassii) sigue entre los principales probl
 
 Se parte de la finca: ubicación, cultivo, superficie, accesos y obstáculos. Se planifica el vuelo sobre el mapa, se consulta ENAIRE si la parcela está cerca de Los Rodeos, se revisa el viento el día del vuelo y se aplica la dosis de etiqueta desde el depósito de 40 litros del T50 (ficha técnica de DJI).
 
-Sobre el papel, el Ministerio de Agricultura trata la pulverización con dron como un tratamiento aéreo (nota MAPA-AESA de 2018), con la autorización y el plan de aplicación que eso exige ante el Gobierno de Canarias, y el operador vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01.
+En cuanto a la norma, el Ministerio de Agricultura trata la pulverización con dron como un tratamiento aéreo (nota MAPA-AESA de 2018), con la autorización y el plan de aplicación que eso exige ante el Gobierno de Canarias, y el operador vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01.
 
 Amplían el contexto [dron agrícola para platanera](https://agrodroncanarias.es/dron-agricola-platanera/), [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/) y el hub de [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/); los vecinos de [Tegueste](https://agrodroncanarias.es/dron-agricola-tenerife/tegueste/) y [Tacoronte](https://agrodroncanarias.es/dron-agricola-tenerife/tacoronte/) tienen página propia.
 

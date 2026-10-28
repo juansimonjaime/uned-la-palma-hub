@@ -18,7 +18,7 @@ Santa Úrsula no tiene llano. El término arranca en los acantilados de la Costa
 
 ## Acantilado, medianías en pendiente y bancales: el terreno
 
-La costa es acantilada y protegida como Paisaje Protegido de la Costa de Acentejo; queda algo de platanera y frutales [VERIFICAR: superficie de platanera y frutales en la costa de Santa Úrsula]. Desde los 300 metros la ladera se escalona en bancales de viña y papa hasta tocar el pinar, lindando con La Orotava.
+La costa es acantilada y protegida como Paisaje Protegido de la Costa de Acentejo; queda algo de platanera y frutales [VERIFICAR: superficie de platanera y frutales en la costa de Santa Úrsula]. Desde los 300 metros la ladera se escalona en bancales de viña y papa hasta tocar el pinar; el término linda con La Orotava.
 
 Caminos estrechos, muros de piedra seca y parcelas con acceso solo peatonal. La vertiente mira al norte: barlovento del alisio, mar de nubes entre 600 y 1.500 metros y una humedad que en las medianías de Acentejo no da tregua a la viña.
 

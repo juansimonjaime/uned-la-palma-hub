@@ -12,7 +12,7 @@ municipio: "San Bartolomé de Tirajana"
 
 # Dron agrícola en San Bartolomé de Tirajana: el año del albaricoque y la viña
 
-San Bartolomé de Tirajana es el mayor productor de albaricoque de Canarias, con entre 15 y 20 hectáreas en Hoya Grande, Tunte, Fataga, Cercados de Araña y Manzanilla, y en 2021 recogió 55.000 kilos, el doble que el año anterior (Canarias7). Suma unas 20 hectáreas de viña y tres bodegas (maspalomas.com). Un dron agrícola en San Bartolomé de Tirajana se piensa por meses: cuándo florece el albaricoque, cuándo brota la viña y cuándo vale volar.
+San Bartolomé de Tirajana es el mayor productor de albaricoque de Canarias, con entre 15 y 20 hectáreas en Hoya Grande, Tunte, Fataga, Cercados de Araña y Manzanilla, y en 2021 recogió 55.000 kilos, el doble que en 2020 (Canarias7). Suma unas 20 hectáreas de viña y tres bodegas (maspalomas.com). Un dron agrícola en San Bartolomé de Tirajana se piensa por meses: cuándo florece el albaricoque, cuándo brota la viña y cuándo vale volar.
 
 [IMAGEN: Bancales de albaricoqueros en flor en Tunte, con la caldera de Tirajana al fondo | alt: Albaricoqueros en flor en bancales de Tunte, San Bartolomé de Tirajana]
 
@@ -22,13 +22,13 @@ Lo que condiciona todo: Agrodrón Canarias sale desde Santa Cruz de La Palma, as
 
 El albaricoque abre el año. La flor sale al final del invierno en los bancales de Fataga y Tirajana [VERIFICAR: fechas locales de floración]; la cosecha de 2021 ya se contaba a mediados de junio (Canarias7). Entre flor y recogida, el Ayuntamiento reparte mosqueros contra la mosca de la fruta (1.700 en una campaña, maspalomas.com) [VERIFICAR: especie].
 
-La viña va detrás. En Los Azules, Tunte, se abrió la vendimia insular de 2025 el 30 de junio, con oídio y menos cosecha que en 2024: la humedad alta y las temperaturas moderadas de primavera favorecieron el hongo y retrasaron la maduración (Canarias7, julio de 2025).
+La viña va detrás. En Los Azules, Tunte, se abrió la vendimia insular de 2025 el 30 de junio, con oídio y menos cosecha que en 2024: humedad alta y temperaturas moderadas en primavera favorecieron el hongo y retrasaron la maduración (Canarias7, julio de 2025).
 
-En la costa, tomate y pepino van bajo invernadero; en los barrancos hay mango, aguacate y papaya (ULPGC), y el olivar comparte con Agüimes y Santa Lucía las 230 hectáreas de la isla (Gobierno de Canarias 2022 vía Canarias7).
+En los barrancos hay además mango, aguacate y papaya (ULPGC), y el olivar comparte con Agüimes y Santa Lucía las 230 hectáreas de la isla (Gobierno de Canarias 2022 vía Canarias7).
 
 ## Cuándo encaja un dron agrícola en San Bartolomé de Tirajana
 
-En el albaricoque, la ventana con sentido va de la brotación al engorde del fruto, siempre con producto autorizado para aplicación aérea en frutal de hueso y fuera de la floración. En plena recogida no se vuela.
+En el albaricoque, la ventana va de la brotación al engorde del fruto, con producto autorizado para aplicación aérea en frutal de hueso y fuera de la floración. En plena recogida no se vuela.
 
 En la viña, una primavera húmeda como la de 2025 es la época de riesgo de oídio y mildiu; Agrocabildo, que considera el oídio endémico en Canarias, marca además riesgo alto a finales de julio y botritis en envero. En Tunte, con vendimia a finales de junio, todo se adelanta y la última aplicación respeta el plazo de seguridad.
 
@@ -38,7 +38,7 @@ En mango y aguacate la temporada es larga y el calendario lo pone la plaga: ara�
 
 ## Bancales de 400 a 900 metros: terreno y accesos
 
-Es el municipio más extenso de Gran Canaria y casi todo es monte: el regadío apenas llega al 2,3 % del suelo rústico (Catastro 2009, Enciclopedia Guanche). Las fincas de albaricoque y viña son bancales pequeños en la pared de los barrancos, con pistas estrechas donde un tractor con atomizador no da la vuelta.
+Es el municipio más extenso de Gran Canaria y casi todo es monte: el regadío apenas llega al 2,3 % del suelo rústico (Catastro 2009, Enciclopedia Guanche). Albaricoque y viña van en bancales pequeños en la pared de los barrancos, con pistas donde un tractor con atomizador no da la vuelta.
 
 El DJI Agras T50 sigue el relieve y detecta obstáculos con radar de matriz en fase y visión binocular, y ajusta la velocidad a la pendiente (ficha técnica de DJI). En un bancal de albaricoqueros a 700 metros, la furgoneta se queda en la pista y el dron trabaja sobre los árboles; con 40 litros de depósito, las recargas son frecuentes y cortas.
 
@@ -48,11 +48,11 @@ El sur está a sotavento: costa de Maspalomas muy árida y en calma, y cumbre fr
 
 ## La costa de invernaderos se queda fuera
 
-A mediados del siglo XX la costa de Tirajana tenía más de 500 hectáreas de tomate (ULPGC). Lo que queda de tomate y pepino va bajo invernadero [VERIFICAR: hectáreas actuales], y ni plástico ni malla se atraviesan con pulverización aérea. El dron en San Bartolomé es cosa de la medianía, no de la costa.
+A mediados del siglo XX la costa de Tirajana tenía más de 500 hectáreas de tomate (ULPGC). Lo que queda de tomate y pepino va bajo invernadero [VERIFICAR: hectáreas actuales], y el plástico no se atraviesa con pulverización aérea: el dron aquí es cosa de la medianía, no de la costa.
 
 ## Autorización y salida desde La Palma
 
-Cada tratamiento con dron se tramita como aplicación aérea: prohibida con carácter general en España y permitida solo en casos especiales, con autorización previa de la comunidad autónoma y plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28), y con productos cuya autorización incluya expresamente la aplicación aérea (anexo VI). El dron entra en ese régimen por la nota del Ministerio de Agricultura y AESA de 2018.
+Cada tratamiento con dron se tramita como aplicación aérea: prohibida con carácter general en España y permitida solo en casos especiales, con autorización previa de la comunidad autónoma y plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28), con productos cuya autorización incluya expresamente la aplicación aérea (anexo VI). Así lo fija para los drones la nota del Ministerio de Agricultura y AESA de 2018.
 
 La isla, en [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/); la viña, en [tratamientos con dron en viña](https://agrodroncanarias.es/dron-agricola-vina/), y los frutales, en [dron para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/). Al otro lado de la divisoria, [dron agrícola en Mogán](https://agrodroncanarias.es/dron-agricola-gran-canaria/mogan/).
 
@@ -69,9 +69,6 @@ No. Van bajo invernadero y la pulverización aérea no entra; el servicio se cen
 
 ### ¿Cuánto cuesta una salida del dron a San Bartolomé de Tirajana?
 No hay tarifa fija. Depende de la superficie, el cultivo, el acceso al bancal, el producto y el desplazamiento desde La Palma.
-
-### ¿Qué pasa si el día previsto hay viento o niebla en la cumbre?
-Se aplaza. Se vuela con calma y sin niebla; la fecha definitiva se confirma con la previsión del día anterior.
 
 ## Pide presupuesto para tu finca de Tunte, Fataga o los barrancos del sur
 
@@ -126,11 +123,6 @@ Si tienes albaricoqueros, viña, mangos o aguacates al aire libre en San Bartolo
           "@type": "Question",
           "name": "¿Cuánto cuesta una salida del dron a San Bartolomé de Tirajana?",
           "acceptedAnswer": { "@type": "Answer", "text": "No hay tarifa fija. Depende de la superficie, el cultivo, el acceso al bancal, el producto y el desplazamiento desde La Palma." }
-        },
-        {
-          "@type": "Question",
-          "name": "¿Qué pasa si el día previsto hay viento o niebla en la cumbre?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Se aplaza. Se vuela con calma y sin niebla; la fecha definitiva se confirma con la previsión del día anterior." }
         }
       ]
     }

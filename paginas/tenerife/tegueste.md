@@ -12,7 +12,7 @@ municipio: "Tegueste"
 
 # Dron agrícola en Tegueste: respuestas para el viticultor del valle
 
-Tegueste es un valle interior sin salida al mar, encajado entre lomas a 300-700 metros, con más de 300 hectáreas de viña entre el valle de Tegueste y El Socorro según GEVIC (fuente sin fecha) y una papa temprana propia. Las preguntas de los viticultores de aquí se parecen y las respondemos una a una. Un dron agrícola en Tegueste trabaja con desplazamiento desde La Palma y bajo consulta de disponibilidad.
+Tegueste es un valle interior sin salida al mar, encajado entre lomas, con más de 300 hectáreas de viña entre el valle de Tegueste y El Socorro según GEVIC (fuente sin fecha) y la papa temprana teguestera. Las preguntas de los viticultores de aquí se parecen y las respondemos una a una. Un dron agrícola en Tegueste trabaja con desplazamiento desde La Palma y bajo consulta de disponibilidad.
 
 [IMAGEN: Viñas en el fondo del valle de Tegueste con las lomas alrededor y niebla bajando desde Anaga | alt: Viñedo en el valle de Tegueste, Tenerife, con las lomas y la niebla de Anaga al fondo]
 
@@ -42,7 +42,7 @@ Cultivo bajo, al aire libre y en parcelas pequeñas: tratable con dron. Los dos 
 
 ## ¿Qué hace falta para contratar un tratamiento con dron en Tegueste?
 
-Tres cosas tuyas: los datos de la finca (ubicación, superficie, accesos, cables o árboles altos alrededor), y el producto que quieres aplicar. La aplicación aérea de fitosanitarios solo se permite en España en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación (Real Decreto 1311/2012, artículos 27 y 28), y solo con productos cuya autorización incluya expresamente la aplicación aérea (anexo VI).
+Dos cosas tuyas: los datos de la finca (ubicación, superficie, accesos, cables o árboles altos alrededor) y el producto que quieres aplicar. La aplicación aérea de fitosanitarios solo se permite en España en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación (Real Decreto 1311/2012, artículos 27 y 28), y solo con productos cuya autorización incluya expresamente la aplicación aérea (anexo VI).
 
 Nosotros preparamos el plan de vuelo sobre el mapa de tu parcela, comprobamos viento y humedad antes de despegar y dejamos el tratamiento registrado.
 

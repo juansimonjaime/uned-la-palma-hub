@@ -18,13 +18,13 @@ La viña de La Victoria de Acentejo está colgada en terrazas entre los 300 y lo
 
 ## Cómo está plantada la viña de La Victoria
 
-La comarca de Acentejo suma 1.583 hectáreas de viña cultivada según el ICCA del Gobierno de Canarias; el Consejo Regulador, contaba en 2022 con 760 hectáreas inscritas, 1.100 viticultores y 32 bodegas. Para La Victoria no hay dato municipal localizado [VERIFICAR: hectáreas de viña en la ficha del Mapa de Cultivos de La Victoria de Acentejo].
+La comarca de Acentejo suma 1.583 hectáreas de viña cultivada según el ICCA del Gobierno de Canarias; el Consejo Regulador contaba en 2022 con 760 hectáreas inscritas, 1.100 viticultores y 32 bodegas. Para La Victoria no hay dato municipal localizado [VERIFICAR: hectáreas de viña en la ficha del Mapa de Cultivos de La Victoria de Acentejo].
 
 Por encima de los 600 metros entra el mar de nubes del alisio y la humedad se queda en la hoja buena parte del año: ahí viven los hongos.
 
 ## Mildiu, oídio y botritis: lo que marcan los avisos del Cabildo
 
-El Cabildo de Tenerife publica avisos fitosanitarios de la viña por comarca para mildiu, oídio y botritis, actualizados a diario (datos.tenerife.es). En una campaña reciente hubo riesgo alto de oídio en las zonas bajas de la isla entre el 30 de abril y el 7 de mayo (AtlánticoHoy).
+El Cabildo de Tenerife publica avisos fitosanitarios de la viña por comarca para mildiu, oídio y botritis, actualizados a diario (datos.tenerife.es). En una campaña reciente hubo riesgo alto de oídio en las zonas bajas de la isla entre el 30 de abril y el 7 de mayo.
 
 El oídio es endémico en Canarias (guía de la viña de Agrocabildo, 2020), y a finales de julio el boletín de Agrocabildo mantenía riesgo elevado de oídio, medio de mildiu y atención a la botritis en envero.
 
@@ -41,7 +41,6 @@ El DJI Agras T50 lleva radar de matriz en fase y visión binocular: sigue el sal
 ## Cómo se organiza un tratamiento con dron en La Victoria
 
 Primero, los datos de la finca: dónde está, cultivo, superficie, accesos y obstáculos (cables, invernaderos de vecinos, árboles altos). Con eso se planifica el vuelo sobre el mapa y se fija la dosis de etiqueta y del plan de aplicación. El día del tratamiento se comprueban viento y humedad, se aplica y se registra.
-
 
 ## Límites: viento, cubiertas y autorización
 
