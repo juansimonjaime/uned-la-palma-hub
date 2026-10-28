@@ -20,10 +20,10 @@ Tenerife cultivaba 17.143 hectáreas en 2024, el 43,3 % de la superficie cultiva
 
 El Mapa de Cultivos de la campaña 2021 contó 18.738 hectáreas, 1.119 más que el anterior: huerta (con barbecho) 43 %, platanera 20 %, viña 15,6 % y frutales 12,7 %. Viña y tomate retrocedieron; el aguacate creció.
 
-- Platanera: 45 % de la superficie platanera canaria en 2022 (CCE a partir del ISTAC), unas 4.000 hectáreas [VERIFICAR: cifra actual]. En Canarias unas 3.200 de 9.100 hectáreas van bajo invernadero o malla (eldiario.es, 2023); en Tenerife esa parte está en el sur, sobre todo en Arona (Guía Repsol).
+- Platanera: 45 % de la superficie platanera canaria en 2022 (CCE a partir del ISTAC), unas 4.000 hectáreas [VERIFICAR: cifra actual]. En Canarias unas 3.200 de 9.100 hectáreas van bajo cubierta (eldiario.es, 2023); en Tenerife, sobre todo en el sur y en Arona (Guía Repsol).
 - Viña: 2.763,5 hectáreas (ISTAC vía Diagnóstico de la viticultura, 2020) [VERIFICAR: año del dato], cinco denominaciones de origen, toda descubierta.
 - Papa: tercer cultivo; 2.869 hectáreas (Cabildo, 2019) o 1.745 (Mapa de Cultivos 2021) [VERIFICAR: conciliar cifras].
-- Aguacate: de 694 a 790 hectáreas entre 2021 y 2022 (Cabildo), el doble que diez años antes.
+- Aguacate: de 694 a 790 hectáreas entre 2021 y 2022 (Cabildo), el doble en diez años.
 - Tomate (102,4 hectáreas en 2021) y ornamentales: casi todo bajo cubierta, fuera del dron.
 
 Más detalle: [dron agrícola para platanera](https://agrodroncanarias.es/dron-agricola-platanera/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/) y [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/).
@@ -35,16 +35,16 @@ Más detalle: [dron agrícola para platanera](https://agrodroncanarias.es/dron-a
 - Acentejo: viña en terrazas de 300 a 750 metros.
 - La Laguna y Anaga: platanera en Tejina, papa en la Vega.
 - Valle de Güímar: viña en bancal y jable, platanera en costa.
-- Abona: papa de cotas altas, viña hasta 1.600 metros, tomate bajo plástico.
+- Abona: papa de cotas altas, viña hasta 1.600 metros.
 - Suroeste: la mayor platanera de la isla, en parte cubierta.
 
 [IMAGEN: Dron agrícola DJI Agras T50 sobre un bancal de viña en terrazas con muros de piedra y el mar de nubes del norte de Tenerife detrás | alt: Dron agrícola tratando viña en terrazas en las medianías del norte de Tenerife]
 
 ## Cómo se organiza una salida desde La Palma
 
-No tenemos base en Tenerife: cada salida parte de Santa Cruz de La Palma con el DJI Agras T50, el piloto y el equipo de apoyo, agrupando fincas de una comarca; por eso hablamos de disponibilidad y no de fechas garantizadas.
+No tenemos base en Tenerife: cada salida parte de Santa Cruz de La Palma con el T50, el piloto y el equipo de apoyo, agrupando fincas de una comarca; por eso hablamos de disponibilidad, no de fechas garantizadas.
 
-El T50 carga 40 litros, pulveriza hasta 16 litros por minuto con dos boquillas centrífugas (24 con cuatro) y sigue el relieve con radar y visión binocular, regulando la velocidad con la pendiente.
+El T50 carga 40 litros, pulveriza hasta 16 litros por minuto con dos boquillas centrífugas (24 con cuatro) y sigue el relieve con radar y visión binocular.
 
 La aplicación aérea de fitosanitarios está prohibida en España con carácter general; se autoriza en casos especiales, con permiso previo del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (RD 1311/2012, artículos 27 y 28). El Ministerio de Agricultura trata los drones como medio aéreo (nota MAPA–AESA, 2018) y solo valen productos cuya autorización recoja expresamente la aplicación aérea (anexo VI); el piloto vuela en categoría específica de AESA/EASA.
 
@@ -52,35 +52,35 @@ La aplicación aérea de fitosanitarios está prohibida en España con carácter
 
 - [Dron agrícola en La Orotava](https://agrodroncanarias.es/dron-agricola-tenerife/la-orotava/): papa, viña y platanera.
 - [Dron agrícola en Los Realejos](https://agrodroncanarias.es/dron-agricola-tenerife/los-realejos/): papa, viña y aguacate.
-- [Dron agrícola en Icod de los Vinos](https://agrodroncanarias.es/dron-agricola-tenerife/icod-de-los-vinos/): platanera en costa y viña.
+- [Dron agrícola en Icod de los Vinos](https://agrodroncanarias.es/dron-agricola-tenerife/icod-de-los-vinos/): platanera y viña.
 - [Dron agrícola en Garachico](https://agrodroncanarias.es/dron-agricola-tenerife/garachico/): platanera (204,6 ha, 2011).
 - [Dron agrícola en Los Silos](https://agrodroncanarias.es/dron-agricola-tenerife/los-silos/): platanera (542,9 ha, 2011).
-- [Dron agrícola en Buenavista del Norte](https://agrodroncanarias.es/dron-agricola-tenerife/buenavista-del-norte/): platanera (567,2 ha, 2011) y Teno.
+- [Dron agrícola en Buenavista del Norte](https://agrodroncanarias.es/dron-agricola-tenerife/buenavista-del-norte/): platanera (567,2 ha, 2011).
 - [Dron agrícola en Tacoronte](https://agrodroncanarias.es/dron-agricola-tenerife/tacoronte/): cabecera de la DO, viña.
-- [Dron agrícola en El Sauzal](https://agrodroncanarias.es/dron-agricola-tenerife/el-sauzal/): viña, sede del Consejo Regulador.
+- [Dron agrícola en El Sauzal](https://agrodroncanarias.es/dron-agricola-tenerife/el-sauzal/): viña y Casa del Vino.
 - [Dron agrícola en La Matanza de Acentejo](https://agrodroncanarias.es/dron-agricola-tenerife/la-matanza-de-acentejo/): viña y papa.
 - [Dron agrícola en La Victoria de Acentejo](https://agrodroncanarias.es/dron-agricola-tenerife/la-victoria-de-acentejo/): viña en terrazas, 300-750 m.
 - [Dron agrícola en Santa Úrsula](https://agrodroncanarias.es/dron-agricola-tenerife/santa-ursula/): viña de Acentejo.
 - [Dron agrícola en Tegueste](https://agrodroncanarias.es/dron-agricola-tenerife/tegueste/): más de 300 ha de viña.
-- [Dron agrícola en La Laguna](https://agrodroncanarias.es/dron-agricola-tenerife/san-cristobal-de-la-laguna/): platanera en Tejina, papa en la Vega.
+- [Dron agrícola en La Laguna](https://agrodroncanarias.es/dron-agricola-tenerife/san-cristobal-de-la-laguna/): platanera en Tejina y papa.
 - [Dron agrícola en Candelaria](https://agrodroncanarias.es/dron-agricola-tenerife/candelaria/): viña de secano (184,5 ha).
 - [Dron agrícola en Guía de Isora](https://agrodroncanarias.es/dron-agricola-tenerife/guia-de-isora/): primer platanero (845,4 ha, 2021).
 - [Dron agrícola en Adeje](https://agrodroncanarias.es/dron-agricola-tenerife/adeje/): platanera (565 ha) y viña.
 - [Dron agrícola en Arona](https://agrodroncanarias.es/dron-agricola-tenerife/arona/): platanera (685,7 ha), mayoría bajo invernadero.
 - [Dron agrícola en San Miguel de Abona](https://agrodroncanarias.es/dron-agricola-tenerife/san-miguel-de-abona/): papa de cotas altas y viña.
-- [Dron agrícola en Granadilla de Abona](https://agrodroncanarias.es/dron-agricola-tenerife/granadilla-de-abona/): papa de altura, viento de El Médano.
+- [Dron agrícola en Granadilla de Abona](https://agrodroncanarias.es/dron-agricola-tenerife/granadilla-de-abona/): papa de altura y viña.
 - [Dron agrícola en Vilaflor de Chasna](https://agrodroncanarias.es/dron-agricola-tenerife/vilaflor-de-chasna/): papa tardía y viña hasta 1.600 m.
 - [Dron agrícola en Arico](https://agrodroncanarias.es/dron-agricola-tenerife/arico/): papa, viña y pitaya.
 - [Dron agrícola en Güímar](https://agrodroncanarias.es/dron-agricola-tenerife/guimar/): 151 ha de viña, 90 de platanera.
 
 ## Municipios sin página propia
 
-Nueve municipios no tienen página por poca superficie, cultivo bajo cubierta o carácter urbano: Arafo (unas 100 ha estimadas, 2016), El Rosario (residencial, sin cifra), El Tanque (papa y viña, poca superficie), Fasnia (sin dato, tomate bajo invernadero), La Guancha (unas 300 ha labradas, fuente sin fecha), Puerto de la Cruz (urbano, 8,7 km²), San Juan de la Rambla (pequeño, sin cifra), Santa Cruz de Tenerife (219 ha en 2013, Anaga) y Santiago del Teide (unas 44 ha de viña y almendro).
+Nueve municipios no tienen página por poca superficie, cultivo bajo cubierta o carácter urbano: Arafo (unas 100 ha estimadas, 2016), El Rosario (residencial, sin cifra), El Tanque (papa y viña, poca superficie), Fasnia (sin dato, tomate bajo invernadero), La Guancha (unas 300 ha labradas, sin fecha), Puerto de la Cruz (urbano, 8,7 km²), San Juan de la Rambla (pequeño, sin cifra), Santa Cruz de Tenerife (219 ha en 2013, Anaga) y Santiago del Teide (unas 44 ha de viña y almendro).
 
 ## Preguntas frecuentes sobre el dron agrícola en Tenerife
 
 ### ¿Agrodrón Canarias tiene base en Tenerife?
-No. La base está en Santa Cruz de La Palma; las salidas a Tenerife van con desplazamiento, agrupando fincas de una comarca, y se confirman según disponibilidad.
+No. La base está en Santa Cruz de La Palma; las salidas van con desplazamiento, agrupando fincas de una comarca, y se confirman según disponibilidad.
 
 ### ¿Se puede tratar con dron la platanera bajo invernadero del sur de Tenerife?
 No. El dron solo trata cultivo descubierto: la piña bajo malla o plástico de Arona, Adeje o Guía de Isora queda fuera; la del norte, al aire libre, sí.
@@ -128,7 +128,7 @@ Busca tu municipio en la lista y escríbenos con finca, cultivo y superficie des
         {
           "@type": "Question",
           "name": "¿Agrodrón Canarias tiene base en Tenerife?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. La base está en Santa Cruz de La Palma; las salidas a Tenerife van con desplazamiento, agrupando fincas de una comarca, y se confirman según disponibilidad." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. La base está en Santa Cruz de La Palma; las salidas van con desplazamiento, agrupando fincas de una comarca, y se confirman según disponibilidad." }
         },
         {
           "@type": "Question",
