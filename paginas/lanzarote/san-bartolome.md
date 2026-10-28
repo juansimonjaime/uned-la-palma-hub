@@ -12,7 +12,7 @@ municipio: "San Bartolomé"
 
 # Dron agrícola en San Bartolomé (Lanzarote): preguntas desde el jable y la viña
 
-Hablamos de San Bartolomé de Lanzarote, el municipio del centro de la isla cuyos vecinos son los Batateros, no del San Bartolomé de Tirajana grancanario. Aquí el jable, la arena marina que el alisio arrastra desde Famara (FAO, 2025), da batata casi sin riego; el enarenado da cebolla y el borde oeste entra en La Geria. Un dron agrícola en San Bartolomé plantea preguntas propias. Lo básico primero: Agrodrón Canarias tiene base en Santa Cruz de La Palma y viene a Lanzarote con desplazamiento y bajo consulta.
+Hablamos de San Bartolomé de Lanzarote, el municipio del centro de la isla cuyos vecinos son los Batateros, no del San Bartolomé de Tirajana grancanario. El jable, arena marina que el alisio arrastra desde Famara (FAO, 2025), da batata casi sin riego; el enarenado da cebolla y el borde oeste entra en La Geria. Un dron agrícola en San Bartolomé plantea preguntas propias. Lo básico primero: Agrodrón Canarias tiene base en Santa Cruz de La Palma y viene a Lanzarote con desplazamiento y bajo consulta.
 
 [IMAGEN: Llano del jable entre San Bartolomé y Teguise con surcos de batata sobre arena clara y conos volcánicos al fondo | alt: Cultivo de batata en el jable de San Bartolomé, Lanzarote]
 
