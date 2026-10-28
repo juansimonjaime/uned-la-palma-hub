@@ -1,0 +1,141 @@
+---
+title: "Dron agrícola en Breña Alta | Agrodrón Canarias"
+slug: "brena-alta"
+meta_description: "Dron agrícola en Breña Alta zona a zona: aguacate y viña de medianías, platanera en 1,3 km de costa, proteas y lo que no se trata desde el aire. Pide presupuesto."
+keyword: "dron agrícola en Breña Alta"
+keywords_secundarias: "fumigar con dron en Breña Alta, tratamiento con drones en aguacate, dron fitosanitario La Palma, pulverización aérea Breña Alta, dron para proteas y flor cortada"
+parent: "dron-agricola-la-palma"
+nivel: "A"
+isla: "La Palma"
+municipio: "Breña Alta"
+---
+
+# Dron agrícola en Breña Alta: qué se puede tratar en cada zona del municipio
+
+Breña Alta tiene 30,82 kilómetros cuadrados y solo 1,30 de costa (Gobierno de Canarias), así que casi toda su agricultura está en las medianías de la vertiente este, en laderas de pendiente media-alta cortadas en bancales. Son 350 hectáreas en producción en 2019 (Observatorio de Sostenibilidad de la Reserva de la Biosfera) en fincas pequeñas y variadas: aguacate, viña rastrera, platanera abajo, huerta, proteas y flor. Un dron agrícola en Breña Alta sirve para unas y no para otras; aquí las separamos zona por zona.
+
+[IMAGEN: Bancales de aguacateros en una ladera de medianías de Breña Alta, con el mar de nubes entrando desde el nordeste y el casco urbano abajo | alt: fincas de aguacate en bancales en las medianías de Breña Alta, La Palma]
+
+## La costa: 1,3 kilómetros de litoral y la platanera que queda
+
+Con tan poco frente de mar, la platanera de Breña Alta es una franja estrecha [VERIFICAR: hectáreas de platanera en el Mapa de Cultivos], más soleada que el resto del término y con las plagas de toda la platanera canaria: picudo negro, cochinilla algodonosa y trips. La pendiente es menor y las fincas en sorriba se tratan bien desde el aire si están al aire libre; lo que lleve malla de cubierta queda fuera. El detalle está en [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/).
+
+## Las medianías: aguacate, viña rastrera y huerta en bancales
+
+Aquí está el grueso. Breña Alta era en 2017 el cuarto municipio de la isla en aguacate, con 82 hectáreas y un 67,35 % más que en 2008 (Mapa de Cultivos de La Palma 2017, vía Canarias Agrícola), en fincas pequeñas y dispersas por las laderas [VERIFICAR: tamaño de las fincas de aguacate]. La plaga es conocida: el ácaro o araña cristalina, Oligonychus perseae, en La Palma desde 2005 y presente en todas las zonas productoras (Canal Agrario La Palma), con cochinilla Nipaecoccus nipae y trips detrás.
+
+Para el dron, el aguacatero es un árbol alto de copa densa plantado en bancal, muchas veces con una casa o una carretera a pocos metros. El T50 sigue el relieve con radar y visión binocular y detecta obstáculos, pero el trabajo de verdad está antes: dibujar cada bancal, cada cable y cada árbol que sobresale en el plan de vuelo. El cultivo, en [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/).
+
+La viña entra en la subzona Hoyo de Mazo de la DO Vinos La Palma, rastrera sobre picón o empedrados (ICCA) [VERIFICAR: hectáreas de viña en Breña Alta]. Tras el mildiu y el oídio que recorrieron el viñedo palmero en 2025 (El Time), una viña baja en una ladera sin acceso para tractor es candidata clara. Papas y huerta de medianías también se tratan al aire libre, agrupando parcelas chicas. Parte de este producto sale por la Cooperativa Campo Palmero.
+
+## Hacia la cumbre: proteas, mar de nubes y lo que se queda en tierra
+
+Subiendo hacia la Cumbre Nueva, con el mar de nubes del alisio casi fijo entre los 500 y los 1.200 metros, aparecen las proteas. La isla tiene entre 25 y 32 hectáreas repartidas por las medianías de casi todos los municipios, 45 agricultores y entre 1,1 y 1,5 millones de tallos por campaña, casi todos exportados (eldiario.es, Proteas de La Palma) [VERIFICAR: superficie de proteas en Breña Alta].
+
+Las proteas crecen al aire libre, así que podrían tratarse desde el aire. Pero los datos que manejamos no documentan plagas de protea con fuente canaria, y no vamos a inventar un problema para venderte un vuelo. La flor cortada y la planta ornamental van mayoritariamente bajo invernadero o malla, y ahí el dron no entra. Si tienes flor, lee [dron agrícola para flores y ornamentales](https://agrodroncanarias.es/dron-agricola-flores-ornamentales/) antes de llamar.
+
+[IMAGEN: Plantación de proteas al aire libre en las medianías altas de Breña Alta, con un invernadero de flor cortada al fondo bajo el mar de nubes | alt: proteas al aire libre e invernadero de flor cortada en las medianías de Breña Alta, La Palma]
+
+## Dónde encaja el dron agrícola en Breña Alta y dónde no
+
+| Zona | Cultivo | Encaje del dron |
+|---|---|---|
+| Costa | Platanera al aire libre | Sí, si no hay malla de cubierta |
+| Medianías | Aguacate, viña rastrera, papas, huerta | Sí, con plan de vuelo detallado por los obstáculos |
+| Medianías altas | Proteas al aire libre | Posible, sin plaga documentada que lo justifique |
+| Cualquier zona | Flor cortada e invernadero | No |
+
+## Cómo se trabaja entre fincas pequeñas y vecinos cerca
+
+Breña Alta está en la vertiente este, donde se dan los valores más altos de humedad media anual de la isla (AECLIM), y las ventanas de calma suelen darse por la mañana [VERIFICAR: régimen de viento en las medianías]. Antes de volar se miran viento y humedad en la propia parcela, no en el parte general.
+
+El resto es método: ubicación, cultivo, superficie, accesos y obstáculos; plan de vuelo sobre el mapa de cada bancal; dosis de la etiqueta y del plan de aplicación; registro. Con fincas de media hectárea o menos, lo habitual es tratar varias de la misma zona en una salida.
+
+El operador vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el análisis de riesgo PDRA-S01 (AESA, Reglamento de Ejecución UE 2019/947). Y como la aplicación aérea de fitosanitarios está prohibida en España con carácter general, cada tratamiento necesita autorización previa del Gobierno de Canarias y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28).
+
+## Preguntas frecuentes sobre tratamientos con dron en Breña Alta
+
+### ¿Se pueden tratar con dron los aguacateros de medianías de Breña Alta?
+
+Sí, si están al aire libre y la finca se puede mapear con sus obstáculos. La altura de los árboles y lo que haya alrededor marcan el plan de vuelo. Contra el ácaro cristalino, el producto y el momento los fija el plan de aplicación.
+
+### ¿Vale el dron para las proteas y la flor cortada de Breña Alta?
+
+Para flor bajo invernadero o malla, no. Para proteas al aire libre sería posible, pero no hay plaga documentada en nuestros datos que justifique un tratamiento, así que lo miramos caso por caso y sin prometer nada.
+
+### ¿Qué pasa si mi finca de Breña Alta está rodeada de casas y carreteras?
+
+Se estudia igual. Casas, carreteras, cables y vecinos se dibujan en el mapa antes de volar y condicionan el plan: hay fincas en las que se puede y otras en las que la respuesta es no. Te lo decimos con el mapa delante.
+
+### ¿Cuánto cuesta tratar con dron una finca pequeña en Breña Alta?
+
+Depende de la superficie, del cultivo, del acceso y del producto del plan de aplicación. En fincas chicas, juntar varias de la misma zona en una jornada cambia bastante el presupuesto.
+
+### ¿Con el mar de nubes de las medianías se puede volar?
+
+Con niebla cerrada o lluvia, no. Con nubosidad alta y poco viento, sí. Se decide en la finca el mismo día, con el anemómetro en la mano, y si no hay ventana se aplaza.
+
+## Pide presupuesto para tu finca de Breña Alta
+
+Dinos en [agrodroncanarias.es](https://agrodroncanarias.es/) en qué zona está la finca, qué cultivas y cuánta superficie tienes, y te decimos si el dron encaja y qué hace falta tramitar. Para el conjunto de la isla, mira el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/); si tu finca cae hacia el aeropuerto, está la página de [dron agrícola en Breña Baja](https://agrodroncanarias.es/dron-agricola-la-palma/brena-baja/).
+
+```json
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "name": "Tratamientos fitosanitarios con dron agrícola en Breña Alta",
+      "serviceType": "Tratamiento fitosanitario con dron agrícola",
+      "description": "Pulverización con dron DJI Agras T50 en aguacate, viña rastrera, platanera al aire libre y huerta de Breña Alta, zona por zona, con plan de vuelo adaptado a bancales y obstáculos.",
+      "url": "https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Agrodrón Canarias",
+        "url": "https://agrodroncanarias.es/",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Santa Cruz de La Palma",
+          "addressRegion": "Canarias",
+          "addressCountry": "ES"
+        }
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Breña Alta",
+        "containedInPlace": { "@type": "AdministrativeArea", "name": "La Palma" }
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Se pueden tratar con dron los aguacateros de medianías de Breña Alta?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si están al aire libre y la finca se puede mapear con sus obstáculos. La altura de los árboles y lo que haya alrededor marcan el plan de vuelo. Contra el ácaro cristalino, el producto y el momento los fija el plan de aplicación." }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Vale el dron para las proteas y la flor cortada de Breña Alta?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Para flor bajo invernadero o malla, no. Para proteas al aire libre sería posible, pero no hay plaga documentada en nuestros datos que justifique un tratamiento, así que lo miramos caso por caso y sin prometer nada." }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué pasa si mi finca de Breña Alta está rodeada de casas y carreteras?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Se estudia igual. Casas, carreteras, cables y vecinos se dibujan en el mapa antes de volar y condicionan el plan: hay fincas en las que se puede y otras en las que la respuesta es no. Te lo decimos con el mapa delante." }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto cuesta tratar con dron una finca pequeña en Breña Alta?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la superficie, del cultivo, del acceso y del producto del plan de aplicación. En fincas chicas, juntar varias de la misma zona en una jornada cambia bastante el presupuesto." }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Con el mar de nubes de las medianías se puede volar?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Con niebla cerrada o lluvia, no. Con nubosidad alta y poco viento, sí. Se decide en la finca el mismo día, con el anemómetro en la mano, y si no hay ventana se aplaza." }
+        }
+      ]
+    }
+  ]
+}
+```
