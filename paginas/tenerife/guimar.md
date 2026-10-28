@@ -1,7 +1,7 @@
 ---
 title: "Dron agrícola en Güímar | Agrodrón Canarias"
 slug: "guimar"
-meta_description: "Dron agrícola en Güímar: viña de la DO Valle de Güímar en bancales y platanera al aire libre en la costa (Mapa de Cultivos 2021). Desplazamiento desde La Palma."
+meta_description: "Dron agrícola en Güímar: viña DO Valle de Güímar en bancales y platanera al aire libre en la costa (Mapa de Cultivos 2021). Desplazamiento desde La Palma."
 keyword: "dron agrícola en Güímar"
 keywords_secundarias: "fumigar con dron en Güímar, tratamiento con drones en viña del Valle de Güímar, dron para plataneras en El Puertito, dron fitosanitario Tenerife"
 parent: "dron-agricola-tenerife"
@@ -12,7 +12,7 @@ municipio: "Güímar"
 
 # Dron agrícola en Güímar: de la viña del valle a la platanera de la costa
 
-La ficha del Mapa de Cultivos de Canarias de Güímar (campaña 2021) da 151,03 hectáreas de viña, 90,37 de platanera y 0,32 de tomate, sobre 2.561,77 hectáreas de superficie agraria útil que incluye lo no cultivado. Un dron agrícola en Güímar se explica cultivo por cultivo: primero la parra de bancal, después la piña de El Puertito y Chimisay. Trabajamos aquí con desplazamiento desde La Palma, previa consulta y según disponibilidad.
+La ficha del Mapa de Cultivos de Canarias de Güímar (campaña 2021) da 151,03 hectáreas de viña, 90,37 de platanera y 0,32 de tomate, sobre una SAU de 2.561,77 hectáreas que incluye lo no cultivado. Un dron agrícola en Güímar se explica cultivo por cultivo: primero la parra de bancal, después la piña de El Puertito y Chimisay. Trabajamos aquí con desplazamiento desde La Palma, previa consulta y según disponibilidad.
 
 [IMAGEN: Bancales de viña con muros de piedra en las medianías de Güímar, con el valle abierto al este y el mar al fondo | alt: Viña en bancales de la DO Valle de Güímar, Tenerife, con la costa platanera al fondo]
 
@@ -20,23 +20,23 @@ La ficha del Mapa de Cultivos de Canarias de Güímar (campaña 2021) da 151,03 
 
 La viña es el primer cultivo del municipio y la cabecera de la DO Valle de Güímar (con Arafo y Candelaria; las guías del sector la cifran entre 600 y 750 hectáreas). Ocupa las medianías de 300 a 900 metros, entre el casco y El Escobonal, en bancales de piedra y jable, muchas veces en secano y asociada a la papa.
 
-La ficha recoge la asociación viña-papa en una tabla parcialmente ilegible en nuestra consulta [VERIFICAR: hectáreas de viña-papa en la ficha de Güímar]. En el campo: parcelas pequeñas, parras bajas, muros en escalones y caminos sin sitio para el tractor.
+La ficha recoge la asociación viña-papa en una tabla parcialmente ilegible en nuestra consulta [VERIFICAR: hectáreas de viña-papa en la ficha de Güímar]. En el campo: parcelas pequeñas, parras bajas, muros en escalones y caminos sin tractor.
 
 ## Oídio, mildiu y botritis: lo que recogen los avisos del Cabildo
 
-El Cabildo publica avisos de mildiu, oídio y botritis de la viña por comarca, actualizados a diario (datos.tenerife.es). Entre el 30 de abril y el 7 de mayo de un año reciente dio riesgo alto de oídio en zonas bajas; el valle, abierto al este y con nieblas en las medianías altas, tiene sus boletines.
+El Cabildo publica avisos de mildiu, oídio y botritis de la viña por comarca, actualizados a diario (datos.tenerife.es). Entre el 30 de abril y el 7 de mayo de un año reciente dio riesgo alto de oídio en zonas bajas; el valle, abierto al este, tiene sus propios boletines.
 
-Desde 2025 hay otro frente: la filoxera, detectada en Tenerife con zona demarcada y 16 positivos sobre 5.429 prospecciones en 2026 (AtlánticoHoy) [VERIFICAR: si el Valle de Güímar está en la zona demarcada]. El dron no la combate, pero volar en lugar de entrar con maquinaria reduce movimientos entre viñas.
+Desde 2025 hay otro frente: la filoxera, detectada en Tenerife con zona demarcada y 16 positivos sobre 5.429 prospecciones en 2026 (AtlánticoHoy) [VERIFICAR: si el Valle de Güímar está en la zona demarcada]. El dron no la combate; sí reduce entradas de maquinaria en la viña.
 
 ## Por qué un dron agrícola en Güímar encaja en la viña de bancal
 
-Tratar una parra de bancal con mochila significa subir muros con el depósito a la espalda. El dron lo hace desde arriba: el DJI Agras T50 sigue el relieve con radar de matriz en fase y visión binocular, mantiene la distancia a la planta y regula la velocidad con la pendiente. Carga 40 litros y pulveriza hasta 16 litros por minuto con dos boquillas centrífugas, o 24 con cuatro. La dosis y el producto siguen siendo los de la etiqueta y del plan de aplicación.
+Tratar una parra de bancal con mochila significa subir muros con el depósito a la espalda. El dron lo hace desde arriba: el DJI Agras T50 sigue el relieve con radar de matriz en fase y visión binocular y regula la velocidad con la pendiente. Carga 40 litros y pulveriza hasta 16 litros por minuto con dos boquillas centrífugas, o 24 con cuatro. La dosis y el producto siguen siendo los de la etiqueta y del plan de aplicación.
 
 [IMAGEN: Platanera al aire libre junto al mar en El Puertito de Güímar, con el malpaís negro detrás | alt: Platanera de la costa de Güímar entre El Puertito y Chimisay, Tenerife]
 
 ## Cómo se prepara un tratamiento en el valle
 
-Recogemos ubicación, cultivo, superficie, accesos y obstáculos (tendidos, cortavientos, árboles altos, invernaderos vecinos), dibujamos el vuelo sobre el mapa de la parcela y medimos el viento antes de despegar. En el Valle de Güímar importa: el alisio entra por la tarde con viento moderado o fuerte en la costa, así que la mañana suele ser la ventana [VERIFICAR: horario de calma habitual en las medianías de Güímar].
+Recogemos ubicación, cultivo, superficie, accesos y obstáculos (tendidos, cortavientos, árboles altos), dibujamos el vuelo sobre el mapa de la parcela y medimos el viento antes de despegar. En el Valle de Güímar importa: el alisio entra por la tarde con viento moderado o fuerte en la costa, así que la mañana suele ser la ventana [VERIFICAR: horario de calma habitual en las medianías de Güímar].
 
 Fuera de La Palma salimos con desplazamiento y agrupamos fincas de Güímar, Arafo y Candelaria en una visita; no damos plazos cerrados, damos disponibilidad.
 
@@ -50,7 +50,7 @@ El operador vuela en la categoría específica de AESA/EASA (escenarios estánda
 
 Las 90,37 hectáreas de platanera están en la costa, entre El Puertito y Chimisay, bajo los 200 metros. Plagas documentadas en Tenerife: picudo negro (Cosmopolites sordidus, reaparecido en 1987 según el Cabildo), trips (Hercinothrips femoralis) y araña roja, con ataques que llegan al racimo según la guía del Cabildo de 2009, y cochinilla algodonosa (Dysmicoccus grassii), con resistencias según la ULPGC.
 
-Trips, araña roja y cochinilla van en hoja y fruto, alcanzables desde arriba en piña al aire libre; el picudo vive en el cormo y no. La papa asociada se trata con la parra. El aguacate de la comarca tiene como plaga principal la araña cristalina (Oligonychus perseae), en Tenerife desde 2006 y en el 81,5 % de las parcelas encuestadas por el Cabildo.
+Trips, araña roja y cochinilla van en hoja y fruto, alcanzables en piña al aire libre; el picudo vive en el cormo y no. La papa asociada se trata con la parra. El aguacate de la comarca tiene como plaga principal la araña cristalina (Oligonychus perseae), en Tenerife desde 2006 (81,5 % de parcelas encuestadas por el Cabildo).
 
 Enlaces: [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [dron agrícola para platanera](https://agrodroncanarias.es/dron-agricola-platanera/) y el vecino [dron agrícola en Candelaria](https://agrodroncanarias.es/dron-agricola-tenerife/candelaria/).
 
@@ -60,7 +60,7 @@ Enlaces: [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-
 Sí, si está al aire libre y el producto tiene autorización para aplicación aérea. Parra y papa comparten parcela y el vuelo se planifica sobre el bancal completo.
 
 ### ¿Trata el dron la platanera de El Puertito contra el picudo negro?
-No. El picudo vive en el cormo y la base del pseudotallo, donde la pulverización no llega; el control documentado pasa por trampas de feromonas. Para trips, araña roja o cochinilla sí, en piña sin malla y según etiqueta.
+No. El picudo vive en el cormo, donde la pulverización no llega; el control documentado pasa por trampas de feromonas. Para trips, araña roja o cochinilla sí, en piña sin malla y según etiqueta.
 
 ### ¿Cuánto cuesta un tratamiento con dron en Güímar?
 Depende de superficie, cultivo, número de bancales, accesos y producto: una viña en tres escalones no se calcula igual que una platanera llana. Pide presupuesto con esos datos.
@@ -70,7 +70,7 @@ El equipo sale de Santa Cruz de La Palma y agrupa fincas del valle en una visita
 
 ## Pide presupuesto para tu viña o tu platanera de Güímar
 
-Mándanos ubicación, cultivo, hectáreas y el problema a tratar, con una foto si la tienes. Te decimos si el dron encaja y preparamos presupuesto con el desplazamiento desde La Palma, desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Mándanos ubicación, cultivo, hectáreas y el problema a tratar. Te decimos si el dron encaja y preparamos presupuesto con el desplazamiento desde La Palma, desde [Agrodrón Canarias](https://agrodroncanarias.es/).
 
 ```json
 {
@@ -110,7 +110,7 @@ Mándanos ubicación, cultivo, hectáreas y el problema a tratar, con una foto s
         {
           "@type": "Question",
           "name": "¿Trata el dron la platanera de El Puertito contra el picudo negro?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. El picudo vive en el cormo y la base del pseudotallo, donde la pulverización no llega; el control documentado pasa por trampas de feromonas. Para trips, araña roja o cochinilla sí, en piña sin malla y según etiqueta." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. El picudo vive en el cormo, donde la pulverización no llega; el control documentado pasa por trampas de feromonas. Para trips, araña roja o cochinilla sí, en piña sin malla y según etiqueta." }
         },
         {
           "@type": "Question",
