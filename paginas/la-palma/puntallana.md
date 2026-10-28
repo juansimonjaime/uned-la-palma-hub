@@ -12,7 +12,7 @@ municipio: "Puntallana"
 
 # Dron agrícola en Puntallana: del bancal colgado sobre el acantilado al vuelo
 
-La tabla municipal del Mapa de Cultivos de 2017 da a Puntallana 177,58 hectáreas de platanera, 96,26 de huerta, 46 de aguacate y 20,27 de viña, en un término que los barrancos de Nogales y La Galga cortan en tajadas desde la cumbre hasta el mar. Un dron agrícola en Puntallana se justifica por el terreno antes que por la plaga: el problema aquí no es solo qué echar, sino cómo llegar con la máquina hasta el bancal que cuelga sobre el acantilado.
+La tabla municipal del Mapa de Cultivos de 2017 da a Puntallana 177,58 hectáreas de platanera, 96,26 de huerta, 46 de aguacate y 20,27 de viña, en un término que los barrancos de Nogales y La Galga cortan en tajadas de la cumbre al mar. Un dron agrícola en Puntallana se justifica por el terreno antes que por la plaga: aquí el problema no es solo qué echar, sino cómo llegar con la máquina al bancal que cuelga sobre el acantilado.
 
 [IMAGEN: Bancales de platanera al borde del acantilado en la costa de Puntallana con el barranco detrás | alt: platanera en bancales sobre el acantilado de Puntallana, La Palma]
 
@@ -38,11 +38,13 @@ El piloto se queda fuera de la nube y el tratamiento queda registrado con su map
 
 En la platanera están documentadas para Canarias el picudo negro, la cochinilla algodonosa Dysmicoccus grassii y el trips Hercinothrips femoralis (guía Coplaca 2014, ICIA). Las dos últimas viven en hoja y fruto y un tratamiento foliar desde el aire las alcanza, con cobertura menor bajo el penacho; el picudo vive en el rizoma y se combate con trampas de feromona, no con el dron.
 
-En el aguacate de las medianías manda el ácaro cristalino Oligonychus perseae, en La Palma desde 2005 y presente en todas las zonas productoras de la isla, según el Canal Agrario La Palma. Se instala en el envés de la hoja, así que la cobertura desde arriba es parcial y hay que hablarlo con el técnico antes de volar. En la papa, la polilla guatemalteca Tecia solanivora está extendida por toda la isla (ICIA) y no es asunto de pulverización. En la viña de la subzona Norte, el mildiu y el oídio de 2025 (El Time) sí son un tratamiento foliar típico para dron.
+En el aguacate de las medianías manda el ácaro cristalino Oligonychus perseae, en La Palma desde 2005 y presente en todas las zonas productoras de la isla, según el Canal Agrario La Palma. Se instala en el envés de la hoja, así que la cobertura desde arriba es parcial y hay que hablarlo con el técnico antes de volar.
+
+En la papa, la polilla guatemalteca Tecia solanivora está extendida por toda la isla (ICIA) y no es asunto de pulverización. En la viña de la subzona Norte, el mildiu y el oídio de 2025 (El Time) sí son un tratamiento foliar típico para dron.
 
 ## Dos frases sobre la ley antes de volar en Puntallana
 
-La aplicación aérea de fitosanitarios en España está prohibida con carácter general y solo se autoriza en casos especiales, con permiso previo del órgano competente de la comunidad autónoma y un plan de aplicación aprobado, y únicamente con productos cuya autorización incluya expresamente la aplicación aérea (Real Decreto 1311/2012, artículos 27 y 28 y anexo VI). El piloto de Agrodrón opera en la categoría específica de AESA, en escenarios estándar STS o bajo el PDRA-S01, y acumula más de diez años de experiencia profesional.
+La aplicación aérea de fitosanitarios está prohibida en España con carácter general; solo se autoriza en casos especiales, con permiso previo del órgano competente de la comunidad autónoma y un plan de aplicación aprobado, y únicamente con productos cuya autorización incluya expresamente la aplicación aérea (Real Decreto 1311/2012, artículos 27 y 28 y anexo VI). El piloto de Agrodrón, con más de diez años de experiencia profesional, opera en la categoría específica de AESA, en escenarios STS o bajo el PDRA-S01.
 
 Puntallana es uno de los catorce municipios de la página de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/). El detalle de cada cultivo está en las páginas de [dron para plataneras](https://agrodroncanarias.es/dron-agricola-platanera/) y de [tratamientos con dron en aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/). Hacia el norte, el vecino [San Andrés y Sauces](https://agrodroncanarias.es/dron-agricola-la-palma/san-andres-y-sauces/) repite el esquema de platanera en terrazas, con más agua.
 

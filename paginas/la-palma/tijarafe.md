@@ -1,7 +1,7 @@
 ---
 title: "Dron agrícola en Tijarafe | Agrodrón Canarias"
 slug: "tijarafe"
-meta_description: "Dron agrícola en Tijarafe para platanera en plataformas de acantilado y aguacate en bancales: el radar del T50 sigue la pendiente. Pide presupuesto a Agrodrón."
+meta_description: "Dron agrícola en Tijarafe para platanera en plataformas de acantilado y aguacate en bancales: el radar del T50 sigue la pendiente. Pide presupuesto."
 keyword: "dron agrícola en Tijarafe"
 keywords_secundarias: "fumigar con dron en Tijarafe, tratamiento con drones en aguacate La Palma, dron fitosanitario en bancales, pulverización aérea en platanera de costa"
 parent: "dron-agricola-la-palma"

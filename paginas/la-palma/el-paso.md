@@ -1,7 +1,7 @@
 ---
 title: "Dron agrícola en El Paso | Agrodrón Canarias"
 slug: "el-paso"
-meta_description: "Dron agrícola en El Paso para viña, aguacate y almendro de medianías: respuestas sobre altura de copa, pendiente, viento y volcán. Pide presupuesto a Agrodrón."
+meta_description: "Dron agrícola en El Paso para viña, aguacate y almendro de medianías: respuestas sobre altura de copa, pendiente, viento y volcán. Pide presupuesto."
 keyword: "dron agrícola en El Paso"
 keywords_secundarias: "fumigar con dron en El Paso, tratamiento con drones en viña La Palma, dron fitosanitario para aguacate, pulverización aérea en Las Manchas"
 parent: "dron-agricola-la-palma"

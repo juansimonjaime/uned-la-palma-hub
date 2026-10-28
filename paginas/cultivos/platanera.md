@@ -18,32 +18,30 @@ Una platanera en producción te saca dos cabezas: entre tres y cuatro metros de 
 
 ## Cuánta platanera hay y cuánta se puede tratar desde el aire
 
-El plátano es el cultivo con más superficie de Canarias: 8.719 ha en 2023 según el Parlamento de Canarias (BOP 272/2024) y 8.761,4 ha en 2024 según el ISTAC, un 22,1 % de todo lo cultivado en las islas. Mercasa (informe de febrero de 2026) habla de unas 9.940 ha y de 421.300 t en 2024, un 10 % menos que el año anterior. Las bases de cálculo no casan [VERIFICAR: por qué Mercasa suma más hectáreas que el Parlamento y el ISTAC].
+El plátano es el cultivo con más superficie de Canarias: 8.719 ha en 2023 según el Parlamento de Canarias (BOP 272/2024) y 8.761,4 ha en 2024 según el ISTAC, un 22,1 % de todo lo cultivado en las islas. Mercasa (informe de febrero de 2026) habla de unas 9.940 ha y de 421.300 t en 2024, un 10 % menos que el año anterior; las cifras no casan [VERIFICAR: base de cálculo de Mercasa].
 
 Para el dron importa otro número del mismo informe: algo más de 3.100 ha van bajo invernadero. Casi un tercio de la platanera canaria no se puede tratar desde el aire, porque el producto no atraviesa la cubierta. El resto, a cielo abierto entre muros y cortavientos, sí.
 
-Por islas, Tenerife tiene el 45 % de la superficie platanera (Confederación Canaria de Empresarios sobre datos del ISTAC, 2022), con su sur en buena parte bajo invernadero. La Palma concentra un tercio de la producción (Justicia Alimentaria, enero de 2025) y es la isla con más platanera descubierta [VERIFICAR: porcentaje de platanera protegida por isla]. Gran Canaria suma 1.940,7 ha (Mapa de Cultivos 2024), casi todas en la costa norte.
-
 ## Fincas de costa: muros, cortavientos y cadena de riego
 
-La platanera canaria vive por debajo de los 300 m, en sorribas sobre lava o con tierra traída, cerradas por muros de piedra o de bloque y, donde pega el alisio, por cortavientos de malla vertical. Parcelas de media hectárea a dos o tres, con la cadena de riego por dentro y una pista que no siempre admite un tractor con atomizador.
+La platanera canaria vive por debajo de los 300 m, en sorribas sobre lava o con tierra traída, cerradas por muros de piedra o de bloque y, donde pega el alisio, por cortavientos de malla vertical. Parcelas de media hectárea a dos o tres, con la cadena de riego por dentro y una pista que no siempre admite un tractor.
 
-Para el DJI Agras T50 esa finca es terreno conocido. Su radar de matriz en fase y sus cámaras binoculares le sirven para seguir el relieve y ver el muro, el poste del cortavientos o el cable de la cadena antes de llegar, y ajusta la velocidad cuando la finca sube en escalones. El depósito de 40 litros, con hasta 16 L/min por dos boquillas centrífugas o 24 L/min por cuatro, cubre una parcela platanera corriente con pocas recargas. Lo que de verdad condiciona el vuelo son las líneas eléctricas y los invernaderos vecinos, y eso se marca en el plano antes de despegar.
+Para el DJI Agras T50 esa finca es terreno conocido. Su radar de matriz en fase y sus cámaras binoculares siguen el relieve y ven el muro, el poste del cortavientos o el cable de la cadena antes de llegar, y ajusta la velocidad cuando la finca sube en escalones. El depósito de 40 litros, con hasta 16 L/min por dos boquillas centrífugas o 24 L/min por cuatro, cubre una parcela corriente con pocas recargas. Las líneas eléctricas y los invernaderos vecinos se marcan en el plano antes de despegar.
 
 ## Picudo, mangla, trips y araña roja: qué se ataca desde arriba y qué no
 
 Las plagas de la platanera canaria están documentadas por Agrocabildo y la ULPGC:
 
-- Picudo negro (Cosmopolites sordidus): la principal plaga de la platanera en Canarias según Agrocabildo. Vive en el cormo y la base del pseudotallo, quita vigor y retrasa la floración. Se controla con trampas de feromonas; una pulverización foliar no llega donde está.
+- Picudo negro (Cosmopolites sordidus): la principal plaga de la platanera en Canarias según Agrocabildo. Vive en el cormo y la base del pseudotallo, quita vigor y retrasa la floración; se controla con trampas de feromonas.
 - Cochinilla algodonosa o mangla (Dysmicoccus grassii): uno de los principales problemas fitosanitarios actuales, con resistencias y fitotoxicidad en el control químico (ULPGC).
 - Trips (Hercinothrips femoralis) y araña roja (Tetranychus urticae): en el manual fitosanitario de Agrocabildo de 2026, con daño en hoja y fruto.
 - Lagarta (Chrysodeixis chalcites): recogida en el mismo manual.
 
-La campaña 2025-2026 ha sido dura: la prensa agraria habla de una crisis por cochinilla y mosca blanca, con el sector pidiendo a la UE el uso de emergencia de un insecticida a base de spirotetramat (Diario de Avisos, 15 de octubre de 2026; Agrolatam). Qué se aplica lo decide la etiqueta y el plan de aplicación aprobado, no el dron. El dron aporta llegar a la hoja y al racimo sin pisar la finca.
+La campaña 2025-2026 ha sido dura: la prensa agraria habla de una crisis por cochinilla y mosca blanca, con el sector pidiendo a la UE el uso de emergencia de un insecticida a base de spirotetramat (Diario de Avisos, 15 de octubre de 2026; Agrolatam). Qué se aplica lo decide la etiqueta y el plan de aplicación aprobado, no el dron.
 
 ## Zafra sin parar: tratar entre corte y corte
 
-La platanera no tiene parada: se corta todo el año y en la misma finca conviven hijos recién deshijados, matas en flor y piñas a punto de cortar. Tratar con tractor obliga a esperar a que el suelo aguante y a que el empaquetado dé un respiro. El dron despega desde el borde, trata la parcela y vuelve sin meter una rueda dentro.
+La platanera no tiene parada: se corta todo el año y en la misma finca conviven hijos recién deshijados, matas en flor y piñas a punto de cortar. El dron despega desde el borde, trata la parcela y vuelve sin meter una rueda dentro ni esperar a que el empaquetado dé un respiro.
 
 El verano manda en el calendario de riesgo: Agroseguro contabilizó en 2024 unas 7.400 parcelas y 1.650 ha de plátano dañadas por calor en la vertiente oeste de La Palma. Con esas temperaturas, el viento de tarde y la humedad baja también mandan en el vuelo: se comprueban antes de cargar y, si no acompañan, se vuela a primera hora o se deja para otro día.
 
@@ -53,9 +51,9 @@ El verano manda en el calendario de riesgo: Agroseguro contabilizó en 2024 unas
 
 Agrodrón Canarias tiene la base en Santa Cruz de La Palma, así que en la isla no cobramos desplazamiento. En Tenerife, Gran Canaria, La Gomera y El Hierro salimos con desplazamiento y según disponibilidad, agrupando fincas de la misma comarca cuando se puede.
 
-Donde más platanera a cielo abierto hay es donde más sentido tiene el dron. En [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) están [Tazacorte, con 450,54 ha de plátano en el Mapa de Cultivos 2022](https://agrodroncanarias.es/dron-agricola-la-palma/tazacorte/), y [Los Llanos de Aridane, que reúne el 28,8 % de la platanera palmera](https://agrodroncanarias.es/dron-agricola-la-palma/los-llanos-de-aridane/) según un estudio de la ULL.
+Tenerife tiene el 45 % de la superficie platanera (Confederación Canaria de Empresarios sobre datos del ISTAC, 2022), pero su sur va en buena parte bajo invernadero; La Palma concentra un tercio de la producción (Justicia Alimentaria, enero de 2025) y es la isla con más platanera descubierta [VERIFICAR: porcentaje de platanera protegida por isla]. En [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) están [Tazacorte, con 450,54 ha de plátano en el Mapa de Cultivos 2022](https://agrodroncanarias.es/dron-agricola-la-palma/tazacorte/), y [Los Llanos de Aridane, que reúne el 28,8 % de la platanera palmera](https://agrodroncanarias.es/dron-agricola-la-palma/los-llanos-de-aridane/) según un estudio de la ULL.
 
-En [Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [Guía de Isora sumaba 845,4 ha en 2021](https://agrodroncanarias.es/dron-agricola-tenerife/guia-de-isora/) (Mercatenerife) y Buenavista del Norte 567,2 ha en 2011 (Cabildo). En [Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/), [Gáldar tiene 630,42 ha de platanera](https://agrodroncanarias.es/dron-agricola-gran-canaria/galdar/) según su portal de transparencia. En [La Gomera](https://agrodroncanarias.es/dron-agricola-la-gomera/), la platanera de Hermigua y Valle Gran Rey va en terrazas de fondo de barranco donde la maquinaria terrestre apenas entra.
+En [Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [Guía de Isora sumaba 845,4 ha en 2021](https://agrodroncanarias.es/dron-agricola-tenerife/guia-de-isora/) según Mercatenerife. En [Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/), [Gáldar tiene 630,42 ha de platanera](https://agrodroncanarias.es/dron-agricola-gran-canaria/galdar/) según su portal de transparencia, de las 1.940,7 ha de la isla (Mapa de Cultivos 2024). En [La Gomera](https://agrodroncanarias.es/dron-agricola-la-gomera/), la platanera de Hermigua y Valle Gran Rey va en terrazas de fondo de barranco donde la maquinaria terrestre apenas entra.
 
 Sobre el papel, dos cosas. La aplicación aérea de fitosanitarios está prohibida en España con carácter general y solo se autoriza en casos especiales, con permiso previo del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). Y el Ministerio de Agricultura trata los vuelos con dron como tratamientos aéreos (nota informativa MAPA-AESA de 2018), así que cada finca pasa por ese trámite ante el Gobierno de Canarias.
 
@@ -72,9 +70,6 @@ Depende de la forma de la parcela, de los obstáculos y de la dosis que marque e
 
 ### ¿Hay que parar el corte el día del tratamiento?
 Solo en la parcela que se trata y mientras dura el vuelo. Después se respeta el plazo de seguridad de la etiqueta antes de volver a cortar en esa parcela. El resto de la finca sigue con su ritmo.
-
-### ¿Tratáis plataneras fuera de La Palma?
-Sí, en Tenerife, Gran Canaria, La Gomera y El Hierro, con desplazamiento y según disponibilidad. Conviene agrupar varias fincas de la misma zona para que el viaje tenga sentido para todos.
 
 ## Pide presupuesto para tu finca de platanera
 
@@ -125,11 +120,6 @@ Mándanos el municipio, las hectáreas, si la finca va a cielo abierto o tiene p
           "@type": "Question",
           "name": "¿Hay que parar el corte el día del tratamiento?",
           "acceptedAnswer": { "@type": "Answer", "text": "Solo en la parcela que se trata y mientras dura el vuelo. Después se respeta el plazo de seguridad de la etiqueta antes de volver a cortar en esa parcela. El resto de la finca sigue con su ritmo." }
-        },
-        {
-          "@type": "Question",
-          "name": "¿Tratáis plataneras fuera de La Palma?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, en Tenerife, Gran Canaria, La Gomera y El Hierro, con desplazamiento y según disponibilidad. Conviene agrupar varias fincas de la misma zona para que el viaje tenga sentido para todos." }
         }
       ]
     }

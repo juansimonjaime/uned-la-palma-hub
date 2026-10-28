@@ -28,7 +28,9 @@ El aguacate está en floración y cuajado; el ácaro cristalino (Oligonychus per
 
 ## Verano: calor, oídio y la cochinilla de la platanera de costa
 
-En verano el oídio aprieta en la viña y en 2025 el calor castigó la uva pendiente (El Time). En la platanera de la costa la cochinilla algodonosa no para: hasta ocho generaciones al año en Canarias, con melaza y negrilla; para 2026 hubo incluso una autorización excepcional de piriproxifen en platanera del 1 de junio al 30 de julio (COSEPAL), lo que da idea de la presión en esos meses. Que un producto esté autorizado en el cultivo no significa que lo esté en aéreo: eso se comprueba en la etiqueta.
+En verano el oídio aprieta en la viña y en 2025 el calor castigó la uva pendiente (El Time). En la platanera de la costa la cochinilla algodonosa no para: hasta ocho generaciones al año en Canarias, con melaza y negrilla; para 2026 hubo incluso una autorización excepcional de piriproxifen en platanera del 1 de junio al 30 de julio (COSEPAL).
+
+Esa ventana da idea de la presión en esos meses. Que un producto esté autorizado en el cultivo no significa que lo esté en aéreo: se comprueba en la etiqueta.
 
 Hay también picudo negro y trips en la platanera (Canarias). Los plataneros de Puntagorda llevan la fruta a La Prosperidad, con sede en Tijarafe. Las fincas de costa están en pequeños llanos bajo acantilado, con pistas en pendiente; el dron despega desde la pista y trata sin bajar maquinaria.
 
