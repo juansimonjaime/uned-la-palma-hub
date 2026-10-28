@@ -20,42 +20,40 @@ Guía de Isora tenía 845,4 hectáreas de platanera en 2021 según el informe de
 
 Las cifras bailan según la fuente: 845,4 ha en Mercatenerife (2021), más de 800 ha en el Plan Anual del Cabildo de 2017 y 446 ha en un estudio de la Universidad de La Laguna sin fecha. Con cualquiera de ellas es el primer platanero del sur; con Arona reúne el 17 % del plátano de Tenerife (Diario de Avisos, noviembre de 2023).
 
-Lo que no dicen esas cifras es cuánta piña va cubierta. Canarias tiene unas 3.200 ha de platanera bajo invernadero o malla de 9.100 totales (eldiario.es, 2023), y el sur de Tenerife concentra buena parte [VERIFICAR: porcentaje bajo cubierta en Guía de Isora]. La finca con techo de plástico o malla horizontal queda fuera; la abierta, con cortavientos laterales, entra.
+Falta saber cuánta piña va cubierta. Canarias tiene unas 3.200 ha de platanera bajo invernadero o malla de 9.100 totales (eldiario.es, 2023), y el sur de Tenerife concentra buena parte [VERIFICAR: porcentaje bajo cubierta en Guía de Isora]. La finca con techo de plástico o malla horizontal queda fuera; la abierta, con cortavientos laterales, entra.
 
 ## Cochinilla, trips, araña roja y picudo: lo que preocupa en la platanera
 
-El Cabildo de Tenerife documenta ataques de araña roja (Tetranychus) y trips (Hercinothrips femoralis) que llegan al racimo y dejan el plátano mulato, favorecidos por humedades del 70-80 % en otoño (guía de 2009). La cochinilla algodonosa (Dysmicoccus grassii) arrastra resistencias en el control químico según la ULPGC, y en octubre de 2026 el sector pedía usos de emergencia por la crisis de cochinilla y mosca blanca (Diario de Avisos).
+El Cabildo de Tenerife documenta ataques de araña roja (Tetranychus) y trips (Hercinothrips femoralis) que llegan al racimo y dejan el plátano mulato, favorecidos por humedades del 70-80 % en otoño (guía de 2009). La cochinilla algodonosa (Dysmicoccus grassii) arrastra resistencias en el control químico según la ULPGC.
 
 El picudo negro (Cosmopolites sordidus), la plaga número uno de la platanera canaria, vive en el cormo y se maneja con trampas de feromonas, no con pulverización foliar. Si lo tuyo es picudo, el dron no es la herramienta.
 
 ## Por qué un dron agrícola en Guía de Isora encaja en la platanera abierta
 
-Una platanera adulta levanta varios metros y la mochila moja sobre todo la parte baja; el dron pulveriza desde arriba, sobre hoja y racimo, donde se instalan trips, araña y cochinilla. El DJI Agras T50 de Agrodrón lleva 40 litros y aplica hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha técnica de DJI): en una finca de una o dos hectáreas son pocas recargas.
+Una platanera adulta levanta varios metros y la mochila moja sobre todo la parte baja; el dron pulveriza desde arriba, sobre hoja y racimo, donde se instalan trips, araña y cochinilla. El DJI Agras T50 de Agrodrón lleva 40 litros y aplica hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha técnica de DJI).
 
 Su radar de matriz en fase y la visión binocular siguen el relieve y detectan obstáculos. En la costa isorana las fincas son bastante llanas, pero hay cables, depósitos y naves de empaquetado entre parcelas, y se marcan en el mapa antes de volar.
 
-## Límites: cubierta, viento, agua y autorización
+## Límites: cubierta, viento y autorización
 
-La salida a Guía de Isora se agrupa con otras fincas de la comarca y se fija cuando hay fecha, sin plazos prometidos. Antes se recogen los datos: ubicación, hectáreas, malla, cables o árboles altos, y el producto y la dosis de tu plan de aplicación. El viento se comprueba en la finca: la vertiente sur es más tranquila que la norte, pero el suroeste tiene rachas locales (webtenerife) y con racha no se despega.
+La salida se agrupa con otras fincas de la comarca, sin plazos prometidos. Antes se recogen los datos: ubicación, hectáreas, malla, cables o árboles altos, y el producto y la dosis de tu plan de aplicación. El viento se comprueba en la finca: la vertiente sur es más tranquila que la norte, pero el suroeste tiene rachas locales (webtenerife) y con racha no se despega.
 
-El agua va aparte: el regadío de Las Charquetas sirve a 1.200 ha y 104 regantes entre Guía de Isora, Santiago del Teide y Adeje (Cabildo de Tenerife), y ninguna pulverización sustituye una cadena de riego.
-
-Y la ley. En España la aplicación aérea de fitosanitarios está prohibida con carácter general; solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). Solo entran productos cuya autorización incluya expresamente la aplicación aérea (anexo VI). En Guía de Isora ese trámite va ante el Gobierno de Canarias, finca por finca.
+En España la aplicación aérea de fitosanitarios está prohibida con carácter general; solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). Solo entran productos cuya autorización incluya expresamente la aplicación aérea (anexo VI). El trámite va ante el Gobierno de Canarias.
 
 [IMAGEN: Viñedo de medianías en Chío, Guía de Isora, con parras bajas sobre suelo volcánico y el Teide detrás | alt: Viña de la DO Ycoden-Daute-Isora en las medianías de Chío, Guía de Isora]
 
 ## Viña de Ycoden-Daute-Isora, tomate residual, higos y almendros
 
-Guía de Isora cierra por el sur la DO Ycoden-Daute-Isora, que suma entre 1.000 y 1.600 ha de viña con 306 ha controladas por el Consejo (descorchandoversos, 2018). En las medianías de Chío, Chirche y Aripe la parra va al aire libre y su calendario de mildiu, oídio y botritis lo dictan los avisos del Cabildo por comarca (datos.tenerife.es). Es tratable con dron, con ojo a la filoxera detectada en Tenerife en 2025 [VERIFICAR: si Guía de Isora está en la zona demarcada].
+Guía de Isora cierra por el sur la DO Ycoden-Daute-Isora, que suma entre 1.000 y 1.600 ha de viña con 306 ha controladas por el Consejo (descorchandoversos, 2018). En las medianías de Chío, Chirche y Aripe la parra va al aire libre y su calendario de mildiu, oídio y botritis lo dictan los avisos del Cabildo por comarca (datos.tenerife.es). Se trata con dron, con ojo a la filoxera detectada en Tenerife en 2025 [VERIFICAR: si Guía de Isora está en la zona demarcada].
 
-El tomate, que sumó 1.080 ha históricas entre Guía de Isora y Adeje (estudio ULL sin fecha), hoy es residual y va bajo invernadero: fuera del dron. Higos y almendros de secano (EcuRed) son fincas pequeñas que se valoran si hay varias juntas.
+El tomate, que sumó 1.080 ha históricas entre Guía de Isora y Adeje (estudio ULL sin fecha), hoy es residual y va bajo invernadero: fuera del dron. Higos y almendros de secano (EcuRed) son fincas pequeñas y dispersas.
 
 Para el contexto insular tienes [tratamientos con dron en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [dron agrícola para platanera](https://agrodroncanarias.es/dron-agricola-platanera/) y [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/). El vecino del sur tiene su página: [dron agrícola en Adeje](https://agrodroncanarias.es/dron-agricola-tenerife/adeje/).
 
 ## Preguntas frecuentes sobre fumigar con dron en Guía de Isora
 
 ### ¿Mi platanera tiene malla cortavientos lateral y techo abierto: se puede tratar?
-Sí. Lo que impide la pulverización aérea es la cubierta de techo, sea plástico o malla horizontal. Los cortavientos laterales se anotan en el plan de vuelo como obstáculo, pero la finca abierta por arriba se trata.
+Sí. Lo que impide la pulverización aérea es la cubierta de techo, sea plástico o malla horizontal. Los cortavientos laterales se anotan como obstáculo en el plan de vuelo.
 
 ### ¿Cuántas fincas hacen falta para que salga un desplazamiento a Guía de Isora?
 No hay un mínimo fijo. La salida desde La Palma se organiza cuando hay disponibilidad y trabajo suficiente en la comarca; si en tu zona hay varios plataneros interesados, dilo al pedir presupuesto.
@@ -68,7 +66,7 @@ Sí, la viña va al aire libre y es tratable siguiendo los avisos del Cabildo. L
 
 ## Pide presupuesto para tu finca de Guía de Isora
 
-Dinos en qué zona está la finca, qué parte de la platanera va descubierta, cuántas hectáreas son y qué quieres tratar. Te decimos si el dron encaja y te mandamos un presupuesto con el desplazamiento desde La Palma incluido. Escríbenos en [Agrodrón Canarias](https://agrodroncanarias.es/).
+Dinos zona, qué parte de la platanera va descubierta, hectáreas y qué quieres tratar; te decimos si el dron encaja y te mandamos un presupuesto con el desplazamiento desde La Palma incluido. Escríbenos en [Agrodrón Canarias](https://agrodroncanarias.es/).
 
 ```json
 {
@@ -103,7 +101,7 @@ Dinos en qué zona está la finca, qué parte de la platanera va descubierta, cu
         {
           "@type": "Question",
           "name": "¿Mi platanera tiene malla cortavientos lateral y techo abierto: se puede tratar?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí. Lo que impide la pulverización aérea es la cubierta de techo, sea plástico o malla horizontal. Los cortavientos laterales se anotan en el plan de vuelo como obstáculo, pero la finca abierta por arriba se trata." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí. Lo que impide la pulverización aérea es la cubierta de techo, sea plástico o malla horizontal. Los cortavientos laterales se anotan como obstáculo en el plan de vuelo." }
         },
         {
           "@type": "Question",
