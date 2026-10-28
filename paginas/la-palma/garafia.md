@@ -1,7 +1,7 @@
 ---
 title: "Dron agrícola en Garafía | Agrodrón Canarias"
 slug: "garafia"
-meta_description: "Dron agrícola en Garafía para papa, viña y almendro en pagos separados por barrancos. Tratamiento con DJI Agras T50 sin arrastrar maquinaria. Pide presupuesto."
+meta_description: "Dron agrícola en Garafía para papa, viña y almendro en pagos separados por barrancos. Tratamiento con DJI Agras T50 sin mover maquinaria. Pide presupuesto."
 keyword: "dron agrícola en Garafía"
 keywords_secundarias: "fumigar con dron en Garafía, tratamiento con drones en papa, dron fitosanitario noroeste de La Palma, pulverización aérea Las Tricias"
 parent: "dron-agricola-la-palma"

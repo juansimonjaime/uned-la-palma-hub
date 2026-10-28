@@ -1,7 +1,7 @@
 ---
 title: "Dron agrícola en Tazacorte | Agrodrón Canarias"
 slug: "tazacorte"
-meta_description: "Dron agrícola en Tazacorte: pulverización en platanera al aire libre con DJI Agras T50, depósito de 40 L y caudal pensado para fincas del llano. Pide presupuesto."
+meta_description: "Dron agrícola en Tazacorte: pulverización en platanera al aire libre con DJI Agras T50, 40 L de depósito y recarga en el borde de la finca. Presupuesto."
 keyword: "dron agrícola en Tazacorte"
 keywords_secundarias: "fumigar con dron en Tazacorte, tratamiento con drones en platanera, dron fitosanitario Valle de Aridane, pulverización aérea Tazacorte, dron para plataneras La Palma"
 parent: "dron-agricola-la-palma"

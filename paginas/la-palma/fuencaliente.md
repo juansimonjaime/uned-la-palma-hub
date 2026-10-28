@@ -18,7 +18,7 @@ Fuencaliente tiene la mayor superficie de viña de La Palma: 297,5 hectáreas se
 
 ## Cómo está plantada la viña de Fuencaliente
 
-Malvasía aromática, Negramoll, Listán y Sabro, casi siempre rastreras o en vaso bajo sobre lapilli, con muros cortavientos de piedra volcánica que el Gobierno de Canarias (ICCA) describe como la seña de las viñas de Malvasía de la zona. El suelo es tan permeable que el agua desaparece en minutos, y la planta vive pegada a la tierra para aguantar el viento.
+Malvasía aromática, Negramoll, Listán y Sabro, casi siempre rastreras o en vaso bajo sobre lapilli, con muros cortavientos de piedra volcánica que el Gobierno de Canarias (ICCA) describe como la seña de las viñas de Malvasía de la zona. La planta vive pegada a la tierra para aguantar el viento.
 
 Las parcelas son pequeñas y están desperdigadas por los lomos del sur, con malpaíses entre medias y pendientes fuertes. Se llega por pistas sobre picón [VERIFICAR: estado de los accesos a las parcelas de viña]. Aquí está la sede del Consejo Regulador de la DO Vinos La Palma y la Cooperativa Llanovid, que embotella la Malvasía de la zona.
 
@@ -26,17 +26,17 @@ El Ayuntamiento destinó 50.000 euros en 2023 a recuperar viña en Llanos Negros
 
 ## Mildiu y oídio: lo que dejó la campaña 2025
 
-El viñedo palmero sufrió mildiu y oídio en la campaña 2025, según recogía El Time citando al Consejo Regulador, con el añadido del calor sobre la uva pendiente de vendimiar. La isla pasó de 756.000 kilos de uva en 2023 a 606.809 en 2024 y unos 650.000 en 2025, y el propio sector hablaba de riesgo de abandono en toda la isla salvo el norte.
+El viñedo palmero sufrió mildiu y oídio en la campaña 2025, según recogía El Time citando al Consejo Regulador, con el añadido del calor sobre la uva pendiente de vendimiar. La isla pasó de 756.000 kilos de uva en 2023 a 606.809 en 2024 y unos 650.000 en 2025.
 
 El oídio se considera una enfermedad endémica en Canarias (guía de viña de Agrocabildo, 2020). En una viña rastrera el racimo va a ras de suelo, con poca ventilación entre el picón y la hoja, y el hongo encuentra condiciones a poco que suba la humedad. Súmale la ceniza de 2021, que cubrió 128 hectáreas de viña en la isla, parte de ellas entre Las Manchas y Fuencaliente.
 
 ## Por qué el dron agrícola en Fuencaliente encaja en una viña baja y dispersa
 
-Tres razones que tienen que ver con el terreno, no con la moda:
+Tres razones de terreno:
 
 - La planta va pegada al suelo. El DJI Agras T50 vuela bajo siguiendo el relieve con su radar de matriz en fase y la visión binocular, y ajusta la velocidad a la pendiente del lomo. En un vaso bajo o una rastrera, la distancia entre boquilla y hoja se mantiene corta.
 - El picón no se pisa. Con mochila el pie se hunde a cada paso y en pendiente acabas resbalando; el tractor compacta o no entra. El dron no toca el suelo ni la planta.
-- Las parcelas son pequeñas. El depósito de 40 litros se vacía en una o dos parcelas y se rellena en la pista, con un caudal de hasta 16 litros por minuto con dos boquillas y 24 con cuatro. No hace falta mover una cuba de una punta a otra del municipio.
+- Las parcelas son pequeñas. El depósito de 40 litros se vacía en una o dos parcelas y se rellena en la pista, con un caudal de hasta 16 litros por minuto con dos boquillas y 24 con cuatro.
 
 Los muros cortavientos son el detalle propio de aquí. Son obstáculos bajos y regulares que el sistema de detección ve, pero se marcan antes en el mapa de la parcela para que el vuelo no los sortee a última hora.
 
@@ -44,25 +44,25 @@ Los muros cortavientos son el detalle propio de aquí. Son obstáculos bajos y r
 
 Primero nos pasas la ubicación de cada parcela, el cultivo, la superficie, por dónde se llega y qué hay alrededor: cables, árboles altos, un cuarto de aperos, una casa vecina. Con viña dispersa, lo normal es juntar varias parcelas de la misma zona en una jornada.
 
-Después se planifica el vuelo sobre el mapa de cada parcela, se mira el viento del día, se aplica la dosis que marca la etiqueta del producto y el plan de aplicación aprobado, y se registra el tratamiento con fecha, producto y superficie. Tú no tienes que estar en la finca con la mochila puesta.
+Después se planifica el vuelo sobre el mapa de cada parcela, se mira el viento del día, se aplica la dosis que marca la etiqueta del producto y el plan de aplicación aprobado, y se registra el tratamiento con fecha, producto y superficie.
 
 ## Lo que el dron no arregla en el sur de la isla
 
 El viento. Fuencaliente es sotavento seco, con menos de 250 milímetros de lluvia al año en la costa suroeste (macaronesian.org), pero con vientos fuertes de componente norte y nordeste, los mismos que obligan a levantar los muros. Hay días en que no se vuela, y se avisa.
 
-El papeleo. En España la aplicación aérea de fitosanitarios está prohibida con carácter general; solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28), y únicamente con productos cuya autorización incluya expresamente la aplicación aérea (anexo VI del mismo decreto). Agrodrón Canarias tramita cada tratamiento con esos datos; tú aportas los de la parcela y el producto.
+El papeleo. La aplicación aérea de fitosanitarios está prohibida en España con carácter general y solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28), y solo con productos cuya autorización incluya expresamente la aplicación aérea (anexo VI). Agrodrón Canarias tramita cada expediente; tú aportas los datos de parcela y producto.
 
-Y el resultado. Nadie te puede prometer que el mildiu desaparezca. El dron pone la dosis de la etiqueta donde toca y cuando toca; el control depende del momento, del producto y del año.
+Y el resultado. Nadie te puede prometer que el mildiu desaparezca; el dron pone la dosis de la etiqueta donde y cuando toca, y el control depende del momento, del producto y del año.
 
 ## Platanera en Las Indias y Los Quemados, y lo demás que se cultiva
 
-La costa de Fuencaliente, de 0 a 200 metros, está casi toda ocupada por plataneras, igual que el barrio de Los Quemados y Las Indias (La Palma Biosfera). El mismo estudio de suelos da 244,1 hectáreas de plátano [VERIFICAR: año], que en buena parte salen por la Cooperativa Teneguía, con 150 socios y unos 5 millones de kilos al año. En total, el municipio tenía 447 hectáreas en producción en 2019 según el Observatorio de Sostenibilidad de la Reserva de la Biosfera.
+La costa de Fuencaliente, de 0 a 200 metros, está casi toda ocupada por plataneras, igual que el barrio de Los Quemados y Las Indias (La Palma Biosfera). El mismo estudio de suelos da 244,1 hectáreas de plátano [VERIFICAR: año], y buena parte sale por la Cooperativa Teneguía, con 150 socios. En total, el municipio tenía 447 hectáreas en producción en 2019 según el Observatorio de Sostenibilidad de la Reserva de la Biosfera.
 
 [IMAGEN: Plataneras al aire libre en la costa de Las Indias, Fuencaliente, con el mar detrás y los lomos de picón subiendo hacia los volcanes | alt: platanera al aire libre en la costa de Las Indias, Fuencaliente, La Palma]
 
 Esa platanera es mayoritariamente al aire libre [VERIFICAR: proporción bajo malla en Fuencaliente], y arrastra las plagas de toda la isla: picudo negro, que se vigila con trampas de feromona, cochinilla algodonosa, que en Canarias encadena hasta ocho generaciones al año sin parar en invierno, y trips. Si tienes piñas en la costa, mira la página de [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/) y, para la viña, la de [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/).
 
-En medianías quedan almendros y frutales [VERIFICAR: superficie de almendro y frutales en Fuencaliente]. El resto de municipios y los datos de la isla están en el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/); el vecino del este, con viña del Hoyo de Mazo, tiene su propia página de [dron agrícola en Villa de Mazo](https://agrodroncanarias.es/dron-agricola-la-palma/villa-de-mazo/).
+El resto de municipios y los datos de la isla están en el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/); el vecino del este, con viña del Hoyo de Mazo, tiene su propia página de [dron agrícola en Villa de Mazo](https://agrodroncanarias.es/dron-agricola-la-palma/villa-de-mazo/).
 
 ## Preguntas frecuentes sobre el dron agrícola en Fuencaliente
 
@@ -88,7 +88,7 @@ Los hay, y bastantes en época de viento fuerte del norte y nordeste. Antes de c
 
 ## Pide presupuesto para tu viña o tu platanera de Fuencaliente
 
-Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) con la zona de la finca, el cultivo, la superficie aproximada y por dónde se llega, y te decimos si el dron encaja y qué hace falta para tramitarlo. Pedir presupuesto no compromete a nada; nos sirve para ver tu parcela sobre el mapa y hablar en serio.
+Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) con la zona de la finca, el cultivo, la superficie aproximada y por dónde se llega, y te decimos si el dron encaja y qué hace falta para tramitarlo. Pedir presupuesto no compromete a nada.
 
 ```json
 {
