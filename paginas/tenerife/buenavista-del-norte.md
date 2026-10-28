@@ -50,7 +50,7 @@ Puedes ampliar en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-
 
 ## Normativa en dos frases
 
-La aplicación aérea de productos fitosanitarios está prohibida en España con carácter general; solo se autoriza en casos especiales, con permiso previo del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). Como el Ministerio de Agricultura considera los tratamientos con dron tratamientos aéreos (nota MAPA-AESA, 2018), cada trabajo en Buenavista pasa por ese trámite ante el Gobierno de Canarias, con un piloto que vuela en categoría específica de AESA/EASA (escenarios STS o PDRA-S01).
+La aplicación aérea de fitosanitarios está prohibida en España con carácter general; solo se autoriza en casos especiales, con permiso previo del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). Como el Ministerio de Agricultura considera los tratamientos con dron tratamientos aéreos (nota MAPA-AESA, 2018), cada trabajo en Buenavista pasa por ese trámite ante el Gobierno de Canarias, y el piloto vuela en categoría específica de AESA/EASA (STS o PDRA-S01).
 
 ## Preguntas frecuentes sobre tratamientos con dron en Buenavista del Norte
 
