@@ -38,9 +38,9 @@ El clima ayuda a los hongos: alisio del nordeste, nubosidad frecuente en median�
 
 ## ¿Se puede fumigar con dron una platanera encajonada en un barranco de Santa Cruz?
 
-Se puede estudiar, que no es lo mismo. El T50 sigue el relieve con radar de matriz en fase y visión binocular, detecta obstáculos y ajusta la velocidad a la pendiente, y eso es lo que pide una ladera de barranco. Lo que decide es lo que hay alrededor: cables que cruzan, viviendas pegadas, árboles más altos que la platanera, la propia pared del barranco.
+Se puede estudiar, que no es lo mismo. El T50 va leyendo el relieve con su radar de matriz en fase y la visión binocular, detecta obstáculos y adapta la velocidad a la pendiente, que es lo que pide una ladera de barranco. Lo que decide es lo que hay alrededor: cables que cruzan, viviendas pegadas, árboles más altos que la platanera, la propia pared del barranco.
 
-Todo eso se dibuja en el mapa de la parcela antes de volar. Hay fincas en los barrancos de la capital en las que el plan de vuelo sale limpio y otras en las que la respuesta es que no, y preferimos decirlo con el mapa delante que después de haber ido. Como la base está a un paso, mirar la finca sobre el terreno no supone desplazamiento.
+Todo eso se dibuja en el mapa de la parcela antes de volar. Hay fincas en los barrancos de la capital donde el plan de vuelo sale limpio y otras donde no sale, y preferimos decirlo con el mapa delante que después de haber ido. Como la base está a un paso, mirar la finca sobre el terreno no supone desplazamiento.
 
 [IMAGEN: Finca de platanera pequeña con agua propia en la costa norte de Santa Cruz de La Palma, encajada entre la ladera y una vivienda | alt: platanera pequeña entre viviendas en la costa de Santa Cruz de La Palma]
 
@@ -78,7 +78,7 @@ No. La base está en el municipio y en toda La Palma se trabaja sin desplazamien
 
 ### ¿Se puede fumigar con dron una huerta en bancales de Velhoco o Mirca?
 
-Si la huerta está al aire libre y la parcela se puede mapear, sí. Como suelen ser parcelas chicas, lo práctico es juntar varias de la misma zona en una jornada, y para eso ayuda hablar entre vecinos antes de llamar.
+Si la huerta está al aire libre y la parcela se puede mapear, sí. Como suelen ser parcelas chicas, lo práctico es tratar las de varios vecinos el mismo día, y para eso ayuda hablar entre vosotros antes de llamar.
 
 ### ¿Qué pasa con las fincas que lindan con casas en la capital?
 
@@ -94,7 +94,7 @@ Sí, toda La Palma sin desplazamiento, de Fuencaliente a Garafía. Fuera de la i
 
 ## Pide presupuesto desde la capital
 
-Entra en [agrodroncanarias.es](https://agrodroncanarias.es/) y cuéntanos dónde está la finca, qué cultivas y cuánta superficie es. Al estar en la misma ciudad, podemos mirar la parcela sobre el mapa y decirte si el dron encaja y qué hace falta para tramitarlo. El presupuesto es sin compromiso.
+Entra en [agrodroncanarias.es](https://agrodroncanarias.es/) y dinos en qué barranco o pago está la finca, qué tienes plantado y cuánto terreno es. Al estar en la misma ciudad, miramos la parcela sobre el mapa y te decimos si vale la pena volarla y qué expediente lleva. El presupuesto es sin compromiso.
 
 ```json
 {
@@ -134,7 +134,7 @@ Entra en [agrodroncanarias.es](https://agrodroncanarias.es/) y cuéntanos dónde
         {
           "@type": "Question",
           "name": "¿Se puede fumigar con dron una huerta en bancales de Velhoco o Mirca?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Si la huerta está al aire libre y la parcela se puede mapear, sí. Como suelen ser parcelas chicas, lo práctico es juntar varias de la misma zona en una jornada, y para eso ayuda hablar entre vecinos antes de llamar." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Si la huerta está al aire libre y la parcela se puede mapear, sí. Como suelen ser parcelas chicas, lo práctico es tratar las de varios vecinos el mismo día, y para eso ayuda hablar entre vosotros antes de llamar." }
         },
         {
           "@type": "Question",

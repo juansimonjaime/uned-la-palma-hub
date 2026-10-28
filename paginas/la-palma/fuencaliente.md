@@ -42,7 +42,7 @@ Los muros cortavientos, bajos y regulares, se marcan antes en el mapa de la parc
 
 ## Cómo se prepara un tratamiento en una viña de Fuencaliente
 
-Primero nos pasas la ubicación de cada parcela, el cultivo, la superficie, por dónde se llega y qué hay alrededor: cables, árboles altos, casas. Con viña dispersa, lo normal es juntar varias parcelas de la misma zona en una jornada.
+Primero nos pasas la ubicación de cada parcela, el cultivo, la superficie, por dónde se llega y qué hay alrededor: cables, árboles altos, casas. Con viña dispersa, lo normal es encadenar varias parcelas del mismo lomo en una salida.
 
 Después se planifica el vuelo sobre el mapa de cada parcela, se mira el viento del día, se aplica la dosis que marca la etiqueta del producto y el plan de aplicación aprobado, y se registra el tratamiento con fecha, producto y superficie.
 
@@ -76,7 +76,7 @@ Se marcan en el plan de vuelo antes de despegar. El T50 lleva radar y visión bi
 
 ### ¿Cuánto cuesta fumigar con dron una viña en Fuencaliente?
 
-Depende de la superficie, de cuántas parcelas sueltas haya que juntar, del acceso a cada una y del producto que marque el plan de aplicación. Con esos datos te damos un presupuesto cerrado para tu finca.
+Depende de la superficie, de cuántas parcelas sueltas haya que juntar, del acceso a cada una y del producto que marque el plan de aplicación. Con eso se calcula un presupuesto cerrado para tus parcelas.
 
 ### ¿El dron también trata la platanera de Las Indias y Los Quemados?
 
@@ -88,7 +88,7 @@ Los hay, y bastantes en época de viento fuerte del norte y nordeste. Antes de c
 
 ## Pide presupuesto para tu viña o tu platanera de Fuencaliente
 
-Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) con la zona de la finca, el cultivo, la superficie aproximada y por dónde se llega, y te decimos si el dron encaja y qué hace falta para tramitarlo. Pedir presupuesto no compromete a nada.
+Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) con la zona de la finca, el cultivo, la superficie aproximada y por dónde se llega, y te contestamos si la viña o la platanera se pueden tratar desde el aire y qué expediente llevan. Pedir presupuesto no compromete a nada.
 
 ```json
 {
@@ -133,7 +133,7 @@ Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) con la zon
         {
           "@type": "Question",
           "name": "¿Cuánto cuesta fumigar con dron una viña en Fuencaliente?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la superficie, de cuántas parcelas sueltas haya que juntar, del acceso a cada una y del producto que marque el plan de aplicación. Con esos datos te damos un presupuesto cerrado para tu finca." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la superficie, de cuántas parcelas sueltas haya que juntar, del acceso a cada una y del producto que marque el plan de aplicación. Con eso se calcula un presupuesto cerrado para tus parcelas." }
         },
         {
           "@type": "Question",

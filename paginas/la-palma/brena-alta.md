@@ -28,7 +28,7 @@ Aquí está el grueso. Breña Alta era en 2017 el cuarto municipio de la isla en
 
 La plaga es conocida: el ácaro o araña cristalina, Oligonychus perseae, en La Palma desde 2005 y presente en todas las zonas productoras (Canal Agrario La Palma), con cochinilla Nipaecoccus nipae y trips detrás.
 
-Para el dron, el aguacatero es un árbol alto de copa densa plantado en bancal, muchas veces con una casa o una carretera a pocos metros. El T50 sigue el relieve con radar y visión binocular y detecta obstáculos, pero el trabajo de verdad está antes: dibujar cada bancal, cada cable y cada árbol que sobresale en el plan de vuelo. El cultivo, en [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/).
+Para el dron, el aguacatero es un árbol alto de copa densa plantado en bancal, muchas veces con una casa o una carretera a pocos metros. El T50 lleva radar y visión binocular para seguir el relieve y detectar obstáculos, pero el trabajo de verdad está antes: dibujar cada bancal, cada cable y cada árbol que sobresale en el plan de vuelo. El cultivo, en [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/).
 
 La viña entra en la subzona Hoyo de Mazo de la DO Vinos La Palma, rastrera sobre picón o empedrados (ICCA) [VERIFICAR: hectáreas de viña en Breña Alta]. Tras el mildiu y el oídio que recorrieron el viñedo palmero en 2025 (El Time), una viña baja en una ladera sin acceso para tractor es candidata clara. Papas y huerta de medianías también se tratan al aire libre, agrupando parcelas chicas. Parte de este producto sale por la Cooperativa Campo Palmero.
 
@@ -53,7 +53,7 @@ Las proteas crecen al aire libre, así que podrían tratarse desde el aire. Pero
 
 Breña Alta está en la vertiente este, donde se dan los valores más altos de humedad media anual de la isla (AECLIM), y las ventanas de calma suelen darse por la mañana [VERIFICAR: régimen de viento en las medianías]. Antes de volar se miran viento y humedad en la propia parcela, no en el parte general.
 
-El resto es método: ubicación, cultivo, superficie, accesos y obstáculos; plan de vuelo sobre el mapa de cada bancal; dosis de la etiqueta y del plan de aplicación; registro. Con fincas de media hectárea o menos, lo habitual es tratar varias de la misma zona en una salida.
+El resto es método: ubicación, cultivo, superficie, accesos y obstáculos; plan de vuelo sobre el mapa de cada bancal; dosis de la etiqueta y del plan de aplicación; registro. Con fincas de media hectárea o menos, lo habitual es agrupar las de un mismo pago en una salida.
 
 El operador vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el análisis de riesgo PDRA-S01 (AESA, Reglamento de Ejecución UE 2019/947). Y como la aplicación aérea de fitosanitarios está prohibida en España con carácter general, cada tratamiento necesita autorización previa del Gobierno de Canarias y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28).
 
@@ -69,11 +69,11 @@ Para flor bajo invernadero o malla, no. Para proteas al aire libre sería posibl
 
 ### ¿Qué pasa si mi finca de Breña Alta está rodeada de casas y carreteras?
 
-Se estudia igual. Casas, carreteras, cables y vecinos se dibujan en el mapa antes de volar y condicionan el plan: hay fincas en las que se puede y otras en las que la respuesta es no. Te lo decimos con el mapa delante.
+Se estudia igual. Casas, carreteras, cables y vecinos se dibujan en el mapa antes de volar y condicionan el plan: hay fincas donde se puede y fincas donde no. Te lo decimos con el mapa delante.
 
-### ¿Cuánto cuesta tratar con dron una finca pequeña en Breña Alta?
+### ¿Cuánto sale tratar con dron una finca chica en Breña Alta?
 
-Depende de la superficie, del cultivo, del acceso y del producto del plan de aplicación. En fincas chicas, juntar varias de la misma zona en una jornada cambia bastante el presupuesto.
+Depende de la superficie, del cultivo, del acceso y del producto del plan de aplicación. En fincas chicas, agrupar varias del mismo pago en una jornada cambia bastante el presupuesto.
 
 ### ¿Con el mar de nubes de las medianías se puede volar?
 
@@ -81,7 +81,7 @@ Con niebla cerrada o lluvia, no. Con nubosidad alta y poco viento, sí. Se decid
 
 ## Pide presupuesto para tu finca de Breña Alta
 
-Dinos en [agrodroncanarias.es](https://agrodroncanarias.es/) en qué zona está la finca, qué cultivas y cuánta superficie tienes, y te decimos si el dron encaja y qué hace falta tramitar. Para el conjunto de la isla, mira el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/); si tu finca cae hacia el aeropuerto, está la página de [dron agrícola en Breña Baja](https://agrodroncanarias.es/dron-agricola-la-palma/brena-baja/).
+Dinos en [agrodroncanarias.es](https://agrodroncanarias.es/) en qué zona del municipio está la finca, qué tienes plantado y cuántos bancales son, y te decimos para cuáles vale el dron y qué expediente hace falta. Para el conjunto de la isla, mira el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/); si tu finca cae hacia el aeropuerto, está la página de [dron agrícola en Breña Baja](https://agrodroncanarias.es/dron-agricola-la-palma/brena-baja/).
 
 ```json
 {
@@ -126,12 +126,12 @@ Dinos en [agrodroncanarias.es](https://agrodroncanarias.es/) en qué zona está 
         {
           "@type": "Question",
           "name": "¿Qué pasa si mi finca de Breña Alta está rodeada de casas y carreteras?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Se estudia igual. Casas, carreteras, cables y vecinos se dibujan en el mapa antes de volar y condicionan el plan: hay fincas en las que se puede y otras en las que la respuesta es no. Te lo decimos con el mapa delante." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Se estudia igual. Casas, carreteras, cables y vecinos se dibujan en el mapa antes de volar y condicionan el plan: hay fincas donde se puede y fincas donde no. Te lo decimos con el mapa delante." }
         },
         {
           "@type": "Question",
-          "name": "¿Cuánto cuesta tratar con dron una finca pequeña en Breña Alta?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la superficie, del cultivo, del acceso y del producto del plan de aplicación. En fincas chicas, juntar varias de la misma zona en una jornada cambia bastante el presupuesto." }
+          "name": "¿Cuánto sale tratar con dron una finca chica en Breña Alta?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la superficie, del cultivo, del acceso y del producto del plan de aplicación. En fincas chicas, agrupar varias del mismo pago en una jornada cambia bastante el presupuesto." }
         },
         {
           "@type": "Question",

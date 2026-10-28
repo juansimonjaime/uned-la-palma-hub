@@ -12,21 +12,21 @@ municipio: "Agaete"
 
 # Dron agrícola en Agaete: naranjos, mangos y cafetales en un valle encajado
 
-El Valle de Agaete concentra casi toda la tierra cultivada del municipio: naranjos, mangos, aguacates, papayos, guayabos, uva moscatel y cafetos de arábica bajo sombra, en fincas pequeñas y abancaladas entre la costa y Los Berrazales (visitagaete.es; Canarias7, agosto de 2025). Un dron agrícola en Agaete tiene que trabajar ahí: en árboles de varios metros, plantados mezclados, en bancales estrechos y con el macizo de Tamadaba encima.
+El Valle de Agaete concentra casi toda la tierra cultivada del municipio: naranjos, mangos, aguacates, papayos, guayabos, uva moscatel y cafetos de arábica bajo sombra, en fincas pequeñas y abancaladas entre la costa y Los Berrazales (visitagaete.es; Canarias7, agosto de 2025). Un dron agrícola en Agaete tiene que trabajar ahí: en árboles de varios metros, mezclados, en bancales estrechos y con el macizo de Tamadaba encima.
 
 [IMAGEN: Vista del Valle de Agaete desde El Hornillo, con bancales de naranjos y mangos y los cafetales bajo la sombra de los frutales | alt: Fincas mixtas de cítricos, mango y café en el Valle de Agaete, Gran Canaria]
 
-Agrodrón Canarias sale desde Santa Cruz de La Palma. En Agaete el servicio es con desplazamiento y según disponibilidad: una salida al valle se organiza con tiempo y, a ser posible, agrupando fincas vecinas.
+Agrodrón Canarias sale desde Santa Cruz de La Palma. En Agaete el servicio es con desplazamiento y según disponibilidad: la salida al valle se organiza con tiempo, agrupando fincas vecinas.
 
 ## Cómo está plantado el valle: fincas mixtas y café bajo sombra
 
-El café da nombre al valle fuera de la isla, pero ocupa poco suelo: entre 10 y 15 hectáreas según el Gobierno de Canarias y Agropopular (2026). El censo de cafedeagaete.es suma 206,11 hectáreas en 87 explotaciones y estima unas 300 cultivadas en el valle. Una cifra cuenta cafetos; la otra, fincas mixtas donde el café va debajo de los frutales [VERIFICAR: superficie cultivada total de Agaete según el ISTAC].
+El café da nombre al valle, pero ocupa poco suelo: entre 10 y 15 hectáreas según el Gobierno de Canarias y Agropopular (2026). El censo de cafedeagaete.es suma 206,11 hectáreas en 87 explotaciones y estima unas 300 cultivadas en el valle. Una cifra cuenta cafetos; la otra, fincas mixtas con el café debajo de los frutales [VERIFICAR: superficie cultivada total de Agaete según el ISTAC].
 
 Esa mezcla manda. En una misma finca hay naranjos de porte medio, mangos y aguacates más altos, papayos y, al pie, cafetos a la sombra. Los bancales suben desde la costa hasta El Hornillo y Los Berrazales, a unos 600 metros [VERIFICAR: altitudes], entre Tamadaba y las laderas del noroeste.
 
 ## Araña del aguacate, cochinillas y hongos de madera: lo que hay documentado
 
-Para Agaete no hay una plaga con nombre propio en nuestros datos. Aplica lo descrito para aguacate y mango en Canarias: la araña del aguacate (Oligonychus perseae), plaga principal del aguacate según el GOIA; trips y cochinillas en aumento según Agrocabildo, con Nipaecoccus nipae citada desde 2018; y hongos Botryosphaeriaceae, con Neofusicoccum parvum, en aguacate, mango y papaya según el ICIA.
+Para Agaete no hay una plaga con nombre propio en nuestros datos. Aplica lo descrito para aguacate y mango en Canarias: araña del aguacate (Oligonychus perseae), plaga principal del aguacate según el GOIA; trips y cochinillas en aumento según Agrocabildo, con Nipaecoccus nipae desde 2018; y hongos Botryosphaeriaceae (Neofusicoccum parvum) en aguacate, mango y papaya según el ICIA.
 
 En los naranjos, el cotonet de Sudáfrica no está documentado en Gran Canaria [VERIFICAR: avisos fitosanitarios del Gobierno de Canarias sobre cítricos]. Ninguna plaga ni producto entra en el plan de vuelo sin que el técnico lo confirme en la finca.
 
@@ -44,16 +44,16 @@ Nos mandas ubicación, superficie, cultivos y obstáculos de la finca: cables, p
 
 ## Lo que el dron no hace en Agaete
 
-El cafeto que crece a la sombra de los frutales queda debajo de la copa que el dron moja: la pulverización aérea trata el arbolado de arriba, no el café de abajo. Si tu problema está en el cafeto, el dron no es la herramienta. Tampoco se trata desde el aire lo que quede de platanera o tomate bajo malla o invernadero [VERIFICAR: hectáreas por cultivo].
+El cafeto que crece a la sombra de los frutales queda debajo de la copa que el dron moja: la pulverización aérea trata el arbolado de arriba, no el café de abajo. Tampoco se trata desde el aire lo que quede de platanera o tomate bajo malla o invernadero [VERIFICAR: hectáreas por cultivo]. Con viento fuerte en la costa o niebla en la cabecera del valle [VERIFICAR: datos de viento y precipitación], el vuelo se aplaza.
 
-La costa está expuesta al alisio y la cabecera del valle tiene nieblas ocasionales [VERIFICAR: datos de viento y precipitación]; con viento fuerte o niebla el vuelo se aplaza. En España los tratamientos aéreos con fitosanitarios están prohibidos salvo casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28); el Ministerio de Agricultura equipara el dron a un tratamiento aéreo (nota MAPA–AESA de 2018), así que cada salida al valle lleva su expediente.
+En España los tratamientos aéreos con fitosanitarios están prohibidos salvo casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). El Ministerio de Agricultura equipara el dron a un tratamiento aéreo (nota MAPA–AESA de 2018), así que cada salida al valle lleva su expediente.
 
-La uva moscatel del valle y los olivos de la almazara local (una de las catorce de la isla según Canarias7, mayo de 2024) sí son cultivo al aire libre y entran en una salida si hay producto autorizado. El contexto insular está en [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/); el cultivo, en [tratamientos con dron en cítricos](https://agrodroncanarias.es/dron-agricola-citricos/) y en [dron para mango, papaya y otros subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/). En la costa platanera vecina, [dron agrícola en Gáldar](https://agrodroncanarias.es/dron-agricola-gran-canaria/galdar/).
+La uva moscatel y los olivos de la almazara local (una de las catorce de la isla según Canarias7, mayo de 2024) sí entran en una salida si hay producto autorizado. El contexto insular está en [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/); el cultivo, en [tratamientos con dron en cítricos](https://agrodroncanarias.es/dron-agricola-citricos/) y en [dron para mango, papaya y otros subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/). En la costa platanera vecina, [dron agrícola en Gáldar](https://agrodroncanarias.es/dron-agricola-gran-canaria/galdar/).
 
 ## Preguntas frecuentes sobre el dron agrícola en el Valle de Agaete
 
 ### ¿Se puede tratar con dron una finca mixta de naranjos, mangos y café en Agaete?
-Se trata el arbolado de arriba: naranjos, mangos, aguacates, papayos. El café de abajo, a la sombra, no recibe el tratamiento aéreo, y el producto debe estar autorizado para aplicación aérea en cada cultivo.
+Se trata el arbolado de arriba: naranjos, mangos, aguacates, papayos. El café de abajo no recibe el tratamiento aéreo, y el producto debe estar autorizado para aplicación aérea en cada cultivo.
 
 ### ¿Cuánto cuesta un tratamiento con dron en Agaete?
 No damos cifra sin ver la finca. Depende de la superficie, de lo mezclado que esté el arbolado, de los accesos, del producto y del desplazamiento desde La Palma.
@@ -62,10 +62,10 @@ No damos cifra sin ver la finca. Depende de la superficie, de lo mezclado que es
 Sí: el T50 sigue el relieve con radar y ajusta la velocidad a la pendiente. Lo que condiciona es el acceso para la furgoneta, el punto de recarga de agua y la niebla de la cabecera ese día.
 
 ### ¿Hay plagas documentadas en Agaete que el dron pueda tratar?
-Registro propio de Agaete no hay. En aguacate y mango canarios están descritos araña del aguacate, trips, cochinillas y hongos Botryosphaeriaceae (GOIA, Agrocabildo, ICIA); qué se trata y con qué lo decide el técnico dentro del plan autorizado.
+Registro propio de Agaete no hay. En aguacate y mango canarios están descritos araña del aguacate, trips, cochinillas y hongos Botryosphaeriaceae (GOIA, Agrocabildo, ICIA); qué se trata lo decide el técnico dentro del plan autorizado.
 
 ### ¿Cada cuánto viene Agrodrón a Gran Canaria?
-No hay calendario fijo. Las salidas desde La Palma se organizan según disponibilidad y se agrupan por comarca para que compense el desplazamiento. Cuanto antes nos cuentes tu finca, más fácil es cuadrarla con otras del noroeste.
+No hay calendario fijo. Las salidas desde La Palma van según disponibilidad y se agrupan por comarca para que compense el desplazamiento.
 
 ## Pide presupuesto para tu finca del Valle de Agaete
 
@@ -104,7 +104,7 @@ Si tienes naranjos, mangos, aguacates o papayos al aire libre en Agaete, entra e
         {
           "@type": "Question",
           "name": "¿Se puede tratar con dron una finca mixta de naranjos, mangos y café en Agaete?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Se trata el arbolado de arriba: naranjos, mangos, aguacates, papayos. El café de abajo, a la sombra, no recibe el tratamiento aéreo, y el producto debe estar autorizado para aplicación aérea en cada cultivo." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Se trata el arbolado de arriba: naranjos, mangos, aguacates, papayos. El café de abajo no recibe el tratamiento aéreo, y el producto debe estar autorizado para aplicación aérea en cada cultivo." }
         },
         {
           "@type": "Question",
@@ -119,12 +119,12 @@ Si tienes naranjos, mangos, aguacates o papayos al aire libre en Agaete, entra e
         {
           "@type": "Question",
           "name": "¿Hay plagas documentadas en Agaete que el dron pueda tratar?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Registro propio de Agaete no hay. En aguacate y mango canarios están descritos araña del aguacate, trips, cochinillas y hongos Botryosphaeriaceae (GOIA, Agrocabildo, ICIA); qué se trata y con qué lo decide el técnico dentro del plan autorizado." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Registro propio de Agaete no hay. En aguacate y mango canarios están descritos araña del aguacate, trips, cochinillas y hongos Botryosphaeriaceae (GOIA, Agrocabildo, ICIA); qué se trata lo decide el técnico dentro del plan autorizado." }
         },
         {
           "@type": "Question",
           "name": "¿Cada cuánto viene Agrodrón a Gran Canaria?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No hay calendario fijo. Las salidas desde La Palma se organizan según disponibilidad y se agrupan por comarca para que compense el desplazamiento. Cuanto antes nos cuentes tu finca, más fácil es cuadrarla con otras del noroeste." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No hay calendario fijo. Las salidas desde La Palma van según disponibilidad y se agrupan por comarca para que compense el desplazamiento." }
         }
       ]
     }

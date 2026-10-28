@@ -36,7 +36,7 @@ El DJI Agras T50 vuela sobre el bancal sin pisarlo. Su radar de matriz en fase y
 
 El depósito de 40 litros, con caudal de hasta 16 litros por minuto con dos boquillas centrífugas y 24 con cuatro, casa con fincas pequeñas: se trata, se baja a rellenar en la pista y se sigue. Para quien tiene media hectárea escalonada, es la diferencia entre un tratamiento a tiempo y uno aplazado hasta que sobre un sábado.
 
-## El aeropuerto al lado: cómo condiciona cada vuelo en Breña Baja
+## El aeropuerto al lado: cómo condiciona cada vuelo del dron agrícola en Breña Baja
 
 El aeropuerto de La Palma está en el límite sur del municipio. Eso obliga, antes de planificar cualquier vuelo aquí, a mirar el mapa de zonas geográficas de UAS de ENAIRE (https://drones.enaire.es/), donde figura la zona de control aéreo del aeropuerto y las condiciones que impone a cada operación. Se comprueba en qué zona cae la parcela y qué autorización o coordinación exige.
 
@@ -55,7 +55,7 @@ No es un impedimento general, es un paso más del expediente, y lo asume el oper
 
 Solo pueden aplicarse productos cuya autorización incluya expresamente la aplicación aérea (anexo VI del Real Decreto 1311/2012), y cada tratamiento necesita la autorización previa del Gobierno de Canarias con su plan de aplicación aprobado, porque la aplicación aérea de fitosanitarios está prohibida en España salvo casos especiales (artículos 27 y 28 del mismo decreto). Tú aportas parcela y producto; el resto lo tramita Agrodrón Canarias.
 
-## Preguntas frecuentes sobre el dron agrícola en Breña Baja
+## Preguntas que nos hacen en Breña Baja antes de contratar
 
 ### ¿Se puede volar un dron agrícola tan cerca del aeropuerto de La Palma?
 
@@ -75,11 +75,11 @@ Un punto de agua o una cuba para rellenar el depósito cerca de la pista y el ac
 
 ### ¿Qué precio tiene un tratamiento con dron en una finca de Breña Baja?
 
-Lo marcan la superficie, el cultivo, el acceso y el producto del plan de aplicación; en Breña Baja también cuenta el trámite aéreo de la zona del aeropuerto. Con esos datos te damos un presupuesto cerrado.
+Lo marcan la superficie, el cultivo, el acceso y el producto del plan de aplicación; en Breña Baja también cuenta el trámite aéreo de la zona del aeropuerto. Con eso sale un presupuesto cerrado para tu finca.
 
 ## Pide presupuesto para tu finca de Breña Baja
 
-Cuéntanos en [agrodroncanarias.es](https://agrodroncanarias.es/) dónde está la finca, qué cultivas, cuánta superficie es y cómo se accede, y te decimos si el dron encaja y qué trámites lleva, incluido el aéreo. El resto de la isla está en el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/); el vecino de arriba, en [dron agrícola en Breña Alta](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/).
+Manda desde [agrodroncanarias.es](https://agrodroncanarias.es/) la ubicación de los bancales, el cultivo, la superficie y el acceso, y te contestamos con la parcela ya mirada sobre el mapa de ENAIRE: si se puede volar, qué trámites lleva y el presupuesto. El resto de la isla está en el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/); el vecino de arriba, en [dron agrícola en Breña Alta](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/).
 
 ```json
 {
@@ -134,7 +134,7 @@ Cuéntanos en [agrodroncanarias.es](https://agrodroncanarias.es/) dónde está l
         {
           "@type": "Question",
           "name": "¿Qué precio tiene un tratamiento con dron en una finca de Breña Baja?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Lo marcan la superficie, el cultivo, el acceso y el producto del plan de aplicación; en Breña Baja también cuenta el trámite aéreo de la zona del aeropuerto. Con esos datos te damos un presupuesto cerrado." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Lo marcan la superficie, el cultivo, el acceso y el producto del plan de aplicación; en Breña Baja también cuenta el trámite aéreo de la zona del aeropuerto. Con eso sale un presupuesto cerrado para tu finca." }
         }
       ]
     }
