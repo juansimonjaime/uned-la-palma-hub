@@ -63,13 +63,13 @@ En primavera y verano, cuando el mildiu y el oídio tienen su riesgo; en 2025 am
 Sí, si hay un tratamiento autorizado en aéreo que aplicar; en los datos no hay plaga del almendro documentada en Puntagorda. Con árboles sueltos el dron pasa más tiempo desplazándose que tratando, y lo decimos antes de presupuestar.
 
 ### ¿Qué pasa con el viento en Puntagorda?
-Se mide en la finca antes de cada vuelo. Con racha que saque el caldo de la parcela no se trata; se busca otra ventana.
+Es el condicionante número uno del municipio. El piloto lo mide en la parcela antes de despegar y, si la racha puede sacar el caldo de la finca, el tratamiento se mueve a otro día.
 
 ### ¿Trata el dron la platanera de la costa de Puntagorda?
 Sí, si está al aire libre. Se despega desde la pista o el borde del llano y no hace falta bajar maquinaria. Bajo malla de techo o invernadero no se trata.
 
 ### ¿Cuánto cuesta un tratamiento con dron en Puntagorda?
-Depende de la superficie, del cultivo, de lo repartidas que estén las parcelas y del producto. Cuanto más agrupadas, mejor sale. Pide presupuesto con esos datos.
+Pesa la superficie, el cultivo y, sobre todo aquí, lo repartidas que estén las parcelas; también el producto. Cuanto más agrupadas, mejor sale. Con eso cerramos el presupuesto.
 
 ## Pide presupuesto para tus fincas de Puntagorda
 
@@ -118,7 +118,7 @@ Cuéntanos qué tienes (almendro, viña, aguacate o platanera), en qué pagos es
         {
           "@type": "Question",
           "name": "¿Qué pasa con el viento en Puntagorda?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Se mide en la finca antes de cada vuelo. Con racha que saque el caldo de la parcela no se trata; se busca otra ventana." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Es el condicionante número uno del municipio. El piloto lo mide en la parcela antes de despegar y, si la racha puede sacar el caldo de la finca, el tratamiento se mueve a otro día." }
         },
         {
           "@type": "Question",
@@ -128,7 +128,7 @@ Cuéntanos qué tienes (almendro, viña, aguacate o platanera), en qué pagos es
         {
           "@type": "Question",
           "name": "¿Cuánto cuesta un tratamiento con dron en Puntagorda?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la superficie, del cultivo, de lo repartidas que estén las parcelas y del producto. Cuanto más agrupadas, mejor sale. Pide presupuesto con esos datos." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Pesa la superficie, el cultivo y, sobre todo aquí, lo repartidas que estén las parcelas; también el producto. Cuanto más agrupadas, mejor sale. Con eso cerramos el presupuesto." }
         }
       ]
     }

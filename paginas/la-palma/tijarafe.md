@@ -30,7 +30,7 @@ El coste no es solo tiempo. Es la deriva al tratar hacia arriba, la exposición 
 
 ## Qué cambia con un dron agrícola en Tijarafe: el radar que sigue el bancal
 
-El DJI Agras T50 lleva un radar de matriz en fase y visión binocular que leen el relieve por delante y detectan obstáculos; con eso mantiene la altura sobre el cultivo cuando el terreno sube o baja y ajusta la velocidad de vuelo a la pendiente (ficha técnica de DJI). En un bancal escalonado el dron no trata escalones: trata una superficie que sigue a distancia constante sobre las copas.
+El DJI Agras T50 lleva un radar de matriz en fase y visión binocular que leen el relieve por delante y detectan obstáculos; con eso mantiene la altura sobre el cultivo cuando el terreno sube o baja y ajusta la velocidad de vuelo a la pendiente (ficha técnica de DJI). En un bancal escalonado el dron sube y baja con cada muro y mantiene la misma distancia sobre las copas.
 
 El depósito de 40 litros y el caudal de hasta 16 L/min con dos boquillas o 24 L/min con cuatro se adaptan a parcelas pequeñas: se despega desde la pista, se trata el bancal y se vuelve a cargar sin que nadie baje muros. El aplicador se queda arriba con el mando y el agua. Lo que no hace: tratar bajo malla o invernadero, ni volar con viento que saque el caldo de la finca.
 
@@ -38,7 +38,7 @@ El depósito de 40 litros y el caudal de hasta 16 L/min con dos boquillas o 24 L
 
 ## Viento del noroeste y nieblas de medianías
 
-Tijarafe mira al noroeste, en la transición entre el norte húmedo y el Valle seco: insolación alta, precipitación media-baja y nieblas ocasionales en las medianías altas. El viento es de componente N-NO en los lomos y en los acantilados de la costa [VERIFICAR: régimen de viento por zona agrícola]. Antes de cada vuelo se mide en la finca; con racha o niebla se espera. En los acantilados la brisa cambia a lo largo del día, y eso marca la hora de tratar.
+Tijarafe mira al noroeste, en la transición entre el norte húmedo y el Valle seco: insolación alta, precipitación media-baja y nieblas ocasionales en las medianías altas. El viento es de componente N-NO en los lomos y en los acantilados de la costa [VERIFICAR: régimen de viento por zona agrícola]. Antes de cada vuelo se mide en la finca; con racha o niebla se espera. La brisa de costa cambia con las horas, y eso marca cuándo se trata en las plataformas.
 
 ## Platanera, aguacate y viña: cultivos y plagas documentadas en Tijarafe
 
@@ -48,7 +48,7 @@ La cooperativa La Prosperidad tiene sede en el municipio: 364 socios plataneros 
 
 ## Autorización y plan de aplicación, en dos frases
 
-La aplicación aérea de fitosanitarios está prohibida en España con carácter general; solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el PDRA-S01, y cada tratamiento en Tijarafe se tramita antes de volar.
+La norma general en España prohíbe la aplicación aérea de fitosanitarios; la excepción exige autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el PDRA-S01, y cada tratamiento en Tijarafe se tramita antes de volar.
 
 ## Preguntas frecuentes sobre fumigar con dron en Tijarafe
 
@@ -65,7 +65,7 @@ Si el producto tiene autorización expresa para aplicación aérea y la parcela 
 Se mide en la finca antes de volar. Con racha que pueda llevar el caldo fuera de la parcela se aplaza y se busca otra ventana.
 
 ### ¿Cuánto cuesta un tratamiento con dron en Tijarafe?
-Depende de la superficie, el cultivo, el acceso al punto de despegue y el producto. Un bancal de aguacate a 700 m y una plataforma de platanera en la costa no se planifican igual. Pide presupuesto con esos datos.
+Lo marcan cuatro cosas: superficie, cultivo, acceso al punto de despegue y producto. Un bancal de aguacate a 700 m y una plataforma de platanera en la costa no se planifican igual. Pide presupuesto con esos datos.
 
 ## Pide presupuesto para tu finca en Tijarafe
 
@@ -124,7 +124,7 @@ Dinos dónde está la finca (costa o medianía), el cultivo, la superficie aprox
         {
           "@type": "Question",
           "name": "¿Cuánto cuesta un tratamiento con dron en Tijarafe?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la superficie, el cultivo, el acceso al punto de despegue y el producto. Un bancal de aguacate a 700 m y una plataforma de platanera en la costa no se planifican igual. Pide presupuesto con esos datos." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Lo marcan cuatro cosas: superficie, cultivo, acceso al punto de despegue y producto. Un bancal de aguacate a 700 m y una plataforma de platanera en la costa no se planifican igual. Pide presupuesto con esos datos." }
         }
       ]
     }

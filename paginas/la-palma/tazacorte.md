@@ -30,7 +30,7 @@ La cochinilla pesa tanto en la platanera canaria que para 2026 hubo una autoriza
 
 ## Por qué un dron agrícola en Tazacorte encaja con la escala de la finca
 
-El DJI Agras T50 carga 40 litros de caldo y pulveriza hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro, según la ficha técnica de DJI. A caudal máximo, el depósito se vacía en menos de tres minutos de vuelo y se rellena en el borde de la parcela. En una finca de una hectárea del llano eso significa paradas cortas y nadie caminando con la mochila entre los pies.
+El DJI Agras T50 carga 40 litros de caldo y pulveriza hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro, según la ficha técnica de DJI. A caudal máximo, el depósito se vacía en menos de dos minutos de vuelo y se rellena en el borde de la parcela. En una finca de una hectárea del llano eso significa paradas cortas y nadie caminando con la mochila entre los pies.
 
 Aquí la ventaja no está en el relieve, que es suave, sino en el tiempo y en el acceso. Las piñas colgando, las cadenas de riego a media altura y los muros entre parcelas hacen lento el trabajo a pie; desde arriba todo eso queda debajo. El dron pulverizador vuela por encima del cultivo siguiendo el plano de la parcela, pasada tras pasada, y el agricultor no pisa la finca mojada.
 
@@ -55,7 +55,7 @@ Dos cosas más que no dependen del dron. Solo pueden aplicarse productos cuya au
 
 Con 3,40 ha de aguacate y 0,18 ha de viña en 2022, más papaya y mango marginales [VERIFICAR: superficies], el resto del municipio apenas da para una visita aparte; se trata junto a la platanera de la misma finca si el producto y la autorización lo permiten. La nueva carretera de la costa se llevó unas 10 ha de plataneras (ASPROCAN, 2022), y Cupalma, Covalle, Europlátano y La Prosperidad recogen la fruta del municipio.
 
-Si tu finca sigue al otro lado del Barranco de las Angustias, mira la página de [dron agrícola en Los Llanos de Aridane](https://agrodroncanarias.es/dron-agricola-la-palma/los-llanos-de-aridane/). El contexto de toda la isla está en [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) y el cultivo a fondo en [tratamientos con dron para platanera](https://agrodroncanarias.es/dron-agricola-platanera/).
+Si tu finca queda ya en término de Los Llanos, mira la página de [dron agrícola en Los Llanos de Aridane](https://agrodroncanarias.es/dron-agricola-la-palma/los-llanos-de-aridane/). El contexto de toda la isla está en [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) y el cultivo a fondo en [tratamientos con dron para platanera](https://agrodroncanarias.es/dron-agricola-platanera/).
 
 ## Preguntas frecuentes sobre fumigar con dron en Tazacorte
 
@@ -63,7 +63,7 @@ Si tu finca sigue al otro lado del Barranco de las Angustias, mira la página de
 Depende del volumen de caldo por hectárea que marque el plan de aplicación y del número de recargas. El T50 lleva 40 litros y los aplica a un máximo de 24 L/min, así que cada recarga dura pocos minutos de vuelo; con la finca llana y el punto de recarga en el borde, los paros son cortos. Sin ver la parcela no damos una cifra.
 
 ### ¿Se puede tratar la platanera replantada sobre la colada en Tazacorte?
-Sí, si está al aire libre y con producto autorizado para aplicación aérea. Son sorribas nuevas sobre la lava, con pistas también nuevas; el dron evita meter maquinaria pesada en suelo recién hecho.
+Sí, siempre que no tenga cubierta encima y el producto esté autorizado en aéreo. Son sorribas nuevas sobre la lava, con pistas también nuevas; el dron evita meter maquinaria pesada en suelo recién hecho.
 
 ### ¿Qué pasa con las fincas que tienen malla cortaviento?
 La malla vertical no impide el tratamiento: el dron la detecta y la lleva marcada en el plan de vuelo. Lo que no se trata desde el aire es la platanera bajo malla de techo o invernadero.
@@ -116,7 +116,7 @@ Si tienes una finca de piña al aire libre en el llano de Tazacorte, escríbenos
         {
           "@type": "Question",
           "name": "¿Se puede tratar la platanera replantada sobre la colada en Tazacorte?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si está al aire libre y con producto autorizado para aplicación aérea. Son sorribas nuevas sobre la lava, con pistas también nuevas; el dron evita meter maquinaria pesada en suelo recién hecho." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, siempre que no tenga cubierta encima y el producto esté autorizado en aéreo. Son sorribas nuevas sobre la lava, con pistas también nuevas; el dron evita meter maquinaria pesada en suelo recién hecho." }
         },
         {
           "@type": "Question",

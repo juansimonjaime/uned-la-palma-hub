@@ -40,7 +40,7 @@ Esas fincas tienen dos pegas para el tratamiento clásico: pistas nuevas que no 
 
 ## Los Campitos, el llano intacto y las medianías del aguacate
 
-Fuera de la huella de la lava, Los Campitos y el resto del llano siguen como antes de 2021: piña al aire libre, sorribas con muros, riego localizado. El dron para plataneras gana aquí cuando hay que tratar sin pisar la finca: suelo encharcado, hierba alta entre pies o semanas de mucha carga en el empaquetado.
+Fuera de la huella de la lava, Los Campitos y el resto del llano siguen como antes de 2021: piña al aire libre, sorribas con muros y su cadena de riego. El dron para plataneras gana aquí cuando hay que tratar sin pisar la finca: suelo encharcado, hierba alta entre pies o semanas de mucha carga en el empaquetado.
 
 En las medianías de 300 a 600 m manda el aguacate; Los Llanos era en 2017 el segundo municipio aguacatero tras Tijarafe (eldiario.es) [VERIFICAR: hectáreas de aguacate 2022]. Hay mango, papaya y hortalizas a menor escala según la web municipal, y viña residual en Las Manchas y Todoque [VERIFICAR: superficie]. En un bancal de aguacateros altos la mochila castiga; el dron trata desde arriba.
 

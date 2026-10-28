@@ -12,7 +12,7 @@ municipio: ""
 
 # Dron agrícola para platanera en Canarias: tratar por encima de la mata
 
-Una platanera en producción te saca dos cabezas: entre tres y cuatro metros de planta [VERIFICAR: altura media en producción con fuente técnica], hojas que cierran el pasillo y la piña a la altura del pecho. Con la mochila ahí dentro se moja lo que se puede. Un dron agrícola para platanera hace el recorrido al revés: pasa por encima de la mata y deja el caldo sobre la hoja, sin que nadie camine entre las plantas con la lanza en la mano.
+Una platanera en producción te saca dos cabezas: entre tres y cuatro metros de planta [VERIFICAR: altura media en producción con fuente técnica], hojas que cierran el pasillo y la piña a la altura del pecho. Con la mochila ahí dentro se moja lo que se puede. Un dron agrícola para platanera hace el recorrido al revés: pasa por encima de la mata y deja el caldo sobre la hoja, sin que nadie camine entre las matas con la lanza.
 
 [IMAGEN: Dron DJI Agras T50 sobrevolando una finca de platanera al aire libre en la costa de La Palma, con muros de piedra y cortavientos de malla vertical al fondo | alt: Dron agrícola pulverizando platanera al aire libre en la costa oeste de La Palma]
 
@@ -20,7 +20,7 @@ Una platanera en producción te saca dos cabezas: entre tres y cuatro metros de 
 
 El plátano es el cultivo con más superficie de Canarias: 8.719 ha en 2023 según el Parlamento de Canarias (BOP 272/2024) y 8.761,4 ha en 2024 según el ISTAC, un 22,1 % de todo lo cultivado en las islas. Mercasa (informe de febrero de 2026) habla de unas 9.940 ha y de 421.300 t en 2024, un 10 % menos que el año anterior; las cifras no casan [VERIFICAR: base de cálculo de Mercasa].
 
-Para el dron importa otro número del mismo informe: algo más de 3.100 ha van bajo invernadero. Casi un tercio de la platanera canaria no se puede tratar desde el aire, porque el producto no atraviesa la cubierta. El resto, a cielo abierto entre muros y cortavientos, sí.
+Para el dron importa otro número del mismo informe: algo más de 3.100 ha van bajo invernadero, casi un tercio, y esa parte no se trata desde el aire porque el producto no atraviesa la cubierta. El resto, entre muros y cortavientos, sí.
 
 ## Fincas de costa: muros, cortavientos y cadena de riego
 
@@ -30,12 +30,11 @@ Para el DJI Agras T50 esa finca es terreno conocido. Su radar de matriz en fase 
 
 ## Picudo, mangla, trips y araña roja: qué se ataca desde arriba y qué no
 
-Las plagas de la platanera canaria están documentadas por Agrocabildo y la ULPGC:
+Lo que documentan Agrocabildo y la ULPGC:
 
 - Picudo negro (Cosmopolites sordidus): la principal plaga de la platanera en Canarias según Agrocabildo. Vive en el cormo y la base del pseudotallo, quita vigor y retrasa la floración; se controla con trampas de feromonas.
 - Cochinilla algodonosa o mangla (Dysmicoccus grassii): uno de los principales problemas fitosanitarios actuales, con resistencias y fitotoxicidad en el control químico (ULPGC).
 - Trips (Hercinothrips femoralis) y araña roja (Tetranychus urticae): en el manual fitosanitario de Agrocabildo de 2026, con daño en hoja y fruto.
-- Lagarta (Chrysodeixis chalcites): recogida en el mismo manual.
 
 La campaña 2025-2026 ha sido dura: la prensa agraria habla de una crisis por cochinilla y mosca blanca, con el sector pidiendo a la UE el uso de emergencia de un insecticida a base de spirotetramat (Diario de Avisos, 15 de octubre de 2026; Agrolatam). Qué se aplica lo decide la etiqueta y el plan de aplicación aprobado, no el dron.
 
@@ -49,7 +48,7 @@ El verano manda en el calendario de riesgo: Agroseguro contabilizó en 2024 unas
 
 ## Dron agrícola para platanera: dónde trabajamos y con qué papeles
 
-Agrodrón Canarias tiene la base en Santa Cruz de La Palma, así que en la isla no cobramos desplazamiento. En Tenerife, Gran Canaria, La Gomera y El Hierro salimos con desplazamiento y según disponibilidad, agrupando fincas de la misma comarca cuando se puede.
+Agrodrón Canarias tiene la base en Santa Cruz de La Palma, así que en la isla no cobramos desplazamiento. En Tenerife, Gran Canaria, La Gomera y El Hierro salimos con desplazamiento y según disponibilidad.
 
 Tenerife tiene el 45 % de la superficie platanera (Confederación Canaria de Empresarios sobre datos del ISTAC, 2022) y La Palma un tercio de la producción (Justicia Alimentaria, enero de 2025), con la mayor parte de su platanera descubierta [VERIFICAR: porcentaje de platanera protegida por isla].
 

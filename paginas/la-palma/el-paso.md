@@ -12,7 +12,7 @@ municipio: "El Paso"
 
 # Dron agrícola en El Paso: las preguntas que hace el agricultor de medianías
 
-El Paso es el municipio más extenso de La Palma, con 135,92 km², y el único sin costa (Gobierno de Canarias): aquí no hay platanera de llano, sino viña, aguacate y almendro entre 400 y 1.000 m sobre lapilli, en el flanco oeste de Cumbre Vieja. Las dudas sobre un dron agrícola en El Paso son distintas a las del Valle, y esta página las responde una por una con los datos del municipio.
+El Paso es el municipio más extenso de La Palma, con 135,92 km², y el único sin costa (Gobierno de Canarias): aquí no hay platanera de llano, sino viña, aguacate y almendro entre 400 y 1.000 m sobre lapilli, en el flanco oeste de Cumbre Vieja. Las dudas sobre un dron agrícola en El Paso son otras que en el Valle: altura de copa, pendiente, niebla y lo que dejó el volcán. Vamos una por una.
 
 [IMAGEN: Bancales de viña y aguacate en las medianías de El Paso con el cono del Tajogaite al fondo | alt: Viña y aguacate en bancales de medianías de El Paso, La Palma, con el volcán de 2021 detrás]
 
@@ -44,7 +44,7 @@ Para el dron, las coladas son sobre todo accesos cambiados: pistas nuevas, finca
 
 ## ¿Qué hace falta para contratar un tratamiento con dron en El Paso?
 
-Tres cosas: los datos de la finca (ubicación, cultivo, superficie, accesos, cables o árboles altos), el producto que quieres aplicar y tiempo para el trámite. La aplicación aérea de fitosanitarios está prohibida en España con carácter general y solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y plan de aplicación aprobado (RD 1311/2012, artículos 27 y 28); los drones cuentan como tratamiento aéreo según la nota MAPA-AESA de 2018.
+Tres cosas: los datos de la finca (ubicación, cultivo, superficie, accesos, cables o árboles altos), el producto que quieres aplicar y tiempo para el trámite. En España, aplicar fitosanitarios desde el aire está prohibido salvo casos especiales: hace falta autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (RD 1311/2012, artículos 27 y 28), y los drones cuentan como tratamiento aéreo según la nota MAPA-AESA de 2018.
 
 El día del vuelo se miran las condiciones. En El Paso los vientos son de componente E-NE, canalizados por la cumbre, y el mar de nubes desborda a veces la Cumbre Nueva y mete niebla en las medianías [VERIFICAR: frecuencia del desborde del alisio sobre El Paso]. Con niebla o racha no se trata; se espera a la siguiente ventana.
 
