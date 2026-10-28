@@ -1,7 +1,7 @@
 ---
 title: "Dron agrícola en Teror | Agrodrón Canarias"
 slug: "teror"
-meta_description: "Dron agrícola en Teror para papa, millo y hortalizas de medianías en parcelas pequeñas y en pendiente: cuándo encaja, qué pasa con la niebla y cómo pedir presupuesto."
+meta_description: "Dron agrícola en Teror para papa, millo y hortalizas de medianías en bancales pequeños: cuándo encaja, qué pasa con la niebla y cómo pedir presupuesto."
 keyword: "dron agrícola en Teror"
 keywords_secundarias: "fumigar con dron en Teror, tratamiento con drones en papa, dron fitosanitario Gran Canaria, pulverización aérea medianías Teror, dron para papas Gran Canaria"
 parent: "dron-agricola-gran-canaria"
@@ -12,7 +12,7 @@ municipio: "Teror"
 
 # Dron agrícola en Teror: respuestas para el agricultor de papa y millo de medianías
 
-Teror cultiva papa y millo desde el siglo XVIII, según el Atlas Rural de Gran Canaria, en bancales pequeños que suben desde el barranco de Teror, cabecera del Guiniguada, hasta Osorio y la cumbre. Fincas de media fanegada, con pendiente y con niebla. Aquí van, una por una, las preguntas que nos hace un agricultor de aquí cuando pregunta por un dron agrícola en Teror, con los datos del municipio y sin adornos.
+Teror cultiva papa y millo desde el siglo XVIII, según el Atlas Rural de Gran Canaria, en bancales pequeños que suben desde el barranco de Teror, cabecera del Guiniguada, hasta Osorio y la cumbre. Fincas de media fanegada, con pendiente y con niebla. Aquí van, una por una, las preguntas que nos hace un agricultor de aquí cuando pregunta por un dron agrícola en Teror.
 
 [IMAGEN: Bancales de papa en pendiente en las medianías de Teror, con el mar de nubes bajando sobre la cumbre y el casco al fondo | alt: bancales de papa en pendiente en las medianías de Teror, Gran Canaria]
 
@@ -20,13 +20,13 @@ Teror cultiva papa y millo desde el siglo XVIII, según el Atlas Rural de Gran C
 
 Sí, si la parcela está al aire libre y se puede mapear. Lo que decide no es el tamaño sino el acceso: media fanegada en ladera, con el muro del bancal de por medio y el coche en la pista de arriba, es la finca que siempre se ha tratado con la mochila al hombro. El DJI Agras T50 despega desde esa misma pista.
 
-Lo que cambia con fincas tan chicas es la organización. El depósito del T50 carga 40 litros, de sobra para tu parcela y las dos del vecino, así que en Teror se juntan varias fincas de un mismo pago en una jornada. Agrodrón Canarias tiene la base en Santa Cruz de La Palma; a Gran Canaria se viene con desplazamiento y según disponibilidad, y agrupar parcelas es lo que hace que la salida compense.
+Lo que cambia es la organización. El depósito del T50 carga 40 litros, de sobra para tu parcela y las dos del vecino, así que en Teror se juntan varias fincas de un mismo pago en una jornada. Agrodrón Canarias tiene la base en Santa Cruz de La Palma; a Gran Canaria se viene con desplazamiento y según disponibilidad, y agrupar parcelas es lo que hace que la salida compense.
 
 ## ¿Y con la niebla de Teror, cuándo se vuela?
 
 Cuando levanta. El mar de nubes del alisio se asienta entre los 800 y los 1.500 metros según GEVIC; el casco de Teror está a unos 600 metros y las fincas suben hasta los 1.400 en Osorio, en una de las zonas con más niebla y lluvia de la isla [VERIFICAR: precipitación media anual de Teror]. Eso quita horas de vuelo, no días enteros.
 
-Con niebla cerrada no se vuela: el radar del T50 sigue el relieve igual, pero la deriva y el mojado de la hoja con el aire saturado no son los que marca el plan de aplicación. Se mira la finca a primera hora, se espera la ventana o se cambia el día.
+Con niebla cerrada no se vuela: el radar del T50 sigue el relieve igual, pero la deriva y el mojado de la hoja con el aire saturado no son los del plan de aplicación. Se mira la finca a primera hora y se espera la ventana o se cambia el día.
 
 ## ¿La polilla guatemalteca se trata con el dron?
 
@@ -38,7 +38,7 @@ La larva vive dentro del tubérculo y la lucha se gana en el almacén, en la rot
 
 Depende de a quién preguntes. El Mapa de Cultivos de Canarias 2024 da 805,8 hectáreas de papa en Gran Canaria; el Cabildo, en la Feria Insular de la Papa que se celebra en Teror, habla de unas 1.200 hectáreas, el 90,5 % de regadío, y de unos 49 millones de kilos al año. Son metodologías distintas y se anotan las dos.
 
-Teror acogió la octava edición de esa feria en octubre de 2026 y el Cabildo entregó el Premio Productor de la Papa 2026 a un agricultor del municipio (Canarias7). Esa papa de medianías al aire libre es el cultivo para el que tiene sentido hablar de [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/).
+Teror acogió la octava edición de esa feria en octubre de 2026 y el Cabildo entregó el Premio Productor de la Papa 2026 a un agricultor del municipio (Canarias7). Esa papa de medianías es el cultivo para el que tiene sentido hablar de [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/).
 
 ## ¿Qué me hace falta para contratar un tratamiento?
 

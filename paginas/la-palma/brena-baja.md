@@ -1,7 +1,7 @@
 ---
 title: "Dron agrícola en Breña Baja | Agrodrón Canarias"
 slug: "brena-baja"
-meta_description: "Dron agrícola en Breña Baja: platanera de costa y aguacate de medianías en 15 km², con el aeropuerto al lado y cada vuelo planificado. Pide presupuesto para tu finca."
+meta_description: "Dron agrícola en Breña Baja: platanera de costa y aguacate de medianías en 15 km², con el aeropuerto al lado y cada vuelo planificado. Pide presupuesto."
 keyword: "dron agrícola en Breña Baja"
 keywords_secundarias: "fumigar con dron en Breña Baja, tratamiento con drones en platanera, dron fitosanitario La Palma, pulverización aérea Breña Baja, dron pulverizador aguacate"
 parent: "dron-agricola-la-palma"
@@ -12,13 +12,15 @@ municipio: "Breña Baja"
 
 # Dron agrícola en Breña Baja: del bancal al vuelo en 15 kilómetros cuadrados
 
-Quince kilómetros cuadrados, el segundo término más pequeño de la isla, con una franja corta que sube de la platanera de la costa a la viña sobre picón de la zona alta, pasando por el aguacate y la huerta de las medianías de 300 a 700 metros. Breña Baja tenía 239,1 hectáreas en producción en 2019 (Observatorio de Sostenibilidad de la Reserva de la Biosfera), en laderas de pendiente media con bancales. Un dron agrícola en Breña Baja trabaja en poco espacio y con dos condicionantes: la pendiente y el aeropuerto del límite sur.
+Quince kilómetros cuadrados, el segundo término más pequeño de la isla, y una franja corta que sube de la platanera de la costa a la viña sobre picón de la zona alta, con aguacate y huerta en medio. Breña Baja tenía 239,1 hectáreas en producción en 2019 (Observatorio de Sostenibilidad de la Reserva de la Biosfera), en laderas de pendiente media con bancales. Un dron agrícola en Breña Baja trabaja en poco espacio y con dos condicionantes: la pendiente y el aeropuerto del límite sur.
 
 [IMAGEN: Bancales de platanera y aguacate en la ladera de Breña Baja, con la pista del aeropuerto de La Palma y el mar al fondo | alt: fincas en bancales de platanera y aguacate en Breña Baja, La Palma, con el aeropuerto al fondo]
 
 ## Bancales, pendiente media y poco frente de costa
 
-La costa es platanera [VERIFICAR: hectáreas y localización en el Mapa de Cultivos 2022]; de los 300 a los 700 metros, en torno al casco, aguacate y huerta con papas y frutales, que La Palma Biosfera describe como los cultivos tradicionales del municipio junto al plátano; y en la zona alta, hacia Mazo, viña sobre picón de la subzona Hoyo de Mazo de la DO. Todo en una ladera que mira al este, bajo el alisio, con nubosidad y humedad altas en medianías y una costa más soleada.
+La costa es platanera [VERIFICAR: hectáreas y localización en el Mapa de Cultivos 2022]; de los 300 a los 700 metros, en torno al casco, aguacate y huerta con papas y frutales, que La Palma Biosfera describe como los cultivos tradicionales del municipio junto al plátano; y en la zona alta, hacia Mazo, viña sobre picón de la subzona Hoyo de Mazo de la DO.
+
+Todo en una ladera que mira al este, bajo el alisio, con nubosidad y humedad altas en medianías y una costa más soleada.
 
 Los bancales son el formato de casi toda la agricultura de aquí: muros de piedra, terrazas de pocos metros de ancho, rampas y escaleras entre una y otra. Lo que en el llano de Tazacorte es una finca de una pieza, en Breña Baja son diez escalones.
 

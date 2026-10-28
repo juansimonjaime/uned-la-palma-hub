@@ -1,7 +1,7 @@
 ---
 title: "Dron agrícola en Santa Cruz de La Palma | Agrodrón"
 slug: "santa-cruz-de-la-palma"
-meta_description: "Dron agrícola en Santa Cruz de La Palma, donde tiene su base Agrodrón Canarias: fincas pequeñas de platanera, aguacate y huerta sin desplazamiento. Pide presupuesto."
+meta_description: "Dron agrícola en Santa Cruz de La Palma, base de Agrodrón Canarias: fincas pequeñas de platanera, aguacate y huerta sin desplazamiento. Pide presupuesto."
 keyword: "dron agrícola en Santa Cruz de La Palma"
 keywords_secundarias: "fumigar con dron en Santa Cruz de La Palma, tratamiento con drones en platanera, dron fitosanitario La Palma, pulverización aérea Santa Cruz de La Palma, dron para aguacate"
 parent: "dron-agricola-la-palma"
@@ -12,7 +12,7 @@ municipio: "Santa Cruz de La Palma"
 
 # Dron agrícola en Santa Cruz de La Palma: las preguntas que nos hacen en casa
 
-Santa Cruz de La Palma es el municipio con menos agricultura de la isla, 210,2 hectáreas en producción en 2019 según el Observatorio de Sostenibilidad de la Reserva de la Biosfera, en fincas pequeñas de platanera, aguacate y huerta colgadas de las laderas y barrancos que rodean la capital. También es donde Agrodrón Canarias tiene su base desde junio de 2025. Así que las preguntas sobre el dron agrícola en Santa Cruz de La Palma nos llegan de cerca, de vecinos con un cuarto de hectárea, y las respondemos tal cual.
+Santa Cruz de La Palma es el municipio con menos agricultura de la isla, 210,2 hectáreas en producción en 2019 según el Observatorio de Sostenibilidad de la Reserva de la Biosfera, en fincas pequeñas de platanera, aguacate y huerta colgadas de las laderas y barrancos de la capital. También es donde Agrodrón Canarias tiene su base desde junio de 2025, así que las preguntas sobre el dron agrícola en Santa Cruz de La Palma nos llegan de vecinos con un cuarto de hectárea, y las respondemos tal cual.
 
 [IMAGEN: Bancales de platanera y huerta en una ladera de fuerte pendiente sobre la ciudad de Santa Cruz de La Palma, con el barranco de las Nieves y el mar al fondo | alt: fincas pequeñas de platanera y huerta en bancales sobre Santa Cruz de La Palma]
 
@@ -24,7 +24,9 @@ La respuesta corta: depende de la cuesta y del acceso, no del tamaño. Media hec
 
 ## ¿Qué se cultiva en la capital y qué plaga tiene cada cosa?
 
-El aguacate es lo que crece: 49 hectáreas en 2017, un 68,97 % más que en 2008 (Mapa de Cultivos de La Palma 2017, vía Canarias Agrícola). La platanera va al revés: 29 hectáreas en 2017, un 14,71 % menos que en 2008 (misma fuente), en fincas pequeñas de la costa que a menudo tienen agua propia [VERIFICAR: fincas plataneras de Mirca con agua propia]. La viña entra en la subzona Hoyo de Mazo de la DO [VERIFICAR: viña en Velhoco y Mirca], y el resto es huerta y frutales de medianías.
+El aguacate es lo que crece: 49 hectáreas en 2017, un 68,97 % más que en 2008 (Mapa de Cultivos de La Palma 2017, vía Canarias Agrícola). La platanera va al revés: 29 hectáreas en 2017, un 14,71 % menos que en 2008 (misma fuente), en fincas pequeñas de la costa que a menudo tienen agua propia [VERIFICAR: fincas plataneras de Mirca con agua propia].
+
+La viña entra en la subzona Hoyo de Mazo de la DO [VERIFICAR: viña en Velhoco y Mirca], y el resto es huerta y frutales de medianías.
 
 Las plagas son las de la vertiente este:
 
