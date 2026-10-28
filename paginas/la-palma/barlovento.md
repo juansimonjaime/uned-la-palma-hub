@@ -1,7 +1,7 @@
 ---
 title: "Dron agrícola en Barlovento | Agrodrón Canarias"
 slug: "barlovento"
-meta_description: "Dron agrícola en Barlovento para papa y platanera: qué se trata, qué no, y cómo pesan niebla y alisio. Respuestas directas y presupuesto de Agrodrón Canarias."
+meta_description: "Dron agrícola en Barlovento para papa y platanera: qué se trata, qué no, y cómo pesan niebla y alisio. Respuestas directas y presupuesto de Agrodrón."
 keyword: "dron agrícola en Barlovento"
 keywords_secundarias: "fumigar con dron en Barlovento, tratamiento con drones en papa, dron fitosanitario norte de La Palma, pulverización aérea en platanera de Barlovento"
 parent: "dron-agricola-la-palma"
@@ -12,7 +12,7 @@ municipio: "Barlovento"
 
 # Dron agrícola en Barlovento: lo que pregunta el agricultor papero y platanero
 
-Barlovento es el principal municipio productor de papas de la isla, según la EnciclopediaGuanche, y tiene la platanera en la franja costera de regadío, en grandes terrazas sobre un terreno muy desnivelado, como lo describe la Reserva de la Biosfera. Son 419 hectáreas en producción (Observatorio de Sostenibilidad 2020, datos de 2019) repartidas de la costa a la cumbre en 44 kilómetros cuadrados. Antes de meter un dron agrícola en Barlovento, hay que responder a lo que preguntan quienes trabajan esas terrazas.
+Barlovento es el principal municipio productor de papas de la isla, según la EnciclopediaGuanche, y tiene la platanera en la franja costera de regadío, en grandes terrazas sobre un terreno muy desnivelado, como lo describe la Reserva de la Biosfera. Son 419 hectáreas en producción (Observatorio de Sostenibilidad 2020, datos de 2019) de la costa a la cumbre en 44 kilómetros cuadrados. Antes de meter un dron agrícola en Barlovento, hay que responder a lo que preguntan quienes trabajan esas terrazas.
 
 [IMAGEN: Terrazas de papa en las medianías de Barlovento con niebla del alisio cerrando el fondo | alt: terrazas de papa en medianías de Barlovento, La Palma, con niebla]
 
@@ -20,7 +20,7 @@ Barlovento es el principal municipio productor de papas de la isla, según la En
 
 Para la polilla guatemalteca, no. La Tecia solanivora llegó a La Palma en 2002 y está extendida por toda la isla según la guía de gestión integrada del ICIA. La larva come dentro del tubérculo, bajo tierra, y un caldo pulverizado sobre la hoja no la toca. Lo que funciona lo tiene documentado el Cabildo de Tenerife: trampas de feromona, rotación de parcelas y no dejar ni una papa en el campo tras la cosecha.
 
-Para tratamientos foliares de la papa la respuesta cambia. Un problema de hoja como el mildiu [VERIFICAR: aviso o fuente local de mildiu de la papa en Barlovento] se trata desde arriba, y las terrazas de medianías, entre 400 y 900 metros [VERIFICAR: rango altitudinal de la papa en Barlovento], son el tipo de parcela donde arrastrar un atomizador cuesta más que el propio tratamiento. La condición es la de siempre: producto con autorización expresa para aplicación aérea.
+Para tratamientos foliares de la papa la respuesta cambia. Un problema de hoja como el mildiu [VERIFICAR: aviso o fuente local de mildiu de la papa en Barlovento] se trata desde arriba, y las terrazas de papa de las medianías son el tipo de parcela donde arrastrar un atomizador cuesta más que el propio tratamiento. La condición es la de siempre: producto con autorización expresa para aplicación aérea.
 
 ## ¿Y con la niebla y el alisio, se puede volar?
 
@@ -32,7 +32,7 @@ Con niebla no se vuela: el piloto necesita ver el dron y la hoja mojada no retie
 
 La platanera es el cultivo dominante de la franja costera de regadío, transformada desde los años 60 con aguas subterráneas y los canales de los barrancos. Wikipedia habla de 226 hectáreas de plátano en el municipio [VERIFICAR: superficie de platanera de Barlovento en el Mapa de Cultivos]. Está en sorribas y bancales y, en su mayor parte, al aire libre [VERIFICAR: proporción de platanera bajo malla en Barlovento].
 
-Sobre esas terrazas el Agras T50 pulveriza desde encima del penacho, siguiendo el desnivel con su radar y su visión binocular y ajustando la velocidad al bancal. Las plagas documentadas en Canarias son la cochinilla algodonosa Dysmicoccus grassii, con hasta ocho generaciones al año y sin parada invernal, y el trips Hercinothrips femoralis en el fruto (guía Coplaca, Cabildo de Tenerife). El picudo negro, en La Palma desde 2001 según el ICIA, va con trampas de feromona, no con pulverización.
+Sobre esas terrazas el Agras T50 pulveriza desde encima del penacho, siguiendo el desnivel con su radar y su visión binocular y ajustando la velocidad al bancal. Las plagas documentadas en Canarias son la cochinilla algodonosa Dysmicoccus grassii, con hasta ocho generaciones al año y sin parada invernal, y el trips Hercinothrips femoralis en el fruto (guía Coplaca, Cabildo de Tenerife). El picudo negro, en La Palma desde 2001 (ICIA), va con trampas de feromona, no con pulverización.
 
 ## ¿Qué hace falta para contratar un tratamiento?
 
