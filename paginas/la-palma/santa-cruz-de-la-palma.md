@@ -12,7 +12,7 @@ municipio: "Santa Cruz de La Palma"
 
 # Dron agrícola en Santa Cruz de La Palma: las preguntas que nos hacen en casa
 
-Santa Cruz de La Palma es el municipio con menos agricultura de la isla, 210,2 hectáreas en producción en 2019 según el Observatorio de Sostenibilidad de la Reserva de la Biosfera, en fincas pequeñas de platanera, aguacate y huerta colgadas de las laderas y barrancos de la capital. También es donde Agrodrón Canarias tiene su base desde junio de 2025, así que las preguntas sobre el dron agrícola en Santa Cruz de La Palma nos llegan de vecinos con un cuarto de hectárea, y las respondemos tal cual.
+Santa Cruz de La Palma es el municipio con menos agricultura de la isla: 210,2 hectáreas en producción en 2019 (Observatorio de Sostenibilidad de la Reserva de la Biosfera), en fincas pequeñas de platanera, aguacate y huerta colgadas de laderas y barrancos. También es donde Agrodrón Canarias tiene su base desde junio de 2025, así que las preguntas sobre el dron agrícola en Santa Cruz de La Palma nos llegan de vecinos con un cuarto de hectárea, y las respondemos tal cual.
 
 [IMAGEN: Bancales de platanera y huerta en una ladera de fuerte pendiente sobre la ciudad de Santa Cruz de La Palma, con el barranco de las Nieves y el mar al fondo | alt: fincas pequeñas de platanera y huerta en bancales sobre Santa Cruz de La Palma]
 

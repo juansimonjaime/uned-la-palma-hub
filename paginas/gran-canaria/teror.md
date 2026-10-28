@@ -34,12 +34,6 @@ No del todo, y conviene decirlo claro. Tecia solanivora está en Gran Canaria de
 
 La larva vive dentro del tubérculo y la lucha se gana en el almacén, en la rotación y en la retirada de papa afectada, como organiza el Cabildo con sus puntos de recogida. Al dron le toca la parte de campo: si el plan de aplicación aprobado incluye un tratamiento foliar autorizado para uso aéreo, lo aplica a la dosis de etiqueta y queda registrado.
 
-## ¿Cuánta papa hay en la isla para que esto tenga recorrido?
-
-Depende de a quién preguntes. El Mapa de Cultivos de Canarias 2024 da 805,8 hectáreas de papa en Gran Canaria; el Cabildo, en la Feria Insular de la Papa que se celebra en Teror, habla de unas 1.200 hectáreas, el 90,5 % de regadío, y de unos 49 millones de kilos al año. Son metodologías distintas y se anotan las dos.
-
-Teror acogió la octava edición de esa feria en octubre de 2026 y el Cabildo entregó el Premio Productor de la Papa 2026 a un agricultor del municipio (Canarias7). Esa papa de medianías es el cultivo para el que tiene sentido hablar de [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/).
-
 ## ¿Qué me hace falta para contratar un tratamiento?
 
 Tres cosas tuyas: la ubicación de la parcela (vale un punto en el mapa), el cultivo y la superficie, y una nota de lo que hay alrededor: cables, árboles altos, un invernadero de flores, la casa del vecino. Con eso se planifica el vuelo y se decide si el dron encaja en esa finca.
@@ -48,7 +42,7 @@ Y una nuestra, el papeleo. En España la aplicación aérea de fitosanitarios es
 
 ## ¿Qué cultivos de Teror encajan con el dron y cuáles no?
 
-- Papa de medianías al aire libre: encaja. Cultivo bajo en bancal inclinado; el T50 ajusta la velocidad a la pendiente y mantiene la distancia a la hoja.
+- Papa de medianías al aire libre: encaja. Es el cultivo de la Feria Insular de la Papa, que se celebra en Teror y cuya octava edición fue en octubre de 2026; el Cabildo habla allí de unas 1.200 hectáreas de papa en la isla, frente a las 805,8 del Mapa de Cultivos de Canarias 2024. Son dos metodologías y se anotan ambas. Más en [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/).
 - Millo, legumbres y hortalizas de huerta: encajan mientras estén a cielo abierto; mira [tratamientos con dron en hortícolas](https://agrodroncanarias.es/dron-agricola-horticolas/).
 - Flores: en Gran Canaria van sobre todo bajo invernadero o malla, y lo cubierto no se trata desde el aire [VERIFICAR: sistema de cultivo de las flores de Teror].
 - Frutales de medianías: solo en parcelas agrupadas [VERIFICAR: superficie de frutales en Teror].
@@ -65,7 +59,7 @@ Sí. Los muros se dibujan en el mapa de la parcela antes del vuelo y el T50 los 
 
 ### ¿Cuánto cuesta un tratamiento con dron en Teror?
 
-No damos cifra sin ver la finca. Depende de la superficie, de cuántas parcelas se agrupan en la misma salida desde La Palma, del acceso y del producto del plan de aplicación. Con esos datos te pasamos un presupuesto cerrado.
+No damos cifra sin ver la finca. Depende de la superficie, de cuántas parcelas se agrupan en la misma salida desde La Palma, del acceso y del producto. Con esos datos te pasamos un presupuesto cerrado.
 
 ### ¿Hay que esperar mucho para que el dron venga desde La Palma?
 
@@ -117,7 +111,7 @@ Entra en [agrodroncanarias.es](https://agrodroncanarias.es/) y cuéntanos dónde
         {
           "@type": "Question",
           "name": "¿Cuánto cuesta un tratamiento con dron en Teror?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No damos cifra sin ver la finca. Depende de la superficie, de cuántas parcelas se agrupan en la misma salida desde La Palma, del acceso y del producto del plan de aplicación. Con esos datos te pasamos un presupuesto cerrado." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No damos cifra sin ver la finca. Depende de la superficie, de cuántas parcelas se agrupan en la misma salida desde La Palma, del acceso y del producto. Con esos datos te pasamos un presupuesto cerrado." }
         },
         {
           "@type": "Question",
