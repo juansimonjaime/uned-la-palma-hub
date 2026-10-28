@@ -20,7 +20,7 @@ Agrodrón Canarias tiene la base en Santa Cruz de La Palma; en Gran Canaria trab
 
 ## Cifras de la isla
 
-El primer grupo del Mapa de Cultivos 2024 son los cultivos estacionales (papa, hortalizas, millo), con 2.116,4 hectáreas; después la platanera, 1.940,7, y la papa, 805,8, aunque el Cabildo habla de unas 1.200 hectáreas de papa (Feria Insular 2025-2026).
+El primer grupo del Mapa de Cultivos 2024 son los cultivos estacionales (papa, hortalizas, millo), con 2.116,4 hectáreas; después la platanera, 1.940,7, y la papa, 805,8, aunque el Cabildo habla de unas 1.200 de papa (Feria Insular 2025-2026).
 
 Los subtropicales suman 3.022 hectáreas (RTVC, 2025); la viña de la DO, entre 176 y 190 según Canarias7 (2026) y el Consejo Regulador (2025); el olivar ronda las 230 (Gobierno de Canarias 2022). El tomate de exportación ocupa unas 350 hectáreas (Canarias7, marzo de 2025), cerca del 90 % del tomate de invernadero canario: casi nada se trata desde el aire.
 
@@ -38,30 +38,30 @@ Los subtropicales suman 3.022 hectáreas (RTVC, 2025); la viña de la DO, entre 
 
 Al aire libre, y tratable con producto autorizado para aplicación aérea: platanera sin malla de techo, papa y hortalizas de medianías, viña de Monte Lentiscal, Tunte y Tejeda, mango y aguacate del oeste y el sur, cítricos, olivar, almendro y manzano.
 
-Bajo invernadero o malla, y fuera: tomate y pepino de exportación de La Aldea, el sureste y la costa de Gáldar y Mogán; flores de Guía y Santa Lucía; fresa de Valsequillo si va bajo túnel [VERIFICAR]; papaya cuando va cubierta. El DJI Agras T50 pulveriza desde arriba; lo que tiene techo no lo trata.
+Bajo invernadero o malla, y fuera: tomate y pepino de La Aldea, el sureste y la costa de Gáldar y Mogán; flores de Guía y Santa Lucía; fresa de Valsequillo si va bajo túnel [VERIFICAR]; papaya cuando va cubierta. El DJI Agras T50 pulveriza desde arriba; lo que tiene techo no lo trata.
 
 ## Municipios con página propia
 
 - [Dron agrícola en Gáldar](https://agrodroncanarias.es/dron-agricola-gran-canaria/galdar/): primer municipio platanero, 630,42 hectáreas de plátano.
-- [Dron agrícola en Santa María de Guía](https://agrodroncanarias.es/dron-agricola-gran-canaria/santa-maria-de-guia/): platanera y papa de medianías (datos de 2009).
+- [Dron agrícola en Santa María de Guía](https://agrodroncanarias.es/dron-agricola-gran-canaria/santa-maria-de-guia/): platanera y papa de medianías.
 - [Dron agrícola en Arucas](https://agrodroncanarias.es/dron-agricola-gran-canaria/arucas/): platanera histórica y primer foco del picudo negro (1945).
 - [Dron agrícola en Moya](https://agrodroncanarias.es/dron-agricola-gran-canaria/moya/): papa y millo de medianías.
 - [Dron agrícola en Teror](https://agrodroncanarias.es/dron-agricola-gran-canaria/teror/): capital de la papa y sede de la Feria Insular.
 - [Dron agrícola en Vega de San Mateo](https://agrodroncanarias.es/dron-agricola-gran-canaria/vega-de-san-mateo/): papa, hortalizas y frutales en terrazas.
 - [Dron agrícola en Valsequillo](https://agrodroncanarias.es/dron-agricola-gran-canaria/valsequillo/): fresa, papa, hortalizas y almendro.
-- [Dron agrícola en Telde](https://agrodroncanarias.es/dron-agricola-gran-canaria/telde/): unas 1.000 hectáreas y la naranja de Telde.
+- [Dron agrícola en Telde](https://agrodroncanarias.es/dron-agricola-gran-canaria/telde/): unas 1.000 hectáreas y la naranja.
 - [Dron agrícola en Agaete](https://agrodroncanarias.es/dron-agricola-gran-canaria/agaete/): valle de cítricos, mango, aguacate y café bajo sombra.
 - [Dron agrícola en La Aldea de San Nicolás](https://agrodroncanarias.es/dron-agricola-gran-canaria/la-aldea-de-san-nicolas/): tomate bajo invernadero y subtropicales al aire libre.
 - [Dron agrícola en Mogán](https://agrodroncanarias.es/dron-agricola-gran-canaria/mogan/): unas 100 hectáreas de mango y 40 de aguacate.
 - [Dron agrícola en San Bartolomé de Tirajana](https://agrodroncanarias.es/dron-agricola-gran-canaria/san-bartolome-de-tirajana/): albaricoque de Tunte y Fataga y viña de Los Azules.
 
-Los otros nueve no tienen página propia. Agüimes y Santa Lucía de Tirajana cultivan sobre todo tomate, pepino y flores bajo invernadero, con olivar pequeño; Ingenio, hortalizas y tomate residual bajo plástico; Las Palmas de Gran Canaria es urbano, con viña de Bandama y platanera de Tenoya sin cifra.
+Los otros nueve no tienen página propia. Agüimes y Santa Lucía de Tirajana, sobre todo tomate, pepino y flores bajo invernadero y olivar pequeño; Ingenio, hortalizas y tomate residual bajo plástico; Las Palmas de Gran Canaria es urbano, con viña de Bandama y platanera de Tenoya sin cifra.
 
 Santa Brígida, viña de secano en Monte Lentiscal y huerta en un término residencial; Artenara, 53,5 hectáreas de secano en microexplotaciones (ISTAC 2019); Firgas, Tejeda y Valleseco, papa, millo, almendro, manzana o viña de altura en parcelas pequeñas sin cifra.
 
 ## Cómo se organiza una salida desde La Palma
 
-Nos mandas ubicación, cultivo, superficie, accesos y obstáculos. Comprobamos que el cultivo está al aire libre y que hay producto con autorización aérea, planificamos el vuelo y juntamos las fincas de la comarca en una salida; el día del tratamiento se mira el viento, se aplica la dosis de la etiqueta y se registra.
+Nos mandas ubicación, cultivo, superficie, accesos y obstáculos. Comprobamos que el cultivo está al aire libre y hay producto con autorización aérea, planificamos el vuelo y juntamos las fincas de la comarca en una salida; el día del tratamiento se mira el viento, se aplica la dosis de la etiqueta y se registra.
 
 ## Autorización antes de cada tratamiento
 
@@ -75,10 +75,10 @@ Páginas de cultivo: [tratamientos con dron en la platanera](https://agrodroncan
 Con base en La Palma y en toda Canarias. En Gran Canaria, con desplazamiento y bajo consulta: salimos cuando hay disponibilidad y varias fincas de la comarca.
 
 ### ¿Se puede tratar el tomate de Gran Canaria con dron?
-No: va bajo invernadero o malla, donde la pulverización aérea no entra. Solo una parcela al aire libre podría valorarse.
+No: va bajo invernadero o malla, donde la pulverización aérea no entra.
 
 ### ¿Vale el dron para la platanera del norte de Gran Canaria?
-Sí, si está al aire libre, sin malla de techo, y con producto autorizado para aplicación aérea. El picudo negro vive en el rizoma y no se alcanza desde el aire.
+Sí, si está al aire libre, sin malla de techo, y con producto autorizado para aplicación aérea. El picudo negro, en el rizoma, no se alcanza desde el aire.
 
 ### ¿Cuánto cuesta traer el dron a Gran Canaria?
 No publicamos tarifas. Depende de la superficie total de la salida, cultivos, accesos, productos y desplazamiento desde La Palma.
@@ -125,12 +125,12 @@ Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y cuéntanos municip
         {
           "@type": "Question",
           "name": "¿Se puede tratar el tomate de Gran Canaria con dron?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No: va bajo invernadero o malla, donde la pulverización aérea no entra. Solo una parcela al aire libre podría valorarse." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No: va bajo invernadero o malla, donde la pulverización aérea no entra." }
         },
         {
           "@type": "Question",
           "name": "¿Vale el dron para la platanera del norte de Gran Canaria?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si está al aire libre, sin malla de techo, y con producto autorizado para aplicación aérea. El picudo negro vive en el rizoma y no se alcanza desde el aire." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si está al aire libre, sin malla de techo, y con producto autorizado para aplicación aérea. El picudo negro, en el rizoma, no se alcanza desde el aire." }
         },
         {
           "@type": "Question",
