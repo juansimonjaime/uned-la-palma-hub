@@ -38,7 +38,9 @@ En [Agaete](https://agrodroncanarias.es/dron-agricola-gran-canaria/agaete/) el d
 
 ## Cítricos de La Palma: Mazo, Barlovento y la finca El Cántaro
 
-En La Palma el cítrico es de huerta y regadío, sin grandes extensiones. [Villa de Mazo](https://agrodroncanarias.es/dron-agricola-la-palma/villa-de-mazo/) tiene cítricos en regadío junto a la platanera y la viña; Barlovento, naranja en huertos familiares de medianías; y en Garafía la finca El Cántaro produce cítricos dentro del programa de agricultura ecológica del Cabildo y el CSIC. Agrodrón Canarias sale de Santa Cruz de La Palma, así que en la isla no hay desplazamiento; el conjunto está en la página de [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/).
+En La Palma el cítrico es de huerta y regadío, sin grandes extensiones. [Villa de Mazo](https://agrodroncanarias.es/dron-agricola-la-palma/villa-de-mazo/) tiene cítricos en regadío junto a la platanera y la viña; Barlovento, naranja en huertos familiares de medianías; y en Garafía la finca El Cántaro produce cítricos dentro del programa de agricultura ecológica del Cabildo y el CSIC.
+
+Agrodrón Canarias sale de Santa Cruz de La Palma, así que en la isla no hay desplazamiento; el conjunto está en la página de [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/).
 
 ## Cotonet, minador y mosca de la fruta: lo documentado y lo que no
 
