@@ -26,7 +26,7 @@ El DJI Agras T50 vuela por encima de la copa y el aire de las hélices empuja la
 
 ## Más de dos mil hectáreas y subiendo
 
-El aguacate es el frutal que más ha crecido en Canarias: de 816 ha en 2007 a 2.484 ha en 2023 según la Consejería de Agricultura (nota recogida al constituirse Tropicán). Para ese mismo año RTVC habla de unas 2.000 ha y 14.000 t al presentar la IGP Aguacate de Canarias, y el ISTAC da 2.438,8 ha. Las cifras no coinciden [VERIFICAR: superficie 2023 en la tabla 7.9.15.2 del Anuario del MAPA].
+El aguacate es el frutal que más ha crecido en Canarias: de 816 ha en 2007 a 2.484 ha en 2023 según la Consejería de Agricultura (vía Tropicán). Para ese mismo año RTVC habla de unas 2.000 ha y 14.000 t al presentar la IGP Aguacate de Canarias, y el ISTAC da 2.438,8 ha. Las cifras no coinciden [VERIFICAR: superficie 2023 en la tabla 7.9.15.2 del Anuario del MAPA].
 
 La Palma lleva el peso: el 55 % de la superficie de aguacate del archipiélago en 2017 (eldiario.es) y 1.078 ha en el Mapa de Cultivos 2021-2022, un 44,1 % más que en 2017 (El Time).
 
@@ -34,18 +34,18 @@ En Tenerife el Cabildo contaba 694 ha hacia 2021 y 790 ha en 2022, el doble que 
 
 ## Ácaro, cochinilla, trips y hongos de madera: lo que está documentado
 
-Además del ácaro cristalino, las fuentes canarias recogen estos problemas:
+Además del ácaro, las fuentes canarias recogen:
 
 - Cochinilla del aguacate (Nipaecoccus nipae): en el 25,9 % de las parcelas encuestadas en Tenerife (Agrocabildo). En 2025 se autorizó de forma excepcional un insecticida contra ella (Infoagro); el sector habla de pérdidas en torno al 30 % por cochinilla y mosca blanca (Agrolatam).
 - Trips (Heliothrips haemorrhoidalis): en el 14,8 % de las parcelas de la misma encuesta.
 - Hongos Botryosphaeriaceae (Neofusicoccum parvum) en madera y ramas de aguacate, mango y papaya (ICIA).
-- Phytophthora cinnamomi: podredumbre de raíz, detectada en Canarias en 1975 (revista Granja, Cabildo de Gran Canaria). Es un problema de suelo y ningún tratamiento foliar la toca.
+- Phytophthora cinnamomi: podredumbre de raíz, detectada en Canarias en 1975 (revista Granja, Cabildo de Gran Canaria). Es un problema de suelo.
 
-Una contradicción a aclarar: un boletín del ICIA trata el ácaro cristalino como plaga presente, mientras una noticia de Vozpopuli afirma que el archipiélago está libre del ácaro del aguacate [VERIFICAR: estatus oficial con el ICIA y Sanidad Vegetal]. El Canal Agrario de La Palma lo da por presente en todas las zonas productoras de la isla.
+Una fuente discrepa: una noticia de Vozpopuli afirma que Canarias está libre del ácaro del aguacate, frente al ICIA y al Canal Agrario de La Palma, que lo dan por presente en todas las zonas productoras [VERIFICAR: estatus oficial con Sanidad Vegetal].
 
 ## Dron agrícola para aguacate: cómo se organiza un tratamiento en bancales
 
-Primero recogemos los datos de la finca: municipio, hectáreas, altura de los árboles, accesos y qué hay alrededor (cables, invernaderos, pinos del lindero). Con eso se planifica el vuelo sobre el plano. El día del tratamiento se mide el viento y se mira el cielo: en la vertiente este de La Palma el mar de nubes baja a las medianías y la ventana buena suele ser la mañana [VERIFICAR: horas de calma por comarca].
+Primero recogemos los datos de la finca: municipio, hectáreas, altura de los árboles, accesos y qué hay alrededor. Con eso se planifica el vuelo sobre el plano. El día del tratamiento se mide el viento: en la vertiente este de La Palma el mar de nubes baja a las medianías y la ventana buena suele ser la mañana [VERIFICAR: horas de calma por comarca].
 
 La dosis es la de la etiqueta y del plan de aplicación, y cada tratamiento queda registrado. En aguacate solo pueden volar productos cuya autorización incluya expresamente la aplicación aérea (anexo VI del Real Decreto 1311/2012). El piloto opera en la categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el análisis de riesgo PDRA-S01.
 
@@ -75,11 +75,11 @@ No. Phytophthora cinnamomi vive en el suelo y ataca la raíz; el dron trabaja so
 Sí, y es donde más sentido tiene. El T50 sigue el relieve con el radar, ajusta la velocidad a la pendiente y no necesita calle para el tractor. Hace falta un punto de despegue cerca y saber qué cables cruzan la finca.
 
 ### ¿Qué producto se aplica contra el ácaro cristalino con dron?
-Solo los que estén autorizados en aguacate y cuya etiqueta incluya la aplicación aérea. La lista la fija el registro oficial de productos fitosanitarios, no nosotros; cuando nos digas la plaga te decimos qué opciones hay en ese momento.
+Solo los autorizados en aguacate cuya etiqueta incluya la aplicación aérea. La lista la fija el registro oficial de fitosanitarios, no nosotros; dinos la plaga y te decimos qué opciones hay.
 
 ## Cuéntanos tu finca de aguacate y pide presupuesto
 
-Dinos en qué municipio está, cuántas hectáreas, qué altura tienen los árboles y qué plaga te preocupa; el precio depende de esas cuatro cosas y del producto. Te respondemos si el dron encaja y con un presupuesto para esa finca. Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y escríbenos; en La Palma sin desplazamiento, en Tenerife y Gran Canaria con desplazamiento y según disponibilidad.
+Dinos en qué municipio está, cuántas hectáreas, qué altura tienen los árboles y qué plaga te preocupa; el precio depende de eso y del producto. Te respondemos si el dron encaja y con un presupuesto para esa finca. Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y escríbenos; en La Palma sin desplazamiento, en Tenerife y Gran Canaria con desplazamiento y según disponibilidad.
 
 ```json
 {
@@ -125,7 +125,7 @@ Dinos en qué municipio está, cuántas hectáreas, qué altura tienen los árbo
         {
           "@type": "Question",
           "name": "¿Qué producto se aplica contra el ácaro cristalino con dron?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Solo los que estén autorizados en aguacate y cuya etiqueta incluya la aplicación aérea. La lista la fija el registro oficial de productos fitosanitarios, no nosotros; cuando nos digas la plaga te decimos qué opciones hay en ese momento." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Solo los autorizados en aguacate cuya etiqueta incluya la aplicación aérea. La lista la fija el registro oficial de fitosanitarios, no nosotros; dinos la plaga y te decimos qué opciones hay." }
         }
       ]
     }

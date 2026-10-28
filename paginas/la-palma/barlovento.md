@@ -22,6 +22,8 @@ Para la polilla guatemalteca, no. La Tecia solanivora llegó a La Palma en 2002 
 
 Para tratamientos foliares de la papa la respuesta cambia. Un problema de hoja como el mildiu [VERIFICAR: aviso o fuente local de mildiu de la papa en Barlovento] se trata desde arriba, y las terrazas de papa de las medianías son el tipo de parcela donde arrastrar un atomizador cuesta más que el propio tratamiento. La condición es la de siempre: producto con autorización expresa para aplicación aérea.
 
+Un apunte más sobre esas medianías. La Laguna de Barlovento, la gran balsa de riego comarcal del norte, estaba vacía en pleno invierno de 2020 (Diario de Avisos), con efecto sobre papas, viña y almendro. La papa de aquí sabe de niebla y también de sequía.
+
 ## ¿Y con la niebla y el alisio, se puede volar?
 
 Barlovento es la vertiente más expuesta al alisio del nordeste de toda la isla. Nubosidad y nieblas frecuentes en medianías, más de 1.000 mm de lluvia al año en las zonas altas del norte y nordeste (macaronesian.org) y viento constante en la costa y en los lomos. Es de los sitios de la isla donde más hay que contar con aplazar.

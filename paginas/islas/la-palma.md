@@ -22,24 +22,24 @@ El Observatorio de Sostenibilidad 2020 de la Reserva de la Biosfera (datos de 20
 
 La viña tiene Denominación de Origen desde 1994 (subzonas Hoyo de Mazo, Fuencaliente y Norte) y en 2025 sufrió mildiu y oídio en toda la isla (El Time).
 
-La erupción de Tajogaite (2021, 85 días) sepultó 370 hectáreas de cultivo, 228,69 de plátano, y la ceniza cubrió 412 hectáreas de platanera, 128 de viña y 84 de aguacate (Valencia Fruits). Sobre la colada se recuperan más de 200 hectáreas con sorribas (Canarias7).
+La erupción de Tajogaite (2021, 85 días) sepultó 370 hectáreas de cultivo, 228,69 de plátano (Asociación de Productores para la Reconstrucción), y la ceniza cubrió 412 hectáreas de platanera, 128 de viña y 84 de aguacate (Valencia Fruits).
 
 ## Cinco comarcas, cinco maneras de volar
 
-- Valle de Aridane (Los Llanos, Tazacorte, El Paso): sotavento despejado, menos de 250 mm en la costa (macaronesian.org); platanera llana en sorribas, donde más días se vuela.
+- Valle de Aridane (Los Llanos, Tazacorte, El Paso): sotavento despejado, menos de 250 mm en sectores de la costa suroeste (macaronesian.org); platanera llana en sorribas, donde más días se vuela.
 - Nordeste húmedo (Barlovento, San Andrés y Sauces, Puntallana): más de 1.000 mm al año, niebla y mar de nubes; platanera en terrazas, papa en medianías.
 - Noroeste (Garafía, Puntagorda, Tijarafe): transición al oeste seco; aguacate, almendro, viña rastrera y platanera bajo acantilado.
-- Sur volcánico (Fuencaliente, Villa de Mazo): viña rastrera sobre picón con muros cortavientos; en Mazo, unas 165 hectáreas de platanera bajo protección.
+- Sur volcánico (Fuencaliente, Villa de Mazo): viña rastrera sobre picón con muros cortavientos; en Mazo, unas 165 hectáreas de platanera bajo protección (tierrasagroecologicas.es).
 - Este (Santa Cruz de La Palma, Breña Alta, Breña Baja): minifundio de aguacate, huerta y viña; la humedad media más alta de la isla (AECLIM).
 
 ## Los catorce municipios, uno a uno
 
 - [Dron agrícola en Barlovento](https://agrodroncanarias.es/dron-agricola-la-palma/barlovento/): principal municipio papero y platanera de costa bajo el alisio.
-- [Dron agrícola en Breña Alta](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/): aguacate en expansión (82 hectáreas en 2017) y viña del Hoyo de Mazo.
+- [Dron agrícola en Breña Alta](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/): aguacate en expansión y viña del Hoyo de Mazo.
 - [Dron agrícola en Breña Baja](https://agrodroncanarias.es/dron-agricola-la-palma/brena-baja/): término pequeño, platanera costera y aguacate.
-- [Dron agrícola en Fuencaliente](https://agrodroncanarias.es/dron-agricola-la-palma/fuencaliente/): la mayor viña de la isla, 297,5 hectáreas sobre picón.
+- [Dron agrícola en Fuencaliente](https://agrodroncanarias.es/dron-agricola-la-palma/fuencaliente/): la mayor viña de la isla, 297,5 hectáreas sobre picón (vinoslapalma.com).
 - [Dron agrícola en Garafía](https://agrodroncanarias.es/dron-agricola-la-palma/garafia/): papa, viña y almendro en pagos separados por barrancos.
-- [Dron agrícola en Los Llanos de Aridane](https://agrodroncanarias.es/dron-agricola-la-palma/los-llanos-de-aridane/): capital platanera, 984 hectáreas y replantación sobre la colada.
+- [Dron agrícola en Los Llanos de Aridane](https://agrodroncanarias.es/dron-agricola-la-palma/los-llanos-de-aridane/): capital platanera, la mayor superficie agrícola de la isla, replantación sobre la colada.
 - [Dron agrícola en El Paso](https://agrodroncanarias.es/dron-agricola-la-palma/el-paso/): el más extenso y sin costa; aguacate y almendro en medianías.
 - [Dron agrícola en Puntagorda](https://agrodroncanarias.es/dron-agricola-la-palma/puntagorda/): almendro identitario, viña del Norte y platanera costera.
 - [Dron agrícola en Puntallana](https://agrodroncanarias.es/dron-agricola-la-palma/puntallana/): platanera sobre el acantilado y huerta en medianías.
