@@ -12,7 +12,7 @@ municipio: "Yaiza"
 
 # Dron agrícola en Yaiza: tratar la viña de La Geria sin bajar al hoyo
 
-La Geria termina en Yaiza, en el tramo que baja hacia Uga, y aquí el suelo no es tierra sino picón de las erupciones de 1730-1736, con hoyos cónicos excavados a mano y un zoco de piedra delante de cada cepa. Un dron agrícola en Yaiza se plantea desde ese terreno, porque es lo que hoy obliga a tratar cada planta con la mochila al hombro. Agrodrón Canarias viene desde La Palma, con desplazamiento y bajo consulta de disponibilidad.
+La Geria termina en Yaiza, en el tramo que baja hacia Uga, y aquí el suelo no es tierra sino picón de las erupciones de 1730-1736, con hoyos cónicos excavados en el picón y un zoco de piedra delante de cada cepa. Un dron agrícola en Yaiza se plantea desde ese terreno, porque es lo que hoy obliga a tratar cada planta con la mochila al hombro. Agrodrón Canarias viene desde La Palma, con desplazamiento y bajo consulta de disponibilidad.
 
 [IMAGEN: Ladera de La Geria en Yaiza con hoyos cónicos en picón negro y zocos de piedra en semicírculo, una cepa en cada fondo | alt: Hoyos con zocos de piedra en la viña de La Geria, Yaiza, Lanzarote]
 

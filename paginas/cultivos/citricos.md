@@ -12,7 +12,7 @@ municipio: ""
 
 # Dron agrícola para cítricos en Canarias: el año del naranjo visto desde arriba
 
-El naranjo marca su propio calendario: brota y florece en primavera, cuaja y engorda el fruto en verano y se recoge entre el otoño y la primavera siguiente según variedad, con flor y fruta a la vez durante semanas. Casi todos los tratamientos de hoja caen en el tramo de brotación a cuajado, cuando la copa está más tierna y más cerrada. Un dron agrícola para cítricos entra en ese calendario con una ventaja: trata la copa entera desde arriba sin meter ruedas entre las filas.
+El naranjo marca su propio calendario: florece en primavera, cuaja y engorda en verano y se recoge entre el otoño y la primavera siguiente según variedad, con flor y fruta a la vez durante semanas. Casi todos los tratamientos de hoja caen entre brotación y cuajado, cuando la copa está más tierna y cerrada. Un dron agrícola para cítricos entra en ese calendario con una ventaja: trata la copa entera desde arriba sin meter ruedas entre las filas.
 
 [IMAGEN: Huerto de naranjos en la vega de Telde con el fruto madurando, muros de piedra y una pista de tierra entre las filas | alt: Naranjos de Telde, Gran Canaria, en la vega del Valle de los Nueve]
 
@@ -26,7 +26,9 @@ Hay datos de sitios concretos. En Telde, la naranja local mueve entre 250.000 y 
 
 Telde es la referencia de la naranja en Gran Canaria. Los huertos están en El Ejido, el Valle de los Nueve y Jinámar, en las vegas interiores entre 100 y 400 m, con suelo volcánico fértil y muy poca lluvia: por debajo de 300 m caen entre 130 y 300 mm al año (GEVIC). El municipio mezcla invernadero y aire libre; los cítricos van a cielo abierto.
 
-Para el dron son parcelas cómodas: llanas o de pendiente suave, con filas regulares y muros bajos. El DJI Agras T50 las recorre fila a fila con el depósito de 40 litros y hasta 16 L/min por dos boquillas centrífugas (24 L/min con cuatro), y su radar detecta el muro, el poste o la línea eléctrica que cruce la vega. [Telde](https://agrodroncanarias.es/dron-agricola-gran-canaria/telde/) tiene su propia página, y el resto de la isla está en [Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/): desde La Palma vamos con desplazamiento y según disponibilidad.
+Para el dron son parcelas cómodas: llanas o de pendiente suave, con filas regulares y muros bajos. El DJI Agras T50 las recorre fila a fila con el depósito de 40 litros y hasta 16 L/min por dos boquillas centrífugas (24 L/min con cuatro), y su radar detecta el muro, el poste o la línea eléctrica que cruce la vega.
+
+[Telde](https://agrodroncanarias.es/dron-agricola-gran-canaria/telde/) tiene su propia página, y el resto de la isla está en [Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/): desde La Palma vamos con desplazamiento y según disponibilidad.
 
 ## Agaete y Valsequillo: fincas estrechas, bancales y arbolado
 

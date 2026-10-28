@@ -24,7 +24,9 @@ Nada de eso se trata desde el aire, y no por normativa sino por física: una mal
 
 ## Las cifras del sector son viejas, y hay que decirlo
 
-La única cifra de conjunto con fuente es de 2008: unas 750 ha de ornamentales en Canarias, 349 ha de flor cortada y 364 ha de planta ornamental, según datos del Gobierno de Canarias publicados en la revista Horticultura del Ministerio. Diario de Avisos (octubre de 2026) sigue hablando de unas 750 ha y 70 millones de euros al año, concentrados en Tenerife, Gran Canaria y La Palma, señal de que la cifra no se ha actualizado [VERIFICAR: superficie oficial reciente de flor y ornamental en el ISTAC].
+La única cifra de conjunto con fuente es de 2008: unas 750 ha de ornamentales en Canarias, 349 ha de flor cortada y 364 ha de planta ornamental, según datos del Gobierno de Canarias publicados en la revista Horticultura del Ministerio.
+
+Diario de Avisos (octubre de 2026) sigue hablando de unas 750 ha y 70 millones de euros al año, concentrados en Tenerife, Gran Canaria y La Palma, señal de que la cifra no se ha actualizado [VERIFICAR: superficie oficial reciente de flor y ornamental en el ISTAC].
 
 Más atrás, ASOCAN daba en el año 2000 290 ha de flor cortada con 143 ha de rosal. Ninguna de esas fuentes separa lo que va al aire libre de lo que va bajo cubierta [VERIFICAR: porcentaje de ornamentales a cielo abierto].
 
@@ -34,7 +36,7 @@ La protea es el cultivo ornamental al aire libre de Canarias. Asest habla de una
 
 Infoagro situaba en 2017 30 ha en La Palma y 15 ha en Tenerife. Para La Palma, eldiario.es cuenta de 25 a 32 ha repartidas por las medianías de casi todos los municipios, 45 agricultores y entre 1,1 y 1,5 millones de tallos por campaña, casi todo exportado a Holanda y Asia.
 
-En la campaña 2023-24 las proteas lideraron la exportación canaria de flor cortada, con un 70 % a la Unión Europea y un 30 % a Asia (Gobierno de Canarias). Y tienen su propia cicatriz volcánica: los gases de la erupción de 2021 mermaron un 40 % la cosecha de la cara oeste de La Palma en 2021-2022 (Proteas de La Palma).
+En la campaña 2023-24 las proteas lideraron la exportación canaria de flor cortada, con un 70 % a la Unión Europea y un 30 % a Asia (Gobierno de Canarias). Y la erupción de 2021 también las tocó: los gases mermaron un 40 % la cosecha de la cara oeste de La Palma en 2021-2022 (Proteas de La Palma).
 
 ## Dron agrícola para flores y ornamentales: cómo se trata una plantación de proteas
 

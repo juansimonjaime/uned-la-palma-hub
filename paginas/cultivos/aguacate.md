@@ -57,7 +57,7 @@ Si la finca está en producción integrada (Orden de 18 de junio de 2012 del Gob
 
 La base de Agrodrón Canarias está en Santa Cruz de La Palma, y en la isla no hay desplazamiento que pagar. A Tenerife y Gran Canaria vamos con desplazamiento y según disponibilidad.
 
-En [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/), el ranking municipal de 2017 lo encabezaban Tijarafe con 132,9 ha, Los Llanos de Aridane y [El Paso, tercer municipio aguacatero de la isla](https://agrodroncanarias.es/dron-agricola-la-palma/el-paso/) y [Breña Alta con 82 ha, un 67 % más que en 2008](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/) (Mapa de Cultivos 2017).
+En [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/), el ranking municipal de 2017 lo encabezaban Tijarafe con 132,9 ha (estudio de Mercatenerife, 2018), Los Llanos de Aridane y [El Paso, tercer municipio aguacatero de la isla](https://agrodroncanarias.es/dron-agricola-la-palma/el-paso/), seguidos de [Breña Alta con 82 ha, un 67 % más que en 2008](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/) (Mapa de Cultivos 2017).
 
 Breña Alta y El Paso son aguacate de bancal en ladera, donde el dron evita subir con la mochila.
 

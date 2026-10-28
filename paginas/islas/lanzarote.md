@@ -18,7 +18,7 @@ Lanzarote cultivó 3.872 hectáreas en 2024, la cifra más alta desde 2008, seg�
 
 ## La agricultura de Lanzarote en cifras
 
-- Superficie cultivada en 2024: 3.872 ha, la mayor desde las 4.505 ha de 2008 (Cabildo de Lanzarote, 2025).
+- Superficie cultivada en 2024: 3.872 ha, la mayor desde las 4.505 ha de 2008 (Cabildo, 2025).
 - Viña: 1.865 ha inscritas en la DO y cerca de 2.000 en producción (DO Lanzarote, 2024); La Voz de Lanzarote (2025) habla de más del 75 % de lo cultivado [VERIFICAR: sobre 3.872 ha sale la mitad].
 - La Geria: 1.368 ha de viña, 237 abandonadas (15 %), en un espacio protegido de 5.255 ha entre cinco municipios (Mapa de Cultivos vía Infoagro, 2024).
 - Uva: 3,3 millones de kilos en 2023, 1,4 en 2024 y unos 750.000 en 2025, la tercera peor con registros, por sequía (Consejo Regulador vía RTVC).
@@ -27,7 +27,7 @@ Lanzarote cultivó 3.872 hectáreas en 2024, la cifra más alta desde 2008, seg�
 
 En mayo de 2025 la FAO incluyó los sistemas agrícolas de Lanzarote en su lista SIPAM. Son tres: el enarenado, capa de 10-12 cm de picón que guarda la humedad; el jable, arena marina que el alisio trae desde Famara entre Teguise y San Bartolomé; y La Geria, hoyos en picón con zoco y una cepa en cada uno.
 
-Por comarcas: el norte (Haría, Máguez, Ye y Los Valles, bajo Famara) es papa (MAPA, 2006 [VERIFICAR: superficie actual]). El centro es el jable, batata y una cebolla que creció tras caer el tabaco en los setenta. La Geria y Masdache reúnen la viña entre Tinajo, Tías, Yaiza y San Bartolomé; el sur de Yaiza es turístico.
+Por comarcas: el norte (Haría, Máguez, Ye y Los Valles, bajo Famara) es zona de papa (MAPA, 2006 [VERIFICAR: superficie actual]). El centro es el jable, con batata y una cebolla que cobró auge tras la caída del tabaco en los setenta. La Geria y Masdache reúnen la viña entre Tinajo, Tías, Yaiza y San Bartolomé; el sur de Yaiza es turístico.
 
 ## El alisio y la sed: lo que condiciona cada vuelo
 

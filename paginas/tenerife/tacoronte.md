@@ -18,7 +18,7 @@ Tacoronte da nombre a la DO Tacoronte-Acentejo y su viña sube en terrazas desde
 
 ## ¿Cuánta viña hay en Tacoronte y por qué cada fuente da una cifra?
 
-Para el municipio no hay cifra oficial localizada [VERIFICAR: superficie de viña de Tacoronte en el Mapa de Cultivos]. Para la comarca hay varias y no coinciden: el ICCA habla de 1.583 ha cultivadas; el Consejo Regulador, en su treinta aniversario (2022), de 760 ha inscritas, 1.100 viticultores y 32 bodegas; Vinodiversidad daba 1.184 ha en 2010 y la web promocional de la DO llega a 2.422 ha.
+Para el municipio no hay cifra oficial localizada [VERIFICAR: superficie de viña de Tacoronte en el Mapa de Cultivos]. Para la comarca hay varias y no coinciden: el ICCA habla de 1.583 ha cultivadas; la DO, en su treinta aniversario (2022), de 760 ha inscritas, 1.100 viticultores y 32 bodegas; Vinodiversidad daba 1.184 ha en 2010 y la web promocional de la DO llega a 2.422 ha.
 
 La diferencia está en qué se mide: viña plantada, inscrita o en producción. Coinciden en el paisaje: viñedo en terrazas entre 300 y 750 metros, compartido por nueve municipios desde Tacoronte hasta Anaga.
 

@@ -60,7 +60,7 @@ Agrodrón agrupa fincas de Teguise por viaje según disponibilidad. Más en [tra
 Cuando hay ventana, sí. El jable es llano y abierto, así que el límite es la deriva: el piloto mide el viento en la finca y vuela bajo cuando las rachas lo permiten.
 
 ### ¿Cómo se trata una viña en hoyos del sector de La Geria de Teguise?
-Planta a planta: cada hoyo entra en el plan de vuelo y el dron suelta la dosis sobre la cepa, no sobre el picón. El zoco es un obstáculo bajo que el radar ve.
+Planta a planta: cada hoyo entra en el plan de vuelo y el dron suelta la dosis sobre la cepa, no sobre el picón. El zoco cuenta como un obstáculo más para el radar.
 
 ### ¿Sirve el dron contra la polilla guatemalteca en la papa de Los Valles?
 No. El MAPA la localiza en almacenes de Lanzarote, no en campo, y es plaga de tubérculo. El dron encaja con problemas de hoja, con producto autorizado para aplicación aérea.
@@ -110,7 +110,7 @@ Dinos si tu parcela está en el jable, en Los Valles o en el borde de La Geria, 
         {
           "@type": "Question",
           "name": "¿Cómo se trata una viña en hoyos del sector de La Geria de Teguise?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Planta a planta: cada hoyo entra en el plan de vuelo y el dron suelta la dosis sobre la cepa, no sobre el picón. El zoco es un obstáculo bajo que el radar ve." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Planta a planta: cada hoyo entra en el plan de vuelo y el dron suelta la dosis sobre la cepa, no sobre el picón. El zoco cuenta como un obstáculo más para el radar." }
         },
         {
           "@type": "Question",
