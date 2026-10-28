@@ -20,13 +20,13 @@ Garachico tenía 204,6 hectáreas de platanera en 2011 según el boletín de Des
 
 La viña del Reparo y Genovés está entre 500 y 900 m [VERIFICAR: cotas], en bancales de medianías. El Cabildo publica avisos por comarca de mildiu, oídio y botritis (datos.tenerife.es), y hacia 2024 marcó riesgo alto de oídio en zonas bajas de la isla entre el 30 de abril y el 7 de mayo.
 
-Primera ventana para el dron: cultivo bajo, bancal estrecho, foliar. El DJI Agras T50 sigue el relieve con radar y visión binocular y regula la velocidad con la pendiente; el bancal se trata desde arriba sin pisar las cepas.
+Primera ventana para el dron en viña: cultivo bajo, bancal estrecho, tratamiento foliar. El DJI Agras T50 sigue el relieve con radar y visión binocular y regula la velocidad con la pendiente; el bancal se trata desde arriba sin pisar las cepas.
 
 ## Verano: envero, botritis y calor en la platanera
 
 A finales de julio y primeros de agosto Agrocabildo ha mantenido riesgo elevado de oídio en zonas vitícolas, riesgo medio de mildiu en algunas comarcas y atención a la botritis en envero (newsletter del 31 de julio, sin año). Segunda ventana en viña.
 
-En la platanera de la plataforma el verano es de calor: Agroseguro registró daños por calor en plátano en 2024. No hay calendario de plagas con fuente para la platanera [VERIFICAR: épocas de riesgo en platanera del norte de Tenerife]; se decide finca a finca según lo que aparezca en hoja y racimo.
+En la platanera de la plataforma el verano es de calor: Agroseguro registró en 2024 daños por calor en platanera, sobre todo en La Palma. No hay calendario de plagas con fuente para la platanera [VERIFICAR: épocas de riesgo en platanera del norte de Tenerife]; se decide finca a finca según lo que aparezca en hoja y racimo.
 
 [IMAGEN: Viña baja en bancales de San Juan del Reparo, Garachico, en pleno envero con el mar de nubes por encima | alt: Viña en envero en los bancales de San Juan del Reparo, Garachico, Tenerife]
 
@@ -38,7 +38,7 @@ Es la ventana de la platanera para el dron pulverizador: 40 litros de depósito 
 
 ## Invierno: papa de medianías y viña parada
 
-En las medianías hay papa. El Cabildo emitió aviso de riesgo alto de mildiu de la papa para el norte de Tenerife (hacia 2024) [VERIFICAR: época del aviso]; ese tratamiento es foliar y cabe con dron. La polilla guatemalteca, que castiga al norte con pérdidas cercanas al 50 % en secano, no: vive en el tubérculo.
+En las medianías hay papa. El Cabildo emitió aviso de riesgo alto de mildiu de la papa para el norte de Tenerife (hacia 2024) [VERIFICAR: época del aviso]; ese tratamiento es foliar y cabe con dron. La polilla guatemalteca, que castiga al norte con pérdidas cercanas al 50 % en secano (eldiario.es), no: vive en el tubérculo.
 
 La viña en parada no se trata, pero la filoxera se detectó en Tenerife en 2025, con zona demarcada y bioseguridad en la vendimia de 2026 [VERIFICAR: si Garachico está en la zona demarcada]. Es plaga de raíz; no hay pulverización que valga.
 

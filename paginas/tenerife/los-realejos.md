@@ -40,7 +40,7 @@ Es la zona donde el dron pulverizador rinde más: cultivos bajos, parcelas en pe
 
 ## Zona alta: Icod el Alto, Palo Blanco y la papa de secano
 
-Por encima de los 600 m manda el secano y el mar de nubes, asentado entre 600 y 1.500 m. La polilla guatemalteca golpea sobre todo al norte de la isla, con pérdidas cercanas al 50 % en medianías y secano (Cabildo, ICIA); el Cabildo también emitió aviso de riesgo alto de mildiu de la papa para el norte (hacia 2024).
+Por encima de los 600 m manda el secano y el mar de nubes, asentado entre 600 y 1.500 m. La polilla guatemalteca golpea sobre todo al norte de la isla, con pérdidas cercanas al 50 % en medianías y secano (Cabildo, eldiario.es); el Cabildo también emitió aviso de riesgo alto de mildiu de la papa para el norte (hacia 2024).
 
 Aquí el dron espera ventana sin niebla ni racha; cuando la hay, el bancal de secano se trata en una pasada.
 

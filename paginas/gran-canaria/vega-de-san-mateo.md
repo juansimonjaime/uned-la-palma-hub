@@ -16,23 +16,23 @@ San Mateo cultiva millo, papas y hortalizas en terrazas y frutales de medianías
 
 [IMAGEN: Terrazas de papa y millo en la vega de San Mateo con las laderas del barranco Guiniguada y nubes bajas sobre Las Lagunetas | alt: bancales de papa y millo en la vega de San Mateo, Gran Canaria, con niebla en Las Lagunetas]
 
-Aviso previo: Agrodrón Canarias sale desde Santa Cruz de La Palma; en San Mateo el servicio lleva desplazamiento y se cierra bajo consulta, según la disponibilidad de salidas a Gran Canaria.
+Aviso previo: Agrodrón Canarias sale desde La Palma; en San Mateo el servicio lleva desplazamiento y se cierra bajo consulta, según disponibilidad.
 
 ## Invierno: poca lluvia, polilla y papa de medianías
 
-La polilla guatemalteca (Tecia solanivora) es la plaga de la papa documentada en el municipio: el Cabildo mantiene en San Mateo uno de los puntos de recogida de papa afectada de la isla (Pellagofio). La misma fuente apunta que la plaga se agrava con la escasez de lluvia invernal.
+La polilla guatemalteca (Tecia solanivora) es la plaga de la papa documentada en el municipio: el Cabildo tiene en San Mateo un punto de recogida de papa afectada (Pellagofio). La misma fuente apunta que la plaga se agrava con la escasez de lluvia invernal.
 
 Contra la polilla el dron hace poco: se combate retirando tubérculo afectado, rotando y tratando el almacén. Si tu plan de aplicación incluye un foliar autorizado para uso aéreo, ese es el momento. Más en [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/).
 
 ## Primavera: hoja mojada y riesgo de mildiu
 
-Con la papa en plena hoja y la humedad del alisio, el mildiu (Phytophthora infestans) es la enfermedad que vigilan los técnicos: Agrocabildo emite avisos de riesgo alto por comarcas (2024), sin época leída [VERIFICAR: calendario de avisos de mildiu en papa para las medianías de Gran Canaria e incidencia en San Mateo].
+Con la papa en plena hoja y la humedad del alisio, el mildiu (Phytophthora infestans) es la enfermedad que vigilan los técnicos: Agrocabildo emite avisos de riesgo alto por comarcas (2024) [VERIFICAR: calendario de avisos de mildiu en papa para las medianías de Gran Canaria e incidencia en San Mateo].
 
-Un fungicida preventivo con autorización expresa para aplicación aérea es de lo que mejor encaja con el dron: cultivo bajo, bancal en pendiente y una ventana corta entre dos días de humedad. El T50 vuela cerca de la hoja siguiendo el relieve con el radar y adapta la velocidad a la pendiente.
+Un fungicida preventivo con autorización expresa para aplicación aérea es lo que mejor encaja con el dron: cultivo bajo, bancal en pendiente y una ventana corta entre dos días de humedad. El T50 vuela cerca de la hoja siguiendo el relieve con el radar y adapta la velocidad a la pendiente.
 
 ## Verano y otoño: hortalizas, millo y frutales
 
-Pasada la papa, la vega se llena de hortalizas de mercado y millo, y en las fincas altas quedan manzana, pera y castaño, sin plagas documentadas con fuente local [VERIFICAR: hectáreas de frutales en San Mateo y plagas de manzano y peral en Gran Canaria]; no proponemos tratamientos que no sabemos si hacen falta.
+Pasada la papa, la vega se llena de hortalizas de mercado y millo, y en las fincas altas quedan manzana, pera y castaño, sin plagas documentadas con fuente local [VERIFICAR: hectáreas de frutales en San Mateo y plagas de manzano y peral en Gran Canaria]; no proponemos tratamientos sin saber si hacen falta.
 
 Las hortalizas al aire libre sí entran, con las plagas que recoge el manual fitosanitario de Agrocabildo 2026: trips, araña roja, mosca blanca y lagarta. Las flores bajo invernadero o malla, no: lo cubierto no se trata desde el aire. Mira [tratamientos con dron en hortícolas](https://agrodroncanarias.es/dron-agricola-horticolas/).
 
@@ -40,13 +40,13 @@ Las hortalizas al aire libre sí entran, con las plagas que recoge el manual fit
 
 La regla no depende del mes: cultivo al aire libre, producto autorizado para aplicación aérea y una ventana sin niebla ni viento fuerte. El mar de nubes del alisio se queda entre 800 y 1.500 metros (GEVIC), justo donde están la mayoría de las fincas; en Las Lagunetas y la cumbre la niebla es frecuente.
 
-Eso obliga a trabajar por horas: parte, vistazo a la finca a primera hora y decisión. Se habla antes de cerrar la salida, porque un viaje desde La Palma para no volar no le interesa a nadie.
+Eso obliga a trabajar por horas: parte, vistazo a la finca a primera hora y decisión. Se habla antes de cerrar la salida: un viaje desde La Palma para no volar no le interesa a nadie.
 
 ## Bancales de la vega y laderas del Guiniguada
 
-Terrazas estrechas en laderas pendientes, con muros y pistas por arriba: el tractor no entra y la mochila obliga a subir y bajar con la carga. El T50 lleva un depósito de 40 litros y pulveriza hasta 16 litros por minuto con dos boquillas centrífugas o 24 con cuatro; se rellena en la pista entre dos bancales.
+Terrazas estrechas en laderas pendientes, con muros y pistas por arriba: el tractor no entra y la mochila obliga a subir y bajar cargado. El T50 lleva un depósito de 40 litros y pulveriza hasta 16 litros por minuto con dos boquillas centrífugas o 24 con cuatro; se rellena en la pista entre dos bancales.
 
-Los obstáculos son los de un paisaje habitado: cables entre casas, castaños altos en la linde, alguna nave. Se marcan en el plano antes de despegar; la visión binocular y el radar son la red de seguridad, no el plan.
+Los obstáculos son los de un paisaje habitado: cables entre casas, castaños altos en la linde, alguna nave. Se marcan en el plano antes de despegar; radar y visión binocular son la red de seguridad, no el plan.
 
 [IMAGEN: Dron agrícola DJI Agras T50 en una pista de tierra junto a terrazas de papa en Las Lagunetas, con el mar de nubes al fondo | alt: dron agrícola en una pista junto a bancales de papa en Las Lagunetas, Vega de San Mateo]
 
@@ -54,7 +54,7 @@ Los obstáculos son los de un paisaje habitado: cables entre casas, castaños al
 
 El Ministerio de Agricultura considera los tratamientos con dron como tratamientos aéreos (nota informativa MAPA–AESA de 2018), así que cada aplicación en San Mateo necesita autorización previa del Gobierno de Canarias y plan de aplicación. El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01. Tú aportas finca y producto; el expediente lo lleva Agrodrón.
 
-Los datos de la isla, con 8.102,8 hectáreas cultivadas según el ISTAC de 2024, están en [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/). El vecino, sede de la Feria Insular de la Papa del Cabildo, tiene la suya: [dron agrícola en Teror](https://agrodroncanarias.es/dron-agricola-gran-canaria/teror/).
+La isla, con 8.102,8 hectáreas cultivadas según el ISTAC de 2024, está en [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/). El vecino, sede de la Feria Insular de la Papa del Cabildo, tiene la suya: [dron agrícola en Teror](https://agrodroncanarias.es/dron-agricola-gran-canaria/teror/).
 
 ## Preguntas frecuentes sobre el dron agrícola en San Mateo
 
@@ -72,11 +72,11 @@ Son árboles al aire libre y el dron puede sobrevolarlos. Lo que falta es saber 
 
 ### ¿Qué superficie mínima hace falta para que compense venir desde La Palma?
 
-No hay un mínimo fijo. Lo que compensa es agrupar: varias terrazas de la vega, o tu finca y la de dos vecinos, en una misma salida bajo disponibilidad. Cuéntanos lo que tienes y vemos si se junta con otras.
+No hay un mínimo fijo. Lo que compensa es agrupar: varias terrazas de la vega, o tu finca y la de dos vecinos, en una misma salida bajo disponibilidad.
 
 ## Pide presupuesto y entra en el calendario de salidas a Gran Canaria
 
-Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) con la zona de la finca, el cultivo y en qué fase está; te decimos si el dron encaja y en qué ventana del año tendría sentido. El presupuesto no compromete a nada y sirve para apuntar tu finca en la próxima salida.
+Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) con la zona de la finca, el cultivo y su fase; te decimos si el dron encaja y en qué ventana del año tendría sentido. El presupuesto no compromete a nada y apunta tu finca en la próxima salida.
 
 ```json
 {
@@ -126,7 +126,7 @@ Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) con la zon
         {
           "@type": "Question",
           "name": "¿Qué superficie mínima hace falta para que compense venir desde La Palma?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No hay un mínimo fijo. Lo que compensa es agrupar: varias terrazas de la vega, o tu finca y la de dos vecinos, en una misma salida bajo disponibilidad. Cuéntanos lo que tienes y vemos si se junta con otras." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No hay un mínimo fijo. Lo que compensa es agrupar: varias terrazas de la vega, o tu finca y la de dos vecinos, en una misma salida bajo disponibilidad." }
         }
       ]
     }

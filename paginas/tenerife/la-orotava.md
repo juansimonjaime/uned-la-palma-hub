@@ -24,7 +24,7 @@ La viña del Valle suma 313,1 ha según Agrocabildo (2024), un 47,8 % menos que 
 
 ## Polilla guatemalteca, mildiu y hongos de la madera: lo documentado
 
-La polilla guatemalteca (Tecia solanivora) entró en Tenerife por Icod de los Vinos en 1999 y castiga sobre todo al norte, con pérdidas cercanas al 50 % en medianías y secano (Cabildo, ICIA). Mojar la hoja no toca a la larva, que vive en el tubérculo.
+La polilla guatemalteca (Tecia solanivora) entró en Tenerife por Icod de los Vinos en 1999 y castiga sobre todo al norte, con pérdidas cercanas al 50 % en medianías y secano (Cabildo, eldiario.es). Mojar la hoja no toca a la larva, que vive en el tubérculo.
 
 El mildiu de la papa sí va por la hoja, y el Cabildo emitió aviso de riesgo alto para el norte de Tenerife (hacia 2024).
 

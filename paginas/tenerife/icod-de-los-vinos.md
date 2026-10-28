@@ -42,11 +42,11 @@ Platanera: el picudo negro, principal plaga en Canarias, vive en el cormo y no s
 
 Viña: la DO Ycoden-Daute-Isora suma entre 1.000 y 1.600 ha en la comarca, con 306 ha controladas por el Consejo (descorchandoversos, 2018) [VERIFICAR: hectáreas de viña en el municipio]. El Cabildo publica avisos semanales por comarca de mildiu, oídio y botritis (datos.tenerife.es). La filoxera apareció en Tenerife en 2025 [VERIFICAR: si Icod está en la zona demarcada]; es de raíz.
 
-Papa: la polilla guatemalteca (Tecia solanivora) se detectó por primera vez en Tenerife en 1999, aquí en Icod (Cabildo), y castiga al norte con pérdidas cercanas al 50 % en medianías y secano. Vive en el tubérculo. El mildiu de la papa, con aviso de riesgo alto para el norte (hacia 2024), sí es de hoja y sí encaja con el dron.
+Papa: la polilla guatemalteca (Tecia solanivora) se detectó por primera vez en Tenerife en 1999, aquí en Icod (Cabildo), y castiga al norte con pérdidas cercanas al 50 % en medianías y secano (eldiario.es). Vive en el tubérculo. El mildiu de la papa, con aviso de riesgo alto para el norte (hacia 2024), sí es de hoja y sí encaja con el dron.
 
 ## Malla, bruma y papeles
 
-La platanera bajo malla o invernadero no se trata: la cubierta para el producto. En el noroeste la mayoría va al aire libre [VERIFICAR: porcentaje bajo malla en Icod].
+La platanera bajo malla o invernadero no se trata: la cubierta frena el producto. En el noroeste la mayoría va al aire libre [VERIFICAR: porcentaje bajo malla en Icod].
 
 La parte legal cabe en dos frases. La aplicación aérea de fitosanitarios está prohibida en España salvo casos especiales con autorización previa de la comunidad autónoma y plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). El Ministerio de Agricultura trata al dron como un medio aéreo más (nota con AESA, 2018): cada trabajo va con su expediente.
 
