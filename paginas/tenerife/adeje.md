@@ -1,7 +1,7 @@
 ---
 title: "Dron agrícola en Adeje | Agrodrón Canarias"
 slug: "adeje"
-meta_description: "Dron agrícola en Adeje: platanera descubierta de Fañabé y Armeñime y viña de Taucho e Ifonche. Servicio desde La Palma con desplazamiento. Pide presupuesto."
+meta_description: "Dron agrícola en Adeje: platanera descubierta de Fañabé y Armeñime y viña de Taucho e Ifonche. Desde La Palma con desplazamiento. Pide presupuesto."
 keyword: "dron agrícola en Adeje"
 keywords_secundarias: "fumigar con dron en Adeje, tratamiento con drones en platanera de Armeñime, dron fitosanitario DOP Abona, pulverización aérea en Taucho e Ifonche"
 parent: "dron-agricola-tenerife"
@@ -12,7 +12,7 @@ municipio: "Adeje"
 
 # Dron agrícola en Adeje: las preguntas que hace el agricultor antes de contratar
 
-En Adeje la platanera suma 565 hectáreas según un estudio de la Universidad de La Laguna sin fecha, entre Fañabé y Armeñime, y la viña de la DOP Abona sube por Taucho e Ifonche hasta los 1.100 metros. Quien pregunta por un dron agrícola en Adeje trae tres dudas: si su finca se puede tratar, si compensa traer el equipo desde La Palma y qué papeles hacen falta. Van por orden, empezando por que el servicio aquí lleva desplazamiento y depende de la disponibilidad de Agrodrón.
+En Adeje la platanera suma 565 hectáreas según un estudio de la ULL sin fecha, entre Fañabé y Armeñime, y la viña de la DOP Abona sube por Taucho e Ifonche hasta los 1.100 metros. Quien pregunta por un dron agrícola en Adeje trae tres dudas: si su finca se puede tratar, si compensa traer el equipo desde La Palma y qué papeles hacen falta. Van por orden; la primera respuesta es que aquí el servicio lleva desplazamiento y va bajo disponibilidad.
 
 [IMAGEN: Platanera de Armeñime, en la costa de Adeje, con las urbanizaciones turísticas al fondo | alt: Fincas de platanera en Armeñime, Adeje, rodeadas de zona turística]
 
@@ -20,19 +20,19 @@ En Adeje la platanera suma 565 hectáreas según un estudio de la Universidad de
 
 Depende de lo que tenga encima. La platanera del sur de Tenerife va en gran parte bajo invernadero o malla [VERIFICAR: porcentaje de platanera cubierta en Adeje], y desde el aire no se trata nada que tenga techo. La finca abierta, con cortavientos laterales y la piña al descubierto, sí.
 
-Pesa otra cosa: la costa adejera, entre 0 y 200 m, está muy urbanizada y la presión sobre el suelo agrícola es fuerte. Una finca pegada a viviendas, hoteles o una carretera obliga a dejar franjas sin tratar y a planificar el vuelo con más cuidado que en un llano aislado. Se mira parcela por parcela antes de decir sí.
+Pesa otra cosa: la costa adejera, entre 0 y 200 m, está muy urbanizada. Una finca pegada a viviendas, hoteles o carretera obliga a dejar franjas sin tratar y a planificar con más cuidado. Se mira parcela por parcela antes de decir sí.
 
 ## ¿Contra qué plaga de la platanera tiene sentido el dron?
 
 Las de hoja y fruto. El Cabildo de Tenerife recoge ataques intensos de araña roja y trips (Hercinothrips femoralis) que afectan a los racimos en zonas plataneras de la isla (guía de 2009), y la cochinilla algodonosa Dysmicoccus grassii sigue entre los principales problemas según la ULPGC. En octubre de 2026 la prensa hablaba de crisis por cochinilla y mosca blanca en el plátano canario (Diario de Avisos).
 
-El picudo negro, no. Es la principal plaga del plátano en Canarias (Gobierno de Canarias, Phytoma), pero vive en la base de la planta y se controla con feromonas. El dron no llega ahí y no te vamos a decir lo contrario.
+El picudo negro, no: es la principal plaga del plátano en Canarias (Gobierno de Canarias, Phytoma), pero vive en la base de la planta y se controla con feromonas. El dron no llega ahí.
 
 ## ¿Compensa desplazar un dron desde La Palma para una finca de Adeje?
 
 Agrodrón Canarias tiene base en Santa Cruz de La Palma; allí no cobra desplazamiento, en Tenerife sí, y la salida se organiza bajo consulta y cuando hay hueco. Para una sola finca pequeña rara vez compensa. Para varias fincas de la misma comarca, o para una platanera de varias hectáreas con un problema concreto de hoja, la cuenta cambia.
 
-Lo que hacemos es juntar trabajo: si en Adeje, Guía de Isora y Arona hay agricultores con tratamientos pendientes, la salida se planifica para todos. Por eso pedimos superficie, cultivo y zona en la primera consulta.
+Juntamos trabajo: si en Adeje, Guía de Isora y Arona hay tratamientos pendientes, la salida se planifica para todos. Por eso pedimos superficie, cultivo y zona desde la primera consulta.
 
 ## ¿Y la viña de Taucho e Ifonche?
 
@@ -44,15 +44,15 @@ El calendario lo marcan los avisos semanales del Cabildo por comarca para mildiu
 
 ## ¿Qué hace falta para contratar un dron agrícola en Adeje?
 
-Tres cosas. Los datos de la finca: ubicación, cultivo, hectáreas, accesos y obstáculos como cables, invernaderos vecinos o árboles altos. El producto y la dosis que marque tu técnico, porque el dron aplica lo que dice la etiqueta y el plan, no sustituye el asesoramiento. Y paciencia con el expediente.
+Tres cosas. Los datos de la finca: ubicación, cultivo, hectáreas, accesos y obstáculos como cables, invernaderos vecinos o árboles altos. El producto y la dosis que marque tu técnico, porque el dron aplica lo que dice la etiqueta y no sustituye el asesoramiento. Y paciencia con el expediente.
 
 El Ministerio de Agricultura considera los tratamientos con dron tratamientos aéreos (nota informativa MAPA-AESA, 2018), así que cada aplicación necesita la autorización del Gobierno de Canarias y el plan de aplicación aprobado que exige el Real Decreto 1311/2012. El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01.
 
 ## ¿Qué cultivos de Adeje quedan fuera?
 
-El tomate. Adeje y Guía de Isora llegaron a sumar 1.080 ha históricas (estudio ULL sin fecha), pero lo que queda va bajo invernadero y Tenerife entera tenía 102,4 ha en 2021 (SITCAN). La Tuta absoluta que se desbordó en el invierno de 2019 se maneja dentro del invernadero. Sí entran la papa de medianías y los frutales subtropicales al aire libre, parcela a parcela.
+El tomate. Adeje y Guía de Isora llegaron a sumar 1.080 ha históricas (estudio ULL sin fecha), pero lo que queda va bajo invernadero y Tenerife entera tenía 102,4 ha en 2021 (SITCAN). La Tuta absoluta desbordada en el invierno de 2019 se maneja dentro. Sí entran la papa de medianías y los frutales subtropicales al aire libre.
 
-Más sobre la isla en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), sobre el cultivo en [tratamientos con dron en platanera](https://agrodroncanarias.es/dron-agricola-platanera/) y [dron para viña](https://agrodroncanarias.es/dron-agricola-vina/). Los vecinos: [dron agrícola en Guía de Isora](https://agrodroncanarias.es/dron-agricola-tenerife/guia-de-isora/) y [dron agrícola en Arona](https://agrodroncanarias.es/dron-agricola-tenerife/arona/).
+Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [tratamientos con dron en platanera](https://agrodroncanarias.es/dron-agricola-platanera/) y [dron para viña](https://agrodroncanarias.es/dron-agricola-vina/); vecinos: [dron agrícola en Guía de Isora](https://agrodroncanarias.es/dron-agricola-tenerife/guia-de-isora/) y [dron agrícola en Arona](https://agrodroncanarias.es/dron-agricola-tenerife/arona/).
 
 ## Preguntas frecuentes sobre el dron agrícola en Adeje
 
@@ -63,7 +63,7 @@ Sin cifra aquí: depende de hectáreas, cultivo, accesos, producto y de si la sa
 Conviene que esté alguien que conozca la parcela: señala linderos, cables y acceso, y firma el registro del tratamiento. No hace falta que seas tú.
 
 ### ¿Se puede volar junto a las urbanizaciones de Costa Adeje?
-Se planifica con franjas de seguridad y, si la finca linda con viviendas o viales, se deja sin tratar el borde que haga falta. A veces la respuesta es que no compensa, y se dice antes de salir.
+Se planifica con franjas de seguridad y, si la finca linda con viviendas o viales, se deja sin tratar el borde que haga falta. A veces no compensa, y se dice antes de salir.
 
 ### ¿El dron trata la papa de medianías de Adeje?
 Sí, es cultivo al aire libre. En Tenerife la papa sufre polilla guatemalteca (Tecia solanivora) y mildiu; el producto lo decide tu técnico y el dron lo aplica según etiqueta y plan autorizado.
@@ -115,7 +115,7 @@ Cuéntanos finca, cultivo, superficie y qué problema quieres atajar; te respond
         {
           "@type": "Question",
           "name": "¿Se puede volar junto a las urbanizaciones de Costa Adeje?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Se planifica con franjas de seguridad y, si la finca linda con viviendas o viales, se deja sin tratar el borde que haga falta. A veces la respuesta es que no compensa, y se dice antes de salir." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Se planifica con franjas de seguridad y, si la finca linda con viviendas o viales, se deja sin tratar el borde que haga falta. A veces no compensa, y se dice antes de salir." }
         },
         {
           "@type": "Question",
