@@ -22,7 +22,7 @@ La fresa de Valsequillo va, según los datos que manejamos, bajo túnel o invern
 
 ## Lo que sí: papa, millo, hortalizas y almendro al aire libre
 
-En las medianías del este, entre los 300 y los 1.800 metros, Valsequillo cultiva papa, hortalizas, legumbres, millo y cereales en bancales sobre laderas pendientes (Atlas Rural de Gran Canaria). Parcelas pequeñas, abiertas al cielo.
+En las medianías del este, entre los 300 y los 1.800 metros, Valsequillo cultiva papa, hortalizas, legumbres, millo y cereales en bancales sobre laderas pendientes (Enciclopedia Guanche y Atlas Rural de Gran Canaria). Parcelas pequeñas, abiertas al cielo.
 
 El almendro es el otro cultivo de peso: el Cabildo sitúa en Tejeda y Valsequillo la mayor tradición y producción de almendra de la isla. Árboles de secano, en ladera, al aire libre. Cítricos y frutales de medianías completan el cuadro [VERIFICAR: hectáreas de almendro, cítricos y frutales en Valsequillo]. Más en [dron agrícola para almendro](https://agrodroncanarias.es/dron-agricola-almendro/).
 

@@ -72,7 +72,7 @@ Son árboles al aire libre y el dron puede sobrevolarlos. Lo que falta es saber 
 
 ### ¿Qué superficie mínima hace falta para que compense venir desde La Palma?
 
-No hay un mínimo fijo. Lo que compensa es agrupar: varias terrazas de la vega, o tu finca y la de dos vecinos, en una misma salida bajo disponibilidad.
+No hay un mínimo fijo. Lo que compensa es agrupar: varias terrazas de la vega, o tu finca y la de dos vecinos, en una misma salida con desplazamiento, bajo disponibilidad.
 
 ## Pide presupuesto y entra en el calendario de salidas a Gran Canaria
 
@@ -126,7 +126,7 @@ Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) con la zon
         {
           "@type": "Question",
           "name": "¿Qué superficie mínima hace falta para que compense venir desde La Palma?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No hay un mínimo fijo. Lo que compensa es agrupar: varias terrazas de la vega, o tu finca y la de dos vecinos, en una misma salida bajo disponibilidad." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No hay un mínimo fijo. Lo que compensa es agrupar: varias terrazas de la vega, o tu finca y la de dos vecinos, en una misma salida con desplazamiento, bajo disponibilidad." }
         }
       ]
     }

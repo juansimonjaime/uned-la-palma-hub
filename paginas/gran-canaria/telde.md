@@ -20,7 +20,7 @@ Antes de entrar en zonas: Agrodrón Canarias trabaja en Telde con desplazamiento
 
 ## Costa y llanos: Ojos de Garza, Melenara y Salinetas
 
-Entre el mar y los 150 metros, la vega costera es tomate y hortaliza de exportación, casi todo bajo invernadero o malla. Gran Canaria mantiene unas 350 hectáreas de tomate (Canarias7, marzo de 2025), alrededor del 90 % del tomate de invernadero de Canarias; esa superficie no se trata con dron: el producto no atraviesa la cubierta.
+Entre el mar y los 150 metros, la vega costera es tomate y hortaliza de exportación, casi todo bajo invernadero o malla. Gran Canaria mantiene unas 350 hectáreas de tomate (Canarias7, marzo de 2025) y concentra en torno al 90 % del tomate de invernadero de Canarias [VERIFICAR: fuente del porcentaje]; esa superficie no se trata con dron: el producto no atraviesa la cubierta.
 
 Sí entran las hortalizas al aire libre y la platanera. Llueve poco, de 130 a 300 milímetros al año por debajo de los 300 metros (GEVIC), y el alisio es moderado: buenas ventanas de vuelo.
 
