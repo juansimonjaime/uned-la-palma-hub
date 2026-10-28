@@ -12,13 +12,13 @@ municipio: "Fuencaliente de la Palma"
 
 # Dron agrícola en Fuencaliente: viña rastrera sobre picón y platanera de costa
 
-Fuencaliente tiene la mayor superficie de viña de La Palma: 297,5 hectáreas según el estudio de suelos del viñedo de la DO Vinos La Palma [VERIFICAR: año del estudio], entre los 200 y los 1.200 metros, sobre el picón de los volcanes de San Antonio y Teneguía. Viña baja, en vaso o rastrera, en parcelas pequeñas repartidas por lomos donde el tractor no entra. Por eso un dron agrícola en Fuencaliente encaja en más fincas que en casi ningún otro municipio de la isla, con límites que también te contamos.
+Fuencaliente tiene la mayor superficie de viña de La Palma: 297,5 hectáreas según el estudio de suelos del viñedo de la DO Vinos La Palma [VERIFICAR: año del estudio], entre los 200 y los 1.200 metros, sobre picón volcánico. Viña baja, en vaso o rastrera, en parcelas pequeñas por lomos donde el tractor no entra: por eso un dron agrícola en Fuencaliente encaja en más fincas que en casi ningún otro municipio, con límites que también te contamos.
 
 [IMAGEN: Viña rastrera de Malvasía sobre picón negro, protegida con muros bajos de piedra volcánica, en un lomo de Fuencaliente con el volcán de San Antonio detrás | alt: viña rastrera sobre picón con muros cortavientos de piedra volcánica en Fuencaliente, La Palma]
 
 ## Cómo está plantada la viña de Fuencaliente
 
-Malvasía aromática, Negramoll, Listán y Sabro, casi siempre rastreras o en vaso bajo sobre lapilli, con muros cortavientos de piedra volcánica que el Gobierno de Canarias (ICCA) describe como la seña de las viñas de Malvasía de la zona. La planta vive pegada a la tierra para aguantar el viento.
+Malvasía aromática, Negramoll, Listán y Sabro, casi siempre rastreras o en vaso bajo sobre el lapilli de los volcanes de San Antonio (1677) y Teneguía (1971), con muros cortavientos de piedra volcánica que el Gobierno de Canarias (ICCA) describe como la seña de las viñas de Malvasía de la zona. La planta vive pegada a la tierra para aguantar el viento.
 
 Las parcelas son pequeñas y están desperdigadas por los lomos del sur, con malpaíses entre medias y pendientes fuertes. Se llega por pistas sobre picón [VERIFICAR: estado de los accesos a las parcelas de viña]. Aquí está la sede del Consejo Regulador de la DO Vinos La Palma y la Cooperativa Llanovid, que embotella la Malvasía de la zona.
 

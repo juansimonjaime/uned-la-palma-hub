@@ -12,13 +12,13 @@ municipio: "San Andrés y Sauces"
 
 # Dron agrícola en San Andrés y Sauces: el año de la platanera bajo el alisio
 
-En Los Sauces la platanera no tiene temporada. Se corta piña los doce meses y el agua de los nacientes de Marcos y Cordero riega los bancales desde la costa hasta las laderas bajas de San Andrés. Son 435,8 hectáreas en producción (Observatorio de Sostenibilidad 2020, datos de 2019) bajo la zona más lluviosa de la isla. Por eso un dron agrícola en San Andrés y Sauces trabaja con dos relojes: el de la plaga, que no para, y el del cielo, que decide qué día se vuela.
+En Los Sauces la platanera no tiene temporada: se corta piña los doce meses y el agua de Marcos y Cordero riega los bancales de la costa a las laderas bajas de San Andrés. Son 435,8 hectáreas en producción (Observatorio de Sostenibilidad 2020, datos de 2019) bajo la zona más lluviosa de la isla. Un dron agrícola en San Andrés y Sauces trabaja con dos relojes: el de la plaga, que no para, y el del cielo, que decide qué día se vuela.
 
 [IMAGEN: Terrazas de platanera en Los Sauces con el mar de nubes asomando por el Barranco del Agua | alt: bancales de platanera en Los Sauces, San Andrés y Sauces, La Palma, bajo nubes del alisio]
 
 ## Zafra continua: por qué en Los Sauces no existe el fin de campaña
 
-En una finca de platanera conviven en el mismo bancal hijos recién deshijados, madres con la piña colgando y plantas recién cortadas. No hay un mes con el campo vacío en el que se pueda tratar a lo ancho sin pensar en la fruta. Cada tratamiento se hace con piñas en distintos estados y el plazo de seguridad de la etiqueta manda tanto como la plaga.
+En una finca de platanera conviven en el mismo bancal hijos recién deshijados, madres con la piña colgando y plantas recién cortadas. No hay un mes con el campo vacío para tratar a lo ancho sin pensar en la fruta. Cada tratamiento se hace con piñas en distintos estados y el plazo de seguridad de la etiqueta manda tanto como la plaga.
 
 Para el dron esto cambia la planificación. En lugar de un vuelo único sobre toda la finca, se trabajan sectores según lo que cuelgue en cada uno, dibujados antes sobre el mapa de la parcela. Esa es la primera conversación contigo: qué hay en cada bancal y qué se corta en las próximas semanas.
 
@@ -32,11 +32,11 @@ En los meses más húmedos el dron tiene dos límites claros. Con la hoja chorre
 
 La cochinilla algodonosa (Dysmicoccus grassii) llega a ocho generaciones al año en Canarias y no hace parada invernal, según el Cabildo de Tenerife; deja melaza y negrilla en hojas y en la piña. El trips Hercinothrips femoralis ataca el fruto y el racimo y le da un aspecto plateado que luego oscurece, como describe la guía de plagas de platanera de Coplaca de 2014.
 
-Aquí el dron sí tiene papel, con una condición honesta. El Agras T50 pulveriza desde arriba, sobre el penacho de hojas, hasta 16 litros por minuto con dos boquillas y 24 con cuatro. La hoja alta recibe bien; la piña y el envés de las hojas bajas, menos. Por eso el tratamiento se plantea con el técnico que lleve la finca y con un producto que admita aplicación aérea, no como sustituto de todo lo demás.
+Aquí el dron sí tiene papel, con una condición honesta. El Agras T50 pulveriza desde arriba, sobre el penacho, hasta 16 litros por minuto con dos boquillas y 24 con cuatro. La hoja alta recibe bien; la piña y el envés de las hojas bajas, menos. Por eso el tratamiento se acuerda con el técnico de la finca y con un producto que admita aplicación aérea, no como sustituto de todo lo demás.
 
 ## El picudo negro va por otro camino
 
-El picudo negro (Cosmopolites sordidus) está en La Palma desde 2001 según el ICIA y sigue dando problemas de forma generalizada y constante, según un trabajo sobre su manejo en Canarias. Vive en el rizoma y la base de la planta. Las trampas con feromona de agregación son el método más eficaz; el Gobierno de Canarias repartió 30.000 en 2021 (Phytoma). Un dron que pulveriza hoja no llega al picudo, y no te lo vamos a vender para eso.
+El picudo negro (Cosmopolites sordidus) está en La Palma desde 2001 (ICIA) y sigue dando problemas de forma generalizada y constante, según un trabajo sobre su manejo en Canarias. Vive en el rizoma y la base de la planta. Las trampas con feromona de agregación son el método más eficaz; el Gobierno de Canarias repartió 30.000 en 2021 (Phytoma). Un dron que pulveriza hoja no llega al picudo, y no te lo vamos a vender para eso.
 
 ## Terrazas sobre el Barranco del Agua: accesos, cortavientos y cables
 
@@ -46,7 +46,7 @@ El T50 sigue el relieve con radar de matriz en fase y visión binocular, y detec
 
 ## Cuándo encaja un dron agrícola en San Andrés y Sauces y qué papeles hacen falta
 
-Encaja cuando hay platanera al aire libre, una plaga de hoja o fruto diagnosticada, un producto cuya autorización recoja expresamente la aplicación aérea (anexo VI del Real Decreto 1311/2012) y una ventana de tiempo seco. Y encaja cuando el acceso a los bancales castiga a la mochila y al tractor.
+Encaja cuando hay platanera al aire libre, una plaga de hoja o fruto diagnosticada, un producto cuya autorización recoja expresamente la aplicación aérea (anexo VI del Real Decreto 1311/2012) y una ventana de tiempo seco. Y cuando el acceso a los bancales castiga a la mochila y al tractor.
 
 El Ministerio de Agricultura trata los vuelos con dron como tratamientos aéreos (nota informativa MAPA-AESA de 2018), así que cada aplicación necesita autorización previa del Gobierno de Canarias y un plan de aplicación aprobado. Tú aportas los datos de la finca y el producto; el plan y la autorización se tramitan antes de volar, con piloto certificado en la categoría específica de AESA.
 
