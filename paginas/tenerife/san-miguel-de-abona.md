@@ -18,7 +18,7 @@ San Miguel de Abona baja en una sola pendiente larga orientada al sur, desde las
 
 ## Una ladera larga: bancales, jable y pistas estrechas
 
-El término sube sin valles cerrados: una vertiente continua a sotavento, árida y de mucho sol, con el frescor nocturno de las medianías como única tregua (tenerifeconnect, webtenerife). La agricultura se reparte entre el casco, El Frontón y Aldea Blanca, en bancales de muro seco sobre jable, la arena volcánica que guarda la humedad [VERIFICAR: pagos agrícolas de San Miguel].
+El término sube de la costa a la cumbre en una vertiente continua a sotavento, árida y de mucho sol, con el frescor nocturno de las medianías como única tregua (tenerifeconnect, webtenerife). La agricultura se reparte entre el casco, El Frontón y Aldea Blanca, en bancales de muro seco sobre jable, la arena volcánica que guarda la humedad [VERIFICAR: pagos agrícolas de San Miguel].
 
 Abajo, en Las Chafiras y Guargacho, lo que queda de agricultura va bajo invernadero: hortalizas y tomate [VERIFICAR: superficie y cultivos de invernadero en la costa]. Esa parte no es objetivo del dron.
 

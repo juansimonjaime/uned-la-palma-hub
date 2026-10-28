@@ -38,7 +38,7 @@ Tratar una cepa en un hoyo es tratar un punto, no una línea. El vuelo se dibuja
 
 El norte es malpaís y conos volcánicos, y la costa no figura en los datos agrarios como zona de cultivo [VERIFICAR: superficie cultivada en la costa de Teguise].
 
-## Lo que está documentado: plagas, hongo y tres cosechas de sequía
+## Lo que está documentado: plagas, un hongo y la sequía
 
 En viña, el Consejo Regulador avisó de un hongo en varias fincas de la isla sin identificar el patógeno [VERIFICAR: hongo y fecha del aviso]. La filoxera se rastrea desde la Orden de agosto de 2025 y Lanzarote sigue sin positivos tras más de 1.300 inspecciones. En papa, el MAPA sitúa la polilla guatemalteca en almacenes, no en campo. En cebolla, el manual fitosanitario de Agrocabildo de 2026 recoge el trips Thrips tabaci.
 

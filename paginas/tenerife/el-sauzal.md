@@ -1,7 +1,7 @@
 ---
 title: "Dron agrícola en El Sauzal | Agrodrón Canarias"
 slug: "el-sauzal"
-meta_description: "Dron agrícola en El Sauzal, sede de la DO Tacoronte-Acentejo: calendario de la viña con los avisos de mildiu, oídio y botritis. Con desplazamiento desde La Palma."
+meta_description: "Dron agrícola en El Sauzal, sede de la DO Tacoronte-Acentejo: calendario de la viña con los avisos de mildiu, oídio y botritis. Desde La Palma."
 keyword: "dron agrícola en El Sauzal"
 keywords_secundarias: "fumigar con dron en El Sauzal, tratamiento con drones en viña de Acentejo, dron fitosanitario Ravelo, pulverización aérea El Sauzal Tenerife"
 parent: "dron-agricola-tenerife"
@@ -18,7 +18,7 @@ En El Sauzal están la sede del Consejo Regulador de la DO Tacoronte-Acentejo y 
 
 ## De la brotación a la vendimia: cuándo avisa el Cabildo
 
-El Cabildo de Tenerife publica avisos fitosanitarios de la viña por comarca, en ficheros separados para mildiu, oídio y botritis, con actualización diaria (datos.tenerife.es). Ese es el reloj del viticultor de Acentejo.
+El Cabildo de Tenerife publica avisos fitosanitarios de la viña por comarca, en ficheros separados para mildiu, oídio y botritis, con actualización diaria (datos.tenerife.es).
 
 Primavera, brotación y primeras hojas: el oídio es la enfermedad considerada endémica en Canarias (guía de la viña de Agrocabildo, 2020). Los avisos del Cabildo marcaron riesgo alto de oídio en las zonas bajas de Tenerife del 30 de abril al 7 de mayo [VERIFICAR: año y comarcas de ese aviso].
 
@@ -36,7 +36,7 @@ Verano: con el racimo formado y la vegetación cerrada, la cobertura desde arrib
 
 Fuera de la viña, El Sauzal tiene papa, frutales y huerta en las medianías, y algo de platanera residual en la costa [VERIFICAR: superficie de platanera en El Sauzal]. La papa del norte carga con la polilla guatemalteca (Tecia solanivora), en la isla desde 1999 y con pérdidas cercanas al 50 % en medianías y secano (Cabildo, ICIA), y con el mildiu, con avisos de riesgo alto.
 
-Para la polilla lo documentado es el monitoreo con feromonas y el control en almacén; para el mildiu de la papa, el tratamiento foliar cuando salta el aviso, igual que en la viña.
+Para la polilla lo documentado es el monitoreo con feromonas y el control en almacén; para el mildiu, el tratamiento foliar cuando salta el aviso.
 
 [IMAGEN: Parcela de papas en bancales de Ravelo, El Sauzal, con la viña al lado y nubes bajas | alt: Papa y viña en las medianías altas de Ravelo, El Sauzal, Tenerife]
 
@@ -54,9 +54,9 @@ El viento se mide en la parcela antes de cada tratamiento. Si la racha supera lo
 
 ## La parte legal, en pocas líneas
 
-En España los tratamientos aéreos con fitosanitarios están prohibidos salvo casos especiales, que necesitan autorización previa del órgano autonómico competente y plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28); el Ministerio de Agricultura incluye en ese régimen a los drones (nota MAPA-AESA, 2018) y solo caben productos con la aplicación aérea en su autorización (anexo VI). El piloto de Agrodrón vuela en categoría específica de AESA/EASA (STS y PDRA-S01) y el viticultor aporta los datos de parcela y producto.
+En España los tratamientos aéreos con fitosanitarios están prohibidos salvo casos especiales, que necesitan autorización previa del órgano autonómico competente y plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28); el Ministerio de Agricultura incluye en ese régimen a los drones (nota MAPA-AESA, 2018) y solo caben productos con la aplicación aérea en su autorización (anexo VI). El piloto de Agrodrón vuela en categoría específica de AESA/EASA (STS y PDRA-S01).
 
-Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [tratamientos con dron en la viña](https://agrodroncanarias.es/dron-agricola-vina/) y [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/). Vecinos de la DO: [dron agrícola en Tacoronte](https://agrodroncanarias.es/dron-agricola-tenerife/tacoronte/) y [dron agrícola en La Matanza de Acentejo](https://agrodroncanarias.es/dron-agricola-tenerife/la-matanza-de-acentejo/).
+Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [tratamientos con dron en la viña](https://agrodroncanarias.es/dron-agricola-vina/) y [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/). Vecinos: [dron agrícola en Tacoronte](https://agrodroncanarias.es/dron-agricola-tenerife/tacoronte/) y [dron agrícola en La Matanza de Acentejo](https://agrodroncanarias.es/dron-agricola-tenerife/la-matanza-de-acentejo/).
 
 ## Preguntas frecuentes sobre el dron agrícola en El Sauzal
 

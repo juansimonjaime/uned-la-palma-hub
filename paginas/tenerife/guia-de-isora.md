@@ -36,7 +36,7 @@ Su radar de matriz en fase y la visión binocular siguen el relieve y detectan o
 
 ## Límites: cubierta, viento y autorización
 
-La salida se agrupa con otras fincas de la comarca, sin plazos prometidos. Antes se recogen los datos: ubicación, hectáreas, malla, cables o árboles altos, y el producto y la dosis de tu plan de aplicación. El viento se comprueba en la finca: la vertiente sur es más tranquila que la norte, pero el suroeste tiene rachas locales (webtenerife) y con racha no se despega.
+La cubierta ya queda dicha. La salida desde La Palma se agrupa con otras fincas de la comarca, sin plazos prometidos, y antes se recogen los datos: ubicación, hectáreas, malla, cables o árboles altos, y el producto y la dosis de tu plan de aplicación. El viento se comprueba en la finca: la vertiente sur es más tranquila que la norte, pero el suroeste tiene rachas locales (webtenerife) y con racha no se despega.
 
 En España la aplicación aérea de fitosanitarios está prohibida con carácter general; solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). Solo entran productos cuya autorización incluya expresamente la aplicación aérea (anexo VI). El trámite va ante el Gobierno de Canarias.
 
@@ -44,7 +44,7 @@ En España la aplicación aérea de fitosanitarios está prohibida con carácter
 
 ## Viña de Ycoden-Daute-Isora, tomate residual, higos y almendros
 
-Guía de Isora cierra por el sur la DO Ycoden-Daute-Isora, que suma entre 1.000 y 1.600 ha de viña con 306 ha controladas por el Consejo (descorchandoversos, 2018). En las medianías de Chío, Chirche y Aripe la parra va al aire libre y su calendario de mildiu, oídio y botritis lo dictan los avisos del Cabildo por comarca (datos.tenerife.es). Se trata con dron, con ojo a la filoxera detectada en Tenerife en 2025 [VERIFICAR: si Guía de Isora está en la zona demarcada].
+Guía de Isora cierra por el sur la DO Ycoden-Daute-Isora, que suma entre 1.000 y 1.600 ha de viña con 306 ha controladas por el Consejo (descorchandoversos, 2018). En las medianías de Chío, Chirche y Aripe la parra va al aire libre y su calendario de mildiu, oídio y botritis lo dictan los avisos del Cabildo por comarca (datos.tenerife.es). Es tratable con dron, con ojo a la filoxera detectada en Tenerife en 2025 [VERIFICAR: si Guía de Isora está en la zona demarcada].
 
 El tomate, que sumó 1.080 ha históricas entre Guía de Isora y Adeje (estudio ULL sin fecha), hoy es residual y va bajo invernadero: fuera del dron. Higos y almendros de secano (EcuRed) son fincas pequeñas y dispersas.
 
