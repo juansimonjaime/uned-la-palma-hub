@@ -1,7 +1,7 @@
 ---
 title: "Dron agrícola en Yaiza | Agrodrón Canarias"
 slug: "yaiza"
-meta_description: "Dron agrícola en Yaiza para la viña de La Geria y Uga: hoyos en picón, zocos y parcelas sin camino. Agrodrón Canarias llega con desplazamiento desde La Palma."
+meta_description: "Dron agrícola en Yaiza para la viña de La Geria y Uga: hoyos en picón, zocos y parcelas sin camino. Agrodrón llega con desplazamiento desde La Palma."
 keyword: "dron agrícola en Yaiza"
 keywords_secundarias: "fumigar con dron en Yaiza, tratamiento con drones en La Geria, dron fitosanitario en Uga, pulverización aérea en viña de Lanzarote, dron pulverizador sobre picón"
 parent: "dron-agricola-lanzarote"

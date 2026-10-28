@@ -1,7 +1,7 @@
 ---
 title: "Dron agrícola en Candelaria | Agrodrón Canarias"
 slug: "candelaria"
-meta_description: "Dron agrícola en Candelaria: viña de la DO Valle de Güímar y hortalizas al aire libre, mes a mes. Servicio con desplazamiento desde La Palma. Pide presupuesto."
+meta_description: "Dron agrícola en Candelaria: viña de la DO Valle de Güímar y hortalizas al aire libre, mes a mes. Con desplazamiento desde La Palma. Pide presupuesto."
 keyword: "dron agrícola en Candelaria"
 keywords_secundarias: "fumigar con dron en Candelaria, tratamiento con drones en viña del Valle de Güímar, dron fitosanitario Igueste y Araya, pulverización aérea en hortalizas de Candelaria"
 parent: "dron-agricola-tenerife"
@@ -12,7 +12,7 @@ municipio: "Candelaria"
 
 # Dron agrícola en Candelaria: el año de la viña y la huerta del Valle de Güímar
 
-Candelaria tiene 184,5 hectáreas de viña como primer cultivo, en su mayoría de secano y para vino de la DO Valle de Güímar, y 56,8 hectáreas de hortalizas de las que solo un 5 % va bajo plástico, según la web municipal (sin fecha). Son fincas de 0,1 a 5 hectáreas llevadas a tiempo parcial. Un dron agrícola en Candelaria tiene que encajar en ese calendario y en esas parcelas; lo repasamos estación a estación. El servicio en Tenerife es con desplazamiento desde La Palma y bajo disponibilidad.
+Candelaria tiene 184,5 hectáreas de viña como primer cultivo, en su mayoría de secano y para vino de la DO Valle de Güímar, y 56,8 hectáreas de hortalizas de las que solo un 5 % va bajo plástico, según la web municipal (sin fecha). Un dron agrícola en Candelaria tiene que encajar en el calendario de esas fincas; lo repasamos estación a estación. En Tenerife el servicio es con desplazamiento desde La Palma y bajo disponibilidad.
 
 [IMAGEN: Viña de secano en bancales de las medianías de Candelaria con el Valle de Güímar y el mar al fondo | alt: Viñedo de secano en terrazas en Candelaria, Valle de Güímar, Tenerife]
 
@@ -20,12 +20,12 @@ Candelaria tiene 184,5 hectáreas de viña como primer cultivo, en su mayoría d
 
 - Primavera: brotación de la viña y primer riesgo de oídio; plantación de hortaliza de verano al aire libre.
 - Verano: envero, botritis y vendimia; viento del este en las medianías.
-- Otoño: siembra de papa en medianías [VERIFICAR: calendario de siembra de papa en Candelaria]; hortaliza de hoja; trips y mosca blanca en la huerta.
+- Otoño: siembra de papa en medianías [VERIFICAR: calendario de siembra de papa en Candelaria]; hortaliza de hoja.
 - Invierno: poda de la viña; en el tomate bajo plástico, la Tuta absoluta, de la que el dron no se ocupa.
 
 ## Primavera: el oídio entra por las zonas bajas
 
-El oídio se considera endémico en Canarias (guía de la viña de Agrocabildo, 2020). El Cabildo de Tenerife publica avisos por comarca para mildiu, oídio y botritis (datos.tenerife.es) y en una campaña reciente dio riesgo alto de oídio en las zonas bajas de la isla la semana del 30 de abril al 7 de mayo. Para una viña de secano de Araya o Igueste a 300-800 metros, esa es la primera fecha que mirar.
+El oídio se considera endémico en Canarias (guía de la viña de Agrocabildo, 2020). El Cabildo publica avisos por comarca de mildiu, oídio y botritis (datos.tenerife.es) y en una campaña reciente dio riesgo alto de oídio en las zonas bajas de la isla la semana del 30 de abril al 7 de mayo. Para una viña de secano de Araya o Igueste, a 300-800 metros, esa es la primera fecha que mirar.
 
 Es también la época de plantar la hortaliza de verano al aire libre, el 95 % de las 56,8 hectáreas del municipio, con las plagas polífagas que recoge el manual fitosanitario de Agrocabildo de 2026: araña roja, mosca blanca, lagarta y trips de la cebolla.
 
@@ -37,17 +37,19 @@ La filoxera, detectada en Tenerife en 2025, dejó en 2026 un total de 16 positiv
 
 ## Otoño e invierno: papa, huerta de hoja y poda
 
-La papa de medianías tiene dos problemas documentados en la isla: la polilla guatemalteca (Tecia solanivora), en Tenerife desde 1999 y seguida con feromonas en campo y almacén (Agrocabildo), y el mildiu, con avisos de riesgo alto del Cabildo que hasta ahora los datos sitúan en el norte. Al aguacate le pesa la araña cristalina (Oligonychus perseae), en Tenerife desde 2006 y presente en el 81,5 % de las parcelas encuestadas por el Cabildo, con cochinilla y trips detrás. De los cítricos no hay plaga con fuente local [VERIFICAR: plagas de cítricos en el Valle de Güímar].
+La papa de medianías tiene dos problemas documentados en la isla: la polilla guatemalteca (Tecia solanivora), en Tenerife desde 1999 y seguida con feromonas en campo y almacén (Agrocabildo), y el mildiu, con avisos de riesgo alto del Cabildo que los datos sitúan en el norte.
+
+Al aguacate le pesa la araña cristalina (Oligonychus perseae), en Tenerife desde 2006 y presente en el 81,5 % de las parcelas encuestadas por el Cabildo, con cochinilla y trips detrás. De los cítricos no hay plaga con fuente local [VERIFICAR: plagas de cítricos en el Valle de Güímar].
 
 [IMAGEN: Huerta al aire libre en bancales de Barranco Hondo, Candelaria, con cebollas y coles en invierno | alt: Hortalizas al aire libre en bancales de Barranco Hondo, Candelaria, Tenerife]
 
 ## Bancales de Igueste, Araya, Barranco Hondo y Las Cuevecitas
 
-La costa de Candelaria está urbanizada hasta los 100 metros; la agricultura vive en las medianías de 300 a 800 metros, en bancales de secano cortados por barrancos profundos. Parcelas de 0,1 a 5 hectáreas, muchas sin camino para tractor. El DJI Agras T50 despega desde el borde, sigue el relieve con radar de matriz en fase y visión binocular, y su depósito de 40 litros casa con fincas de ese tamaño (ficha técnica de DJI).
+La costa de Candelaria está urbanizada hasta los 100 metros; la agricultura vive en las medianías de 300 a 800 metros, en bancales de secano cortados por barrancos profundos. Explotaciones de 0,1 a 5 hectáreas a tiempo parcial, muchas sin camino para tractor. El DJI Agras T50 despega desde el borde, sigue el relieve con radar de matriz en fase y visión binocular, y su depósito de 40 litros casa con fincas de ese tamaño (ficha técnica de DJI).
 
 ## Viento del este y humedad: cuándo se vuela
 
-Candelaria mira al este-sureste, en la transición entre el norte húmedo y el sur árido, y el alisio entra por el este sobre las medianías de secano (web municipal, Wikipedia Valle de Güímar). El viento se mide en la parcela antes de despegar; si sopla fuerte, se aplaza. Las boquillas centrífugas, con 16 litros por minuto en dos boquillas y 24 en cuatro, se ajustan al caudal que pide la etiqueta.
+Candelaria mira al este-sureste, en la transición entre el norte húmedo y el sur árido, y el alisio entra por el este sobre las medianías de secano (web municipal, Wikipedia Valle de Güímar). El viento se mide en la parcela antes de despegar; si sopla fuerte, se aplaza. Las boquillas centrífugas, 16 litros por minuto con dos y 24 con cuatro, se ajustan al caudal que pide la etiqueta.
 
 En lo legal, la aplicación aérea de fitosanitarios está prohibida en España con carácter general; solo se autoriza en casos especiales, con permiso previo del órgano competente de la comunidad autónoma y un plan de aplicación aprobado, y únicamente con productos cuya autorización recoja la aplicación aérea (Real Decreto 1311/2012, artículos 27-28 y anexo VI). Cada tratamiento en Candelaria se tramita ante el Gobierno de Canarias.
 

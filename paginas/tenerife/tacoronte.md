@@ -1,7 +1,7 @@
 ---
 title: "Dron agrícola en Tacoronte | Agrodrón Canarias"
 slug: "tacoronte"
-meta_description: "Dron agrícola en Tacoronte: viña de la DO Tacoronte-Acentejo en terrazas, papa, aguacate y platanera de El Pris. Presupuesto con desplazamiento desde La Palma."
+meta_description: "Dron agrícola en Tacoronte: viña de la DO Tacoronte-Acentejo en terrazas, papa, aguacate y platanera. Presupuesto con desplazamiento desde La Palma."
 keyword: "dron agrícola en Tacoronte"
 keywords_secundarias: "fumigar con dron en Tacoronte, tratamiento con drones en viña de Tacoronte-Acentejo, dron fitosanitario Tenerife, pulverización aérea en Agua García"
 parent: "dron-agricola-tenerife"
@@ -12,7 +12,7 @@ municipio: "Tacoronte"
 
 # Dron agrícola en Tacoronte: las preguntas que hace el viticultor de Acentejo
 
-Tacoronte da nombre a la DO Tacoronte-Acentejo y su viña sube en terrazas desde la costa acantilada de El Pris y Mesa del Mar hasta Agua García, a unos 800 metros. Quien pregunta por un dron agrícola en Tacoronte suele tener viña en pendiente, algo de papa y algún aguacatero. Aquí van las respuestas, con un aviso: en Tenerife el servicio es con desplazamiento desde La Palma y bajo consulta de disponibilidad.
+Tacoronte da nombre a la DO Tacoronte-Acentejo y su viña sube en terrazas desde la costa acantilada de El Pris hasta Agua García, a unos 800 metros. Quien pregunta por un dron agrícola en Tacoronte suele tener viña en pendiente, algo de papa y algún aguacatero. Aquí van las respuestas, con un aviso: en Tenerife el servicio es con desplazamiento desde La Palma y bajo consulta de disponibilidad.
 
 [IMAGEN: Terrazas de viña de Tacoronte en pendiente hacia el mar, con el casco del municipio y la costa de El Pris al fondo | alt: Viñedo en terrazas de la DO Tacoronte-Acentejo en Tacoronte, Tenerife]
 
@@ -40,7 +40,7 @@ La papa de las medianías carga con lo del norte de la isla: polilla guatemaltec
 
 El aguacate crece: el Cabildo recuperó 3 hectáreas entre Tacoronte y La Laguna para 500 árboles de aguacate y café, con 512.015 euros (eldiario.es). Su plaga principal en Tenerife es la araña cristalina (Oligonychus perseae), presente desde 2006 en el 81,5 % de las parcelas encuestadas por el Cabildo, seguida de la cochinilla Nipaecoccus nipae (25,9 %) y el trips (14,8 %). Un aguacatero de 4 a 8 metros [VERIFICAR: altura] se moja mejor desde arriba.
 
-La platanera de El Pris y Mesa del Mar es residual [VERIFICAR: superficie de platanera en Tacoronte] y, al aire libre, se trata como en el resto de la isla.
+La platanera de El Pris y Mesa del Mar es residual [VERIFICAR: superficie] y, al aire libre, se trata como en el resto de la isla.
 
 [IMAGEN: Aguacateros jóvenes en una finca recuperada de las medianías de Tacoronte, con viña en el bancal contiguo | alt: Plantación de aguacate junto a viña en las medianías de Tacoronte, Tenerife]
 
@@ -52,11 +52,11 @@ Y exige bastante: la pulverización aérea de fitosanitarios está prohibida con
 
 ## ¿Qué parcelas de Tacoronte tienen sentido para el dron y cuáles no?
 
-Tienen sentido: viña en terrazas con pendiente y sin camino de tractor, aguacateros altos, papa en medianías con acceso complicado, platanera descubierta de la costa.
+Tienen sentido: viña en terrazas sin camino de tractor, aguacateros altos, papa en medianías de acceso complicado, platanera descubierta de la costa.
 
 Tienen poco sentido: lo que vaya bajo malla o invernadero, parcelas minúsculas entre viviendas sin margen de seguridad, y problemas que la pulverización foliar no resuelve, como la filoxera detectada en Tenerife en 2025 [VERIFICAR: municipios de la zona demarcada].
 
-Más contexto en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [tratamientos con dron en viña](https://agrodroncanarias.es/dron-agricola-vina/) y [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/). Y el vecino: [dron agrícola en El Sauzal](https://agrodroncanarias.es/dron-agricola-tenerife/el-sauzal/).
+Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [tratamientos con dron en viña](https://agrodroncanarias.es/dron-agricola-vina/) y [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/). Y el vecino: [dron agrícola en El Sauzal](https://agrodroncanarias.es/dron-agricola-tenerife/el-sauzal/).
 
 ## Preguntas frecuentes sobre el dron agrícola en Tacoronte
 
@@ -67,7 +67,7 @@ Si producto y autorización están, sí: los avisos del Cabildo se actualizan a 
 No debe. Se fijan márgenes con viviendas y vías y no se trata con viento que saque el producto de la parcela; si no caben esos márgenes, se descarta.
 
 ### ¿Tratáis parcelas de varios viticultores en el mismo viaje?
-Es lo deseable: varias parcelas de Tacoronte y Acentejo en una misma salida hacen más razonable el viaje desde La Palma.
+Es lo deseable: varias parcelas de Acentejo en una misma salida hacen más razonable el viaje desde La Palma.
 
 ### ¿Cuánto cuesta tratar una hectárea de viña en Tacoronte?
 No hay tarifa cerrada: depende de pendiente, número de terrazas, producto y desplazamiento. Con los datos de la parcela te damos presupuesto.
@@ -119,7 +119,7 @@ Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y cuéntanos qué ti
         {
           "@type": "Question",
           "name": "¿Tratáis parcelas de varios viticultores en el mismo viaje?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Es lo deseable: varias parcelas de Tacoronte y Acentejo en una misma salida hacen más razonable el viaje desde La Palma." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Es lo deseable: varias parcelas de Acentejo en una misma salida hacen más razonable el viaje desde La Palma." }
         },
         {
           "@type": "Question",
