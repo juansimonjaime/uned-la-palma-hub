@@ -1,7 +1,7 @@
 ---
 title: "Dron agrícola en Breña Alta | Agrodrón Canarias"
 slug: "brena-alta"
-meta_description: "Dron agrícola en Breña Alta zona a zona: aguacate y viña de medianías, platanera en 1,3 km de costa, proteas y lo que no se trata desde el aire. Pide presupuesto."
+meta_description: "Dron agrícola en Breña Alta zona a zona: aguacate y viña de medianías, platanera de costa, proteas y lo que no se trata desde el aire. Pide presupuesto."
 keyword: "dron agrícola en Breña Alta"
 keywords_secundarias: "fumigar con dron en Breña Alta, tratamiento con drones en aguacate, dron fitosanitario La Palma, pulverización aérea Breña Alta, dron para proteas y flor cortada"
 parent: "dron-agricola-la-palma"
@@ -12,17 +12,21 @@ municipio: "Breña Alta"
 
 # Dron agrícola en Breña Alta: qué se puede tratar en cada zona del municipio
 
-Breña Alta tiene 30,82 kilómetros cuadrados y solo 1,30 de costa (Gobierno de Canarias), así que casi toda su agricultura está en las medianías de la vertiente este, en laderas de pendiente media-alta cortadas en bancales. Son 350 hectáreas en producción en 2019 (Observatorio de Sostenibilidad de la Reserva de la Biosfera) en fincas pequeñas y variadas: aguacate, viña rastrera, platanera abajo, huerta, proteas y flor. Un dron agrícola en Breña Alta sirve para unas y no para otras; aquí las separamos zona por zona.
+Breña Alta tiene 30,82 kilómetros cuadrados y solo 1,30 de costa (Gobierno de Canarias), así que casi toda su agricultura está en las medianías de la vertiente este, en laderas de pendiente media-alta cortadas en bancales. Son 350 hectáreas en producción en 2019 (Observatorio de Sostenibilidad de la Reserva de la Biosfera) en fincas pequeñas y variadas: aguacate, viña rastrera, platanera, huerta, proteas y flor. Un dron agrícola en Breña Alta sirve para unas y no para otras; las separamos zona por zona.
 
 [IMAGEN: Bancales de aguacateros en una ladera de medianías de Breña Alta, con el mar de nubes entrando desde el nordeste y el casco urbano abajo | alt: fincas de aguacate en bancales en las medianías de Breña Alta, La Palma]
 
 ## La costa: 1,3 kilómetros de litoral y la platanera que queda
 
-Con tan poco frente de mar, la platanera de Breña Alta es una franja estrecha [VERIFICAR: hectáreas de platanera en el Mapa de Cultivos], más soleada que el resto del término y con las plagas de toda la platanera canaria: picudo negro, cochinilla algodonosa y trips. La pendiente es menor y las fincas en sorriba se tratan bien desde el aire si están al aire libre; lo que lleve malla de cubierta queda fuera. El detalle está en [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/).
+Con tan poco frente de mar, la platanera de Breña Alta es una franja estrecha [VERIFICAR: hectáreas de platanera en el Mapa de Cultivos], más soleada que el resto del término y con las plagas de toda la platanera canaria: picudo negro, cochinilla algodonosa y trips.
+
+La pendiente es menor y las fincas en sorriba se tratan bien desde el aire si están al aire libre; lo que lleve malla de cubierta queda fuera. El detalle está en [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/).
 
 ## Las medianías: aguacate, viña rastrera y huerta en bancales
 
-Aquí está el grueso. Breña Alta era en 2017 el cuarto municipio de la isla en aguacate, con 82 hectáreas y un 67,35 % más que en 2008 (Mapa de Cultivos de La Palma 2017, vía Canarias Agrícola), en fincas pequeñas y dispersas por las laderas [VERIFICAR: tamaño de las fincas de aguacate]. La plaga es conocida: el ácaro o araña cristalina, Oligonychus perseae, en La Palma desde 2005 y presente en todas las zonas productoras (Canal Agrario La Palma), con cochinilla Nipaecoccus nipae y trips detrás.
+Aquí está el grueso. Breña Alta era en 2017 el cuarto municipio de la isla en aguacate, con 82 hectáreas y un 67,35 % más que en 2008 (Mapa de Cultivos de La Palma 2017, vía Canarias Agrícola), en fincas pequeñas y dispersas por las laderas [VERIFICAR: tamaño de las fincas de aguacate].
+
+La plaga es conocida: el ácaro o araña cristalina, Oligonychus perseae, en La Palma desde 2005 y presente en todas las zonas productoras (Canal Agrario La Palma), con cochinilla Nipaecoccus nipae y trips detrás.
 
 Para el dron, el aguacatero es un árbol alto de copa densa plantado en bancal, muchas veces con una casa o una carretera a pocos metros. El T50 sigue el relieve con radar y visión binocular y detecta obstáculos, pero el trabajo de verdad está antes: dibujar cada bancal, cada cable y cada árbol que sobresale en el plan de vuelo. El cultivo, en [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/).
 
