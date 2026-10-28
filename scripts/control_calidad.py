@@ -71,8 +71,14 @@ def revisar(ruta):
     if fm is None:
         return rel, ["sin frontmatter"], [], {}
     for campo in ("title", "slug", "meta_description", "keyword", "parent", "nivel"):
-        if campo not in fm or not fm[campo]:
+        if campo not in fm:
             errores.append(f"frontmatter sin {campo}")
+        elif not fm[campo] and not (campo == "parent" and fm.get("nivel") in ("hub", "cultivo")):
+            errores.append(f"frontmatter con {campo} vacío")
+    if fm.get("nivel") in ("hub", "cultivo") and fm.get("parent"):
+        errores.append(f"nivel {fm.get('nivel')} debe llevar parent vacío (es página de primer nivel), no '{fm.get('parent')}'")
+    if fm.get("nivel") in ("A", "B") and fm.get("parent") and not fm["parent"].startswith("dron-agricola-"):
+        errores.append(f"parent de municipio debe ser dron-agricola-{{isla}}, no '{fm.get('parent')}'")
     title = fm.get("title", "")
     meta = fm.get("meta_description", "")
     kw = fm.get("keyword", "")
