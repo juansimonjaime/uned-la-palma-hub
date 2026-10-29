@@ -39,7 +39,7 @@ Por encima de los pueblos siguen bancales de secano con almendros dispersos y ce
 ## Plagas documentadas en los cultivos de Arico
 
 - Papa: polilla guatemalteca (Tecia solanivora), en Tenerife desde 1999, con pérdidas cercanas al 50 % en medianías y secano según el Cabildo y el ICIA; vive en el tubérculo y la pulverización aérea no la alcanza. Mildiu, con avisos de riesgo alto del Cabildo.
-- Viña: mildiu, oídio y botritis, con avisos semanales por comarca en datos.tenerife.es; riesgo alto de oídio en zonas bajas entre el 30 de abril y el 7 de mayo de un año reciente. Filoxera en Tenerife desde 2025; la zona demarcada abarca la DO Tacoronte-Acentejo, no Arico (Vinetur, 2026).
+- Viña: mildiu, oídio y botritis, con avisos semanales por comarca en datos.tenerife.es; riesgo alto de oídio en zonas bajas entre el 22 y el 28 de abril de 2026. Filoxera en Tenerife desde 2025; la zona demarcada abarca la DO Tacoronte-Acentejo, no Arico (Vinetur, 2026).
 - Tomate: Tuta absoluta, con explosión poblacional en 2019 (eldiario.es, Phytoma); irrelevante para el dron porque va bajo cubierta.
 
 Todo eso es asunto de sanidad vegetal del Cabildo; el dron pone abono foliar donde no entra el tractor.

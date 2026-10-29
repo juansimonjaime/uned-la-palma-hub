@@ -28,7 +28,7 @@ La polilla guatemalteca (Tecia solanivora) entró en Tenerife por Icod de los Vi
 
 El mildiu de la papa tuvo aviso de riesgo alto del Cabildo para el norte de Tenerife (hacia 2024); el dron no entra ahí.
 
-En viña, el Cabildo publica avisos por comarca de mildiu, oídio y botritis (datos.tenerife.es); el oídio estuvo en riesgo alto en zonas bajas del 30 de abril al 7 de mayo. Agrocabildo estudió en 2024 los hongos de la madera en el Valle, y la filoxera se detectó en Tenerife en 2025, con zona demarcada en la DO Tacoronte-Acentejo, fuera del Valle (Vinetur, 2026).
+En viña, el Cabildo publica avisos por comarca de mildiu, oídio y botritis (datos.tenerife.es); el oídio estuvo en riesgo alto en zonas bajas del 22 al 28 de abril de 2026. Agrocabildo estudió en 2024 los hongos de la madera en el Valle, y la filoxera se detectó en Tenerife en 2025, con zona demarcada en la DO Tacoronte-Acentejo, fuera del Valle (Vinetur, 2026).
 
 ## Por qué un dron agrícola en La Orotava encaja en bancal de papa y viña tendida
 

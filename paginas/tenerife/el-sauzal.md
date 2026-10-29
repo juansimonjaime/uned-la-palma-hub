@@ -20,7 +20,7 @@ En El Sauzal están la sede del Consejo Regulador de la DO Tacoronte-Acentejo y 
 
 El Cabildo de Tenerife publica avisos de la viña por comarca, en ficheros separados para mildiu, oídio y botritis, con actualización diaria (datos.tenerife.es).
 
-Primavera, brotación y primeras hojas: el oídio es la enfermedad considerada endémica en Canarias (guía de la viña de Agrocabildo, 2020). Los avisos del Cabildo marcaron riesgo alto de oídio en las zonas bajas de Tenerife del 30 de abril al 7 de mayo [VERIFICAR: año y comarcas de ese aviso].
+Primavera, brotación y primeras hojas: el oídio es la enfermedad considerada endémica en Canarias (guía de la viña de Agrocabildo, 2020). Los avisos del Cabildo marcaron riesgo alto de oídio en las zonas bajas de Tenerife del 22 al 28 de abril de 2026 [VERIFICAR: año y comarcas de ese aviso].
 
 Verano, de la floración al envero: la newsletter de Agrocabildo del 31 de julio mantenía riesgo elevado de oídio en distintas zonas vitícolas, riesgo medio de mildiu en algunas comarcas y atención especial a la botritis en variedades en envero.
 

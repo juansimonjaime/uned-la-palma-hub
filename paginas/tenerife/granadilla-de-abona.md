@@ -30,7 +30,7 @@ El tomate de invernadero de San Isidro, de exportación tras la llegada del rega
 
 ## De abril a junio: brotación de la viña y oídio
 
-Entre el 30 de abril y el 7 de mayo el Cabildo lanzó un aviso de riesgo alto de oídio para las zonas bajas de Tenerife; la viña de Granadilla, entre 600 y 1.200 m, sigue los avisos por comarca de mildiu, oídio y botritis de datos.tenerife.es. Es la ventana del abonado foliar en brotación, y la salida desde La Palma se cuadra con semanas, no de un día para otro.
+Entre el 22 y el 28 de abril de 2026 el Cabildo lanzó un aviso de riesgo alto de oídio para las zonas bajas de Tenerife; la viña de Granadilla, entre 600 y 1.200 m, sigue los avisos por comarca de mildiu, oídio y botritis de datos.tenerife.es. Es la ventana del abonado foliar en brotación, y la salida desde La Palma se cuadra con semanas, no de un día para otro.
 
 ## Qué encaja con dron agrícola en Granadilla de Abona y cuándo
 

@@ -25,7 +25,7 @@ Candelaria tiene 184,5 hectáreas de viña como primer cultivo, en su mayoría d
 
 ## Primavera: el oídio entra por las zonas bajas
 
-El oídio es endémico en Canarias (guía de la viña de Agrocabildo, 2020). El Cabildo publica avisos por comarca de mildiu, oídio y botritis (datos.tenerife.es) y en una campaña reciente dio riesgo alto de oídio en las zonas bajas de la isla la semana del 30 de abril al 7 de mayo. Para una viña de secano de Araya o Igueste, esa es la primera fecha que mirar.
+El oídio es endémico en Canarias (guía de la viña de Agrocabildo, 2020). El Cabildo publica avisos por comarca de mildiu, oídio y botritis (datos.tenerife.es) y en abril de 2026 dio riesgo alto de oídio en las zonas bajas de la isla la semana del 22 al 28 de abril de 2026. Para una viña de secano de Araya o Igueste, esa es la primera fecha que mirar.
 
 Es también la época de plantar la hortaliza de verano al aire libre, el 95 % de las 56,8 hectáreas, con las plagas que recoge el manual de plagas de Agrocabildo de 2026: araña roja, mosca blanca, lagarta y trips de la cebolla. Ahí el dron pone abonado foliar de arranque; las plagas, por la vía del Cabildo.
 

@@ -18,7 +18,7 @@ Garachico tenía 204,6 hectáreas de platanera en 2011 según el boletín de Des
 
 ## Primavera: brotación de la viña y el primer aviso de oídio
 
-La viña del Reparo y Genovés está entre 500 y 900 m [VERIFICAR: cotas], en bancales de medianías. El Cabildo publica avisos por comarca de mildiu, oídio y botritis (datos.tenerife.es), y hacia 2024 marcó riesgo alto de oídio en zonas bajas de la isla entre el 30 de abril y el 7 de mayo.
+La viña del Reparo y Genovés está entre 500 y 900 m [VERIFICAR: cotas], en bancales de medianías. El Cabildo publica avisos por comarca de mildiu, oídio y botritis (datos.tenerife.es), y en abril de 2026 marcó riesgo alto de oídio en zonas bajas de la isla entre el 22 y el 28 de abril de 2026.
 
 Primera ventana del dron en viña, no por el oídio (eso va con el aviso) sino para un foliar o un bioestimulante en brotación. El DJI Agras T50 sigue el relieve con radar y visión binocular y regula la velocidad con la pendiente; el bancal se trata desde arriba sin pisar las cepas.
 

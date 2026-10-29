@@ -1,6 +1,6 @@
 # Informe: landings SEO local de Agrodrón Canarias
 
-Entrega del encargo maestro: páginas de aterrizaje de SEO local para agrodroncanarias.es (tratamientos agrícolas con dron: abonado foliar, bioestimulantes y otros productos permitidos; DJI Agras T50; base en Santa Cruz de La Palma). Se han redactado **77 páginas** en Markdown con frontmatter para WordPress: 14 municipios de La Palma (nivel A), 46 municipios de otras islas (nivel B), 7 páginas hub de isla y 10 páginas de cultivo. Todas pasan el control de calidad (0 errores) y el control de similitud (máximo 12,2 % frente al umbral del 30 %). Hay **275 marcas [VERIFICAR]** repartidas por las páginas, listadas al final de este informe.
+Entrega del encargo maestro: páginas de aterrizaje de SEO local para agrodroncanarias.es (tratamientos agrícolas con dron: abonado foliar, bioestimulantes y otros productos permitidos; DJI Agras T50; base en Santa Cruz de La Palma). Se han redactado **77 páginas** en Markdown con frontmatter para WordPress: 14 municipios de La Palma (nivel A), 46 municipios de otras islas (nivel B), 7 páginas hub de isla y 10 páginas de cultivo. Todas pasan el control de calidad (0 errores) y el control de similitud (máximo 12,2 % frente al umbral del 30 %). Hay **234 marcas [VERIFICAR]** repartidas por las páginas, listadas al final de este informe.
 
 ## 1. Dónde está todo
 
@@ -177,88 +177,88 @@ Los enlaces internos de todas las páginas ya apuntan a estas URL absolutas (mun
 | `paginas/islas/gran-canaria.md` | Dron agrícola en Gran Canaria | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/ | 997 | 2 |
 | `paginas/islas/la-gomera.md` | Dron agrícola en La Gomera | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-gomera/ | 988 | 3 |
 | `paginas/islas/la-palma.md` | Dron agrícola en La Palma | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/ | 998 | 1 |
-| `paginas/islas/lanzarote.md` | Dron agrícola en Lanzarote | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/ | 994 | 5 |
+| `paginas/islas/lanzarote.md` | Dron agrícola en Lanzarote | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/ | 998 | 4 |
 | `paginas/islas/tenerife.md` | Dron agrícola en Tenerife | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/ | 995 | 3 |
 
 ### Nivel A: La Palma
 
 | Página | Título | URL | Palabras | [VERIFICAR] |
 |---|---|---|---|---|
-| `paginas/la-palma/barlovento.md` | Dron agrícola en Barlovento | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/barlovento/ | 1284 | 4 |
+| `paginas/la-palma/barlovento.md` | Dron agrícola en Barlovento | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/barlovento/ | 1293 | 4 |
 | `paginas/la-palma/brena-alta.md` | Dron agrícola en Breña Alta | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/ | 1237 | 5 |
 | `paginas/la-palma/brena-baja.md` | Dron agrícola en Breña Baja | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/brena-baja/ | 1280 | 2 |
-| `paginas/la-palma/el-paso.md` | Dron agrícola en El Paso | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/el-paso/ | 1294 | 8 |
+| `paginas/la-palma/el-paso.md` | Dron agrícola en El Paso | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/el-paso/ | 1299 | 7 |
 | `paginas/la-palma/fuencaliente.md` | Dron agrícola en Fuencaliente | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/fuencaliente/ | 1297 | 4 |
-| `paginas/la-palma/garafia.md` | Dron agrícola en Garafía | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/garafia/ | 1282 | 3 |
-| `paginas/la-palma/los-llanos-de-aridane.md` | Dron agrícola en Los Llanos de Aridane | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/los-llanos-de-aridane/ | 1286 | 8 |
-| `paginas/la-palma/puntagorda.md` | Dron agrícola en Puntagorda | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/puntagorda/ | 1288 | 6 |
-| `paginas/la-palma/puntallana.md` | Dron agrícola en Puntallana | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/puntallana/ | 1243 | 1 |
-| `paginas/la-palma/san-andres-y-sauces.md` | Dron agrícola en San Andrés y Sauces | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/san-andres-y-sauces/ | 1274 | 2 |
-| `paginas/la-palma/santa-cruz-de-la-palma.md` | Dron agrícola en Santa Cruz de La Palma | Agrodrón | https://agrodroncanarias.es/dron-agricola-la-palma/santa-cruz-de-la-palma/ | 1289 | 3 |
-| `paginas/la-palma/tazacorte.md` | Dron agrícola en Tazacorte | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/tazacorte/ | 1293 | 7 |
-| `paginas/la-palma/tijarafe.md` | Dron agrícola en Tijarafe | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/tijarafe/ | 1251 | 5 |
+| `paginas/la-palma/garafia.md` | Dron agrícola en Garafía | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/garafia/ | 1287 | 3 |
+| `paginas/la-palma/los-llanos-de-aridane.md` | Dron agrícola en Los Llanos de Aridane | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/los-llanos-de-aridane/ | 1294 | 4 |
+| `paginas/la-palma/puntagorda.md` | Dron agrícola en Puntagorda | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/puntagorda/ | 1299 | 6 |
+| `paginas/la-palma/puntallana.md` | Dron agrícola en Puntallana | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/puntallana/ | 1258 | 1 |
+| `paginas/la-palma/san-andres-y-sauces.md` | Dron agrícola en San Andrés y Sauces | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/san-andres-y-sauces/ | 1272 | 2 |
+| `paginas/la-palma/santa-cruz-de-la-palma.md` | Dron agrícola en Santa Cruz de La Palma | Agrodrón | https://agrodroncanarias.es/dron-agricola-la-palma/santa-cruz-de-la-palma/ | 1295 | 2 |
+| `paginas/la-palma/tazacorte.md` | Dron agrícola en Tazacorte | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/tazacorte/ | 1298 | 5 |
+| `paginas/la-palma/tijarafe.md` | Dron agrícola en Tijarafe | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/tijarafe/ | 1290 | 5 |
 | `paginas/la-palma/villa-de-mazo.md` | Dron agrícola en Villa de Mazo | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/villa-de-mazo/ | 1295 | 2 |
 
 ### Nivel B: Tenerife
 
 | Página | Título | URL | Palabras | [VERIFICAR] |
 |---|---|---|---|---|
-| `paginas/tenerife/adeje.md` | Dron agrícola en Adeje | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/adeje/ | 995 | 2 |
-| `paginas/tenerife/arico.md` | Dron agrícola en Arico | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/arico/ | 1000 | 3 |
-| `paginas/tenerife/arona.md` | Dron agrícola en Arona | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/arona/ | 996 | 2 |
-| `paginas/tenerife/buenavista-del-norte.md` | Dron agrícola en Buenavista del Norte | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/buenavista-del-norte/ | 993 | 3 |
-| `paginas/tenerife/candelaria.md` | Dron agrícola en Candelaria | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/candelaria/ | 999 | 3 |
-| `paginas/tenerife/el-sauzal.md` | Dron agrícola en El Sauzal | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/el-sauzal/ | 992 | 3 |
-| `paginas/tenerife/garachico.md` | Dron agrícola en Garachico | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/garachico/ | 998 | 5 |
-| `paginas/tenerife/granadilla-de-abona.md` | Dron agrícola en Granadilla de Abona | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/granadilla-de-abona/ | 997 | 2 |
-| `paginas/tenerife/guia-de-isora.md` | Dron agrícola en Guía de Isora | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/guia-de-isora/ | 1000 | 2 |
-| `paginas/tenerife/guimar.md` | Dron agrícola en Güímar | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/guimar/ | 997 | 4 |
-| `paginas/tenerife/icod-de-los-vinos.md` | Dron agrícola en Icod de los Vinos | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/icod-de-los-vinos/ | 993 | 4 |
-| `paginas/tenerife/la-matanza-de-acentejo.md` | Dron agrícola en La Matanza de Acentejo | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/la-matanza-de-acentejo/ | 996 | 4 |
-| `paginas/tenerife/la-orotava.md` | Dron agrícola en La Orotava | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/la-orotava/ | 997 | 4 |
-| `paginas/tenerife/la-victoria-de-acentejo.md` | Dron agrícola en La Victoria de Acentejo | Agrodrón | https://agrodroncanarias.es/dron-agricola-tenerife/la-victoria-de-acentejo/ | 997 | 3 |
-| `paginas/tenerife/los-realejos.md` | Dron agrícola en Los Realejos | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/los-realejos/ | 997 | 4 |
+| `paginas/tenerife/adeje.md` | Dron agrícola en Adeje | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/adeje/ | 999 | 1 |
+| `paginas/tenerife/arico.md` | Dron agrícola en Arico | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/arico/ | 994 | 1 |
+| `paginas/tenerife/arona.md` | Dron agrícola en Arona | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/arona/ | 996 | 1 |
+| `paginas/tenerife/buenavista-del-norte.md` | Dron agrícola en Buenavista del Norte | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/buenavista-del-norte/ | 994 | 2 |
+| `paginas/tenerife/candelaria.md` | Dron agrícola en Candelaria | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/candelaria/ | 998 | 2 |
+| `paginas/tenerife/el-sauzal.md` | Dron agrícola en El Sauzal | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/el-sauzal/ | 997 | 2 |
+| `paginas/tenerife/garachico.md` | Dron agrícola en Garachico | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/garachico/ | 999 | 3 |
+| `paginas/tenerife/granadilla-de-abona.md` | Dron agrícola en Granadilla de Abona | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/granadilla-de-abona/ | 999 | 0 |
+| `paginas/tenerife/guia-de-isora.md` | Dron agrícola en Guía de Isora | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/guia-de-isora/ | 1000 | 1 |
+| `paginas/tenerife/guimar.md` | Dron agrícola en Güímar | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/guimar/ | 998 | 3 |
+| `paginas/tenerife/icod-de-los-vinos.md` | Dron agrícola en Icod de los Vinos | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/icod-de-los-vinos/ | 995 | 3 |
+| `paginas/tenerife/la-matanza-de-acentejo.md` | Dron agrícola en La Matanza de Acentejo | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/la-matanza-de-acentejo/ | 998 | 3 |
+| `paginas/tenerife/la-orotava.md` | Dron agrícola en La Orotava | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/la-orotava/ | 994 | 2 |
+| `paginas/tenerife/la-victoria-de-acentejo.md` | Dron agrícola en La Victoria de Acentejo | Agrodrón | https://agrodroncanarias.es/dron-agricola-tenerife/la-victoria-de-acentejo/ | 998 | 2 |
+| `paginas/tenerife/los-realejos.md` | Dron agrícola en Los Realejos | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/los-realejos/ | 997 | 3 |
 | `paginas/tenerife/los-silos.md` | Dron agrícola en Los Silos | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/los-silos/ | 989 | 3 |
 | `paginas/tenerife/san-cristobal-de-la-laguna.md` | Dron agrícola en La Laguna (Tenerife) | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/san-cristobal-de-la-laguna/ | 998 | 2 |
-| `paginas/tenerife/san-miguel-de-abona.md` | Dron agrícola en San Miguel de Abona | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/san-miguel-de-abona/ | 992 | 4 |
+| `paginas/tenerife/san-miguel-de-abona.md` | Dron agrícola en San Miguel de Abona | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/san-miguel-de-abona/ | 996 | 3 |
 | `paginas/tenerife/santa-ursula.md` | Dron agrícola en Santa Úrsula | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/santa-ursula/ | 994 | 2 |
-| `paginas/tenerife/tacoronte.md` | Dron agrícola en Tacoronte | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/tacoronte/ | 999 | 5 |
+| `paginas/tenerife/tacoronte.md` | Dron agrícola en Tacoronte | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/tacoronte/ | 997 | 4 |
 | `paginas/tenerife/tegueste.md` | Dron agrícola en Tegueste | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/tegueste/ | 993 | 2 |
-| `paginas/tenerife/vilaflor-de-chasna.md` | Dron agrícola en Vilaflor | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/vilaflor-de-chasna/ | 999 | 4 |
+| `paginas/tenerife/vilaflor-de-chasna.md` | Dron agrícola en Vilaflor | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/vilaflor-de-chasna/ | 993 | 3 |
 
 ### Nivel B: Gran Canaria
 
 | Página | Título | URL | Palabras | [VERIFICAR] |
 |---|---|---|---|---|
-| `paginas/gran-canaria/agaete.md` | Dron agrícola en Agaete | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/agaete/ | 999 | 5 |
-| `paginas/gran-canaria/arucas.md` | Dron agrícola en Arucas | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/arucas/ | 990 | 3 |
+| `paginas/gran-canaria/agaete.md` | Dron agrícola en Agaete | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/agaete/ | 998 | 4 |
+| `paginas/gran-canaria/arucas.md` | Dron agrícola en Arucas | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/arucas/ | 997 | 2 |
 | `paginas/gran-canaria/galdar.md` | Dron agrícola en Gáldar | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/galdar/ | 995 | 2 |
-| `paginas/gran-canaria/la-aldea-de-san-nicolas.md` | Dron agrícola en La Aldea de San Nicolás | Agrodrón | https://agrodroncanarias.es/dron-agricola-gran-canaria/la-aldea-de-san-nicolas/ | 1000 | 4 |
+| `paginas/gran-canaria/la-aldea-de-san-nicolas.md` | Dron agrícola en La Aldea de San Nicolás | Agrodrón | https://agrodroncanarias.es/dron-agricola-gran-canaria/la-aldea-de-san-nicolas/ | 989 | 4 |
 | `paginas/gran-canaria/mogan.md` | Dron agrícola en Mogán | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/mogan/ | 989 | 2 |
-| `paginas/gran-canaria/moya.md` | Dron agrícola en Moya | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/moya/ | 998 | 4 |
+| `paginas/gran-canaria/moya.md` | Dron agrícola en Moya | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/moya/ | 988 | 4 |
 | `paginas/gran-canaria/san-bartolome-de-tirajana.md` | Dron agrícola en San Bartolomé de Tirajana | Agrodrón | https://agrodroncanarias.es/dron-agricola-gran-canaria/san-bartolome-de-tirajana/ | 998 | 4 |
 | `paginas/gran-canaria/santa-maria-de-guia.md` | Dron agrícola en Santa María de Guía | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/santa-maria-de-guia/ | 992 | 2 |
-| `paginas/gran-canaria/telde.md` | Dron agrícola en Telde | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/telde/ | 993 | 5 |
-| `paginas/gran-canaria/teror.md` | Dron agrícola en Teror | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/teror/ | 994 | 4 |
-| `paginas/gran-canaria/valsequillo.md` | Dron agrícola en Valsequillo | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/valsequillo/ | 992 | 5 |
-| `paginas/gran-canaria/vega-de-san-mateo.md` | Dron agrícola en Vega de San Mateo | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/vega-de-san-mateo/ | 994 | 2 |
+| `paginas/gran-canaria/telde.md` | Dron agrícola en Telde | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/telde/ | 992 | 4 |
+| `paginas/gran-canaria/teror.md` | Dron agrícola en Teror | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/teror/ | 992 | 3 |
+| `paginas/gran-canaria/valsequillo.md` | Dron agrícola en Valsequillo | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/valsequillo/ | 1000 | 5 |
+| `paginas/gran-canaria/vega-de-san-mateo.md` | Dron agrícola en Vega de San Mateo | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/vega-de-san-mateo/ | 991 | 2 |
 
 ### Nivel B: Lanzarote
 
 | Página | Título | URL | Palabras | [VERIFICAR] |
 |---|---|---|---|---|
-| `paginas/lanzarote/haria.md` | Dron agrícola en Haría | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/haria/ | 995 | 4 |
+| `paginas/lanzarote/haria.md` | Dron agrícola en Haría | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/haria/ | 994 | 4 |
 | `paginas/lanzarote/san-bartolome.md` | Dron agrícola en San Bartolomé | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/san-bartolome/ | 992 | 3 |
-| `paginas/lanzarote/teguise.md` | Dron agrícola en Teguise | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/teguise/ | 993 | 4 |
-| `paginas/lanzarote/tias.md` | Dron agrícola en Tías | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/tias/ | 990 | 4 |
-| `paginas/lanzarote/tinajo.md` | Dron agrícola en Tinajo | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/tinajo/ | 995 | 3 |
+| `paginas/lanzarote/teguise.md` | Dron agrícola en Teguise | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/teguise/ | 991 | 4 |
+| `paginas/lanzarote/tias.md` | Dron agrícola en Tías | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/tias/ | 998 | 2 |
+| `paginas/lanzarote/tinajo.md` | Dron agrícola en Tinajo | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/tinajo/ | 1000 | 2 |
 | `paginas/lanzarote/yaiza.md` | Dron agrícola en Yaiza | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/yaiza/ | 983 | 2 |
 
 ### Nivel B: Fuerteventura
 
 | Página | Título | URL | Palabras | [VERIFICAR] |
 |---|---|---|---|---|
-| `paginas/fuerteventura/antigua.md` | Dron agrícola en Antigua | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-fuerteventura/antigua/ | 990 | 2 |
+| `paginas/fuerteventura/antigua.md` | Dron agrícola en Antigua | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-fuerteventura/antigua/ | 994 | 3 |
 | `paginas/fuerteventura/tuineje.md` | Dron agrícola en Tuineje | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-fuerteventura/tuineje/ | 983 | 1 |
 
 ### Nivel B: La Gomera
@@ -266,29 +266,29 @@ Los enlaces internos de todas las páginas ya apuntan a estas URL absolutas (mun
 | Página | Título | URL | Palabras | [VERIFICAR] |
 |---|---|---|---|---|
 | `paginas/la-gomera/hermigua.md` | Dron agrícola en Hermigua | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-gomera/hermigua/ | 995 | 4 |
-| `paginas/la-gomera/valle-gran-rey.md` | Dron agrícola en Valle Gran Rey | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-gomera/valle-gran-rey/ | 1000 | 7 |
+| `paginas/la-gomera/valle-gran-rey.md` | Dron agrícola en Valle Gran Rey | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-gomera/valle-gran-rey/ | 997 | 7 |
 | `paginas/la-gomera/vallehermoso.md` | Dron agrícola en Vallehermoso | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-gomera/vallehermoso/ | 983 | 4 |
 
 ### Nivel B: El Hierro
 
 | Página | Título | URL | Palabras | [VERIFICAR] |
 |---|---|---|---|---|
-| `paginas/el-hierro/frontera.md` | Dron agrícola en Frontera | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-el-hierro/frontera/ | 979 | 4 |
+| `paginas/el-hierro/frontera.md` | Dron agrícola en Frontera | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-el-hierro/frontera/ | 988 | 4 |
 
 ### Cultivos
 
 | Página | Título | URL | Palabras | [VERIFICAR] |
 |---|---|---|---|---|
-| `paginas/cultivos/aguacate.md` | Dron agrícola para aguacate en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-aguacate/ | 1289 | 5 |
+| `paginas/cultivos/aguacate.md` | Dron agrícola para aguacate en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-aguacate/ | 1288 | 4 |
 | `paginas/cultivos/almendro.md` | Dron agrícola para almendro en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-almendro/ | 1278 | 5 |
-| `paginas/cultivos/citricos.md` | Dron agrícola para cítricos en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-citricos/ | 1284 | 4 |
-| `paginas/cultivos/flores-ornamentales.md` | Dron agrícola para flores y ornamentales | Agrodrón | https://agrodroncanarias.es/dron-agricola-flores-ornamentales/ | 1283 | 5 |
-| `paginas/cultivos/frutales-subtropicales.md` | Dron agrícola para frutales subtropicales | Agrodrón | https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/ | 1285 | 6 |
+| `paginas/cultivos/citricos.md` | Dron agrícola para cítricos en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-citricos/ | 1300 | 4 |
+| `paginas/cultivos/flores-ornamentales.md` | Dron agrícola para flores y ornamentales | Agrodrón | https://agrodroncanarias.es/dron-agricola-flores-ornamentales/ | 1296 | 4 |
+| `paginas/cultivos/frutales-subtropicales.md` | Dron agrícola para frutales subtropicales | Agrodrón | https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/ | 1289 | 6 |
 | `paginas/cultivos/horticolas.md` | Dron agrícola para hortalizas en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-horticolas/ | 1282 | 5 |
 | `paginas/cultivos/papa.md` | Dron agrícola para papa en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-papa/ | 1273 | 3 |
-| `paginas/cultivos/platanera.md` | Dron agrícola para platanera en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-platanera/ | 1285 | 3 |
-| `paginas/cultivos/tomate.md` | Dron agrícola para tomate en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-tomate/ | 1286 | 4 |
-| `paginas/cultivos/vina.md` | Dron agrícola para viña en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-vina/ | 1292 | 4 |
+| `paginas/cultivos/platanera.md` | Dron agrícola para platanera en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-platanera/ | 1289 | 2 |
+| `paginas/cultivos/tomate.md` | Dron agrícola para tomate en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-tomate/ | 1297 | 3 |
+| `paginas/cultivos/vina.md` | Dron agrícola para viña en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-vina/ | 1287 | 4 |
 
 ## 5. Fase 1: datos y fuentes
 
@@ -315,24 +315,24 @@ Métrica: proporción de secuencias de 5 palabras de una página que aparecen ta
 
 ```
 Páginas analizadas: 77  |  pares: 2926  |  métrica: contención de shingles de 5 palabras  |  umbral: 30 %
-Máxima similitud: 11.0 %  |  media: 2.3 %  |  pares por encima del umbral: 0
+Máxima similitud: 11.5 %  |  media: 2.3 %  |  pares por encima del umbral: 0
 
 Top 15 pares (shingles % | coseno TF-IDF % | página A | página B):
-   11.0 |  19.4 | paginas/tenerife/la-victoria-de-acentejo.md | paginas/tenerife/tegueste.md
-   10.9 |  18.0 | paginas/tenerife/icod-de-los-vinos.md | paginas/tenerife/la-orotava.md
-   10.1 |  52.8 | paginas/fuerteventura/antigua.md | paginas/islas/fuerteventura.md
-    9.3 |  21.1 | paginas/tenerife/el-sauzal.md | paginas/tenerife/la-victoria-de-acentejo.md
-    9.3 |  39.7 | paginas/islas/la-gomera.md | paginas/la-gomera/vallehermoso.md
-    9.2 |  26.5 | paginas/tenerife/la-orotava.md | paginas/tenerife/los-realejos.md
-    8.6 |  23.6 | paginas/tenerife/la-matanza-de-acentejo.md | paginas/tenerife/tacoronte.md
-    8.3 |  25.2 | paginas/tenerife/buenavista-del-norte.md | paginas/tenerife/los-silos.md
-    7.9 |  16.1 | paginas/tenerife/garachico.md | paginas/tenerife/los-realejos.md
-    7.6 |  24.0 | paginas/tenerife/el-sauzal.md | paginas/tenerife/la-matanza-de-acentejo.md
-    7.5 |  36.9 | paginas/islas/la-gomera.md | paginas/la-gomera/hermigua.md
-    7.5 |  16.2 | paginas/tenerife/candelaria.md | paginas/tenerife/la-victoria-de-acentejo.md
-    7.3 |  26.2 | paginas/tenerife/garachico.md | paginas/tenerife/icod-de-los-vinos.md
-    7.3 |  12.2 | paginas/tenerife/guimar.md | paginas/tenerife/la-victoria-de-acentejo.md
-    7.0 |  46.8 | paginas/islas/lanzarote.md | paginas/lanzarote/teguise.md
+   11.5 |  18.0 | paginas/tenerife/icod-de-los-vinos.md | paginas/tenerife/la-orotava.md
+   10.4 |  18.1 | paginas/tenerife/la-victoria-de-acentejo.md | paginas/tenerife/tegueste.md
+   10.2 |  20.4 | paginas/tenerife/el-sauzal.md | paginas/tenerife/la-victoria-de-acentejo.md
+   10.1 |  52.9 | paginas/fuerteventura/antigua.md | paginas/islas/fuerteventura.md
+    9.4 |  26.5 | paginas/tenerife/la-orotava.md | paginas/tenerife/los-realejos.md
+    9.3 |  39.4 | paginas/islas/la-gomera.md | paginas/la-gomera/vallehermoso.md
+    8.8 |  22.0 | paginas/tenerife/la-matanza-de-acentejo.md | paginas/tenerife/tacoronte.md
+    8.3 |  24.6 | paginas/tenerife/buenavista-del-norte.md | paginas/tenerife/los-silos.md
+    8.2 |  16.3 | paginas/tenerife/garachico.md | paginas/tenerife/los-realejos.md
+    8.0 |  16.8 | paginas/tenerife/candelaria.md | paginas/tenerife/la-victoria-de-acentejo.md
+    8.0 |  23.2 | paginas/tenerife/el-sauzal.md | paginas/tenerife/la-matanza-de-acentejo.md
+    7.9 |  26.2 | paginas/tenerife/garachico.md | paginas/tenerife/icod-de-los-vinos.md
+    7.7 |  13.1 | paginas/tenerife/guimar.md | paginas/tenerife/la-victoria-de-acentejo.md
+    7.5 |  36.5 | paginas/islas/la-gomera.md | paginas/la-gomera/hermigua.md
+    7.4 |  14.7 | paginas/tenerife/garachico.md | paginas/tenerife/la-orotava.md
 ```
 
 Ningún par supera el umbral; ninguna página ha necesitado reescritura por similitud. Los pares más altos (12,2 % como máximo) corresponden a municipios de la misma comarca vitícola que comparten el párrafo legal obligatorio y los mismos avisos del Cabildo, con redacción distinta. Los pares hub–municipio con coseno alto (Fuerteventura, La Gomera) comparten vocabulario de isla, no frases.
@@ -372,16 +372,30 @@ No publicar todo de golpe. Propuesta por tandas, siempre primero el hub de la is
 - Ninguna página da precios, clientes, casos, cifras de ahorro ni promete plazos o resultados.
 - Donde el encargo y los datos discrepaban (Tazacorte, Tinajo, Villa de Mazo, Fuencaliente), mandaron los datos y así consta en la página.
 
-## 12. Todas las marcas [VERIFICAR] por página
+## 12. Segunda pasada de verificación
 
-Total: 275 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de la FAQ). Hay que confirmar el dato o pedir que se quite la frase.
+Cinco verificadores revisaron las marcas [VERIFICAR] con búsquedas web (la red de la sesión sigue bloqueando gobiernodecanarias.org, ISTAC, BOE y DJI, así que no se pudieron abrir las tablas oficiales). Cada comprobación, con su resultado y su fuente, está en `data/control/verificacion_2a_pasada.md`, y lo confirmado se ha anotado en `data/notas/*.md`. Correcciones que cambian el contenido:
+- Tazacorte mide 12,04 km² tras las fajanas de 2021, no 11,37.
+- Puerto Naos y La Bombilla seguían con CO2 residual y vuelta por fases en mayo de 2026.
+- Telde: 716,6 ha cultivadas (ISTAC, hasta 2017), no "un millar".
+- Los avisos de mildiu de 2024 citados en Moya y Vega de San Mateo eran del Cabildo de Tenerife; ya no se atribuyen a Gran Canaria.
+- Lanzarote: la viña ocupa el 75,6 % de lo cultivado en 2024 (no la mitad), y el mildiu sí está documentado en la isla desde 2009.
+- Arico: la pitaya va sobre todo bajo cubierta. La Orotava: papa entre 600 y 1.100 m.
+- Filoxera: la zona demarcada en 2026 abarca la DO Tacoronte-Acentejo; el resto de DO de Tenerife queda fuera.
+- Aviso de oídio: la fecha citada en 15 páginas ("30 de abril–7 de mayo") no aparece en ninguna fuente; se sustituye por el aviso verificado de riesgo alto del 22 al 28 de abril de 2026.
+- Platanera: la altura pasa a unos 2,25–2,75 m (hoja del MAPA, 1967, fuente antigua: conviene revisarla con experiencia de campo).
 
-### `paginas/cultivos/aguacate.md` (5)
+Para cerrar la mayoría de lo pendiente (hectáreas por municipio, platanera bajo malla, cotas) hay que permitir www.gobiernodecanarias.org y datos.canarias.es en la red de la sesión, o descargar a mano el Mapa de Cultivos de Canarias y la serie municipal del ISTAC.
 
-- [VERIFICAR: altura y marco de plantación con fuente técnica]
+## 13. Todas las marcas [VERIFICAR] por página
+
+Total: 234 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de la FAQ). Hay que confirmar el dato o pedir que se quite la frase.
+
+### `paginas/cultivos/aguacate.md` (4)
+
+- [VERIFICAR: altura con fuente técnica canaria]
 - [VERIFICAR: superficie 2023 en la tabla 7.9.15.2 del Anuario del MAPA]
-- [VERIFICAR: hectáreas de aguacate en Gran Canaria]
-- [VERIFICAR: estatus oficial con Sanidad Vegetal]
+- [VERIFICAR: indicio en RTVC, 2025: más de 1.000 ha entre papaya, mango, aguacate y pitaya]
 - [VERIFICAR: horas de calma por comarca]
 
 ### `paginas/cultivos/almendro.md` (5)
@@ -394,16 +408,15 @@ Total: 275 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 
 ### `paginas/cultivos/citricos.md` (4)
 
-- [VERIFICAR: tablas 7.8.2.x del Anuario del MAPA e ISTAC]
+- [VERIFICAR: indicio en Anuario del MAPA 2019: unas 128 ha de naranjo en Canarias, lectura de columnas dudosa]
 - [VERIFICAR: hectáreas de cítricos por municipio]
 - [VERIFICAR: estatus en Canarias con Sanidad Vegetal del Gobierno de Canarias]
-- [VERIFICAR: avisos de sanidad vegetal de los Cabildos y del Gobierno de Canarias]
+- [VERIFICAR: indicio en la revista Granja del Cabildo de Gran Canaria, que estudia el minador en Canarias; faltan avisos actuales]
 
-### `paginas/cultivos/flores-ornamentales.md` (5)
+### `paginas/cultivos/flores-ornamentales.md` (4)
 
 - [VERIFICAR: superficie oficial reciente de flor y ornamental en el ISTAC]
 - [VERIFICAR: porcentaje de ornamentales a cielo abierto]
-- [VERIFICAR: altura y marco de plantación con fuente técnica]
 - [VERIFICAR: avisos de Agrocabildo o del Cabildo de La Palma sobre proteas]
 - [VERIFICAR: hectáreas de proteas por municipio]
 
@@ -411,7 +424,7 @@ Total: 275 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 
 - [VERIFICAR: porcentaje a cielo abierto]
 - [VERIFICAR: cubierta actual de la piña en El Golfo]
-- [VERIFICAR: ISTAC y tablas del Anuario del MAPA]
+- [VERIFICAR: indicio en ICIA: unas 436 ha de mango hacia 2003-2005]
 - [VERIFICAR: periodo de esa comparación]
 - [VERIFICAR: presencia en Canarias]
 - [VERIFICAR: fuente canaria]
@@ -430,17 +443,15 @@ Total: 275 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 - [VERIFICAR]
 - [VERIFICAR: metodología ISTAC]
 
-### `paginas/cultivos/platanera.md` (3)
+### `paginas/cultivos/platanera.md` (2)
 
-- [VERIFICAR: altura media en producción con fuente técnica]
 - [VERIFICAR: base de cálculo de Mercasa]
-- [VERIFICAR: porcentaje de platanera protegida por isla]
+- [VERIFICAR: indicio en Mapa de Cultivos 2017: 742 ha de invernadero, todos los cultivos, en La Palma]
 
-### `paginas/cultivos/tomate.md` (4)
+### `paginas/cultivos/tomate.md` (3)
 
 - [VERIFICAR: fuente exacta del porcentaje]
 - [VERIFICAR: FEDEX, ACETO o ISTAC]
-- [VERIFICAR: atribución al tomate]
 - [VERIFICAR]
 
 ### `paginas/cultivos/vina.md` (4)
@@ -448,35 +459,34 @@ Total: 275 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 - [VERIFICAR: documento no leído]
 - [VERIFICAR: métrica de cada fuente]
 - [VERIFICAR: cifra vigente]
-- [VERIFICAR: patógeno y fecha del aviso]
+- [VERIFICAR: indicio en La Voz de Lanzarote: mildiu detectado por el Cabildo, sin fecha]
 
 ### `paginas/el-hierro/frontera.md` (4)
 
 - [VERIFICAR: cota máxima de la piña]
-- [VERIFICAR: proporción actual bajo malla o invernadero]
+- [VERIFICAR: proporción actual bajo malla o invernadero; indicio en Público: invernaderos de platanera en El Golfo]
 - [VERIFICAR: papaya en El Golfo]
 - [VERIFICAR]
 
-### `paginas/fuerteventura/antigua.md` (2)
+### `paginas/fuerteventura/antigua.md` (3)
 
 - [VERIFICAR: cochinilla u otras en aloe majorero]
+- [VERIFICAR: indicio en La Voz de Lanzarote (2022): 93 ha de aloe en Canarias, la mayoría en Lanzarote]
 - [VERIFICAR]
 
 ### `paginas/fuerteventura/tuineje.md` (1)
 
 - [VERIFICAR]
 
-### `paginas/gran-canaria/agaete.md` (5)
+### `paginas/gran-canaria/agaete.md` (4)
 
-- [VERIFICAR: superficie cultivada total de Agaete según el ISTAC]
 - [VERIFICAR: altitudes]
 - [VERIFICAR: avisos de sanidad vegetal del Gobierno de Canarias sobre cítricos]
 - [VERIFICAR: hectáreas por cultivo]
 - [VERIFICAR: datos de viento y precipitación]
 
-### `paginas/gran-canaria/arucas.md` (3)
+### `paginas/gran-canaria/arucas.md` (2)
 
-- [VERIFICAR: hectáreas cultivadas de Arucas en el ISTAC]
 - [VERIFICAR: porcentaje de platanera bajo malla en Arucas]
 - [VERIFICAR: hectáreas por cultivo en Arucas]
 
@@ -487,10 +497,10 @@ Total: 275 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 
 ### `paginas/gran-canaria/la-aldea-de-san-nicolas.md` (4)
 
-- [VERIFICAR: unidad, probablemente porcentaje de suelo agrícola cultivado]
+- [VERIFICAR: indicio en COAG, enero de 2025: lo da en «hectáreas», unidad dudosa]
 - [VERIFICAR: hectáreas por cultivo]
 - [VERIFICAR: porcentaje al aire libre]
-- [VERIFICAR: precipitación media]
+- [VERIFICAR: indicio en AEMET vía embalses.net: 129,6 mm en 2024-2025; falta la media]
 
 ### `paginas/gran-canaria/mogan.md` (2)
 
@@ -500,7 +510,7 @@ Total: 275 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 ### `paginas/gran-canaria/moya.md` (4)
 
 - [VERIFICAR: épocas de siembra y arranque de la papa en Moya y Fontanales]
-- [VERIFICAR: época de los avisos y comarca de Moya]
+- [VERIFICAR: avisos de mildiu en Gran Canaria]
 - [VERIFICAR: superficie de platanera en la costa de Moya]
 - [VERIFICAR: dato climático de Fontanales]
 
@@ -516,24 +526,22 @@ Total: 275 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 - [VERIFICAR: porcentaje de platanera bajo malla en Guía]
 - [VERIFICAR: sistema de cultivo de la papaya en Guía]
 
-### `paginas/gran-canaria/telde.md` (5)
+### `paginas/gran-canaria/telde.md` (4)
 
-- [VERIFICAR: superficie cultivada actual en el ISTAC]
-- [VERIFICAR: unidad del valor 36,8]
+- [VERIFICAR: indicio en COAG Canarias, enero de 2025: da 36,8 «hectáreas», unidad imposible]
 - [VERIFICAR: fuente del porcentaje]
 - [VERIFICAR: plagas de los cítricos de Telde]
 - [VERIFICAR: sistema de cultivo de la papaya en Telde]
 
-### `paginas/gran-canaria/teror.md` (4)
+### `paginas/gran-canaria/teror.md` (3)
 
-- [VERIFICAR: precipitación media anual de Teror]
+- [VERIFICAR: indicio en el IGN: 700–1.000 mm en medianías del norte]
 - [VERIFICAR: sistema de cultivo de las flores de Teror]
 - [VERIFICAR: superficie de frutales en Teror]
-- [VERIFICAR: hectáreas cultivadas de Teror, serie municipal del ISTAC]
 
 ### `paginas/gran-canaria/valsequillo.md` (5)
 
-- [VERIFICAR: sistema de cultivo y hectáreas de la fresa de Valsequillo]
+- [VERIFICAR: sistema de cultivo de la fresa de Valsequillo]
 - [VERIFICAR: plagas de la fresa en Gran Canaria]
 - [VERIFICAR: hectáreas de almendro, cítricos y frutales en Valsequillo]
 - [VERIFICAR: incidencia en el municipio]
@@ -541,7 +549,7 @@ Total: 275 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 
 ### `paginas/gran-canaria/vega-de-san-mateo.md` (2)
 
-- [VERIFICAR: calendario de avisos de mildiu en papa para las medianías de Gran Canaria e incidencia en San Mateo]
+- [VERIFICAR: avisos de mildiu en Gran Canaria e incidencia en San Mateo]
 - [VERIFICAR: hectáreas de frutales en San Mateo y plagas de manzano y peral en Gran Canaria]
 
 ### `paginas/islas/el-hierro.md` (2)
@@ -568,13 +576,12 @@ Total: 275 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 
 - [VERIFICAR: desglose de platanera protegida en La Palma; el dato canario es un 35 %]
 
-### `paginas/islas/lanzarote.md` (5)
+### `paginas/islas/lanzarote.md` (4)
 
-- [VERIFICAR: sobre 3.872 ha sale la mitad]
-- [VERIFICAR: superficie actual]
+- [VERIFICAR: ha actuales de papa]
 - [VERIFICAR: superficie agrícola de Arrecife]
 - [VERIFICAR: plagas del aloe]
-- [VERIFICAR: patógeno y fecha]
+- [VERIFICAR: patógeno]
 
 ### `paginas/islas/tenerife.md` (3)
 
@@ -593,7 +600,7 @@ Total: 275 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 
 - [VERIFICAR: hectáreas por cultivo]
 - [VERIFICAR: superficie de platanera y frutales]
-- [VERIFICAR: especies]
+- [VERIFICAR: indicio en la AEAT, índices del IRPF: aguacate y mango en el municipio]
 - [VERIFICAR]
 - [VERIFICAR: Canarias]
 - [VERIFICAR: épocas de riesgo en La Gomera]
@@ -608,7 +615,7 @@ Total: 275 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 
 ### `paginas/la-palma/barlovento.md` (4)
 
-- [VERIFICAR: aviso o fuente local de mildiu de la papa en Barlovento]
+- [VERIFICAR: indicio en Agrocabildo (Cabildo de Tenerife): enfermedad más grave de la papa en Canarias; sin aviso local de La Palma]
 - [VERIFICAR: superficie de platanera de Barlovento en el Mapa de Cultivos]
 - [VERIFICAR: proporción de platanera bajo malla en Barlovento]
 - [VERIFICAR: hectáreas de viña en Barlovento]
@@ -626,16 +633,15 @@ Total: 275 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 - [VERIFICAR: hectáreas y localización en el Mapa de Cultivos 2022]
 - [VERIFICAR: superficie protegida en Breña Baja]
 
-### `paginas/la-palma/el-paso.md` (8)
+### `paginas/la-palma/el-paso.md` (7)
 
-- [VERIFICAR: hectáreas de viña del municipio]
 - [VERIFICAR: hectáreas de aguacate actuales]
-- [VERIFICAR: plagas y carencias documentadas del almendro en el municipio]
+- [VERIFICAR: indicio en RTVC: pulgón negro en almendros de la isla]
 - [VERIFICAR: superficie municipal tras la erupción]
-- [VERIFICAR: frecuencia del desborde del alisio sobre El Paso]
+- [VERIFICAR: frecuencia; visitlapalma.es solo dice «a veces»]
 - [VERIFICAR: superficie en el municipio]
 - [VERIFICAR: superficie]
-- [VERIFICAR: altitud del casco]
+- [VERIFICAR: indicio en Wikipedia: 644 m]
 
 ### `paginas/la-palma/fuencaliente.md` (4)
 
@@ -648,48 +654,41 @@ Total: 275 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 
 - [VERIFICAR: superficie de platanera de Garafía en el Mapa de Cultivos]
 - [VERIFICAR: hectáreas de viña en Garafía]
-- [VERIFICAR: plagas del almendro en Garafía]
+- [VERIFICAR: indicio en RTVC: pulgón negro en almendros de la isla]
 
-### `paginas/la-palma/los-llanos-de-aridane.md` (8)
+### `paginas/la-palma/los-llanos-de-aridane.md` (4)
 
 - [VERIFICAR: intensidad de las rachas en la costa de Puerto Naos]
 - [VERIFICAR: proporción de platanera bajo malla en el municipio]
-- [VERIFICAR: estado actual de las restricciones]
 - [VERIFICAR: hectáreas de aguacate 2022]
-- [VERIFICAR: superficie]
-- [VERIFICAR: fuente técnica canaria]
 - [VERIFICAR: proporción exacta]
-- [VERIFICAR: restricciones vigentes por CO2 en Puerto Naos y La Bombilla]
 
 ### `paginas/la-palma/puntagorda.md` (6)
 
-- [VERIFICAR: plagas y carencias documentadas del almendro en Puntagorda]
+- [VERIFICAR: indicio en RTVC: pulgón negro en almendros de la isla]
 - [VERIFICAR: hectáreas]
-- [VERIFICAR: superficie exacta]
-- [VERIFICAR: barrancos del término]
+- [VERIFICAR: indicio en Wikipedia: 31,10 km²]
+- [VERIFICAR: indicio en Wikipedia: son sus límites norte y sur]
 - [VERIFICAR: estructura de la propiedad]
 - [VERIFICAR: régimen de viento por zona agrícola]
 
 ### `paginas/la-palma/puntallana.md` (1)
 
-- [VERIFICAR: topónimos agrícolas orientativos]
+- [VERIFICAR: indicio en Wikipedia: El Granel y Tenagua son barrios del municipio; Bajamar–Martín Luis es llano costero con platanera]
 
 ### `paginas/la-palma/san-andres-y-sauces.md` (2)
 
-- [VERIFICAR: fuente local sobre hongos foliares en platanera; la Sigatoka no estaba presente en Canarias según el ICIA en 2002]
+- [VERIFICAR: fuente local sobre hongos foliares en platanera; indicio en El Independiente (2019): Canarias sigue libre de Sigatoka]
 - [VERIFICAR: proporción de platanera al aire libre con cortavientos en el municipio]
 
-### `paginas/la-palma/santa-cruz-de-la-palma.md` (3)
+### `paginas/la-palma/santa-cruz-de-la-palma.md` (2)
 
-- [VERIFICAR: superficie municipal exacta]
 - [VERIFICAR: fincas plataneras de Mirca con agua propia]
-- [VERIFICAR: viña en Velhoco y Mirca]
+- [VERIFICAR: indicio en Guía Peñín: bodega Agrícola Velhoco; sin superficie de viña]
 
-### `paginas/la-palma/tazacorte.md` (7)
+### `paginas/la-palma/tazacorte.md` (5)
 
-- [VERIFICAR: superficie exacta del municipio]
 - [VERIFICAR: total agrícola 2022 en el PDF del Mapa de Cultivos]
-- [VERIFICAR: fuente canaria sobre araña roja en platanera]
 - [VERIFICAR: régimen de viento en la costa de Tazacorte]
 - [VERIFICAR: proporción bajo malla o invernadero en La Palma y en Tazacorte]
 - [VERIFICAR: proporción]
@@ -697,8 +696,8 @@ Total: 275 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 
 ### `paginas/la-palma/tijarafe.md` (5)
 
-- [VERIFICAR: pagos plataneros de la costa]
-- [VERIFICAR: barrancos citados]
+- [VERIFICAR: indicio en las rutas de senderos del Ayuntamiento de Tijarafe: plataneras en el camino El Jesús–El Time y Porís de Candelaria al pie del Jurado]
+- [VERIFICAR: Tinizara figura como pago con ermita; confirmar si hay barranco con ese nombre]
 - [VERIFICAR: régimen de viento por zona agrícola]
 - [VERIFICAR: hectáreas]
 - [VERIFICAR: hectáreas de viña en Tinizara]
@@ -710,7 +709,7 @@ Total: 275 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 
 ### `paginas/lanzarote/haria.md` (4)
 
-- [VERIFICAR: altitudes]
+- [VERIFICAR: indicio en Hispanopedia: Haría a 270 m]
 - [VERIFICAR: hectáreas de viña en Ye]
 - [VERIFICAR: Mapa de Cultivos de Canarias, junio de 2024]
 - [VERIFICAR]
@@ -719,125 +718,100 @@ Total: 275 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 
 - [VERIFICAR]
 - [VERIFICAR: hectáreas de viña en San Bartolomé]
-- [VERIFICAR: patógeno y fecha]
+- [VERIFICAR: patógeno]
 
 ### `paginas/lanzarote/teguise.md` (4)
 
 - [VERIFICAR: altitud de los bancales de Los Valles]
 - [VERIFICAR: hectáreas de viña de Teguise en el Mapa de Cultivos]
 - [VERIFICAR: superficie cultivada en la costa de Teguise]
-- [VERIFICAR: hongo y fecha del aviso]
+- [VERIFICAR: hongo]
 
-### `paginas/lanzarote/tias.md` (4)
+### `paginas/lanzarote/tias.md` (2)
 
-- [VERIFICAR: patógeno y fecha]
-- [VERIFICAR]
-- [VERIFICAR: fechas de vendimia en la DO Lanzarote]
+- [VERIFICAR: patógeno]
 - [VERIFICAR: altitudes]
 
-### `paginas/lanzarote/tinajo.md` (3)
+### `paginas/lanzarote/tinajo.md` (2)
 
 - [VERIFICAR: altitud de las zonas de viña]
-- [VERIFICAR: patógeno y año del aviso]
-- [VERIFICAR: avisos de sanidad vegetal del Cabildo de Lanzarote]
+- [VERIFICAR: patógeno]
 
 ### `paginas/lanzarote/yaiza.md` (2)
 
 - [VERIFICAR: cotas de las parcelas de Uga y La Geria]
-- [VERIFICAR: identificación y fecha del hongo]
+- [VERIFICAR: identificación del hongo]
 
-### `paginas/tenerife/adeje.md` (2)
+### `paginas/tenerife/adeje.md` (1)
 
 - [VERIFICAR: porcentaje de platanera cubierta en Adeje]
-- [VERIFICAR: si Adeje está dentro]
 
-### `paginas/tenerife/arico.md` (3)
+### `paginas/tenerife/arico.md` (1)
 
-- [VERIFICAR: proporción de pitaya bajo malla en Arico]
 - [VERIFICAR: presencia documentada en Arico]
-- [VERIFICAR: municipios incluidos]
 
-### `paginas/tenerife/arona.md` (2)
+### `paginas/tenerife/arona.md` (1)
 
 - [VERIFICAR: superficie de platanera al aire libre en Arona]
-- [VERIFICAR: si la zona demarcada toca Arona]
 
-### `paginas/tenerife/buenavista-del-norte.md` (3)
+### `paginas/tenerife/buenavista-del-norte.md` (2)
 
 - [VERIFICAR: superficie de viña y papa en El Palmar, Las Portelas y Teno Alto]
 - [VERIFICAR: altura media en la zona]
-- [VERIFICAR: municipios de la zona demarcada]
 
-### `paginas/tenerife/candelaria.md` (3)
+### `paginas/tenerife/candelaria.md` (2)
 
 - [VERIFICAR: calendario de siembra de papa en Candelaria]
-- [VERIFICAR: si Candelaria está en la zona demarcada]
 - [VERIFICAR: plagas de cítricos en el Valle de Güímar]
 
-### `paginas/tenerife/el-sauzal.md` (3)
+### `paginas/tenerife/el-sauzal.md` (2)
 
 - [VERIFICAR: año y comarcas de ese aviso]
-- [VERIFICAR: si El Sauzal está en la zona demarcada]
 - [VERIFICAR: superficie de platanera en El Sauzal]
 
-### `paginas/tenerife/garachico.md` (5)
+### `paginas/tenerife/garachico.md` (3)
 
 - [VERIFICAR: cotas]
 - [VERIFICAR: épocas de riesgo en platanera del norte de Tenerife]
-- [VERIFICAR: época del aviso]
-- [VERIFICAR: si Garachico está en la zona demarcada]
 - [VERIFICAR: porcentaje de platanera bajo malla en Garachico]
 
-### `paginas/tenerife/granadilla-de-abona.md` (2)
-
-- [VERIFICAR: fechas de siembra en Charco del Pino y Cruz de Tea]
-- [VERIFICAR: si Granadilla está en la zona demarcada]
-
-### `paginas/tenerife/guia-de-isora.md` (2)
+### `paginas/tenerife/guia-de-isora.md` (1)
 
 - [VERIFICAR: porcentaje bajo cubierta en Guía de Isora]
-- [VERIFICAR: si Guía de Isora está en la zona demarcada]
 
-### `paginas/tenerife/guimar.md` (4)
+### `paginas/tenerife/guimar.md` (3)
 
 - [VERIFICAR: hectáreas de viña-papa en la ficha de Güímar]
-- [VERIFICAR: si el Valle de Güímar está en la zona demarcada]
 - [VERIFICAR: horario de calma habitual en las medianías de Güímar]
 - [VERIFICAR: proporción de platanera bajo cubierta en la costa de Güímar]
 
-### `paginas/tenerife/icod-de-los-vinos.md` (4)
+### `paginas/tenerife/icod-de-los-vinos.md` (3)
 
 - [VERIFICAR: cotas por pago]
 - [VERIFICAR: hectáreas de viña en el municipio]
-- [VERIFICAR: si Icod está en la zona demarcada]
 - [VERIFICAR: porcentaje bajo malla en Icod]
 
-### `paginas/tenerife/la-matanza-de-acentejo.md` (4)
+### `paginas/tenerife/la-matanza-de-acentejo.md` (3)
 
 - [VERIFICAR: cultivos presentes en la costa del municipio]
 - [VERIFICAR: ha de viña de La Matanza en el Mapa de Cultivos]
 - [VERIFICAR: superficie de castaño, aguacate y huerta en la zona alta]
-- [VERIFICAR: si La Matanza está en la zona demarcada]
 
-### `paginas/tenerife/la-orotava.md` (4)
+### `paginas/tenerife/la-orotava.md` (2)
 
-- [VERIFICAR: cotas por pago]
 - [VERIFICAR: proporción en cordón trenzado]
-- [VERIFICAR: si el Valle entra en la zona demarcada]
 - [VERIFICAR: porcentaje bajo malla en La Orotava]
 
-### `paginas/tenerife/la-victoria-de-acentejo.md` (3)
+### `paginas/tenerife/la-victoria-de-acentejo.md` (2)
 
 - [VERIFICAR: hectáreas de viña en la ficha del Mapa de Cultivos de La Victoria de Acentejo]
-- [VERIFICAR: si La Victoria está dentro de la zona demarcada]
 - [VERIFICAR: superficie de platanera en La Victoria]
 
-### `paginas/tenerife/los-realejos.md` (4)
+### `paginas/tenerife/los-realejos.md` (3)
 
 - [VERIFICAR: cotas por pago]
 - [VERIFICAR: hectáreas de platanera en la costa de Los Realejos]
 - [VERIFICAR: proporción bajo malla]
-- [VERIFICAR: si Los Realejos está en la zona demarcada]
 
 ### `paginas/tenerife/los-silos.md` (3)
 
@@ -850,35 +824,32 @@ Total: 275 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 - [VERIFICAR: proporción actual bajo malla o invernadero en la costa de La Laguna]
 - [VERIFICAR: superficie cultivada en el Anaga lagunero]
 
-### `paginas/tenerife/san-miguel-de-abona.md` (4)
+### `paginas/tenerife/san-miguel-de-abona.md` (3)
 
 - [VERIFICAR: cotas agrícolas del municipio]
 - [VERIFICAR: pagos agrícolas de San Miguel]
 - [VERIFICAR: superficie y cultivos de invernadero en la costa]
-- [VERIFICAR: si San Miguel está dentro]
 
 ### `paginas/tenerife/santa-ursula.md` (2)
 
 - [VERIFICAR: superficie de platanera y frutales en la costa de Santa Úrsula]
 - [VERIFICAR: ficha del Mapa de Cultivos de Santa Úrsula]
 
-### `paginas/tenerife/tacoronte.md` (5)
+### `paginas/tenerife/tacoronte.md` (4)
 
 - [VERIFICAR: superficie de viña de Tacoronte en el Mapa de Cultivos]
 - [VERIFICAR: sistemas de conducción predominantes en la viña de Tacoronte]
 - [VERIFICAR: altura]
 - [VERIFICAR: superficie]
-- [VERIFICAR: municipios de la zona demarcada]
 
 ### `paginas/tenerife/tegueste.md` (2)
 
 - [VERIFICAR: hectáreas actuales de viña en Tegueste en el Mapa de Cultivos]
 - [VERIFICAR: cultivo protegido en el municipio]
 
-### `paginas/tenerife/vilaflor-de-chasna.md` (4)
+### `paginas/tenerife/vilaflor-de-chasna.md` (3)
 
 - [VERIFICAR: rendimiento del T50 por encima de 1.400 m con depósito lleno]
-- [VERIFICAR: si Vilaflor está en la zona demarcada]
 - [VERIFICAR: régimen de viento local en Vilaflor]
 - [VERIFICAR: daños documentados en Tenerife]
 

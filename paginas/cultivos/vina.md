@@ -36,7 +36,7 @@ Ese reparto importa porque la base de Agrodrón Canarias está en Santa Cruz de 
 
 El oídio figura como enfermedad endémica en Canarias en la guía de la viña de Agrocabildo (mayo de 2020). El Cabildo de Tenerife publica avisos semanales por comarca, con ficheros separados para mildiu, oídio y botritis (datos.tenerife.es).
 
-Ejemplos: riesgo alto de oídio en zonas bajas entre el 30 de abril y el 7 de mayo (hacia 2024); a finales de julio, oídio elevado, mildiu medio y atención a la botritis en envero (newsletter del 31 de julio, sin año).
+Ejemplos: riesgo alto de oídio en zonas bajas entre el 22 y el 28 de abril de 2026; a finales de julio, oídio elevado, mildiu medio y atención a la botritis en envero (newsletter del 31 de julio, sin año).
 
 En La Palma el Consejo Regulador reconoció mildiu y oídio en la campaña 2025 (El Time). En Lanzarote el Consejo Regulador avisó de un hongo en varias fincas sin que la fuente lo identifique [VERIFICAR: indicio en La Voz de Lanzarote: mildiu detectado por el Cabildo, sin fecha].
 

@@ -24,7 +24,7 @@ Por encima de los 600 metros entra el mar de nubes del alisio y la humedad se qu
 
 ## Mildiu, oídio y botritis: lo que marcan los avisos del Cabildo
 
-El Cabildo de Tenerife publica avisos de la viña por comarca para mildiu, oídio y botritis, actualizados a diario (datos.tenerife.es). En una campaña reciente hubo riesgo alto de oídio en las zonas bajas de la isla entre el 30 de abril y el 7 de mayo.
+El Cabildo de Tenerife publica avisos de la viña por comarca para mildiu, oídio y botritis, actualizados a diario (datos.tenerife.es). En una campaña reciente hubo riesgo alto de oídio en las zonas bajas de la isla entre el 22 y el 28 de abril de 2026.
 
 El oídio es endémico en Canarias (guía de la viña de Agrocabildo, 2020), y a finales de julio el boletín de Agrocabildo mantenía riesgo elevado de oídio, medio de mildiu y atención a la botritis en envero.
 

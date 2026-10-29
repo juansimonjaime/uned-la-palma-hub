@@ -30,7 +30,7 @@ La niebla que baja de Anaga mantiene la humedad alta pese a estar abrigado y aco
 
 ## ¿Qué hace el dron en la viña y qué queda para el Cabildo?
 
-El Cabildo publica avisos de la viña por comarca para mildiu, oídio y botritis (datos.tenerife.es); en una campaña reciente hubo riesgo alto de oídio en zonas bajas del 30 de abril al 7 de mayo, y a finales de julio el boletín de Agrocabildo mantenía oídio elevado, mildiu medio y botritis en envero. Ese frente lo llevan sanidad vegetal y tu técnico.
+El Cabildo publica avisos de la viña por comarca para mildiu, oídio y botritis (datos.tenerife.es); en abril de 2026 hubo riesgo alto de oídio en zonas bajas del 22 al 28 de abril de 2026, y a finales de julio el boletín de Agrocabildo mantenía oídio elevado, mildiu medio y botritis en envero. Ese frente lo llevan sanidad vegetal y tu técnico.
 
 El dron pulveriza abonos foliares, bioestimulantes y correctores sobre la cepa, pensados para el vigor de la parra en brotación o tras la vendimia. Como el equipo sale de La Palma según disponibilidad, lo razonable es cerrar fechas con el calendario de la viña, no llamar la semana antes.
 

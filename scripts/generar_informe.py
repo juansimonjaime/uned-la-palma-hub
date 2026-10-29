@@ -156,7 +156,19 @@ def main():
       "- Ninguna página da precios, clientes, casos, cifras de ahorro ni promete plazos o resultados.\n"
       "- Donde el encargo y los datos discrepaban (Tazacorte, Tinajo, Villa de Mazo, Fuencaliente), mandaron los datos y así consta en la página.\n")
 
-    w("## 12. Todas las marcas [VERIFICAR] por página\n")
+    w("## 12. Segunda pasada de verificación\n")
+    w("Cinco verificadores revisaron las marcas [VERIFICAR] con búsquedas web (la red de la sesión sigue bloqueando gobiernodecanarias.org, ISTAC, BOE y DJI, así que no se pudieron abrir las tablas oficiales). Cada comprobación, con su resultado y su fuente, está en `data/control/verificacion_2a_pasada.md`, y lo confirmado se ha anotado en `data/notas/*.md`. Correcciones que cambian el contenido:\n"
+      "- Tazacorte mide 12,04 km² tras las fajanas de 2021, no 11,37.\n"
+      "- Puerto Naos y La Bombilla seguían con CO2 residual y vuelta por fases en mayo de 2026.\n"
+      "- Telde: 716,6 ha cultivadas (ISTAC, hasta 2017), no \"un millar\".\n"
+      "- Los avisos de mildiu de 2024 citados en Moya y Vega de San Mateo eran del Cabildo de Tenerife; ya no se atribuyen a Gran Canaria.\n"
+      "- Lanzarote: la viña ocupa el 75,6 % de lo cultivado en 2024 (no la mitad), y el mildiu sí está documentado en la isla desde 2009.\n"
+      "- Arico: la pitaya va sobre todo bajo cubierta. La Orotava: papa entre 600 y 1.100 m.\n"
+      "- Filoxera: la zona demarcada en 2026 abarca la DO Tacoronte-Acentejo; el resto de DO de Tenerife queda fuera.\n"
+      "- Aviso de oídio: la fecha citada en 15 páginas (\"30 de abril–7 de mayo\") no aparece en ninguna fuente; se sustituye por el aviso verificado de riesgo alto del 22 al 28 de abril de 2026.\n"
+      "- Platanera: la altura pasa a unos 2,25–2,75 m (hoja del MAPA, 1967, fuente antigua: conviene revisarla con experiencia de campo).\n"
+      "\nPara cerrar la mayoría de lo pendiente (hectáreas por municipio, platanera bajo malla, cotas) hay que permitir www.gobiernodecanarias.org y datos.canarias.es en la red de la sesión, o descargar a mano el Mapa de Cultivos de Canarias y la serie municipal del ISTAC.\n")
+    w("## 13. Todas las marcas [VERIFICAR] por página\n")
     w(f"Total: {total_verificar} marcas en el cuerpo de las páginas (las del JSON-LD repiten las de la FAQ). Hay que confirmar el dato o pedir que se quite la frase.\n")
     for rel in paginas:
         fm, pal, ver = paginas[rel]

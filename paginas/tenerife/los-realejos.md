@@ -46,7 +46,7 @@ Aquí el dron espera ventana sin niebla ni racha; cuando la hay, el bancal de se
 
 ## Dron agrícola en Los Realejos: qué se trata y qué no
 
-Se aplica lo foliar al aire libre: abonos, bioestimulantes y correctores sobre papa, viña, platanera y aguacate, a dosis de etiqueta, para el vigor tras calor, viento o cosecha. Los avisos del Cabildo por comarca de mildiu, oídio y botritis (datos.tenerife.es), con riesgo alto de oídio en zonas bajas del 30 de abril al 7 de mayo, son manejo del viticultor, no del dron.
+Se aplica lo foliar al aire libre: abonos, bioestimulantes y correctores sobre papa, viña, platanera y aguacate, a dosis de etiqueta, para el vigor tras calor, viento o cosecha. Los avisos del Cabildo por comarca de mildiu, oídio y botritis (datos.tenerife.es), con riesgo alto de oídio en zonas bajas del 22 al 28 de abril de 2026, son manejo del viticultor, no del dron.
 
 El dron tampoco va contra la polilla guatemalteca (tubérculo), el picudo (cormo), los hongos de la madera que Agrocabildo estudió en el Valle en 2024 (tronco) ni la filoxera detectada en Tenerife en 2025 (zona demarcada en la DO Tacoronte-Acentejo, Vinetur 2026), que es de raíz. Ni vuela sobre nada bajo malla o invernadero.
 

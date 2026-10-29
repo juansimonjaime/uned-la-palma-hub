@@ -24,7 +24,7 @@ La ficha recoge la asociación viña-papa en una tabla parcialmente ilegible en 
 
 ## Oídio, mildiu y botritis: lo que recogen los avisos del Cabildo
 
-El Cabildo publica avisos de mildiu, oídio y botritis de la viña por comarca, actualizados a diario (datos.tenerife.es). Entre el 30 de abril y el 7 de mayo de un año reciente dio riesgo alto de oídio en zonas bajas; el valle, abierto al este, tiene sus propios boletines.
+El Cabildo publica avisos de mildiu, oídio y botritis de la viña por comarca, actualizados a diario (datos.tenerife.es). Entre el 22 y el 28 de abril de 2026 de un año reciente dio riesgo alto de oídio en zonas bajas; el valle, abierto al este, tiene sus propios boletines.
 
 Desde 2025 hay otro frente: la filoxera, detectada en Tenerife, con 16 positivos sobre 5.429 prospecciones en 2026 (AtlánticoHoy); la zona demarcada abarca la DO Tacoronte-Acentejo, no el Valle de Güímar (Vinetur, 2026). El dron no la combate; sí reduce entradas de maquinaria en la viña.
 

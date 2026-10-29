@@ -32,7 +32,7 @@ Un enarenado de papa es un cultivo bajo y uniforme que el dron cubre sin pisar l
 
 Los Frontones es el viñedo más alto de Europa según AtlánticoHoy, dentro de la DOP Abona (795 hectáreas y 1.467 viticultores según su Consejo Regulador). Parras bajas sobre jable, parcelas pequeñas y mucho sol.
 
-El Cabildo publica avisos semanales de mildiu, oídio y botritis por comarca (datos.tenerife.es); a 1.400 metros el ciclo va más tarde que en las zonas bajas, donde dio riesgo alto de oídio entre el 30 de abril y el 7 de mayo de un año reciente. El dron trata el bancal de arriba sin subir la mochila.
+El Cabildo publica avisos semanales de mildiu, oídio y botritis por comarca (datos.tenerife.es); a 1.400 metros el ciclo va más tarde que en las zonas bajas, donde dio riesgo alto de oídio entre el 22 y el 28 de abril de 2026. El dron trata el bancal de arriba sin subir la mochila.
 
 Y la filoxera, detectada en Tenerife en 2025, con 16 positivos en 5.429 prospecciones en 2026 (AtlánticoHoy) y zona demarcada en la DO Tacoronte-Acentejo, no en Vilaflor (Vinetur, 2026): el dron no la elimina, pero evita mover maquinaria entre viñas.
 
