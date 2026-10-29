@@ -1,9 +1,9 @@
 ---
 title: "Dron agrícola para aguacate en Canarias | Agrodrón"
 slug: "dron-agricola-aguacate"
-meta_description: "Dron agrícola para aguacate en Canarias: árboles altos, ácaro cristalino, cochinilla y trips. Base en La Palma; otras islas con desplazamiento."
+meta_description: "Dron agrícola para aguacate en Canarias: abonado foliar y bioestimulantes por encima de la copa del árbol. Base en La Palma; resto con desplazamiento."
 keyword: "dron agrícola para aguacate"
-keywords_secundarias: "fumigar aguacateros con dron, tratamiento con drones en aguacate, dron fitosanitario aguacate La Palma, pulverización aérea en aguacate, ácaro cristalino aguacate Canarias"
+keywords_secundarias: "pulverización con dron en aguacateros, tratamiento con drones en aguacate, abonado foliar con dron aguacate La Palma, dron pulverizador aguacate, bioestimulantes con dron en aguacate Canarias"
 parent: ""
 nivel: "cultivo"
 isla: ""
@@ -12,7 +12,7 @@ municipio: ""
 
 # Dron agrícola para aguacate en Canarias: llegar arriba, donde está el ácaro cristalino
 
-El ácaro o araña cristalina (Oligonychus perseae) entró en La Palma en 2005, pasó a Tenerife en 2006 y es la plaga principal del aguacate canario: el Cabildo de Tenerife la encontró en el 81,5 % de las parcelas que encuestó (Agrocabildo). Se cría por toda la copa, y en un árbol de varios metros la parte alta es la que peor se moja desde el suelo. Un dron agrícola para aguacate pulveriza desde encima de la copa, justo donde la mochila se queda corta.
+El ácaro o araña cristalina (Oligonychus perseae) entró en La Palma en 2005, pasó a Tenerife en 2006 y es la plaga principal del aguacate canario: el Cabildo de Tenerife la encontró en el 81,5 % de las parcelas que encuestó (Agrocabildo). Se cría por toda la copa, y en un árbol de varios metros la parte alta es la que peor se moja. Un dron agrícola para aguacate pulveriza desde encima de la copa, justo donde la mochila se queda corta, y ahí deja el abono foliar.
 
 [IMAGEN: Aguacateros de porte alto en bancales de medianías de Breña Alta, con el mar de nubes del alisio sobre la Cumbre Nueva al fondo | alt: Finca de aguacate en bancales de Breña Alta, La Palma, tratada con dron agrícola]
 
@@ -36,20 +36,22 @@ En Tenerife el Cabildo contaba 694 ha hacia 2021 y 790 ha en 2022, el doble que 
 
 Además del ácaro, las fuentes canarias recogen:
 
-- Cochinilla del aguacate (Nipaecoccus nipae): en el 25,9 % de las parcelas encuestadas en Tenerife (Agrocabildo). En 2025 se autorizó de forma excepcional un insecticida contra ella (Infoagro); el sector habla de pérdidas en torno al 30 % por cochinilla y mosca blanca (Agrolatam).
+- Cochinilla del aguacate (Nipaecoccus nipae): en el 25,9 % de las parcelas encuestadas en Tenerife (Agrocabildo). En 2025 hubo una autorización excepcional de un producto contra ella (Infoagro); el sector habla de pérdidas en torno al 30 % por cochinilla y mosca blanca (Agrolatam).
 - Trips (Heliothrips haemorrhoidalis): en el 14,8 % de las parcelas de la misma encuesta.
 - Hongos Botryosphaeriaceae (Neofusicoccum parvum) en madera y ramas de aguacate, mango y papaya (ICIA).
 - Phytophthora cinnamomi: podredumbre de raíz, detectada en Canarias en 1975 (revista Granja, Cabildo de Gran Canaria). Es un problema de suelo.
 
 Una fuente discrepa: una noticia de Vozpopuli afirma que Canarias está libre del ácaro del aguacate, frente al ICIA y al Canal Agrario de La Palma, que lo dan por presente en todas las zonas productoras [VERIFICAR: estatus oficial con Sanidad Vegetal].
 
+Nada de eso lo resuelve un dron: el control del ácaro o de la cochinilla es de Sanidad Vegetal del Gobierno de Canarias y de Agrocabildo. El dron aporta otra cosa: abonado foliar, correctores de carencias y bioestimulantes por toda la copa, pensados para el vigor del árbol tras una ola de calor, una poda fuerte o una semana de viento. Finalidad del producto, no resultado prometido.
+
 ## Dron agrícola para aguacate: cómo se organiza un tratamiento en bancales
 
 Primero recogemos los datos de la finca: municipio, hectáreas, altura de los árboles, accesos y qué hay alrededor. Con eso se planifica el vuelo sobre el plano. El día del tratamiento se mide el viento: en la vertiente este de La Palma el mar de nubes baja a las medianías y la ventana buena suele ser la mañana [VERIFICAR: horas de calma por comarca].
 
-La dosis es la de la etiqueta y del plan de aplicación, y cada tratamiento queda registrado. En aguacate solo pueden volar productos cuya autorización incluya expresamente la aplicación aérea (anexo VI del Real Decreto 1311/2012). El piloto opera en la categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el análisis de riesgo PDRA-S01.
+La dosis es la de la etiqueta y cada aplicación queda registrada; solo van productos de uso permitido en el aguacate, sobre arbolado a cielo abierto. El piloto opera en la categoría específica de AESA/EASA (STS o PDRA-S01) y al planificar comprueba las zonas geográficas de UAS en el mapa de ENAIRE: lo que se vuela en las Breñas, con el aeropuerto cerca, no es lo mismo que en Tijarafe.
 
-Si la finca está en producción integrada (Orden de 18 de junio de 2012 del Gobierno de Canarias), el cuaderno de campo ya recoge casi todo lo que pide el plan.
+En producción integrada (Orden de 18 de junio de 2012 del Gobierno de Canarias), la aplicación se anota en el cuaderno de campo como una más.
 
 [IMAGEN: Detalle del envés de una hoja de aguacate con los nidos plateados del ácaro cristalino Oligonychus perseae | alt: Hoja de aguacate con daño de ácaro cristalino en una finca de La Palma]
 
@@ -69,17 +71,20 @@ En [Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), La Orotava y
 Pasa por encima del árbol y el aire de los rotores empuja la gota hacia abajo, entre las ramas. En copas muy cerradas y sin podar la cobertura interior es menor, y eso se habla antes contigo: no prometemos lo que la copa no deja pasar.
 
 ### ¿El dron sirve contra la Phytophthora de la raíz del aguacate?
-No. Phytophthora cinnamomi vive en el suelo y ataca la raíz; el dron trabaja sobre la copa. Para ese problema hay que mirar drenaje, portainjertos y tratamientos al suelo con tu técnico.
+No. Phytophthora cinnamomi vive en el suelo y ataca la raíz; el dron trabaja sobre la copa. Para ese problema hay que mirar drenaje, portainjertos y manejo del suelo con tu técnico.
 
 ### ¿Se puede tratar un aguacatero en bancal con pendiente fuerte?
 Sí, y es donde más sentido tiene. El T50 sigue el relieve con el radar, ajusta la velocidad a la pendiente y no necesita calle para el tractor. Hace falta un punto de despegue cerca y saber qué cables cruzan la finca.
 
-### ¿Qué producto se aplica contra el ácaro cristalino con dron?
-Solo los autorizados en aguacate cuya etiqueta incluya la aplicación aérea. La lista la fija el registro oficial de fitosanitarios, no nosotros; dinos la plaga y te decimos qué opciones hay.
+### ¿Sirve el dron contra el ácaro cristalino del aguacate?
+No. El control del ácaro lo marcan Sanidad Vegetal y Agrocabildo. El dron aplica abonos foliares, correctores y bioestimulantes de uso permitido en aguacate, pensados para el vigor del árbol tras el estrés, no para la plaga.
+
+### ¿Qué hace falta para contratar un tratamiento con dron en aguacate?
+Municipio, hectáreas, altura de los árboles, accesos, cables y producto a aplicar. Con eso planificamos el vuelo y te mandamos presupuesto.
 
 ## Cuéntanos tu finca de aguacate y pide presupuesto
 
-Dinos en qué municipio está, cuántas hectáreas, qué altura tienen los árboles y qué plaga te preocupa; el precio depende de eso y del producto. Te respondemos si el dron encaja y con un presupuesto para esa finca. Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y escríbenos; en La Palma sin desplazamiento, en Tenerife y Gran Canaria con desplazamiento y según disponibilidad.
+Dinos en qué municipio está, cuántas hectáreas, qué altura tienen los árboles y qué quieres aplicar; el precio depende de eso y del producto. Te respondemos si el dron encaja, con presupuesto para esa finca. Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y escríbenos; en La Palma sin desplazamiento, en Tenerife y Gran Canaria con desplazamiento y según disponibilidad.
 
 ```json
 {
@@ -87,9 +92,9 @@ Dinos en qué municipio está, cuántas hectáreas, qué altura tienen los árbo
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola para aguacate en Canarias",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 sobre aguacateros de porte alto en Canarias: tratamientos de copa frente a ácaro cristalino, cochinilla y trips en bancales de La Palma, Tenerife y Gran Canaria.",
+      "name": "Tratamientos agrícolas con dron para aguacate en Canarias",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización con dron DJI Agras T50 sobre aguacateros de porte alto en Canarias: abonado foliar, correctores de carencias y bioestimulantes por toda la copa, en bancales de La Palma, Tenerife y Gran Canaria.",
       "url": "https://agrodroncanarias.es/dron-agricola-aguacate/",
       "provider": {
         "@type": "LocalBusiness",
@@ -115,7 +120,7 @@ Dinos en qué municipio está, cuántas hectáreas, qué altura tienen los árbo
         {
           "@type": "Question",
           "name": "¿El dron sirve contra la Phytophthora de la raíz del aguacate?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. Phytophthora cinnamomi vive en el suelo y ataca la raíz; el dron trabaja sobre la copa. Para ese problema hay que mirar drenaje, portainjertos y tratamientos al suelo con tu técnico." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. Phytophthora cinnamomi vive en el suelo y ataca la raíz; el dron trabaja sobre la copa. Para ese problema hay que mirar drenaje, portainjertos y manejo del suelo con tu técnico." }
         },
         {
           "@type": "Question",
@@ -124,8 +129,13 @@ Dinos en qué municipio está, cuántas hectáreas, qué altura tienen los árbo
         },
         {
           "@type": "Question",
-          "name": "¿Qué producto se aplica contra el ácaro cristalino con dron?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Solo los autorizados en aguacate cuya etiqueta incluya la aplicación aérea. La lista la fija el registro oficial de fitosanitarios, no nosotros; dinos la plaga y te decimos qué opciones hay." }
+          "name": "¿Sirve el dron contra el ácaro cristalino del aguacate?",
+          "acceptedAnswer": { "@type": "Answer", "text": "No. El control del ácaro lo marcan Sanidad Vegetal y Agrocabildo. El dron aplica abonos foliares, correctores y bioestimulantes de uso permitido en aguacate, pensados para el vigor del árbol tras el estrés, no para la plaga." }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué hace falta para contratar un tratamiento con dron en aguacate?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Municipio, hectáreas, altura de los árboles, accesos, cables y producto a aplicar. Con eso planificamos el vuelo y te mandamos presupuesto." }
         }
       ]
     }

@@ -3,7 +3,7 @@ title: "Dron agrícola para tomate en Canarias | Agrodrón"
 slug: "dron-agricola-tomate"
 meta_description: "Dron agrícola para tomate en Canarias: bajo malla o invernadero no se trata desde el aire; al aire libre y en la finca, sí. Pide presupuesto a Agrodrón."
 keyword: "dron agrícola para tomate"
-keywords_secundarias: "fumigar tomate con dron, tratamiento de Tuta absoluta con dron, dron fitosanitario tomate al aire libre, pulverización aérea en tomate, dron para tomate de mercado local"
+keywords_secundarias: "pulverización con dron en tomate, abonado foliar con dron en tomate al aire libre, dron pulverizador para tomate, bioestimulantes con dron en tomate, dron para tomate de mercado local"
 parent: ""
 nivel: "cultivo"
 isla: ""
@@ -28,9 +28,9 @@ La base de Agrodrón Canarias está en Santa Cruz de La Palma; en Gran Canaria, 
 
 En Telde hay hortalizas y tomate en invernadero y al aire libre, en las vegas de Valle de los Nueve, Tecén, Jinámar y El Ejido, entre 100 y 400 m y con 130-300 mm de lluvia al año (GEVIC). En Candelaria la web municipal cuenta 56,8 ha de hortalizas con solo un 5 % bajo plástico, sobre todo tomate. Parcelas pequeñas, de vega o medianías, para mercado local.
 
-El tomate al aire libre va entutorado. Desde arriba el dron moja bien la parte alta y la cara superior de la hoja; la inferior, donde se refugia la mosca blanca, recibe menos. Pasa con cualquier pulverización desde arriba y se tiene en cuenta al elegir producto y volumen.
+El tomate al aire libre va entutorado. Desde arriba el dron moja bien la parte alta y la cara superior de la hoja; la inferior recibe menos. Pasa con cualquier pulverización desde arriba y se tiene en cuenta al elegir el foliar y el volumen de caldo.
 
-Lo segundo que encaja es el entorno de la finca: las parcelas descubiertas que rotan con el tomate. La guía de manejo integrado del Cabildo de Tenerife frente a la Tuta recomienda rotar con cucurbitáceas, y un calabacín al aire libre sí se trata con dron.
+Lo segundo que encaja es el entorno de la finca: las parcelas descubiertas que rotan con el tomate. La guía de manejo integrado del Cabildo de Tenerife frente a la Tuta recomienda rotar con cucurbitáceas, y a un calabacín al aire libre sí se le puede aplicar un foliar con dron.
 
 ## Cifras del tomate canario: pocas, viejas y con huecos
 
@@ -42,17 +42,17 @@ La campaña 2014-15 cerró con 63.000 t, un 82 % menos que las 352.000 t del añ
 
 La Tuta absoluta se detectó en Canarias en diciembre de 2008 con trampas de feromonas en todas las zonas tomateras; estaba en Gran Canaria, Tenerife y Fuerteventura (EPPO, 2009). En 2010 se le atribuyó la pérdida del 40 % de la producción canaria (consumer.es) y en el invierno de 2019 los productores de Tenerife y Gran Canaria la declararon fuera de control (Phytoma).
 
-El Cabildo de Gran Canaria destinó 300.000 euros a su control ecológico en la zafra 2024-25, sobre todo en tomate de mercado local. La larva mina hoja y fruto desde dentro: lo que haga un tratamiento foliar frente a ella lo dice la etiqueta del producto, no el medio que lo aplica.
+El Cabildo de Gran Canaria destinó 300.000 euros a su control ecológico en la zafra 2024-25, sobre todo en tomate de mercado local. La larva mina hoja y fruto desde dentro; su control va por las trampas y el manejo integrado que marcan los Cabildos, no por una pulverización con dron.
 
 La mosca blanca (Bemisia tabaci y Trialeurodes vaporariorum) transmite el ToCV, detectado en Tenerife y Gran Canaria desde 1997 (revista Granja, Cabildo de Gran Canaria). De ToBRFV y trips no hay dato canario leído [VERIFICAR].
 
 ## Dron agrícola para tomate: cuándo tiene sentido pedirlo
 
-Tiene sentido si la parcela está descubierta, si el producto lleva autorizado el uso aéreo y si el acceso o la pendiente hacen pesada la mochila. El T50 carga 40 litros, de sobra para parcelas de vega de Telde de una fracción de hectárea, y sigue el relieve con radar y visión binocular.
+Tiene sentido si la parcela está descubierta, si lo que quieres aplicar es un abono foliar, un bioestimulante o un corrector de carencias de uso permitido en tomate, y si el acceso o la pendiente hacen pesada la mochila. El T50 carga 40 litros, de sobra para parcelas de vega de Telde de una fracción de hectárea, y sigue el relieve con radar y visión binocular.
 
-En Fuerteventura manda el viento: en Antigua la media fue de 21,6 km/h en el aeropuerto (año 2000), con 136,6 mm de lluvia anual (ULPGC), así que las ventanas de vuelo son cortas y se planifican con el parte.
+En Fuerteventura manda el viento: en Antigua la media fue de 21,6 km/h en el aeropuerto (año 2000), con 136,6 mm de lluvia anual (ULPGC), así que las ventanas de vuelo son cortas y se planifican con el parte. Una mata entutorada que lleva semanas de alisio y sol es, de hecho, el caso típico en que se plantea un foliar pensado para sostener el vigor; lo que haga, lo dice su etiqueta.
 
-Dos cosas sobre la norma. Solo pueden aplicarse productos cuya autorización incluya expresamente la aplicación aérea (Real Decreto 1311/2012, anexo VI), y el piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el análisis de riesgo predefinido PDRA-S01 (AESA, Reglamento de Ejecución (UE) 2019/947). Cada tratamiento pasa además por su autorización ante el Gobierno de Canarias.
+Dos cosas sobre la norma. El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el análisis de riesgo predefinido PDRA-S01 (AESA, Reglamento de Ejecución (UE) 2019/947), y cada plano de vuelo se contrasta con las zonas geográficas de UAS de ENAIRE, que en una vega cercana a un aeropuerto pueden dejar parcelas fuera. Y sobre el producto: solo de uso permitido en tomate, a dosis de etiqueta, sobre planta descubierta.
 
 [IMAGEN: Tomate entutorado al aire libre en una vega de Telde, con cortavientos de caña y el macizo al fondo | alt: Tomate de mercado local al aire libre en Telde, Gran Canaria]
 
@@ -65,15 +65,15 @@ En Tenerife, [tratamientos con dron en Tenerife](https://agrodroncanarias.es/dro
 ## Preguntas frecuentes sobre el dron en el tomate canario
 
 ### ¿Se puede tratar con dron un invernadero de tomate?
-No. El producto no atraviesa la malla ni el plástico. Vale para La Aldea, Arico, Antigua o Tuineje: si el tomate está cubierto, no hay tratamiento aéreo posible.
+No. El producto no atraviesa la malla ni el plástico. Vale para La Aldea, Arico, Antigua o Tuineje: si el tomate está cubierto, no hay aplicación con dron posible.
 
 ### ¿Y un tomate de mercado local al aire libre?
-Sí, si el producto tiene autorizado el uso aéreo y la parcela es accesible para el piloto. Se tiene en cuenta que la pulverización desde arriba moja menos la cara inferior de la hoja.
+Sí, con abonos foliares, bioestimulantes o correctores de uso permitido en tomate y una parcela accesible para el piloto. Se tiene en cuenta que la pulverización desde arriba moja menos la cara inferior de la hoja.
 
 ### ¿El dron controla la Tuta absoluta?
-Lo que controle lo decide el producto y su etiqueta, no el dron. La Tuta mina hoja y fruto desde dentro y en Canarias se trabaja con trampas de feromonas y manejo integrado (Cabildos de Tenerife y Gran Canaria).
+No. La Tuta mina hoja y fruto desde dentro y en Canarias se trabaja con trampas de feromonas y manejo integrado (Cabildos de Tenerife y Gran Canaria). El dron se usa en el tomate descubierto para nutrición foliar, no contra plagas.
 
-### ¿Qué se puede tratar en una finca tomatera aparte del tomate?
+### ¿Qué se puede pulverizar en una finca tomatera aparte del tomate?
 Las parcelas descubiertas: cucurbitáceas de rotación, hortalizas al aire libre u otros cultivos sin cubierta de la misma explotación. El invernadero queda fuera.
 
 ### ¿Vais a Gran Canaria o Fuerteventura desde La Palma?
@@ -81,7 +81,7 @@ Sí, con desplazamiento y según disponibilidad. Conviene agrupar varias parcela
 
 ## Pide presupuesto si tu tomate va al aire libre
 
-Si tienes tomate descubierto o parcelas al aire libre junto a los invernaderos, dinos municipio, superficie, acceso y qué quieres tratar. Pide presupuesto en [Agrodrón Canarias](https://agrodroncanarias.es/); si el tomate está bajo cubierta te lo diremos a la primera para no hacerte perder tiempo.
+Si tienes tomate descubierto o parcelas al aire libre junto a los invernaderos, dinos municipio, superficie, acceso y qué quieres aplicar. Pide presupuesto en [Agrodrón Canarias](https://agrodroncanarias.es/); si el tomate está bajo cubierta te lo diremos a la primera para no hacerte perder tiempo.
 
 ```json
 {
@@ -89,9 +89,9 @@ Si tienes tomate descubierto o parcelas al aire libre junto a los invernaderos, 
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola para tomate al aire libre en Canarias",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en tomate de mercado local al aire libre y parcelas descubiertas de fincas tomateras de Gran Canaria, Tenerife y Fuerteventura. El tomate bajo malla o invernadero no se trata desde el aire.",
+      "name": "Tratamientos agrícolas con dron para tomate en Canarias",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en tomate de mercado local al aire libre y parcelas descubiertas de fincas tomateras de Gran Canaria, Tenerife y Fuerteventura. El tomate bajo malla o invernadero no se trata desde el aire.",
       "url": "https://agrodroncanarias.es/dron-agricola-tomate/",
       "provider": {
         "@type": "LocalBusiness",
@@ -112,21 +112,21 @@ Si tienes tomate descubierto o parcelas al aire libre junto a los invernaderos, 
         {
           "@type": "Question",
           "name": "¿Se puede tratar con dron un invernadero de tomate?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. El producto no atraviesa la malla ni el plástico. Vale para La Aldea, Arico, Antigua o Tuineje: si el tomate está cubierto, no hay tratamiento aéreo posible." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. El producto no atraviesa la malla ni el plástico. Vale para La Aldea, Arico, Antigua o Tuineje: si el tomate está cubierto, no hay aplicación con dron posible." }
         },
         {
           "@type": "Question",
           "name": "¿Y un tomate de mercado local al aire libre?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si el producto tiene autorizado el uso aéreo y la parcela es accesible para el piloto. Se tiene en cuenta que la pulverización desde arriba moja menos la cara inferior de la hoja." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, con abonos foliares, bioestimulantes o correctores de uso permitido en tomate y una parcela accesible para el piloto. Se tiene en cuenta que la pulverización desde arriba moja menos la cara inferior de la hoja." }
         },
         {
           "@type": "Question",
           "name": "¿El dron controla la Tuta absoluta?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Lo que controle lo decide el producto y su etiqueta, no el dron. La Tuta mina hoja y fruto desde dentro y en Canarias se trabaja con trampas de feromonas y manejo integrado (Cabildos de Tenerife y Gran Canaria)." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. La Tuta mina hoja y fruto desde dentro y en Canarias se trabaja con trampas de feromonas y manejo integrado (Cabildos de Tenerife y Gran Canaria). El dron se usa en el tomate descubierto para nutrición foliar, no contra plagas." }
         },
         {
           "@type": "Question",
-          "name": "¿Qué se puede tratar en una finca tomatera aparte del tomate?",
+          "name": "¿Qué se puede pulverizar en una finca tomatera aparte del tomate?",
           "acceptedAnswer": { "@type": "Answer", "text": "Las parcelas descubiertas: cucurbitáceas de rotación, hortalizas al aire libre u otros cultivos sin cubierta de la misma explotación. El invernadero queda fuera." }
         },
         {

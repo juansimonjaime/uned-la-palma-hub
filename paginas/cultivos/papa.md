@@ -1,9 +1,9 @@
 ---
 title: "Dron agrícola para papa en Canarias | Agrodrón"
 slug: "dron-agricola-papa"
-meta_description: "Dron agrícola para papa en Canarias: mildiu en bancales de medianías, polilla guatemalteca y varias siembras al año. Pide presupuesto a Agrodrón."
+meta_description: "Dron agrícola para papa en Canarias: abonado foliar y bioestimulantes en bancales de medianías, con varias siembras al año. Pide presupuesto a Agrodrón."
 keyword: "dron agrícola para papa"
-keywords_secundarias: "fumigar papas con dron, tratamiento de mildiu de la papa con dron, dron fitosanitario para papa en medianías, pulverización aérea en papa, dron para papas en bancales"
+keywords_secundarias: "pulverización con dron en papas, abonado foliar con dron en papa de medianías, dron pulverizador para papa en bancales, bioestimulantes con dron en papa, dron para papas en bancales"
 parent: ""
 nivel: "cultivo"
 isla: ""
@@ -12,7 +12,7 @@ municipio: ""
 
 # Dron agrícola para papa en Canarias: mildiu por hoja, polilla por tubérculo
 
-La polilla guatemalteca de la papa (Tecia solanivora) entró en Tenerife en 1999 por Icod de los Vinos y en 2002 saltó a La Palma y Gran Canaria, con medidas fitosanitarias obligatorias de la Consejería ese mismo año (Infoagro, 2002). Un dron agrícola para papa no la toca: la larva vive dentro del tubérculo. Lo que sí cambia es cómo se trata el mildiu y lo demás que va por hoja en bancales donde el tractor no entra.
+La polilla guatemalteca de la papa (Tecia solanivora) entró en Tenerife en 1999 por Icod de los Vinos y en 2002 saltó a La Palma y Gran Canaria, con medidas de control obligatorias de la Consejería ese mismo año (Infoagro, 2002). Un dron agrícola para papa no la toca: la larva vive dentro del tubérculo. Tampoco va contra el mildiu, que es asunto de los avisos del Cabildo; lo que cambia con el dron es cómo llega un abono foliar o un bioestimulante a la mata en bancales donde el tractor no entra.
 
 [IMAGEN: Bancales de papa en medianías del norte de Tenerife con niebla baja y muros de piedra seca | alt: Cultivo de papa en bancales de medianías en La Orotava, Tenerife]
 
@@ -24,13 +24,13 @@ Lo que las fuentes recogen como útil: feromonas y atrayentes florales para el m
 
 Una pulverización foliar, venga de mochila, tractor o dron, no llega a una larva dentro de la papa.
 
-## Mildiu: el aviso de riesgo alto que sí pide tratar por hoja
+## Mildiu: el aviso de riesgo alto lo marca Agrocabildo, no el dron
 
 El mildiu (Phytophthora infestans) es otra historia. Agrocabildo emite avisos de riesgo alto por comarcas (2024) y el Cabildo de Tenerife los ha lanzado para el norte de la isla (AtlánticoHoy, hacia 2024). Avanza con humedad y temperaturas suaves, lo que dan el mar de nubes y las nieblas de barlovento entre 600 y 1.500 m; la época concreta no aparece en las fuentes leídas [VERIFICAR: calendario de avisos por comarca].
 
-Aquí el dron sí entra: cuando llega el aviso, el bancal está mojado y el tractor no pasa, el tratamiento no puede esperar a que escampe. Del escarabajo hay ensayos de insecticidas de Agrocabildo (2008); de nematodos no hay fuente canaria [VERIFICAR].
+Ese aviso lo gestionas con lo que indiquen el Cabildo y sanidad vegetal; el dron no va contra el hongo. Donde entra es después: tras semanas de bancal mojado o, al revés, tras una sequía como la que costó el 60 % de una cosecha de papa en el norte de Tenerife (ASAGA), un papero se plantea un foliar o un bioestimulante pensado para que la mata recupere vigor. Del escarabajo hay ensayos de eficacia de Agrocabildo (2008); de nematodos no hay fuente canaria [VERIFICAR].
 
-Agrodrón Canarias sale desde Santa Cruz de La Palma: en la isla sin desplazamiento, en Tenerife y Gran Canaria con desplazamiento y bajo disponibilidad, así que un aviso de mildiu en una comarca se atiende mejor agrupando varias fincas.
+Agrodrón Canarias sale desde Santa Cruz de La Palma: en la isla sin desplazamiento, en Tenerife y Gran Canaria con desplazamiento y bajo disponibilidad, así que una salida a una comarca papera rinde más agrupando varias fincas.
 
 ## Cuánta papa hay en Canarias: tres cifras para 2023
 
@@ -50,9 +50,9 @@ Para esos bancales el T50 aporta un depósito de 40 litros que se rellena desde 
 
 ## Varias siembras al año y una ventana para cada una
 
-El Plan Anual del Cabildo de Tenerife (2017) repartía la papa en 60 % de media estación, 25 % temprana y 15 % tardía, con las zonas tradicionales en las cotas altas de San Miguel, Granadilla y Vilaflor. Cada siembra tiene su tramo de riesgo de mildiu y su plazo de seguridad, así que el calendario se hace por siembra, no por cultivo.
+El Plan Anual del Cabildo de Tenerife (2017) repartía la papa en 60 % de media estación, 25 % temprana y 15 % tardía, con las zonas tradicionales en las cotas altas de San Miguel, Granadilla y Vilaflor. Cada siembra tiene su tramo de riesgo de mildiu en los avisos y su momento para un foliar, con la mata verde y activa, así que el calendario se hace por siembra, no por cultivo.
 
-El Ministerio de Agricultura considera los tratamientos con dron tratamientos aéreos (nota informativa MAPA-AESA, 2018), así que se les aplica el régimen del Real Decreto 1311/2012: autorización previa del órgano competente de la comunidad autónoma y plan de aplicación aprobado para cada caso especial. Agrodrón prepara el vuelo; tú pones los datos de parcela y producto, y el trámite va al Gobierno de Canarias.
+Lo que no cambia de una siembra a otra: solo se cargan productos de uso permitido en papa, a la dosis de la etiqueta, y solo sobre bancal descubierto. El piloto de Agrodrón, certificado, vuela en la categoría específica de AESA/EASA, en escenario estándar STS o bajo el PDRA-S01, y cada plano se contrasta con las zonas geográficas de UAS de ENAIRE antes de salir. Con niebla cerrada, lluvia o viento fuerte el vuelo se aplaza; en Barlovento o Teror eso se decide en la finca esa misma mañana.
 
 ## Islas y municipios donde la papa pesa
 
@@ -63,23 +63,23 @@ En La Palma, [tratamientos con dron en La Palma](https://agrodroncanarias.es/dro
 ## Preguntas frecuentes sobre el dron en la papa canaria
 
 ### ¿El dron sirve contra la polilla guatemalteca de la papa?
-No. La larva vive dentro del tubérculo y una pulverización foliar no la alcanza. Lo eficaz según las fuentes es feromonas, rotación, no dejar papas en el campo y tratamiento en almacén; el dron se reserva para lo que va por hoja.
+No. La larva vive dentro del tubérculo y una pulverización foliar no la alcanza. Lo eficaz según las fuentes es feromonas, rotación, no dejar papas en el campo y tratamiento en almacén; el dron se usa en la papa para llevar foliares y bioestimulantes a la mata.
 
-### ¿Se puede fumigar con dron un bancal de papas con niebla?
+### ¿Se puede pulverizar con dron un bancal de papas con niebla?
 Con niebla cerrada no se vuela. En Teror, Barlovento o La Orotava eso acorta las ventanas, así que se planifica con el parte y se aprovecha la mañana o la tarde que abre.
 
-### ¿Cuántos días antes de arrancar se puede tratar?
-Los que marque el plazo de seguridad de la etiqueta, igual que con mochila o tractor. Con varias siembras al año, el calendario se fija por siembra.
+### ¿Hasta cuándo tiene sentido aplicar un foliar en la papa?
+Mientras la mata esté verde y activa; con la planta ya agostada no hay hoja que lo absorba. Si la etiqueta pide dejar días hasta el arranque, se respetan igual que con mochila o tractor, y con varias siembras al año el calendario se fija por siembra.
 
-### ¿Hace falta autorización para tratar papas con dron en Canarias?
-Sí. El tratamiento con dron se considera aéreo (nota MAPA-AESA de 2018) y necesita autorización previa del Gobierno de Canarias y plan de aplicación. Agrodrón te indica qué datos aportar.
+### ¿Qué hace falta para contratar un abonado foliar con dron en un bancal de papas?
+Municipio y cota, superficie y número de siembras, cómo se llega al bancal y qué producto quieres aplicar, que debe ser de uso permitido en papa. Con eso se planifica el vuelo y se comprueban las zonas de UAS de ENAIRE; del resto se encarga Agrodrón.
 
 ### ¿Trabajáis en Tenerife y Gran Canaria o solo en La Palma?
 En La Palma sin desplazamiento. En Tenerife, Gran Canaria y el resto de islas, con desplazamiento y según disponibilidad, mejor agrupando fincas de una misma comarca.
 
 ## Pide presupuesto para tus papas
 
-Cuéntanos municipio, cota, cuántas fanegadas siembras y en cuántas siembras, cómo se llega a los bancales y qué quieres tratar. Te decimos si el dron encaja y te mandamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/). Fuera de La Palma, el desplazamiento va dentro del presupuesto y según la agenda.
+Cuéntanos municipio, cota, cuántas fanegadas siembras y en cuántas siembras, cómo se llega a los bancales y qué quieres aplicar. Te decimos si el dron encaja y te mandamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/). Fuera de La Palma, el desplazamiento va dentro del presupuesto y según la agenda.
 
 ```json
 {
@@ -87,9 +87,9 @@ Cuéntanos municipio, cota, cuántas fanegadas siembras y en cuántas siembras, 
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola para papa en Canarias",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en papa al aire libre de medianías y bancales de Tenerife, La Palma y Gran Canaria, con el mildiu como objetivo principal y base en La Palma.",
+      "name": "Tratamientos agrícolas con dron para papa en Canarias",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en papa al aire libre de medianías y bancales de Tenerife, La Palma y Gran Canaria, con base en La Palma.",
       "url": "https://agrodroncanarias.es/dron-agricola-papa/",
       "provider": {
         "@type": "LocalBusiness",
@@ -110,22 +110,22 @@ Cuéntanos municipio, cota, cuántas fanegadas siembras y en cuántas siembras, 
         {
           "@type": "Question",
           "name": "¿El dron sirve contra la polilla guatemalteca de la papa?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. La larva vive dentro del tubérculo y una pulverización foliar no la alcanza. Lo eficaz según las fuentes es feromonas, rotación, no dejar papas en el campo y tratamiento en almacén; el dron se reserva para lo que va por hoja." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. La larva vive dentro del tubérculo y una pulverización foliar no la alcanza. Lo eficaz según las fuentes es feromonas, rotación, no dejar papas en el campo y tratamiento en almacén; el dron se usa en la papa para llevar foliares y bioestimulantes a la mata." }
         },
         {
           "@type": "Question",
-          "name": "¿Se puede fumigar con dron un bancal de papas con niebla?",
+          "name": "¿Se puede pulverizar con dron un bancal de papas con niebla?",
           "acceptedAnswer": { "@type": "Answer", "text": "Con niebla cerrada no se vuela. En Teror, Barlovento o La Orotava eso acorta las ventanas, así que se planifica con el parte y se aprovecha la mañana o la tarde que abre." }
         },
         {
           "@type": "Question",
-          "name": "¿Cuántos días antes de arrancar se puede tratar?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Los que marque el plazo de seguridad de la etiqueta, igual que con mochila o tractor. Con varias siembras al año, el calendario se fija por siembra." }
+          "name": "¿Hasta cuándo tiene sentido aplicar un foliar en la papa?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Mientras la mata esté verde y activa; con la planta ya agostada no hay hoja que lo absorba. Si la etiqueta pide dejar días hasta el arranque, se respetan igual que con mochila o tractor, y con varias siembras al año el calendario se fija por siembra." }
         },
         {
           "@type": "Question",
-          "name": "¿Hace falta autorización para tratar papas con dron en Canarias?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí. El tratamiento con dron se considera aéreo (nota MAPA-AESA de 2018) y necesita autorización previa del Gobierno de Canarias y plan de aplicación. Agrodrón te indica qué datos aportar." }
+          "name": "¿Qué hace falta para contratar un abonado foliar con dron en un bancal de papas?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Municipio y cota, superficie y número de siembras, cómo se llega al bancal y qué producto quieres aplicar, que debe ser de uso permitido en papa. Con eso se planifica el vuelo y se comprueban las zonas de UAS de ENAIRE; del resto se encarga Agrodrón." }
         },
         {
           "@type": "Question",

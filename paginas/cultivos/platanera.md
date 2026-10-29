@@ -1,9 +1,9 @@
 ---
 title: "Dron agrícola para platanera en Canarias | Agrodrón"
 slug: "dron-agricola-platanera"
-meta_description: "Dron agrícola para platanera en Canarias: fincas de costa al aire libre, mangla, trips y araña roja. Base en La Palma, resto de islas con desplazamiento."
+meta_description: "Dron agrícola para platanera en Canarias: abonado foliar y bioestimulantes en fincas de costa al aire libre. Base en La Palma, otras islas bajo consulta."
 keyword: "dron agrícola para platanera"
-keywords_secundarias: "fumigar plataneras con dron, tratamiento con drones en platanera, dron para plataneras, dron fitosanitario plátano de Canarias, pulverización aérea en platanera"
+keywords_secundarias: "pulverización con dron en plataneras, tratamiento con drones en platanera, dron para plataneras, dron pulverizador plátano de Canarias, abonado foliar con dron en platanera"
 parent: ""
 nivel: "cultivo"
 isla: ""
@@ -28,15 +28,17 @@ La platanera canaria vive por debajo de los 300 m, en sorribas sobre lava o con 
 
 Para el DJI Agras T50 esa finca es terreno conocido. Su radar de matriz en fase y sus cámaras binoculares siguen el relieve y ven el muro, el poste del cortavientos o el cable de la cadena antes de llegar, y ajusta la velocidad cuando la finca sube en escalones. El depósito de 40 litros, con hasta 16 L/min por dos boquillas centrífugas o 24 L/min por cuatro, cubre una parcela corriente con pocas recargas.
 
-## Picudo, mangla, trips y araña roja: qué se ataca desde arriba y qué no
+## Picudo, mangla, trips y araña roja: el contexto, y dónde entra el dron
 
 Lo que documentan Agrocabildo y la ULPGC:
 
 - Picudo negro (Cosmopolites sordidus): la principal plaga de la platanera en Canarias según Agrocabildo. Vive en el cormo y la base del pseudotallo, quita vigor y retrasa la floración; se controla con trampas de feromonas.
-- Cochinilla algodonosa o mangla (Dysmicoccus grassii): uno de los principales problemas fitosanitarios actuales, con resistencias y fitotoxicidad en el control químico (ULPGC).
-- Trips (Hercinothrips femoralis) y araña roja (Tetranychus urticae): en el manual fitosanitario de Agrocabildo de 2026, con daño en hoja y fruto.
+- Cochinilla algodonosa o mangla (Dysmicoccus grassii): uno de los principales problemas sanitarios actuales del cultivo, con resistencias y daños a la planta en el control químico (ULPGC).
+- Trips (Hercinothrips femoralis) y araña roja (Tetranychus urticae): en el manual de plagas y enfermedades de Agrocabildo de 2026, con daño en hoja y fruto.
 
-La campaña 2025-2026 ha sido dura: la prensa agraria habla de una crisis por cochinilla y mosca blanca, con el sector pidiendo a la UE el uso de emergencia de un insecticida a base de spirotetramat (Diario de Avisos, 15 de octubre de 2026; Agrolatam). Qué se aplica lo decide la etiqueta y el plan de aplicación aprobado, no el dron.
+La campaña 2025-2026 ha sido dura: la prensa agraria habla de una crisis por cochinilla y mosca blanca, con el sector pidiendo a la UE el uso de emergencia de un producto a base de spirotetramat (Diario de Avisos, 15 de octubre de 2026; Agrolatam). Ese frente es de Sanidad Vegetal del Gobierno de Canarias y de Agrocabildo (trampas, control biológico, labores); el dron no entra ahí.
+
+Lo que sí hace el dron en la platanera es el abonado foliar: abonos, correctores de carencias y bioestimulantes pensados para el vigor de la mata tras el calor de agosto, un golpe de alisio o una capa de ceniza como la de 2021 en el Valle de Aridane. A dosis de etiqueta y como finalidad del producto, no como promesa.
 
 ## Zafra sin parar: tratar entre corte y corte
 
@@ -56,25 +58,28 @@ En [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) están [Tazac
 
 En [Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [Guía de Isora sumaba 845,4 ha en 2021](https://agrodroncanarias.es/dron-agricola-tenerife/guia-de-isora/) según Mercatenerife. En [Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/), [Gáldar tiene 630,42 ha de platanera](https://agrodroncanarias.es/dron-agricola-gran-canaria/galdar/) según su portal de transparencia, de las 1.940,7 ha de la isla (Mapa de Cultivos 2024). En [La Gomera](https://agrodroncanarias.es/dron-agricola-la-gomera/), la platanera de Hermigua y Valle Gran Rey va en terrazas de fondo de barranco donde la maquinaria terrestre apenas entra.
 
-Sobre el papel, dos cosas. La aplicación aérea de fitosanitarios está prohibida en España con carácter general y solo se autoriza en casos especiales, con permiso previo del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). Y el Ministerio de Agricultura trata los vuelos con dron como tratamientos aéreos (nota informativa MAPA-AESA de 2018), así que cada finca pasa por ese trámite ante el Gobierno de Canarias.
+Sobre el papel, lo justo. Agrodrón vuela en la categoría específica de AESA/EASA (escenarios STS o PDRA-S01) con piloto certificado, y antes de dar fecha consulta el mapa de zonas geográficas de UAS de ENAIRE: el aeropuerto de La Palma linda con fincas de plátano de Breña Baja y Mazo, y ahí el mapa manda. Solo productos de uso permitido en el plátano, a dosis de etiqueta, y solo sobre finca descubierta.
 
 ## Preguntas frecuentes sobre el dron en la platanera
 
-### ¿Se puede fumigar con dron una platanera con malla cortavientos?
+### ¿Se puede pulverizar con dron una platanera con malla cortavientos?
 Sí, si la malla es vertical, de lindero, y la finca queda abierta por arriba. No se trata desde el aire la platanera bajo malla de cubierta o invernadero, como la del sur de Tenerife o las 165 ha bajo protección de Villa de Mazo.
 
 ### ¿Sirve el dron contra el picudo negro de la platanera?
-No. El picudo vive en el cormo y en la base del pseudotallo, donde ninguna pulverización foliar llega; Agrocabildo recomienda trampas de feromonas. El dron tiene sentido para problemas de hoja y racimo, con un producto cuya etiqueta lo permita.
+No. El picudo vive en el cormo y en la base del pseudotallo, donde ninguna pulverización foliar llega; Agrocabildo recomienda trampas de feromonas y el control lo marca el Cabildo. El dron se usa para abonado foliar y bioestimulantes sobre la hoja.
+
+### ¿Qué productos aplica el dron en la platanera?
+Abonos foliares, bioestimulantes y correctores de carencias de uso permitido en el plátano, a la dosis de su etiqueta. Lo de la mangla o los trips va por Sanidad Vegetal, no por el aire.
 
 ### ¿Cuánto se tarda en tratar una hectárea de platanera con dron?
-Depende de la forma de la parcela, de los obstáculos y de la dosis del plan de aplicación. No damos cifras de rendimiento sin ver la finca: con el plano y el producto te decimos cuántos vuelos hacen falta.
+Depende de la forma de la parcela, de los obstáculos y de la dosis de etiqueta del producto. No damos cifras de rendimiento sin ver la finca: con el plano y el producto te decimos cuántos vuelos hacen falta.
 
 ### ¿Hay que parar el corte el día del tratamiento?
-Solo en la parcela que se trata y mientras dura el vuelo. Después se respeta el plazo de seguridad de la etiqueta antes de volver a cortar ahí. El resto de la finca sigue con su ritmo.
+Solo en la parcela que se trata y mientras dura el vuelo; si la etiqueta del producto marca un intervalo hasta el corte, se respeta. El resto de la finca sigue con su ritmo.
 
 ## Pide presupuesto para tu finca de platanera
 
-Mándanos el municipio, las hectáreas, si la finca va a cielo abierto o tiene parte bajo malla de cubierta, y qué problema quieres tratar. Con eso te decimos si el dron encaja y te preparamos el presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/): en La Palma sin desplazamiento, en el resto de islas con desplazamiento y según disponibilidad.
+Mándanos el municipio, las hectáreas, si la finca va a cielo abierto o tiene parte bajo malla de cubierta, y qué quieres aplicar. Con eso te decimos si el dron encaja y te preparamos el presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/): en La Palma sin desplazamiento, en el resto de islas con desplazamiento y según disponibilidad.
 
 ```json
 {
@@ -82,9 +87,9 @@ Mándanos el municipio, las hectáreas, si la finca va a cielo abierto o tiene p
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola para platanera en Canarias",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 sobre platanera al aire libre en Canarias: fincas de costa con muros y cortavientos, tratamientos de hoja y racimo frente a mangla, trips y araña roja. Base en Santa Cruz de La Palma.",
+      "name": "Tratamientos agrícolas con dron para platanera en Canarias",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización con dron DJI Agras T50 sobre platanera al aire libre en Canarias: abonado foliar, bioestimulantes y correctores de carencias en fincas de costa con muros y cortavientos. Base en Santa Cruz de La Palma.",
       "url": "https://agrodroncanarias.es/dron-agricola-platanera/",
       "provider": {
         "@type": "LocalBusiness",
@@ -104,23 +109,28 @@ Mándanos el municipio, las hectáreas, si la finca va a cielo abierto o tiene p
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "¿Se puede fumigar con dron una platanera con malla cortavientos?",
+          "name": "¿Se puede pulverizar con dron una platanera con malla cortavientos?",
           "acceptedAnswer": { "@type": "Answer", "text": "Sí, si la malla es vertical, de lindero, y la finca queda abierta por arriba. No se trata desde el aire la platanera bajo malla de cubierta o invernadero, como la del sur de Tenerife o las 165 ha bajo protección de Villa de Mazo." }
         },
         {
           "@type": "Question",
           "name": "¿Sirve el dron contra el picudo negro de la platanera?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. El picudo vive en el cormo y en la base del pseudotallo, donde ninguna pulverización foliar llega; Agrocabildo recomienda trampas de feromonas. El dron tiene sentido para problemas de hoja y racimo, con un producto cuya etiqueta lo permita." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. El picudo vive en el cormo y en la base del pseudotallo, donde ninguna pulverización foliar llega; Agrocabildo recomienda trampas de feromonas y el control lo marca el Cabildo. El dron se usa para abonado foliar y bioestimulantes sobre la hoja." }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué productos aplica el dron en la platanera?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Abonos foliares, bioestimulantes y correctores de carencias de uso permitido en el plátano, a la dosis de su etiqueta. Lo de la mangla o los trips va por Sanidad Vegetal, no por el aire." }
         },
         {
           "@type": "Question",
           "name": "¿Cuánto se tarda en tratar una hectárea de platanera con dron?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la forma de la parcela, de los obstáculos y de la dosis del plan de aplicación. No damos cifras de rendimiento sin ver la finca: con el plano y el producto te decimos cuántos vuelos hacen falta." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la forma de la parcela, de los obstáculos y de la dosis de etiqueta del producto. No damos cifras de rendimiento sin ver la finca: con el plano y el producto te decimos cuántos vuelos hacen falta." }
         },
         {
           "@type": "Question",
           "name": "¿Hay que parar el corte el día del tratamiento?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Solo en la parcela que se trata y mientras dura el vuelo. Después se respeta el plazo de seguridad de la etiqueta antes de volver a cortar ahí. El resto de la finca sigue con su ritmo." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Solo en la parcela que se trata y mientras dura el vuelo; si la etiqueta del producto marca un intervalo hasta el corte, se respeta. El resto de la finca sigue con su ritmo." }
         }
       ]
     }

@@ -3,7 +3,7 @@ title: "Dron agrícola en Los Realejos | Agrodrón Canarias"
 slug: "los-realejos"
 meta_description: "Dron agrícola en Los Realejos por zonas: platanera de costa, papa y viña de medianías, aguacate. Desplazamiento desde La Palma. Pide presupuesto."
 keyword: "dron agrícola en Los Realejos"
-keywords_secundarias: "fumigar con dron en Los Realejos, tratamiento con drones en aguacate de Tenerife, dron fitosanitario Valle de La Orotava, pulverización aérea en Icod el Alto"
+keywords_secundarias: "pulverización con dron en Los Realejos, tratamiento con drones en aguacate de Tenerife, dron pulverizador Valle de La Orotava, abonado foliar con dron en Icod el Alto"
 parent: "dron-agricola-tenerife"
 nivel: "B"
 isla: "Tenerife"
@@ -36,7 +36,7 @@ La papa es el primer cultivo del municipio (ayuntamiento), sembrada en bancales 
 
 [IMAGEN: Bancal de papa en las medianías de Los Realejos con un muro de piedra seca y la viña baja en la parcela de al lado | alt: Papa y viña en bancales de las medianías de Los Realejos, Tenerife]
 
-Es la zona donde el dron pulverizador rinde más: cultivos bajos, parcelas en pendiente y accesos a pie. Con 40 litros de depósito y hasta 16 L/min con dos boquillas centrífugas (24 con cuatro, según DJI), el T50 trata un bancal de papa contra mildiu o una viña baja contra oídio sin pisar la tierra.
+Es la zona donde el dron pulverizador rinde más: cultivos bajos, parcelas en pendiente y accesos a pie. Con 40 litros de depósito y hasta 16 L/min con dos boquillas centrífugas (24 con cuatro, según DJI), el T50 reparte un abono foliar sobre un bancal de papa o un bioestimulante sobre una viña baja sin pisar la tierra.
 
 ## Zona alta: Icod el Alto, Palo Blanco y la papa de secano
 
@@ -46,11 +46,11 @@ Aquí el dron espera ventana sin niebla ni racha; cuando la hay, el bancal de se
 
 ## Dron agrícola en Los Realejos: qué se trata y qué no
 
-Se trata lo foliar al aire libre: mildiu de la papa; mildiu, oídio y botritis de la viña, con avisos semanales del Cabildo por comarca (datos.tenerife.es) y riesgo alto de oídio en zonas bajas del 30 de abril al 7 de mayo; plagas de hoja y fruto en platanera y aguacate, según etiqueta.
+Se aplica lo foliar al aire libre: abonos, bioestimulantes y correctores sobre papa, viña, platanera y aguacate, a dosis de etiqueta, para el vigor de la planta tras calor, viento o cosecha. Los avisos del Cabildo por comarca de mildiu, oídio y botritis (datos.tenerife.es), con riesgo alto de oídio en zonas bajas del 30 de abril al 7 de mayo, guían al viticultor; ese manejo es de sanidad vegetal, no del dron.
 
-No se trata la polilla guatemalteca (tubérculo), el picudo (cormo), los hongos de la madera que Agrocabildo estudió en el Valle en 2024 (tronco) ni la filoxera detectada en Tenerife en 2025 [VERIFICAR: si Los Realejos está en la zona demarcada], que es de raíz. Tampoco nada bajo malla o invernadero.
+El dron tampoco va contra la polilla guatemalteca (tubérculo), el picudo (cormo), los hongos de la madera que Agrocabildo estudió en el Valle en 2024 (tronco) ni la filoxera detectada en Tenerife en 2025 [VERIFICAR: si Los Realejos está en la zona demarcada], que es de raíz. Ni vuela sobre nada bajo malla o invernadero.
 
-Dos frases de ley: solo pueden aplicarse productos cuya autorización incluya expresamente la aplicación aérea (anexo VI del Real Decreto 1311/2012), y el operador vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01. Cada tratamiento lleva su autorización del Gobierno de Canarias y su plan de aplicación.
+Dos frases sobre el vuelo: el piloto, certificado, opera en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01), y cada parcela, de Rambla de Castro a Palo Blanco, se mira en el mapa de zonas geográficas de UAS de ENAIRE antes de planificar. Y una sobre el producto: solo abonos foliares, bioestimulantes y correctores de uso permitido en ese cultivo, a dosis de etiqueta, sobre finca al aire libre.
 
 ## Cómo se monta una salida a Los Realejos desde La Palma
 
@@ -60,21 +60,21 @@ Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-t
 
 ## Preguntas frecuentes sobre el dron agrícola en Los Realejos
 
-### ¿Se puede fumigar con dron una platanera sobre el acantilado de Rambla de Castro?
+### ¿Se puede pulverizar con dron una platanera sobre el acantilado de Rambla de Castro?
 Sí, si está al aire libre. El dron despega desde el borde y el radar sigue el desnivel; cortavientos y cables van como obstáculos en el plan. Lo que esté bajo malla queda fuera.
 
 ### ¿Qué cultivo de Los Realejos saca más partido al dron, la papa o la viña?
-Los dos, porque son cultivos bajos en bancal. La papa gana en el mildiu; la viña, en oídio y mildiu siguiendo los avisos del Cabildo.
+Los dos, porque son cultivos bajos en bancal: un abono foliar en la papa o un bioestimulante en la viña tras el envero se reparten en una pasada sin pisar nada.
 
-### ¿Trata el dron el aguacate contra la araña cristalina?
-Puede aplicar un foliar si su autorización incluye la aplicación aérea; la etiqueta manda. La ventaja es mojar la copa desde arriba, cosa que la lanza desde el suelo hace mal.
+### ¿Sirve el dron contra la araña cristalina del aguacate?
+No. Esa plaga se maneja con lo que indica el Cabildo. Lo que sí hace el dron es mojar la copa desde arriba con un abono foliar o un bioestimulante, cosa que la lanza desde el suelo hace mal.
 
 ### ¿Hay que esperar mucho a que el equipo venga desde La Palma?
 Depende de la disponibilidad y de cuántas fincas haya en la zona. No prometemos fechas: te decimos cuándo hay salida a Tenerife y si tu parcela encaja.
 
 ## Pide presupuesto para tu finca de Los Realejos
 
-Indícanos la zona (costa, medianías o zona alta), cultivo, hectáreas y qué quieres tratar. Te decimos si el dron encaja y te preparamos presupuesto con el desplazamiento desde La Palma en [Agrodrón Canarias](https://agrodroncanarias.es/).
+Indícanos la zona (costa, medianías o zona alta), cultivo, hectáreas y qué producto quieres aplicar. Te decimos si el dron encaja y te preparamos presupuesto con el desplazamiento desde La Palma en [Agrodrón Canarias](https://agrodroncanarias.es/).
 
 ```json
 {
@@ -82,9 +82,9 @@ Indícanos la zona (costa, medianías o zona alta), cultivo, hectáreas y qué q
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Los Realejos",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en platanera de costa, papa y viña de medianías y aguacate de Los Realejos, con desplazamiento desde La Palma y bajo disponibilidad.",
+      "name": "Tratamientos agrícolas con dron en Los Realejos",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en platanera de costa, papa y viña de medianías y aguacate de Los Realejos, con desplazamiento desde La Palma y bajo disponibilidad.",
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/los-realejos/",
       "provider": {
         "@type": "LocalBusiness",
@@ -108,18 +108,18 @@ Indícanos la zona (costa, medianías o zona alta), cultivo, hectáreas y qué q
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "¿Se puede fumigar con dron una platanera sobre el acantilado de Rambla de Castro?",
+          "name": "¿Se puede pulverizar con dron una platanera sobre el acantilado de Rambla de Castro?",
           "acceptedAnswer": { "@type": "Answer", "text": "Sí, si está al aire libre. El dron despega desde el borde y el radar sigue el desnivel; cortavientos y cables van como obstáculos en el plan. Lo que esté bajo malla queda fuera." }
         },
         {
           "@type": "Question",
           "name": "¿Qué cultivo de Los Realejos saca más partido al dron, la papa o la viña?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Los dos, porque son cultivos bajos en bancal. La papa gana en el mildiu; la viña, en oídio y mildiu siguiendo los avisos del Cabildo." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Los dos, porque son cultivos bajos en bancal: un abono foliar en la papa o un bioestimulante en la viña tras el envero se reparten en una pasada sin pisar nada." }
         },
         {
           "@type": "Question",
-          "name": "¿Trata el dron el aguacate contra la araña cristalina?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Puede aplicar un foliar si su autorización incluye la aplicación aérea; la etiqueta manda. La ventaja es mojar la copa desde arriba, cosa que la lanza desde el suelo hace mal." }
+          "name": "¿Sirve el dron contra la araña cristalina del aguacate?",
+          "acceptedAnswer": { "@type": "Answer", "text": "No. Esa plaga se maneja con lo que indica el Cabildo. Lo que sí hace el dron es mojar la copa desde arriba con un abono foliar o un bioestimulante, cosa que la lanza desde el suelo hace mal." }
         },
         {
           "@type": "Question",

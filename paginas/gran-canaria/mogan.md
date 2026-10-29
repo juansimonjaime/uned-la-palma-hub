@@ -3,7 +3,7 @@ title: "Dron agrícola en Mogán | Agrodrón Canarias"
 slug: "mogan"
 meta_description: "Dron agrícola en Mogán: mango y aguacate de los barrancos de Veneguera, Arguineguín y Mogán, en bancales sin acceso para tractor. Pide presupuesto."
 keyword: "dron agrícola en Mogán"
-keywords_secundarias: "fumigar con dron en Mogán, tratamiento con drones en mango, dron fitosanitario sur de Gran Canaria, pulverización aérea aguacate Mogán, dron para frutales subtropicales"
+keywords_secundarias: "pulverización con dron en Mogán, tratamiento con drones en mango, dron pulverizador sur de Gran Canaria, abonado foliar con dron aguacate Mogán, dron para frutales subtropicales"
 parent: "dron-agricola-gran-canaria"
 nivel: "B"
 isla: "Gran Canaria"
@@ -28,39 +28,39 @@ Agrodrón Canarias trabaja desde La Palma: venir a Mogán es una salida con desp
 
 Un mango adulto es un árbol de copa ancha y varios metros, en un bancal donde cabe una fila o dos. El atomizador se queda en la pista porque no hay anchura ni vuelta; queda la mochila o la manguera desde una cuba, con el aplicador debajo del árbol.
 
-Eso son horas al sol, deriva sobre el operario y la parte alta de la copa peor cubierta que la baja. En el aguacate pasa igual, con la araña escondida en el envés de la hoja.
+Eso son horas al sol, deriva sobre el operario y la parte alta de la copa peor cubierta que la baja. En el aguacate pasa igual, con la copa aún más cerrada.
 
 ## Qué cambia con un dron agrícola en Mogán
 
-El DJI Agras T50 vuela por encima de la copa siguiendo el perfil del bancal: su radar de matriz en fase y la visión binocular leen relieve y obstáculos, y la velocidad se ajusta a la pendiente (ficha técnica de DJI). El caldo cae sobre la parte alta del árbol y el operario no está debajo.
+El DJI Agras T50 vuela por encima de la copa siguiendo el perfil del bancal: su radar de matriz en fase y la visión binocular leen relieve y obstáculos, y la velocidad se ajusta a la pendiente (ficha técnica de DJI). El caldo, abono foliar o bioestimulante, cae sobre la parte alta del árbol y el operario no está debajo.
 
-El depósito de 40 litros, con hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro, obliga a recargar a menudo; en un barranco, la furgoneta se queda en la pista del fondo y el dron sube al bancal sin que nadie cargue agua a la espalda. La dosis es la de la etiqueta y del plan de aplicación.
+El depósito de 40 litros, con hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro, obliga a recargar a menudo; en un barranco, la furgoneta se queda en la pista del fondo y el dron sube al bancal sin que nadie cargue agua a la espalda. La dosis es la que marca la etiqueta del producto.
 
 [IMAGEN: DJI Agras T50 recargando el depósito en la pista del fondo de un barranco de Mogán, con bancales de mango por encima | alt: Dron agrícola DJI Agras T50 en una finca de mango de Mogán, Gran Canaria]
 
 ## Mango, aguacate y papaya: cultivos y plagas con fuente
 
-En el aguacate canario la plaga principal es la araña del aguacate, Oligonychus perseae (GOIA), con trips y cochinillas en aumento según Agrocabildo (Nipaecoccus nipae desde 2018). El ICIA describe hongos Botryosphaeriaceae, con Neofusicoccum parvum, en aguacate, mango y papaya.
+En el aguacate canario la plaga principal es la araña del aguacate, Oligonychus perseae (GOIA), con trips y cochinillas en aumento según Agrocabildo (Nipaecoccus nipae desde 2018). El ICIA describe hongos Botryosphaeriaceae, con Neofusicoccum parvum, en aguacate, mango y papaya. Su control es de sanidad vegetal, no del dron.
 
-Para el mango no hay plaga documentada en Gran Canaria [VERIFICAR: avisos fitosanitarios del Gobierno de Canarias para mango]. En 2025 el Ayuntamiento repartió 101 plantones de una nueva variedad de mango. El tomate que queda va bajo invernadero y no se trata desde el aire; la papaya bajo malla, tampoco [VERIFICAR: superficie de papaya y tomate].
+Para el mango no hay plaga documentada en Gran Canaria [VERIFICAR: avisos de sanidad vegetal del Gobierno de Canarias para mango]. En 2025 el Ayuntamiento repartió 101 plantones de una nueva variedad de mango. El tomate que queda va bajo invernadero y no se trata desde el aire; la papaya bajo malla, tampoco [VERIFICAR: superficie de papaya y tomate].
 
 ## Calor, calma y horas de vuelo en el suroeste
 
 Mogán es el sector más árido y soleado de la isla, a sotavento del alisio; la costa sur baja de 100 mm al año (GEVIC). Para pulverizar, la calma da poca deriva y el calor de mediodía evapora la gota antes de llegar a la hoja. Se vuela temprano y se para cuando sube la brisa del barranco.
 
-## Autorización y desplazamiento antes de volar
+## Piloto, zonas UAS y desplazamiento antes de volar
 
-El tratamiento aéreo de fitosanitarios está prohibido en España con carácter general y solo se autoriza en casos especiales, con permiso previo del órgano competente de la comunidad autónoma y plan de aplicación aprobado; el Ministerio de Agricultura incluye los drones en ese régimen (RD 1311/2012, artículos 27 y 28; nota MAPA–AESA de 2018). El piloto vuela en categoría específica de AESA/EASA, bajo PDRA-S01 o escenarios STS.
+El piloto de Agrodrón vuela en categoría específica de AESA/EASA, bajo PDRA-S01 o escenarios STS, con certificado en vigor. Los barrancos de Mogán y Veneguera se miran antes en el mapa de zonas geográficas de UAS de ENAIRE, y en el depósito solo va producto de uso permitido en mango o aguacate, a dosis de etiqueta, sobre árbol descubierto.
 
 La isla, en [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/); el cultivo, en [dron para mango, papaya y subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/) y en [tratamientos con dron en aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/). Barranco arriba, [dron agrícola en San Bartolomé de Tirajana](https://agrodroncanarias.es/dron-agricola-gran-canaria/san-bartolome-de-tirajana/).
 
-## Preguntas frecuentes sobre fumigar con dron en Mogán
+## Preguntas frecuentes sobre pulverizar con dron en Mogán
 
 ### ¿Puede el dron tratar un bancal de mango al que no llega el tractor en Mogán?
-Sí, si el árbol está al aire libre y el producto tiene autorización para aplicación aérea; la furgoneta se queda en la pista y el dron sube al bancal.
+Sí, si el árbol está al aire libre y el abono foliar o bioestimulante es de uso permitido en mango; la furgoneta se queda en la pista y el dron sube al bancal.
 
 ### ¿Trata el dron la araña del aguacate en Mogán?
-La pulverización desde arriba cubre la parte alta de la copa; la araña anida en el envés. El técnico mira la finca y decide si el tratamiento aéreo tiene sentido.
+No. La araña anida en el envés y su control es de la sanidad vegetal del Cabildo y de tu técnico. El dron aplica en el aguacate abonos foliares y bioestimulantes para el vigor del árbol, por ejemplo tras una poda o un verano duro.
 
 ### ¿Cuándo es mejor volar en los barrancos de Mogán?
 A primera hora, con calma y antes de que apriete el sol. Con viento de barranco o calor fuerte se aplaza.
@@ -81,9 +81,9 @@ Si tu finca está en Veneguera, Arguineguín, Tauro o Mogán y los árboles crec
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Mogán",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en mango y aguacate al aire libre en los barrancos de Mogán, Arguineguín y Veneguera, en bancales sin acceso para tractor. Servicio con desplazamiento desde La Palma.",
+      "name": "Tratamientos agrícolas con dron en Mogán",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en mango y aguacate al aire libre en los barrancos de Mogán, Arguineguín y Veneguera, en bancales sin acceso para tractor. Servicio con desplazamiento desde La Palma.",
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/mogan/",
       "provider": {
         "@type": "LocalBusiness",
@@ -108,12 +108,12 @@ Si tu finca está en Veneguera, Arguineguín, Tauro o Mogán y los árboles crec
         {
           "@type": "Question",
           "name": "¿Puede el dron tratar un bancal de mango al que no llega el tractor en Mogán?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si el árbol está al aire libre y el producto tiene autorización para aplicación aérea; la furgoneta se queda en la pista y el dron sube al bancal." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si el árbol está al aire libre y el abono foliar o bioestimulante es de uso permitido en mango; la furgoneta se queda en la pista y el dron sube al bancal." }
         },
         {
           "@type": "Question",
           "name": "¿Trata el dron la araña del aguacate en Mogán?",
-          "acceptedAnswer": { "@type": "Answer", "text": "La pulverización desde arriba cubre la parte alta de la copa; la araña anida en el envés. El técnico mira la finca y decide si el tratamiento aéreo tiene sentido." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. La araña anida en el envés y su control es de la sanidad vegetal del Cabildo y de tu técnico. El dron aplica en el aguacate abonos foliares y bioestimulantes para el vigor del árbol, por ejemplo tras una poda o un verano duro." }
         },
         {
           "@type": "Question",

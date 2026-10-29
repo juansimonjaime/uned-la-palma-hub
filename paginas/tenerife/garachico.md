@@ -3,7 +3,7 @@ title: "Dron agrícola en Garachico | Agrodrón Canarias"
 slug: "garachico"
 meta_description: "Dron agrícola en Garachico mes a mes: platanera de la plataforma costera y viña del Reparo. Desplazamiento desde La Palma. Pide presupuesto a Agrodrón."
 keyword: "dron agrícola en Garachico"
-keywords_secundarias: "fumigar con dron en Garachico, tratamiento con drones en platanera de la Isla Baja, dron fitosanitario Ycoden-Daute-Isora, pulverización aérea en San Juan del Reparo"
+keywords_secundarias: "pulverización con dron en Garachico, tratamiento con drones en platanera de la Isla Baja, dron pulverizador Ycoden-Daute-Isora, abonado foliar con dron en San Juan del Reparo"
 parent: "dron-agricola-tenerife"
 nivel: "B"
 isla: "Tenerife"
@@ -20,13 +20,13 @@ Garachico tenía 204,6 hectáreas de platanera en 2011 según el boletín de Des
 
 La viña del Reparo y Genovés está entre 500 y 900 m [VERIFICAR: cotas], en bancales de medianías. El Cabildo publica avisos por comarca de mildiu, oídio y botritis (datos.tenerife.es), y hacia 2024 marcó riesgo alto de oídio en zonas bajas de la isla entre el 30 de abril y el 7 de mayo.
 
-Primera ventana para el dron en viña: cultivo bajo, bancal estrecho, tratamiento foliar. El DJI Agras T50 sigue el relieve con radar y visión binocular y regula la velocidad con la pendiente; el bancal se trata desde arriba sin pisar las cepas.
+Primera ventana para el dron en viña, no por el oídio (eso va con el aviso) sino para un abono foliar o un bioestimulante en la brotación. Cultivo bajo, bancal estrecho. El DJI Agras T50 sigue el relieve con radar y visión binocular y regula la velocidad con la pendiente; el bancal se trata desde arriba sin pisar las cepas.
 
 ## Verano: envero, botritis y calor en la platanera
 
-A finales de julio y primeros de agosto Agrocabildo ha mantenido riesgo elevado de oídio en zonas vitícolas, riesgo medio de mildiu en algunas comarcas y atención a la botritis en envero (newsletter del 31 de julio, sin año). Segunda ventana en viña.
+A finales de julio y primeros de agosto Agrocabildo ha mantenido riesgo elevado de oídio en zonas vitícolas, riesgo medio de mildiu en algunas comarcas y atención a la botritis en envero (newsletter del 31 de julio, sin año). Segunda ventana del dron en viña, con otro fin: un bioestimulante para la cepa que ha pasado el calor.
 
-En la platanera de la plataforma el verano es de calor: Agroseguro registró en 2024 daños por calor en platanera, sobre todo en La Palma. No hay calendario de plagas con fuente para la platanera [VERIFICAR: épocas de riesgo en platanera del norte de Tenerife]; se decide finca a finca según lo que aparezca en hoja y racimo.
+En la platanera de la plataforma el verano es de calor: Agroseguro registró en 2024 daños por calor en platanera, sobre todo en La Palma. No hay calendario de plagas con fuente para la platanera [VERIFICAR: épocas de riesgo en platanera del norte de Tenerife]; se decide finca a finca si tras el calor conviene un abono foliar.
 
 [IMAGEN: Viña baja en bancales de San Juan del Reparo, Garachico, en pleno envero con el mar de nubes por encima | alt: Viña en envero en los bancales de San Juan del Reparo, Garachico, Tenerife]
 
@@ -34,11 +34,11 @@ En la platanera de la plataforma el verano es de calor: Agroseguro registró en 
 
 La guía del Cabildo (2009) recoge ataques intensos de araña roja y trips que llegan al racimo en zonas plataneras de la isla, favorecidos por humedades del 70-80 % en otoño. En la Isla Baja, a barlovento, esa humedad es la norma.
 
-Es la ventana de la platanera para el dron pulverizador: 40 litros de depósito y hasta 16 L/min con dos boquillas centrífugas o 24 con cuatro (DJI) para mojar hoja y racimo desde arriba. El picudo negro no entra en este calendario: vive en el cormo y se controla con feromonas.
+Ese control es del Cabildo. La ventana de otoño del dron pulverizador en platanera es el abonado foliar tras el verano: 40 litros de depósito y hasta 16 L/min con dos boquillas centrífugas o 24 con cuatro (DJI) para mojar la hoja desde arriba. El picudo negro ni entra: vive en el cormo y se controla con feromonas.
 
 ## Invierno: papa de medianías y viña parada
 
-En las medianías hay papa. El Cabildo emitió aviso de riesgo alto de mildiu de la papa para el norte de Tenerife (hacia 2024) [VERIFICAR: época del aviso]; ese tratamiento es foliar y cabe con dron. La polilla guatemalteca, que castiga al norte con pérdidas cercanas al 50 % en secano (eldiario.es), no: vive en el tubérculo.
+En las medianías hay papa. El Cabildo emitió aviso de riesgo alto de mildiu de la papa para el norte de Tenerife (hacia 2024) [VERIFICAR: época del aviso] y la polilla guatemalteca castiga al norte con pérdidas cercanas al 50 % en secano (eldiario.es): las dos van con lo que marque el Cabildo. Con dron, en la papa, un abono foliar sobre la mata.
 
 La viña en parada no se trata, pero la filoxera se detectó en Tenerife en 2025, con zona demarcada y bioseguridad en la vendimia de 2026 [VERIFICAR: si Garachico está en la zona demarcada]. Es plaga de raíz; no hay pulverización que valga.
 
@@ -52,23 +52,23 @@ La plataforma es terreno cómodo para el dron si la finca va al aire libre, que 
 
 La Isla Baja queda algo abrigada del alisio por el acantilado, pero con brisa marina constante; las medianías entran en el mar de nubes (600-1.500 m). Antes de cada vuelo se mide el viento; con racha o bruma cerrada se aplaza.
 
-Del marco legal, lo justo: el piloto vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01, y solo se aplican productos cuya autorización incluya expresamente la aplicación aérea (anexo VI del Real Decreto 1311/2012). Cada tratamiento lleva autorización del Gobierno de Canarias y plan de aplicación.
+De la parte reglada, lo justo: la plataforma, pegada al casco y al puerto, se mira primero en el mapa de zonas geográficas de UAS de ENAIRE; el piloto, certificado, vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01; y se pulverizan abonos foliares, bioestimulantes y correctores de uso permitido en platanera o viña, a dosis de etiqueta, sobre finca descubierta.
 
 Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [dron agrícola para platanera](https://agrodroncanarias.es/dron-agricola-platanera/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/) y en el vecino [dron agrícola en Icod de los Vinos](https://agrodroncanarias.es/dron-agricola-tenerife/icod-de-los-vinos/).
 
 ## Preguntas frecuentes sobre el dron agrícola en Garachico
 
 ### ¿En qué mes conviene tratar la viña de San Juan del Reparo con dron?
-Cuando el aviso del Cabildo marque riesgo: hacia primeros de mayo para el oídio en zonas bajas y a finales de julio para oídio, mildiu y botritis en envero. Se sigue el aviso.
+En brotación y tras el calor del verano, para un abono foliar o un bioestimulante. Los avisos de oídio, mildiu y botritis del Cabildo marcan el manejo del viticultor, no el del dron.
 
 ### ¿El dron puede tratar la platanera de la plataforma de Garachico en otoño?
-Sí, si va al aire libre y el producto tiene la aplicación aérea en su autorización. En otoño la humedad del 70-80 % favorece trips y araña roja en el racimo (guía del Cabildo, 2009).
+Sí, si va al aire libre, con abonos foliares o correctores de uso permitido en platanera. La humedad del 70-80 % de otoño favorece trips y araña roja (guía del Cabildo, 2009); ese control es del Cabildo.
 
 ### ¿La brisa de la Isla Baja impide volar?
 No por sí sola. Se mide el viento antes de cada vuelo y se aplaza con racha; la brisa de la costa suele dejar trabajar a primera hora.
 
 ### ¿Cuánto hay que avisar para una salida desde La Palma a Garachico?
-Cuanto antes: se agrupan fincas de la Isla Baja y de Icod en la misma salida y la fecha va según disponibilidad. No hay plazo fijo.
+Cuanto antes: se agrupan fincas de la Isla Baja y de Icod en la misma salida y la fecha va según disponibilidad.
 
 ## Pide presupuesto para tu finca de Garachico
 
@@ -80,9 +80,9 @@ Dinos si la finca está en la plataforma o en el Reparo, cultivo, hectáreas y �
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Garachico",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en platanera al aire libre de la plataforma costera y viña de la DO Ycoden-Daute-Isora de Garachico, con desplazamiento desde La Palma y bajo disponibilidad.",
+      "name": "Tratamientos agrícolas con dron en Garachico",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en platanera al aire libre de la plataforma costera y viña de la DO Ycoden-Daute-Isora de Garachico, con desplazamiento desde La Palma y bajo disponibilidad.",
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/garachico/",
       "provider": {
         "@type": "LocalBusiness",
@@ -107,12 +107,12 @@ Dinos si la finca está en la plataforma o en el Reparo, cultivo, hectáreas y �
         {
           "@type": "Question",
           "name": "¿En qué mes conviene tratar la viña de San Juan del Reparo con dron?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Cuando el aviso del Cabildo marque riesgo: hacia primeros de mayo para el oídio en zonas bajas y a finales de julio para oídio, mildiu y botritis en envero. Se sigue el aviso." }
+          "acceptedAnswer": { "@type": "Answer", "text": "En brotación y tras el calor del verano, para un abono foliar o un bioestimulante. Los avisos de oídio, mildiu y botritis del Cabildo marcan el manejo del viticultor, no el del dron." }
         },
         {
           "@type": "Question",
           "name": "¿El dron puede tratar la platanera de la plataforma de Garachico en otoño?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si va al aire libre y el producto tiene la aplicación aérea en su autorización. En otoño la humedad del 70-80 % favorece trips y araña roja en el racimo (guía del Cabildo, 2009)." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si va al aire libre, con abonos foliares o correctores de uso permitido en platanera. La humedad del 70-80 % de otoño favorece trips y araña roja (guía del Cabildo, 2009); ese control es del Cabildo." }
         },
         {
           "@type": "Question",
@@ -122,7 +122,7 @@ Dinos si la finca está en la plataforma o en el Reparo, cultivo, hectáreas y �
         {
           "@type": "Question",
           "name": "¿Cuánto hay que avisar para una salida desde La Palma a Garachico?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Cuanto antes: se agrupan fincas de la Isla Baja y de Icod en la misma salida y la fecha va según disponibilidad. No hay plazo fijo." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Cuanto antes: se agrupan fincas de la Isla Baja y de Icod en la misma salida y la fecha va según disponibilidad." }
         }
       ]
     }

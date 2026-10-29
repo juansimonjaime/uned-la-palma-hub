@@ -1,9 +1,9 @@
 ---
 title: "Dron agrícola para viña en Canarias | Agrodrón"
 slug: "dron-agricola-vina"
-meta_description: "Dron agrícola para viña en Canarias: rastrera, parral, cordón trenzado y hoyos de La Geria frente a mildiu, oídio y botritis. Pide presupuesto a Agrodrón."
+meta_description: "Dron agrícola para viña en Canarias: abonado foliar y bioestimulantes en rastrera, parral, cordón trenzado y hoyos de La Geria. Presupuesto en Agrodrón."
 keyword: "dron agrícola para viña"
-keywords_secundarias: "fumigar viña con dron, tratamiento de mildiu con dron en viñedo, dron fitosanitario para parrales, pulverización aérea en viña canaria, dron para viña rastrera"
+keywords_secundarias: "pulverización con dron en viña, abonado foliar con dron en viñedo, dron pulverizador para parrales, bioestimulantes con dron en viña canaria, dron para viña rastrera"
 parent: ""
 nivel: "cultivo"
 isla: ""
@@ -46,11 +46,13 @@ La filoxera se detectó en Tenerife en 2025, por primera vez en Canarias, con zo
 
 Encaja donde la mochila castiga: rastrera sobre lapilli en pendiente, con el pie hundiéndose a cada paso; terrazas de Tacoronte-Acentejo a 300-750 m que ningún tractor baja; Los Frontones de Vilaflor entre 1.100 y 1.600 m; parcelas de La Geria a las que se llega por pista de picón.
 
+Lo que sube al depósito es un abono foliar, un bioestimulante o un corrector de carencias de uso permitido en viña, a la dosis de su etiqueta: productos pensados para el vigor de la cepa y para que se rehaga tras un golpe de calor, un alisio que ha quemado hoja o una vendimia larga. La vendimia de Gran Canaria de 2023 cayó un 20,6 % por falta de lluvia y altas temperaturas (Forbes); en campañas así es cuando se plantea un foliar.
+
 El T50 lleva 40 litros y pulveriza hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha de DJI); en parcelas de pocas fanegadas ese depósito se queda corto pocas veces. El radar de matriz en fase y la visión binocular lo pegan al relieve, frenan ante un muro o una horqueta y ajustan la velocidad a la pendiente.
 
-No encaja con filoxera, con alisio fuerte sobre los zocos de La Geria o los lomos del sur de La Palma (se espera), ni con un producto sin uso aéreo en la etiqueta, sea cual sea el hongo.
+No encaja contra la filoxera ni contra mildiu, oídio o botritis: eso va por los avisos y por lo que indique sanidad vegetal del Cabildo. Tampoco con alisio fuerte sobre los zocos de La Geria o los lomos del sur de La Palma (se espera), ni con un producto que no sea de uso permitido en viña.
 
-El vuelo se planifica sobre el plano con los datos de la parcela y se aplica la dosis de la etiqueta y del plan de aplicación. Ese plan no es un papel cualquiera: en España la aplicación aérea de fitosanitarios está prohibida con carácter general y solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28), y solo con productos cuya autorización incluya expresamente la aplicación aérea (anexo VI).
+El vuelo se dibuja sobre el plano de la parcela y se contrasta con las zonas geográficas de UAS de ENAIRE: una rastrera del Hoyo de Mazo queda a un paso del aeropuerto de La Palma y eso condiciona el plan. Agrodrón vuela en la categoría específica de AESA/EASA (STS o PDRA-S01) con piloto certificado, solo sobre viña al aire libre, y con lluvia, niebla o viento fuerte no despega.
 
 [IMAGEN: Hoyos de viña con zocos de piedra en La Geria, con un dron agrícola sobrevolando las cepas aisladas en el picón | alt: Viñedo en hoyos y zocos de La Geria, Lanzarote, con dron pulverizador en vuelo]
 
@@ -63,23 +65,23 @@ En La Palma, [dron agrícola en Fuencaliente](https://agrodroncanarias.es/dron-a
 ## Preguntas frecuentes sobre el dron en la viña canaria
 
 ### ¿Se puede tratar con dron una viña en parral?
-Sí, al aire libre y con producto autorizado para uso aéreo. El dron moja la cara superior de la parra; lo que llega al racimo depende del producto, de la gota y de la densidad de hoja, y se comprueba en la finca.
+Sí, al aire libre y con un producto de uso permitido en viña. El dron moja la cara superior de la parra; lo que llega al racimo depende del producto, de la gota y de la densidad de hoja, y se comprueba en la finca.
 
 ### ¿Sirve el dron contra la filoxera detectada en Tenerife en 2025?
-No. Ataca la raíz y se maneja con prospecciones, zona demarcada y restricciones al movimiento de material vegetal. El dron trata lo que va por hoja y racimo: mildiu, oídio y botritis.
+No. Ataca la raíz y se maneja con prospecciones, zona demarcada y restricciones al movimiento de material vegetal. El dron se usa en la viña para abonado foliar y bioestimulantes, no contra plagas ni hongos.
 
-### ¿Cuándo hay que tratar la viña en Canarias?
-Cuando lo marquen los avisos semanales por comarca. En Tenerife el Cabildo ha señalado oídio alto en zonas bajas a finales de abril y, a finales de julio, oídio, mildiu y botritis en envero.
+### ¿Cuándo tiene sentido un abonado foliar con dron en la viña?
+Cuando lo pidan el producto y el momento del ciclo: brotación, cuajado, envero o después de un golpe de calor o de viento que haya castigado la hoja. Los avisos semanales del Cabildo para mildiu, oídio y botritis van por otra vía.
 
 ### ¿Tratáis viñas de La Geria o de El Hierro desde La Palma?
 Sí, con desplazamiento y según disponibilidad. Compensa agrupar fincas de una misma comarca para una misma salida.
 
-### ¿Cuánto cuesta fumigar con dron una viña?
+### ¿Cuánto cuesta pulverizar una viña con dron?
 Depende de la superficie, del sistema de conducción (un hoyo de La Geria no es una terraza de Acentejo), del acceso y del producto. Con esos datos se prepara el presupuesto.
 
 ## Pide presupuesto para tu viña
 
-Dinos municipio, cómo va conducida la viña, hectáreas o número de cepas, acceso y qué quieres tratar. Te decimos si el dron encaja y te mandamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/). En La Palma sin desplazamiento; en el resto de islas, con desplazamiento y bajo disponibilidad.
+Dinos municipio, cómo va conducida la viña, hectáreas o número de cepas, acceso y qué producto quieres aplicar. Te decimos si el dron encaja y te mandamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/). En La Palma sin desplazamiento; en el resto de islas, con desplazamiento y bajo disponibilidad.
 
 ```json
 {
@@ -87,9 +89,9 @@ Dinos municipio, cómo va conducida la viña, hectáreas o número de cepas, acc
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola para viña en Canarias",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en viña rastrera, parral, cordón trenzado, vaso y hoyos de La Geria frente a mildiu, oídio y botritis, con base en La Palma y desplazamiento al resto de Canarias.",
+      "name": "Tratamientos agrícolas con dron para viña en Canarias",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares, bioestimulantes y correctores de carencias con dron DJI Agras T50 en viña rastrera, parral, cordón trenzado, vaso y hoyos de La Geria, con base en La Palma y desplazamiento al resto de Canarias.",
       "url": "https://agrodroncanarias.es/dron-agricola-vina/",
       "provider": {
         "@type": "LocalBusiness",
@@ -110,17 +112,17 @@ Dinos municipio, cómo va conducida la viña, hectáreas o número de cepas, acc
         {
           "@type": "Question",
           "name": "¿Se puede tratar con dron una viña en parral?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, al aire libre y con producto autorizado para uso aéreo. El dron moja la cara superior de la parra; lo que llega al racimo depende del producto, de la gota y de la densidad de hoja, y se comprueba en la finca." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, al aire libre y con un producto de uso permitido en viña. El dron moja la cara superior de la parra; lo que llega al racimo depende del producto, de la gota y de la densidad de hoja, y se comprueba en la finca." }
         },
         {
           "@type": "Question",
           "name": "¿Sirve el dron contra la filoxera detectada en Tenerife en 2025?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. Ataca la raíz y se maneja con prospecciones, zona demarcada y restricciones al movimiento de material vegetal. El dron trata lo que va por hoja y racimo: mildiu, oídio y botritis." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. Ataca la raíz y se maneja con prospecciones, zona demarcada y restricciones al movimiento de material vegetal. El dron se usa en la viña para abonado foliar y bioestimulantes, no contra plagas ni hongos." }
         },
         {
           "@type": "Question",
-          "name": "¿Cuándo hay que tratar la viña en Canarias?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Cuando lo marquen los avisos semanales por comarca. En Tenerife el Cabildo ha señalado oídio alto en zonas bajas a finales de abril y, a finales de julio, oídio, mildiu y botritis en envero." }
+          "name": "¿Cuándo tiene sentido un abonado foliar con dron en la viña?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Cuando lo pidan el producto y el momento del ciclo: brotación, cuajado, envero o después de un golpe de calor o de viento que haya castigado la hoja. Los avisos semanales del Cabildo para mildiu, oídio y botritis van por otra vía." }
         },
         {
           "@type": "Question",
@@ -129,7 +131,7 @@ Dinos municipio, cómo va conducida la viña, hectáreas o número de cepas, acc
         },
         {
           "@type": "Question",
-          "name": "¿Cuánto cuesta fumigar con dron una viña?",
+          "name": "¿Cuánto cuesta pulverizar una viña con dron?",
           "acceptedAnswer": { "@type": "Answer", "text": "Depende de la superficie, del sistema de conducción (un hoyo de La Geria no es una terraza de Acentejo), del acceso y del producto. Con esos datos se prepara el presupuesto." }
         }
       ]

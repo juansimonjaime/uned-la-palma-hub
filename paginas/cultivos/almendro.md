@@ -3,7 +3,7 @@ title: "Dron agrícola para almendro en Canarias | Agrodrón"
 slug: "dron-agricola-almendro"
 meta_description: "Dron agrícola para almendro en Canarias: árboles de secano dispersos en lomos y bancales de Puntagorda, Garafía o Vilaflor. Pide presupuesto a Agrodrón."
 keyword: "dron agrícola para almendro"
-keywords_secundarias: "fumigar almendros con dron, tratamiento de almendro en pendiente con dron, dron fitosanitario para almendro de secano, pulverización aérea en almendros, dron para almendros dispersos"
+keywords_secundarias: "pulverización con dron en almendros, abonado foliar con dron en almendro de secano, dron pulverizador para almendros en pendiente, bioestimulantes con dron en almendro, dron para almendros dispersos"
 parent: ""
 nivel: "cultivo"
 isla: ""
@@ -44,11 +44,13 @@ En Puntagorda y Garafía no hay plaga de almendro documentada localmente [VERIFI
 
 Un almendro adulto es un árbol de copa abierta, más alto que una persona y más bajo que un aguacatero viejo. El dron pulveriza desde encima y cubre mejor cuanto más abierta esté la copa. Con árboles dispersos el vuelo se planifica por puntos, parándose sobre cada pie o grupo, no por pasadas paralelas.
 
+Lo que se aplica es un abono foliar, un bioestimulante o un corrector de carencias de uso permitido en almendro, a la dosis de la etiqueta: productos pensados para el vigor del árbol y para ayudarle a rehacerse tras una helada en Tejeda o Vilaflor, un verano seco en los lomos de Puntagorda o el vareo de la cosecha. Contra monilia, tigre o cabezudo no va; eso se maneja con lo que indique el Cabildo.
+
 Los 40 litros del T50 dan para muchos árboles así, porque el gasto va por copa y no por superficie; el caudal de 16 L/min con dos boquillas centrífugas o 24 con cuatro (ficha de DJI) se ajusta a la etiqueta. El radar de matriz en fase y la visión binocular mantienen la altura sobre la copa cuando el bancal baja un escalón y adaptan la velocidad a la pendiente.
 
 En Tejeda y Vilaflor la altitud y el viento de cresta se valoran antes de comprometer un vuelo [VERIFICAR: comportamiento del T50 por encima de 1.000 m]. En Puntagorda manda el viento de componente norte-noroeste.
 
-Lo legal, que no se salta: en España la aplicación aérea de productos fitosanitarios está prohibida con carácter general y solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). El piloto de Agrodrón, con certificados AESA/EASA (PDRA-S01, operador STS), vuela en la categoría específica. El expediente va al Gobierno de Canarias con los datos de tu finca y del producto.
+Lo que no se salta: el piloto de Agrodrón, con certificados AESA/EASA (PDRA-S01, operador STS), vuela en la categoría específica, y antes de subir a Las Tricias o a Timagada el plano de vuelo se contrasta con las zonas geográficas de UAS de ENAIRE. Solo árboles al aire libre, que en el almendro son todos, y sin despegar con viento fuerte, lluvia o niebla: la ventana se decide en la finca el mismo día.
 
 [IMAGEN: Dron agrícola sobrevolando almendros dispersos en un lomo de Las Tricias, Garafía, con el barranco y el mar de nubes detrás | alt: Dron pulverizador sobre almendros de secano en Las Tricias, Garafía, La Palma]
 
@@ -60,24 +62,24 @@ Tenerife y Gran Canaria llevan desplazamiento y quedan sujetas a disponibilidad:
 
 ## Preguntas frecuentes sobre el dron en el almendro canario
 
-### ¿Se puede tratar con dron una finca de almendros dispersos?
+### ¿Se puede pulverizar con dron una finca de almendros dispersos?
 Sí. El vuelo se planifica por árbol o por grupo, no por pasadas, y el gasto de caldo va por copa. Es lo habitual en Puntagorda, Garafía o Tejeda, donde casi no hay plantaciones regulares.
 
-### ¿Cuándo se trata el almendro?
-Depende de la plaga y de la etiqueta del producto. La bibliografía sitúa la mayor susceptibilidad a monilia en floración y maduración con humedad alta (Vida Rural, 2004), pero en Canarias falta un calendario con fuente propia.
+### ¿Cuándo se aplica un foliar en el almendro?
+Según el producto y el momento del árbol: con hoja activa tras el cuajado, en el engorde del fruto o después de la cosecha, y tras una helada o un golpe de viento en Tejeda o Vilaflor. El calendario de la monilia (floración y maduración con humedad, Vida Rural 2004) es cosa de sanidad vegetal, no del dron.
 
 ### ¿El dron vuela en Tejeda o Vilaflor, por encima de los 1.000 metros?
 La altitud y el viento de cumbre se valoran antes de cada vuelo y pueden descartar un día o una parcela. No se da por hecho hasta estudiar la finca.
 
 ### ¿Hay plagas del almendro confirmadas en Canarias?
-Con fuente canaria, el tigre del almendro (Monosteira unicostata). Monilia y gusano cabezudo están documentados en la Península y faltan datos para las islas.
+Con fuente canaria, el tigre del almendro (Monosteira unicostata). Monilia y gusano cabezudo están documentados en la Península y faltan datos para las islas. En cualquier caso, el dron no se usa contra ellas.
 
 ### ¿Qué cuesta tratar unos almendros con dron?
 Depende del número de árboles, de lo dispersos que estén, del acceso y del producto. Con esos datos se prepara el presupuesto; una tarifa por hectárea aquí no tendría sentido.
 
 ## Pide presupuesto para tus almendros
 
-Dinos municipio, cuántos árboles tienes y cómo están repartidos, cómo se sube a la finca y qué quieres tratar. Te decimos si el dron encaja y te preparamos presupuesto en [Agrodrón Canarias](https://agrodroncanarias.es/). Puntagorda y Garafía sin desplazamiento; Tenerife y Gran Canaria con él y según agenda.
+Dinos municipio, cuántos árboles tienes y cómo están repartidos, cómo se sube a la finca y qué quieres aplicar. Te decimos si el dron encaja y te preparamos presupuesto en [Agrodrón Canarias](https://agrodroncanarias.es/). Puntagorda y Garafía sin desplazamiento; Tenerife y Gran Canaria con él y según agenda.
 
 ```json
 {
@@ -85,9 +87,9 @@ Dinos municipio, cuántos árboles tienes y cómo están repartidos, cómo se su
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola para almendro en Canarias",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización árbol a árbol con dron DJI Agras T50 en almendros de secano dispersos en lomos y bancales de La Palma, Tenerife y Gran Canaria, con base en Santa Cruz de La Palma.",
+      "name": "Tratamientos agrícolas con dron para almendro en Canarias",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización árbol a árbol de abonos foliares y bioestimulantes con dron DJI Agras T50 en almendros de secano dispersos en lomos y bancales de La Palma, Tenerife y Gran Canaria, con base en Santa Cruz de La Palma.",
       "url": "https://agrodroncanarias.es/dron-agricola-almendro/",
       "provider": {
         "@type": "LocalBusiness",
@@ -107,13 +109,13 @@ Dinos municipio, cuántos árboles tienes y cómo están repartidos, cómo se su
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "¿Se puede tratar con dron una finca de almendros dispersos?",
+          "name": "¿Se puede pulverizar con dron una finca de almendros dispersos?",
           "acceptedAnswer": { "@type": "Answer", "text": "Sí. El vuelo se planifica por árbol o por grupo, no por pasadas, y el gasto de caldo va por copa. Es lo habitual en Puntagorda, Garafía o Tejeda, donde casi no hay plantaciones regulares." }
         },
         {
           "@type": "Question",
-          "name": "¿Cuándo se trata el almendro?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la plaga y de la etiqueta del producto. La bibliografía sitúa la mayor susceptibilidad a monilia en floración y maduración con humedad alta (Vida Rural, 2004), pero en Canarias falta un calendario con fuente propia." }
+          "name": "¿Cuándo se aplica un foliar en el almendro?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Según el producto y el momento del árbol: con hoja activa tras el cuajado, en el engorde del fruto o después de la cosecha, y tras una helada o un golpe de viento en Tejeda o Vilaflor. El calendario de la monilia (floración y maduración con humedad, Vida Rural 2004) es cosa de sanidad vegetal, no del dron." }
         },
         {
           "@type": "Question",
@@ -123,7 +125,7 @@ Dinos municipio, cuántos árboles tienes y cómo están repartidos, cómo se su
         {
           "@type": "Question",
           "name": "¿Hay plagas del almendro confirmadas en Canarias?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Con fuente canaria, el tigre del almendro (Monosteira unicostata). Monilia y gusano cabezudo están documentados en la Península y faltan datos para las islas." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Con fuente canaria, el tigre del almendro (Monosteira unicostata). Monilia y gusano cabezudo están documentados en la Península y faltan datos para las islas. En cualquier caso, el dron no se usa contra ellas." }
         },
         {
           "@type": "Question",

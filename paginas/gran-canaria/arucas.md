@@ -3,7 +3,7 @@ title: "Dron agrícola en Arucas | Agrodrón Canarias"
 slug: "arucas"
 meta_description: "Dron agrícola en Arucas para platanera entre cortavientos en Bañaderos y bancales de medianías. Desplazamiento desde La Palma; pide presupuesto."
 keyword: "dron agrícola en Arucas"
-keywords_secundarias: "fumigar con dron en Arucas, tratamiento con drones en platanera de Bañaderos, dron fitosanitario norte de Gran Canaria, pulverización aérea en Arucas"
+keywords_secundarias: "pulverización con dron en Arucas, tratamiento con drones en platanera de Bañaderos, dron pulverizador norte de Gran Canaria, abonado foliar con dron en Arucas"
 parent: "dron-agricola-gran-canaria"
 nivel: "B"
 isla: "Gran Canaria"
@@ -38,7 +38,9 @@ Durante la aplicación nadie está bajo la nube de caldo y la finca no se pisa c
 
 ## Cultivos y plagas documentadas en Arucas
 
-El picudo negro (Cosmopolites sordidus) se detectó por primera vez en Canarias en 1945 en la finca El Carril, en Arucas (revista La Granja del Cabildo, informe de GMR Canarias). Vive en el cormo y se maneja con trampas, no con pulverización. Araña roja (Tetranychus urticae) y trips (Hercinothrips) son las plagas de hoja y fruto documentadas a escala de Canarias (Phytoma 2025, Koppert), y ahí sí cabe un tratamiento aéreo si el plan de aplicación lo recoge.
+El picudo negro (Cosmopolites sordidus) se detectó por primera vez en Canarias en 1945 en la finca El Carril, en Arucas (revista La Granja del Cabildo, informe de GMR Canarias). Vive en el cormo y se maneja con trampas, no con pulverización.
+
+Araña roja (Tetranychus urticae) y trips (Hercinothrips) son las plagas de hoja y fruto documentadas a escala de Canarias (Phytoma 2025, Koppert); su control es cosa de sanidad vegetal. El dron aplica otra cosa: abono foliar, bioestimulantes o un corrector de carencias tras el corte de la piña o una racha de alisio.
 
 Fuera de la platanera, Arucas tiene hortalizas, papa de medianías y flores [VERIFICAR: hectáreas por cultivo en Arucas], y el proyecto Lairaga Tropical del Cabildo lo incluye entre los municipios con tierras en desuso a recuperar para mango, aguacate y papaya. Mango y aguacate al aire libre son tratables; la papaya suele ir bajo malla.
 
@@ -46,7 +48,7 @@ Páginas relacionadas: [dron agrícola en Gran Canaria](https://agrodroncanarias
 
 ## La ley, en dos frases
 
-En España la aplicación aérea de productos fitosanitarios está prohibida con carácter general y solo se autoriza en casos especiales, con permiso previo del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). Y solo con productos cuya autorización incluya expresamente la aplicación aérea (anexo VI del mismo decreto): cada tratamiento en Arucas pasa por el Gobierno de Canarias antes de volar.
+Agrodrón opera en la categoría específica de AESA, en escenarios estándar STS o bajo el PDRA-S01, con piloto certificado, y comprueba cada parcela de Bañaderos o Cardones en el mapa de zonas geográficas de UAS de ENAIRE antes de planificar. En el depósito solo va producto de uso permitido en el cultivo, a dosis de etiqueta, sobre platanera o frutal descubiertos.
 
 ## Preguntas frecuentes sobre el dron agrícola en Arucas
 
@@ -54,7 +56,7 @@ En España la aplicación aérea de productos fitosanitarios está prohibida con
 Sí, mientras la platanera esté descubierta por arriba. Los muros se cargan como obstáculos en el plan de vuelo y el radar los detecta; el dron trata desde encima del dosel sin entrar en los pasillos.
 
 ### ¿Sirve el dron contra el picudo negro que apareció en Arucas en 1945?
-No. El picudo vive en el cormo, fuera del alcance de una pulverización aérea; el manejo documentado son las trampas de feromonas. El dron encaja con araña roja o trips, que están en la hoja.
+No. El picudo vive en el cormo, fuera del alcance de cualquier pulverización, y su manejo es el que marca el Cabildo: trampas de feromonas. El dron se usa para abonado foliar y bioestimulantes, no contra plagas.
 
 ### ¿Qué hace falta para que una finca de Arucas entre en una salida desde La Palma?
 Datos de la parcela, producto previsto y margen de tiempo. Fuera de La Palma el servicio lleva desplazamiento y depende de la disponibilidad del equipo; con varias fincas de la comarca juntas, la visita se cuadra mejor.
@@ -67,7 +69,7 @@ Depende de la superficie, el cultivo, los accesos, el producto y el desplazamien
 
 ## Presupuesto para tu finca en Arucas
 
-Mándanos la zona (Bañaderos, Cardones, Trasmontaña, Santidad...), el cultivo, las hectáreas y lo que quieres tratar, y te decimos si el dron encaja. El presupuesto llega con el desplazamiento desde La Palma desglosado. Escribe a [Agrodrón Canarias](https://agrodroncanarias.es/).
+Mándanos la zona (Bañaderos, Cardones, Trasmontaña, Santidad...), el cultivo, las hectáreas y lo que quieres aplicar, y te decimos si el dron encaja. El presupuesto llega con el desplazamiento desde La Palma desglosado. Escribe a [Agrodrón Canarias](https://agrodroncanarias.es/).
 
 ```json
 {
@@ -75,9 +77,9 @@ Mándanos la zona (Bañaderos, Cardones, Trasmontaña, Santidad...), el cultivo,
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Arucas",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en la platanera entre cortavientos de Bañaderos, El Puertillo, Cardones y Trasmontaña y en los bancales de medianías de Arucas, con desplazamiento desde La Palma bajo consulta.",
+      "name": "Tratamientos agrícolas con dron en Arucas",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en la platanera entre cortavientos de Bañaderos, El Puertillo, Cardones y Trasmontaña y en los bancales de medianías de Arucas, con desplazamiento desde La Palma bajo consulta.",
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/arucas/",
       "provider": {
         "@type": "LocalBusiness",
@@ -107,7 +109,7 @@ Mándanos la zona (Bañaderos, Cardones, Trasmontaña, Santidad...), el cultivo,
         {
           "@type": "Question",
           "name": "¿Sirve el dron contra el picudo negro que apareció en Arucas en 1945?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. El picudo vive en el cormo, fuera del alcance de una pulverización aérea; el manejo documentado son las trampas de feromonas. El dron encaja con araña roja o trips, que están en la hoja." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. El picudo vive en el cormo, fuera del alcance de cualquier pulverización, y su manejo es el que marca el Cabildo: trampas de feromonas. El dron se usa para abonado foliar y bioestimulantes, no contra plagas." }
         },
         {
           "@type": "Question",

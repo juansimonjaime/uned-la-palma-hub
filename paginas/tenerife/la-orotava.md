@@ -3,7 +3,7 @@ title: "Dron agrícola en La Orotava | Agrodrón Canarias"
 slug: "la-orotava"
 meta_description: "Dron agrícola en La Orotava para la papa en bancal, la viña del Valle y la platanera de costa. Salimos desde La Palma con desplazamiento: pide presupuesto."
 keyword: "dron agrícola en La Orotava"
-keywords_secundarias: "fumigar con dron en La Orotava, tratamiento con drones en papa del Valle de La Orotava, dron fitosanitario norte de Tenerife, pulverización aérea en viña de cordón trenzado"
+keywords_secundarias: "pulverización con dron en La Orotava, tratamiento con drones en papa del Valle de La Orotava, abonado foliar con dron norte de Tenerife, dron pulverizador en viña de cordón trenzado"
 parent: "dron-agricola-tenerife"
 nivel: "B"
 isla: "Tenerife"
@@ -26,29 +26,29 @@ La viña del Valle suma 313,1 ha según Agrocabildo (2024), un 47,8 % menos que 
 
 La polilla guatemalteca (Tecia solanivora) entró en Tenerife por Icod de los Vinos en 1999 y castiga sobre todo al norte, con pérdidas cercanas al 50 % en medianías y secano (Cabildo, eldiario.es). Mojar la hoja no toca a la larva, que vive en el tubérculo.
 
-El mildiu de la papa sí va por la hoja, y el Cabildo emitió aviso de riesgo alto para el norte de Tenerife (hacia 2024).
+El mildiu de la papa tuvo aviso de riesgo alto del Cabildo para el norte de Tenerife (hacia 2024); el dron no entra ahí.
 
 En viña, el Cabildo publica avisos por comarca de mildiu, oídio y botritis (datos.tenerife.es); el oídio estuvo en riesgo alto en zonas bajas del 30 de abril al 7 de mayo. Agrocabildo estudió en 2024 los hongos de la madera en el Valle, y la filoxera se detectó en Tenerife en 2025 [VERIFICAR: si el Valle entra en la zona demarcada].
 
 ## Por qué un dron agrícola en La Orotava encaja en bancal de papa y viña tendida
 
-Un bancal de papa a 800 m no admite tractor, y con la mochila hay que recorrerlo cuesta arriba. La papa es cultivo bajo y en surcos: el dron pasa por encima sin pisar la tierra aporcada. Para un foliar contra mildiu, con producto autorizado para aplicación aérea, esa cobertura es lo que interesa.
+Un bancal de papa a 800 m no admite tractor, y con la mochila hay que recorrerlo cuesta arriba. La papa es cultivo bajo y en surcos: el dron pasa por encima sin pisar la tierra aporcada. Para un abono foliar o un bioestimulante tras una racha de viento o un golpe de calor, esa cobertura uniforme es lo que interesa.
 
 La viña en cordón trenzado es baja, larga y va en pendiente con quiebros. El DJI Agras T50 sigue el relieve con radar de matriz en fase y visión binocular, detecta postes, muros y cables, y regula la velocidad según la cuesta. Depósito de 40 litros; hasta 16 L/min con dos boquillas o 24 con cuatro (DJI).
 
 [IMAGEN: Viña baja en cordón trenzado sobre una ladera del Valle de La Orotava, con La Perdoma al fondo | alt: Viña en cordón trenzado del Valle de La Orotava, Tenerife, en pendiente hacia la costa]
 
-Lo que no encaja: polilla en el tubérculo, hongos de la madera en el tronco, filoxera en la raíz, picudo en el cormo. Ninguno se arregla con pulverización aérea.
+Lo que no encaja: polilla en el tubérculo, hongos de la madera en el tronco, filoxera en la raíz, picudo en el cormo. Ninguno se arregla desde el aire: son asunto de sanidad vegetal del Cabildo.
 
 ## Cómo se organiza un tratamiento en el Valle
 
-Recogemos pago, cultivo, superficie, accesos y obstáculos (cables, cortavientos, árboles altos). Se planifica el vuelo sobre el mapa, se comprueba el viento, se aplica la dosis de la etiqueta y del plan de aplicación, y se registra. Conviene juntar varias fincas del Valle en una salida.
+Recogemos pago, cultivo, superficie, accesos y obstáculos (cables, cortavientos, árboles altos). Se planifica el vuelo sobre el mapa, se comprueba el viento, se aplica el producto a la dosis de su etiqueta y se registra. Conviene juntar varias fincas del Valle en una salida.
 
-## Límites: malla, nieblas y autorización
+## Límites: malla, nieblas y zonas de vuelo
 
 La platanera bajo malla o invernadero no se trata desde el aire. En el norte de Tenerife la mayoría está al aire libre [VERIFICAR: porcentaje bajo malla en La Orotava]. Y las medianías pasan buena parte del año dentro del mar de nubes: con niebla cerrada o racha fuerte no se vuela.
 
-Lo legal, sin rodeos: la aplicación aérea de fitosanitarios está prohibida en España con carácter general y solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). El Ministerio considera los tratamientos con dron tratamientos aéreos (nota MAPA-AESA, 2018): cada trabajo pasa por ese trámite.
+Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el PDRA-S01, con piloto certificado, y antes de salir se consulta el mapa de zonas geográficas de UAS de ENAIRE para el pago exacto del Valle. En el depósito solo van abonos foliares, bioestimulantes y correctores de uso permitido en el cultivo, a dosis de etiqueta, y solo sobre finca descubierta.
 
 ## Platanera y aguacate en la costa del municipio
 
@@ -56,25 +56,25 @@ La platanera de costa pasó de 764 a 174 ha por la presión urbana (Investigacio
 
 En aguacate era el primer municipio de la isla con 93,8 ha (libro del Cabildo, cifra antigua); la araña cristalina apareció en el 81,5 % de las parcelas encuestadas.
 
-Más detalle en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/) y en la vecina [dron agrícola en Los Realejos](https://agrodroncanarias.es/dron-agricola-tenerife/los-realejos/).
+Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/) y en la vecina [dron agrícola en Los Realejos](https://agrodroncanarias.es/dron-agricola-tenerife/los-realejos/).
 
 ## Preguntas frecuentes sobre el dron agrícola en La Orotava
 
 ### ¿Se puede tratar con dron la papa de los bancales altos de La Orotava?
-Sí, si el producto tiene autorización para aplicación aérea. Cultivo bajo, en surcos y en pendiente donde el tractor no entra. El límite lo pone la niebla.
+Sí, con abonos foliares o bioestimulantes de uso permitido en papa. Cultivo bajo, en surcos y en pendiente donde el tractor no entra. El límite lo pone la niebla.
 
 ### ¿El dron sirve contra la polilla guatemalteca de la papa?
-No. La Tecia solanivora vive dentro del tubérculo; lo documentado es el monitoreo con feromonas y el tratamiento en almacén (ICIA). El dron encaja con problemas de hoja como el mildiu.
+No. La Tecia solanivora vive dentro del tubérculo; lo documentado es el monitoreo con feromonas y el control en almacén (ICIA). El dron se queda en el abonado foliar y los bioestimulantes.
 
 ### ¿Cómo se trata la viña en cordón trenzado sin pisar las parras?
 Desde arriba. El T50 sigue el relieve de la ladera con radar y ajusta la velocidad a la pendiente; nadie entra entre las cepas con la mochila.
 
 ### ¿Cuánto tarda en venir el dron desde La Palma a La Orotava?
-No damos plazos. Fuera de La Palma el servicio es con desplazamiento y depende de la disponibilidad; lo normal es salir cuando hay varias fincas en la misma zona.
+Fuera de La Palma el servicio es con desplazamiento y depende de la disponibilidad; lo normal es salir cuando hay varias fincas en la misma zona.
 
 ## Pide presupuesto para tu finca de La Orotava
 
-Dinos el pago, el cultivo, las hectáreas y el problema que quieres tratar. Te confirmamos si el dron encaja y te mandamos presupuesto con el desplazamiento incluido desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Dinos el pago, el cultivo, las hectáreas y el producto que quieres aplicar. Te confirmamos si el dron encaja y te mandamos presupuesto con el desplazamiento incluido desde [Agrodrón Canarias](https://agrodroncanarias.es/).
 
 ```json
 {
@@ -82,9 +82,9 @@ Dinos el pago, el cultivo, las hectáreas y el problema que quieres tratar. Te c
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en La Orotava",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en papa de bancal, viña de la DO Valle de La Orotava y platanera al aire libre de La Orotava, con desplazamiento desde La Palma y bajo disponibilidad.",
+      "name": "Tratamientos agrícolas con dron en La Orotava",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en papa de bancal, viña de la DO Valle de La Orotava y platanera al aire libre de La Orotava, con desplazamiento desde La Palma y bajo disponibilidad.",
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/la-orotava/",
       "provider": {
         "@type": "LocalBusiness",
@@ -109,12 +109,12 @@ Dinos el pago, el cultivo, las hectáreas y el problema que quieres tratar. Te c
         {
           "@type": "Question",
           "name": "¿Se puede tratar con dron la papa de los bancales altos de La Orotava?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si el producto tiene autorización para aplicación aérea. Cultivo bajo, en surcos y en pendiente donde el tractor no entra. El límite lo pone la niebla." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, con abonos foliares o bioestimulantes de uso permitido en papa. Cultivo bajo, en surcos y en pendiente donde el tractor no entra. El límite lo pone la niebla." }
         },
         {
           "@type": "Question",
           "name": "¿El dron sirve contra la polilla guatemalteca de la papa?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. La Tecia solanivora vive dentro del tubérculo; lo documentado es el monitoreo con feromonas y el tratamiento en almacén (ICIA). El dron encaja con problemas de hoja como el mildiu." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. La Tecia solanivora vive dentro del tubérculo; lo documentado es el monitoreo con feromonas y el control en almacén (ICIA). El dron se queda en el abonado foliar y los bioestimulantes." }
         },
         {
           "@type": "Question",
@@ -124,7 +124,7 @@ Dinos el pago, el cultivo, las hectáreas y el problema que quieres tratar. Te c
         {
           "@type": "Question",
           "name": "¿Cuánto tarda en venir el dron desde La Palma a La Orotava?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No damos plazos. Fuera de La Palma el servicio es con desplazamiento y depende de la disponibilidad; lo normal es salir cuando hay varias fincas en la misma zona." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Fuera de La Palma el servicio es con desplazamiento y depende de la disponibilidad; lo normal es salir cuando hay varias fincas en la misma zona." }
         }
       ]
     }

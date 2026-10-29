@@ -3,7 +3,7 @@ title: "Dron agrícola en Tegueste | Agrodrón Canarias"
 slug: "tegueste"
 meta_description: "Dron agrícola en Tegueste: respuestas para viticultores del valle y de El Socorro, papa temprana y huerta. Desplazamiento desde La Palma. Pide presupuesto."
 keyword: "dron agrícola en Tegueste"
-keywords_secundarias: "fumigar con dron en Tegueste, tratamiento con drones en viña de El Socorro, dron fitosanitario Tegueste, pulverización aérea en papa temprana teguestera"
+keywords_secundarias: "pulverización con dron en Tegueste, tratamiento con drones en viña de El Socorro, abonado foliar con dron Tegueste, dron pulverizador en papa temprana teguestera"
 parent: "dron-agricola-tenerife"
 nivel: "B"
 isla: "Tenerife"
@@ -16,7 +16,7 @@ Tegueste es un valle interior sin salida al mar, encajado entre lomas, con más 
 
 [IMAGEN: Viñas en el fondo del valle de Tegueste con las lomas alrededor y niebla bajando desde Anaga | alt: Viñedo en el valle de Tegueste, Tenerife, con las lomas y la niebla de Anaga al fondo]
 
-## ¿Se puede fumigar con dron una viña de Tegueste o de El Socorro?
+## ¿Se puede pulverizar con dron una viña de Tegueste o de El Socorro?
 
 Sí: en Tegueste la viña está toda al aire libre. El valle figura entre los municipios con más registros de viña en el Diagnóstico de la viticultura en Canarias (diciembre de 2020), y parte del término entra en la DO Tacoronte-Acentejo. GEVIC habla de más de 300 hectáreas y llama a la viña "producto estrella", sin fecha para la cifra [VERIFICAR: hectáreas actuales de viña en Tegueste en el Mapa de Cultivos].
 
@@ -26,25 +26,25 @@ Lo que cambia entre parcelas es el relieve: en el fondo del valle las pendientes
 
 Un DJI Agras T50 carga 40 litros y pulveriza con boquillas centrífugas, 16 litros por minuto con dos y 24 con cuatro (ficha técnica de DJI). Vuela sobre la cepa siguiendo el terreno con radar de matriz en fase y visión binocular, y adapta la velocidad a la pendiente. El caldo es el mismo, a la dosis de etiqueta; lo que cambia es que nadie camina entre las cepas con el producto encima.
 
-La niebla que baja de Anaga mantiene la humedad alta en Tegueste pese a estar abrigado. Eso ayuda a los hongos y acorta las ventanas para volar seco y sin viento: se miran el día antes y el mismo día.
+La niebla que baja de Anaga mantiene la humedad alta pese a estar abrigado y acorta las ventanas para volar seco y sin viento: se miran el día antes y el mismo día, y con niebla cerrada o lluvia no se despega.
 
-## ¿Llega el dron a tiempo cuando el Cabildo avisa de oídio o mildiu?
+## ¿Qué hace el dron en la viña y qué queda para el Cabildo?
 
-Depende de cuándo avises. El Cabildo publica avisos de la viña por comarca para mildiu, oídio y botritis con observaciones semanales de los agentes de extensión (datos.tenerife.es); en una campaña reciente hubo riesgo alto de oídio en zonas bajas del 30 de abril al 7 de mayo, y a finales de julio el boletín de Agrocabildo mantenía oídio elevado, mildiu medio y botritis en envero.
+El Cabildo publica avisos de la viña por comarca para mildiu, oídio y botritis (datos.tenerife.es); en una campaña reciente hubo riesgo alto de oídio en zonas bajas del 30 de abril al 7 de mayo, y a finales de julio el boletín de Agrocabildo mantenía oídio elevado, mildiu medio y botritis en envero. Ese frente lo llevan sanidad vegetal y tu técnico.
 
-Esos picos se repiten cada año y el equipo sale de La Palma según disponibilidad. Lo razonable es cerrar fechas con el calendario de riesgo de la comarca, no llamar el día del aviso.
+El dron pulveriza abonos foliares, bioestimulantes y correctores sobre la cepa, pensados para el vigor de la parra en brotación o tras la vendimia. Como el equipo sale de La Palma según disponibilidad, lo razonable es cerrar fechas con el calendario de la viña, no llamar la semana antes.
 
 ## ¿Y la papa temprana teguestera?
 
-Cultivo bajo, al aire libre y en parcelas pequeñas: tratable con dron. Los dos problemas documentados en el norte de Tenerife son la polilla guatemalteca (Tecia solanivora), en la isla desde 1999 y con pérdidas cercanas al 50 % en medianías y secano (Cabildo, ICIA), y el mildiu, con avisos de riesgo alto del Cabildo. Contra el mildiu la pulverización foliar tiene sentido; la polilla se sigue con feromonas en campo y almacén (Agrocabildo).
+Cultivo bajo, al aire libre y en parcelas pequeñas: encaja con el dron para el abonado foliar. Los dos problemas documentados en el norte de Tenerife son la polilla guatemalteca (Tecia solanivora), en la isla desde 1999 y con pérdidas cercanas al 50 % en medianías y secano (Cabildo, ICIA), y el mildiu, con avisos de riesgo alto del Cabildo. Ninguno se resuelve desde el aire: la polilla se sigue con feromonas en campo y almacén (Agrocabildo).
 
 [IMAGEN: Parcela de papa temprana en el valle de Tegueste con la viña en los bancales de la ladera detrás | alt: Papa temprana y viña en bancales en Tegueste, Tenerife]
 
 ## ¿Qué hace falta para contratar un tratamiento con dron en Tegueste?
 
-Dos cosas tuyas: los datos de la finca (ubicación, superficie, accesos, cables o árboles altos alrededor) y el producto que quieres aplicar. La aplicación aérea de fitosanitarios solo se permite en España en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación (Real Decreto 1311/2012, artículos 27 y 28), y solo con productos cuya autorización incluya expresamente la aplicación aérea (anexo VI).
+Dos cosas tuyas: los datos de la finca (ubicación, superficie, accesos, cables o árboles altos alrededor) y el producto que quieres aplicar, de uso permitido en viña o en papa y a la dosis de su etiqueta. Agrodrón vuela en la categoría específica de AESA/EASA (STS o PDRA-S01) con piloto certificado y antes de cada salida comprueba la parcela en el mapa de zonas geográficas de UAS de ENAIRE: el valle no queda lejos de Los Rodeos y se mira finca a finca.
 
-Nosotros preparamos el plan de vuelo sobre el mapa de tu parcela, comprobamos viento y humedad antes de despegar y dejamos el tratamiento registrado.
+Nosotros preparamos el plan de vuelo sobre el mapa de tu parcela, comprobamos viento y humedad antes de despegar y dejamos la aplicación registrada.
 
 ## ¿Qué cultivos de Tegueste tienen sentido con dron y cuáles no?
 
@@ -58,20 +58,20 @@ Para seguir: [dron agrícola para viña](https://agrodroncanarias.es/dron-agrico
 Sí. El minifundio es la norma en el valle y el depósito de 40 litros encaja con parcelas así. Lo que hace viable la salida es agrupar varias fincas el mismo día.
 
 ### ¿Puedo juntarme con otros viticultores de El Socorro para una misma salida?
-Es lo que mejor funciona desde La Palma: varias parcelas vecinas, un solo desplazamiento y cada una con su plan de aplicación.
+Es lo que mejor funciona desde La Palma: varias parcelas vecinas, un solo desplazamiento y cada una con su producto y su mapa de vuelo.
 
-### ¿Cómo se fija la dosis en mi viña?
-La que marca la etiqueta del producto y el plan de aplicación aprobado. El dron no cambia la dosis, cambia la forma de llevarla a la cepa.
+### ¿Qué productos aplica el dron en mi viña de Tegueste y a qué dosis?
+Abonos foliares, bioestimulantes y correctores de uso permitido en viña, a la dosis de su etiqueta. El dron no cambia la dosis, cambia la forma de llevarla a la cepa.
 
 ### ¿Con cuánta antelación hay que avisar para que vengáis a Tegueste?
-No damos plazo cerrado: el equipo trabaja bajo disponibilidad. Cuanto antes nos pases los datos de la finca, antes se encaja el trámite y la fecha.
+No damos plazo cerrado: el equipo trabaja bajo disponibilidad. Cuanto antes nos pases los datos de la finca, antes se encaja la fecha.
 
 ### ¿Qué precio tiene tratar una viña con dron en Tegueste?
 Sale de la superficie, la pendiente, los accesos, el producto y el desplazamiento. Con los datos de tu parcela te preparamos un presupuesto.
 
 ## Pide presupuesto para tu viña en Tegueste
 
-Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y cuéntanos dónde está la viña, cuántas hectáreas tiene y qué quieres tratar. Te respondemos con un presupuesto y con las fechas en que el equipo puede desplazarse desde La Palma.
+Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y cuéntanos dónde está la viña, cuántas hectáreas tiene y qué quieres aplicar. Te respondemos con un presupuesto y con las fechas en que el equipo puede desplazarse desde La Palma.
 
 ```json
 {
@@ -79,9 +79,9 @@ Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y cuéntanos dónde 
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Tegueste",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en la viña del valle de Tegueste y El Socorro, papa temprana y huerta al aire libre, con desplazamiento desde La Palma y bajo disponibilidad.",
+      "name": "Tratamientos agrícolas con dron en Tegueste",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en la viña del valle de Tegueste y El Socorro, papa temprana y huerta al aire libre, con desplazamiento desde La Palma y bajo disponibilidad.",
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/tegueste/",
       "provider": {
         "@type": "LocalBusiness",
@@ -111,17 +111,17 @@ Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y cuéntanos dónde 
         {
           "@type": "Question",
           "name": "¿Puedo juntarme con otros viticultores de El Socorro para una misma salida?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Es lo que mejor funciona desde La Palma: varias parcelas vecinas, un solo desplazamiento y cada una con su plan de aplicación." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Es lo que mejor funciona desde La Palma: varias parcelas vecinas, un solo desplazamiento y cada una con su producto y su mapa de vuelo." }
         },
         {
           "@type": "Question",
-          "name": "¿Cómo se fija la dosis en mi viña?",
-          "acceptedAnswer": { "@type": "Answer", "text": "La que marca la etiqueta del producto y el plan de aplicación aprobado. El dron no cambia la dosis, cambia la forma de llevarla a la cepa." }
+          "name": "¿Qué productos aplica el dron en mi viña de Tegueste y a qué dosis?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Abonos foliares, bioestimulantes y correctores de uso permitido en viña, a la dosis de su etiqueta. El dron no cambia la dosis, cambia la forma de llevarla a la cepa." }
         },
         {
           "@type": "Question",
           "name": "¿Con cuánta antelación hay que avisar para que vengáis a Tegueste?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No damos plazo cerrado: el equipo trabaja bajo disponibilidad. Cuanto antes nos pases los datos de la finca, antes se encaja el trámite y la fecha." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No damos plazo cerrado: el equipo trabaja bajo disponibilidad. Cuanto antes nos pases los datos de la finca, antes se encaja la fecha." }
         },
         {
           "@type": "Question",

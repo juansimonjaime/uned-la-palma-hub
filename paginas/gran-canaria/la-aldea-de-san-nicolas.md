@@ -3,7 +3,7 @@ title: "Dron agrícola en La Aldea de San Nicolás | Agrodrón"
 slug: "la-aldea-de-san-nicolas"
 meta_description: "Dron agrícola en La Aldea de San Nicolás: el tomate de invernadero no va con dron; mango, aguacate y platanera al aire libre, sí. Pide presupuesto."
 keyword: "dron agrícola en La Aldea de San Nicolás"
-keywords_secundarias: "fumigar con dron en La Aldea, tratamiento con drones en mango y aguacate, dron fitosanitario oeste de Gran Canaria, pulverización aérea La Aldea de San Nicolás, tomate de invernadero y dron"
+keywords_secundarias: "pulverización con dron en La Aldea, tratamiento con drones en mango y aguacate, dron pulverizador oeste de Gran Canaria, abonado foliar con dron La Aldea de San Nicolás, tomate de invernadero y dron"
 parent: "dron-agricola-gran-canaria"
 nivel: "B"
 isla: "Gran Canaria"
@@ -22,17 +22,17 @@ Para lo que está fuera del plástico. El dron no entra en un invernadero ni tra
 
 Agrodrón Canarias tiene la base en Santa Cruz de La Palma. En Gran Canaria trabajamos con desplazamiento y bajo consulta, según disponibilidad; una salida al oeste se planifica juntando varias fincas del valle.
 
-## ¿Se puede fumigar con dron el tomate de La Aldea contra el mildiu?
+## ¿Se puede pulverizar con dron el tomate de La Aldea cuando entra el mildiu?
 
 No. El mildiu (Phytophthora infestans) golpeó el tomate del valle en febrero de 2021, con 25 hectáreas y unos 50 productores afectados y 4,5 millones de kilos perdidos (Gobierno de Canarias; Canarias7), y volvió en marzo de 2023: 55 de las 101 hectáreas afectadas y entre 22 y 25 arrancadas, con 2,5 millones de kilos menos (Coagrisan). La humedad marina del invierno favoreció los dos brotes.
 
-Todo eso ocurrió bajo cubierta, donde la pulverización aérea no llega. Tampoco para la Tuta absoluta, extendida por toda la isla. El tomatero tiene sus medios dentro del invernadero; el dron no es uno de ellos.
+Todo eso ocurrió bajo cubierta, donde el dron no llega; mildiu y Tuta absoluta, extendida por toda la isla, son asunto de sanidad vegetal. El tomatero tiene sus medios dentro del invernadero; el dron no es uno de ellos.
 
 ## ¿Qué fincas de La Aldea sí puede tratar el dron?
 
 Las de árbol al aire libre: mango, aguacate y plátano puntual [VERIFICAR: hectáreas por cultivo]. El proyecto Lairaga Tropical del Cabildo y la Cooperativa Agrícola del Norte (2025-2026) quiere recuperar 100 hectáreas en desuso para subtropicales (45 de mango, 40 de aguacate, 15 de papaya) en nueve municipios, La Aldea entre ellos.
 
-La papaya suele ir bajo malla o invernadero en Canarias [VERIFICAR: porcentaje al aire libre], así que una papaya cubierta queda fuera. Un mango o un aguacate adulto es donde el DJI Agras T50 rinde: pulveriza desde arriba con depósito de 40 litros y hasta 24 L/min con cuatro boquillas (ficha técnica de DJI).
+La papaya suele ir bajo malla o invernadero en Canarias [VERIFICAR: porcentaje al aire libre], así que una papaya cubierta queda fuera. Un mango o un aguacate adulto es donde el DJI Agras T50 rinde: pulveriza desde arriba abono foliar o bioestimulante, con depósito de 40 litros y hasta 24 L/min con cuatro boquillas (ficha técnica de DJI).
 
 [IMAGEN: Finca de mangos jóvenes al aire libre en el valle de La Aldea, con invernaderos de tomate colindantes | alt: Mango al aire libre junto a invernaderos en La Aldea de San Nicolás]
 
@@ -46,7 +46,7 @@ Las calmas de la mañana son horas buenas para pulverizar sin deriva. Los invern
 
 Ubicación, superficie, cultivo y lo que rodea la parcela: invernaderos, cables, camino de acceso, punto de carga de agua. Con eso montamos el plan de vuelo y vemos si el dron encaja antes de hablar de fechas.
 
-Después, el papel. La aplicación aérea de fitosanitarios solo se permite en casos especiales, con autorización del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28), y el Ministerio de Agricultura trata el dron como aplicación aérea (nota MAPA–AESA, 2018). El piloto vuela en la categoría específica de AESA/EASA (PDRA-S01, operador STS); el agricultor aporta los datos de parcela y producto.
+Después, el orden del vuelo. Agrodrón opera en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el PDRA-S01, con piloto certificado, y mira el mapa de zonas geográficas de UAS de ENAIRE para el llano y para Tasarte antes de dibujar la ruta. El producto lo eliges tú entre los de uso permitido en mango o aguacate; se aplica a dosis de etiqueta, con las calmas de la mañana.
 
 ## ¿Y si La Aldea cambia de cultivo?
 
@@ -54,13 +54,13 @@ La exportación de tomate de Gran Canaria pasó de 133.453 toneladas en 2005 a 2
 
 La isla, en [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/); el cultivo, en [tratamientos con dron para tomate](https://agrodroncanarias.es/dron-agricola-tomate/) y en [dron para mango, papaya y subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/). En el barranco de al lado, [dron agrícola en Mogán](https://agrodroncanarias.es/dron-agricola-gran-canaria/mogan/).
 
-## Preguntas frecuentes sobre fumigar con dron en La Aldea
+## Preguntas frecuentes sobre pulverizar con dron en La Aldea
 
 ### ¿Puede el dron tratar el pepino de invernadero de La Aldea?
 No. Pepino y tomate van bajo cubierta y la pulverización aérea no atraviesa plástico ni malla.
 
 ### ¿Se puede tratar la platanera de La Aldea con dron?
-Si está al aire libre, sí, con producto autorizado para aplicación aérea; bajo malla de techo o invernadero, no. Los cortavientos verticales se marcan como obstáculo.
+Si está al aire libre, sí, con abono foliar o bioestimulante de uso permitido en platanera; bajo malla de techo o invernadero, no. Los cortavientos verticales se marcan como obstáculo.
 
 ### ¿Cuánto tarda en llegar Agrodrón a La Aldea?
 No damos plazos. Salimos desde La Palma según disponibilidad y agrupamos fincas de la misma comarca; cuanto antes avises, antes entras en la siguiente salida.
@@ -73,7 +73,7 @@ Depende de superficie, cultivo, acceso, producto y desplazamiento desde La Palma
 
 ## Pide presupuesto si tu finca de La Aldea está al aire libre
 
-Si cultivas mango, aguacate o platanera sin cubierta en el valle de La Aldea, en Tasarte o en Tasartico, escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/) con ubicación, hectáreas y problema. Te decimos si el dron encaja y te pasamos presupuesto.
+Si cultivas mango, aguacate o platanera sin cubierta en el valle de La Aldea, en Tasarte o en Tasartico, escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/) con ubicación, hectáreas y producto. Te decimos si el dron encaja y te pasamos presupuesto.
 
 ```json
 {
@@ -81,9 +81,9 @@ Si cultivas mango, aguacate o platanera sin cubierta en el valle de La Aldea, en
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en La Aldea de San Nicolás",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en mango, aguacate y platanera al aire libre del valle de La Aldea, Tasarte y Tasartico; el tomate y el pepino de invernadero quedan fuera. Servicio con desplazamiento desde La Palma.",
+      "name": "Tratamientos agrícolas con dron en La Aldea de San Nicolás",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en mango, aguacate y platanera al aire libre del valle de La Aldea, Tasarte y Tasartico; el tomate y el pepino de invernadero quedan fuera. Servicio con desplazamiento desde La Palma.",
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/la-aldea-de-san-nicolas/",
       "provider": {
         "@type": "LocalBusiness",
@@ -113,7 +113,7 @@ Si cultivas mango, aguacate o platanera sin cubierta en el valle de La Aldea, en
         {
           "@type": "Question",
           "name": "¿Se puede tratar la platanera de La Aldea con dron?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Si está al aire libre, sí, con producto autorizado para aplicación aérea; bajo malla de techo o invernadero, no. Los cortavientos verticales se marcan como obstáculo." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Si está al aire libre, sí, con abono foliar o bioestimulante de uso permitido en platanera; bajo malla de techo o invernadero, no. Los cortavientos verticales se marcan como obstáculo." }
         },
         {
           "@type": "Question",

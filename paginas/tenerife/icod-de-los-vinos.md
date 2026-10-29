@@ -3,7 +3,7 @@ title: "Dron agrícola en Icod de los Vinos | Agrodrón Canarias"
 slug: "icod-de-los-vinos"
 meta_description: "Dron agrícola en Icod de los Vinos: platanera de San Marcos, viña Ycoden-Daute-Isora y papa de La Vega. Desplazamiento desde La Palma. Pide presupuesto."
 keyword: "dron agrícola en Icod de los Vinos"
-keywords_secundarias: "fumigar con dron en Icod de los Vinos, tratamiento con drones en platanera de San Marcos, dron fitosanitario Ycoden-Daute-Isora, pulverización aérea en bancales de Icod"
+keywords_secundarias: "pulverización con dron en Icod de los Vinos, tratamiento con drones en platanera de San Marcos, dron pulverizador Ycoden-Daute-Isora, abonado foliar con dron en bancales de Icod"
 parent: "dron-agricola-tenerife"
 nivel: "B"
 isla: "Tenerife"
@@ -38,37 +38,37 @@ En platanera, la pulverización llega desde arriba a hoja y racimo, donde la lan
 
 ## Platanera, viña Ycoden-Daute-Isora y papa: plagas documentadas
 
-Platanera: el picudo negro, principal plaga en Canarias, vive en el cormo y no se alcanza desde el aire; se controla con feromonas. Trips y araña roja sí son de hoja y racimo, con ataques intensos favorecidos por humedades del 70-80 % en otoño (guía del Cabildo, 2009).
+Platanera: el picudo negro, principal plaga en Canarias, vive en el cormo y no se alcanza desde el aire; se controla con feromonas. Trips y araña roja atacan hoja y racimo, con ataques intensos favorecidos por humedades del 70-80 % en otoño (guía del Cabildo, 2009); su control es cosa del Cabildo.
 
 Viña: la DO Ycoden-Daute-Isora suma entre 1.000 y 1.600 ha en la comarca, con 306 ha controladas por el Consejo (descorchandoversos, 2018) [VERIFICAR: hectáreas de viña en el municipio]. El Cabildo publica avisos semanales por comarca de mildiu, oídio y botritis (datos.tenerife.es). La filoxera apareció en Tenerife en 2025 [VERIFICAR: si Icod está en la zona demarcada]; es de raíz.
 
-Papa: la polilla guatemalteca (Tecia solanivora) se detectó por primera vez en Tenerife en 1999, aquí en Icod (Cabildo), y castiga al norte con pérdidas cercanas al 50 % en medianías y secano (eldiario.es). Vive en el tubérculo. El mildiu de la papa, con aviso de riesgo alto para el norte (hacia 2024), sí es de hoja y sí encaja con el dron.
+Papa: la polilla guatemalteca (Tecia solanivora) se detectó por primera vez en Tenerife en 1999, aquí en Icod (Cabildo), y castiga al norte con pérdidas cercanas al 50 % en medianías y secano (eldiario.es). Vive en el tubérculo. El mildiu de la papa tuvo aviso de riesgo alto para el norte (hacia 2024). El dron no entra en ninguno de los dos; en la papa, su parte es el abonado foliar.
 
-## Malla, bruma y papeles
+## Malla, bruma y zonas de vuelo
 
 La platanera bajo malla o invernadero no se trata: la cubierta frena el producto. En el noroeste la mayoría va al aire libre [VERIFICAR: porcentaje bajo malla en Icod].
 
-La parte legal cabe en dos frases. La aplicación aérea de fitosanitarios está prohibida en España salvo casos especiales con autorización previa de la comunidad autónoma y plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). El Ministerio de Agricultura trata al dron como un medio aéreo más (nota con AESA, 2018): cada trabajo va con su expediente.
+Lo del vuelo cabe en tres líneas. Con la finca marcada en el plano, sea en San Marcos o en La Vega, se consultan las zonas geográficas de UAS de ENAIRE y se traza la pasada. El operador vuela en categoría específica de AESA/EASA, en STS o bajo el PDRA-S01, con piloto certificado. Y en el tanque, nada que no sea de uso permitido en el cultivo, a la dosis de su etiqueta: abonos foliares, bioestimulantes, correctores.
 
 Más detalle en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [dron agrícola para platanera](https://agrodroncanarias.es/dron-agricola-platanera/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/) y en la Isla Baja vecina, [dron agrícola en Garachico](https://agrodroncanarias.es/dron-agricola-tenerife/garachico/).
 
 ## Preguntas frecuentes sobre el dron agrícola en Icod de los Vinos
 
 ### ¿Puede el dron tratar la platanera de San Marcos y Las Cañas?
-Sí, la que esté al aire libre y con producto autorizado para aplicación aérea. Lo que vaya bajo malla no se puede tratar desde el aire.
+Sí, la que esté al aire libre, con abonos foliares, bioestimulantes u otros productos de uso permitido en platanera, a dosis de etiqueta. Lo que vaya bajo malla no se puede tratar desde el aire.
 
 ### ¿Sirve el dron contra la polilla guatemalteca que se detectó en Icod en 1999?
-No. La Tecia solanivora vive dentro del tubérculo y en el almacén; lo documentado es el monitoreo con feromonas y el tratamiento de almacén. El dron ayuda con el mildiu de la papa, que sí va por la hoja.
+No. La Tecia solanivora vive dentro del tubérculo y en el almacén; lo documentado es el monitoreo con feromonas y el tratamiento de almacén. El dron se queda en lo nutricional: abonado foliar y bioestimulantes para el vigor de la mata.
 
 ### ¿Cómo se trata un bancal de viña de medianías sin pista para el tractor?
 El dron despega desde el borde, sigue la pendiente con radar y trata cepa a cepa desde arriba. Los muros de piedra se cargan como obstáculos en el plan de vuelo.
 
-### ¿Cuánto cuesta fumigar con dron en Icod de los Vinos?
+### ¿Cuánto cuesta pulverizar con dron en Icod de los Vinos?
 Depende de la superficie, el cultivo, los accesos, el producto y el desplazamiento desde La Palma, que va según disponibilidad. Con esos datos te preparamos presupuesto; sin verlos no damos cifras.
 
 ## Pide presupuesto para tu finca de Icod de los Vinos
 
-Mándanos el pago (costa, medianías o zona de La Vega), cultivo, hectáreas y problema a tratar. Te confirmamos si el dron encaja y te enviamos un presupuesto con desplazamiento desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Mándanos el pago (costa, medianías o zona de La Vega), cultivo, hectáreas y producto a aplicar. Te confirmamos si el dron encaja y te enviamos un presupuesto con desplazamiento desde [Agrodrón Canarias](https://agrodroncanarias.es/).
 
 ```json
 {
@@ -76,9 +76,9 @@ Mándanos el pago (costa, medianías o zona de La Vega), cultivo, hectáreas y p
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Icod de los Vinos",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en platanera al aire libre de la costa, viña de la DO Ycoden-Daute-Isora y papa de medianías de Icod de los Vinos, con desplazamiento desde La Palma y bajo disponibilidad.",
+      "name": "Tratamientos agrícolas con dron en Icod de los Vinos",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en platanera al aire libre de la costa, viña de la DO Ycoden-Daute-Isora y papa de medianías de Icod de los Vinos, con desplazamiento desde La Palma y bajo disponibilidad.",
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/icod-de-los-vinos/",
       "provider": {
         "@type": "LocalBusiness",
@@ -103,12 +103,12 @@ Mándanos el pago (costa, medianías o zona de La Vega), cultivo, hectáreas y p
         {
           "@type": "Question",
           "name": "¿Puede el dron tratar la platanera de San Marcos y Las Cañas?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, la que esté al aire libre y con producto autorizado para aplicación aérea. Lo que vaya bajo malla no se puede tratar desde el aire." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, la que esté al aire libre, con abonos foliares, bioestimulantes u otros productos de uso permitido en platanera, a dosis de etiqueta. Lo que vaya bajo malla no se puede tratar desde el aire." }
         },
         {
           "@type": "Question",
           "name": "¿Sirve el dron contra la polilla guatemalteca que se detectó en Icod en 1999?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. La Tecia solanivora vive dentro del tubérculo y en el almacén; lo documentado es el monitoreo con feromonas y el tratamiento de almacén. El dron ayuda con el mildiu de la papa, que sí va por la hoja." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. La Tecia solanivora vive dentro del tubérculo y en el almacén; lo documentado es el monitoreo con feromonas y el tratamiento de almacén. El dron se queda en lo nutricional: abonado foliar y bioestimulantes para el vigor de la mata." }
         },
         {
           "@type": "Question",
@@ -117,7 +117,7 @@ Mándanos el pago (costa, medianías o zona de La Vega), cultivo, hectáreas y p
         },
         {
           "@type": "Question",
-          "name": "¿Cuánto cuesta fumigar con dron en Icod de los Vinos?",
+          "name": "¿Cuánto cuesta pulverizar con dron en Icod de los Vinos?",
           "acceptedAnswer": { "@type": "Answer", "text": "Depende de la superficie, el cultivo, los accesos, el producto y el desplazamiento desde La Palma, que va según disponibilidad. Con esos datos te preparamos presupuesto; sin verlos no damos cifras." }
         }
       ]
