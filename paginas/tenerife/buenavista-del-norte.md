@@ -3,7 +3,7 @@ title: "Dron agrícola en Buenavista del Norte | Agrodrón Canarias"
 slug: "buenavista-del-norte"
 meta_description: "Dron agrícola en Buenavista del Norte: platanera de costa frente a Teno y bancales de El Palmar. Tratamientos con desplazamiento desde La Palma."
 keyword: "dron agrícola en Buenavista del Norte"
-keywords_secundarias: "fumigar con dron en Buenavista del Norte, tratamiento con drones en platanera de Teno, dron fitosanitario Isla Baja, pulverización aérea en El Palmar"
+keywords_secundarias: "pulverización con dron en Buenavista del Norte, tratamiento con drones en platanera de Teno, dron pulverizador Isla Baja, abonado foliar con dron en El Palmar"
 parent: "dron-agricola-tenerife"
 nivel: "B"
 isla: "Tenerife"
@@ -30,7 +30,7 @@ En los bancales de El Palmar o Teno Alto es peor: mochila a la espalda, cuesta a
 
 ## Qué cambia con un dron agrícola en Buenavista del Norte
 
-El DJI Agras T50 de Agrodrón pulveriza desde el aire y no toca el suelo. Carga 40 litros y aplica hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha técnica de DJI). En la costa eso significa tratar la finca completa sin abrir pasillo y sin que nadie camine bajo el producto.
+El DJI Agras T50 de Agrodrón pulveriza desde el aire y no toca el suelo. Carga 40 litros y aplica hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha técnica de DJI). En la costa eso significa repartir un abono foliar o un bioestimulante por la finca completa sin abrir pasillo y sin que nadie camine bajo el producto.
 
 En los bancales importa otro detalle: el radar de matriz en fase y la visión binocular siguen el relieve y regulan la velocidad con la pendiente, así que el dron mantiene la altura sobre el cultivo al pasar de una terraza a la siguiente. Despega desde la pista o desde el propio bancal.
 
@@ -40,17 +40,17 @@ Lo que no cambia: el dron no trata lo que esté bajo malla o invernadero, ni vue
 
 ## Cultivos y plagas documentadas en el municipio
 
-Platanera, primero. El picudo negro (Cosmopolites sordidus) es la principal plaga del plátano en Canarias y reapareció en Tenerife en 1987 (Cabildo); su control documentado es con feromonas, no con pulverización. Trips (Hercinothrips femoralis) y araña roja (Tetranychus) sí son objetivo de aplicación foliar: la guía del Cabildo de 2009 recoge ataques intensos en racimos con humedades del 70-80 % en otoño.
+Platanera, primero. El picudo negro (Cosmopolites sordidus) es la principal plaga del plátano en Canarias y reapareció en Tenerife en 1987 (Cabildo); su control documentado es con feromonas, no con pulverización. Trips (Hercinothrips femoralis) y araña roja (Tetranychus) van por hoja y racimo: la guía del Cabildo de 2009 recoge ataques intensos en racimos con humedades del 70-80 % en otoño; su manejo lo indica sanidad vegetal del Cabildo.
 
-Papa de medianías. La polilla guatemalteca (Tecia solanivora) entró en Tenerife en 1999 por Icod de los Vinos y castiga sobre todo el norte, con pérdidas cercanas al 50 % en medianías y secano (Cabildo, ICIA). El mildiu de la papa tiene avisos de riesgo alto del Cabildo para el norte de la isla.
+Papa de medianías. La polilla guatemalteca (Tecia solanivora) entró en Tenerife en 1999 por Icod de los Vinos y castiga sobre todo el norte, con pérdidas cercanas al 50 % en medianías y secano (Cabildo, ICIA). El mildiu de la papa tiene avisos de riesgo alto del Cabildo para el norte de la isla; el dron entra en la papa de El Palmar con el abonado foliar, no con la plaga.
 
-Viña. El Cabildo publica avisos fitosanitarios semanales por comarca de mildiu, oídio y botritis, y en 2025 se detectó filoxera en Tenerife con zona demarcada [VERIFICAR: municipios de la zona demarcada]. La viña de Buenavista entra en la DO Ycoden-Daute-Isora.
+Viña. El Cabildo publica avisos semanales por comarca de mildiu, oídio y botritis, y en 2025 se detectó filoxera en Tenerife con zona demarcada [VERIFICAR: municipios de la zona demarcada]. La viña de Buenavista entra en la DO Ycoden-Daute-Isora.
 
 Puedes ampliar en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [tratamientos con dron en platanera](https://agrodroncanarias.es/dron-agricola-platanera/) y [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/). El municipio vecino tiene su página: [dron agrícola en Los Silos](https://agrodroncanarias.es/dron-agricola-tenerife/los-silos/).
 
 ## Normativa en dos frases
 
-La aplicación aérea de fitosanitarios está prohibida en España con carácter general; solo se autoriza en casos especiales, con permiso previo del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). Como el Ministerio de Agricultura considera los tratamientos con dron tratamientos aéreos (nota MAPA-AESA, 2018), cada trabajo en Buenavista pasa por ese trámite ante el Gobierno de Canarias, y el piloto vuela en categoría específica de AESA/EASA (STS o PDRA-S01).
+El piloto de Agrodrón vuela en categoría específica de AESA/EASA (STS o PDRA-S01), con certificado en vigor, y tanto el llano de Buenavista como los valles de Teno, dentro del Parque Rural, se comprueban en el mapa de zonas geográficas de UAS de ENAIRE antes de trazar el plan. Solo se aplican productos de uso permitido en el cultivo, a la dosis de la etiqueta, sobre parcela al aire libre; con viento fuerte, lluvia o niebla no se despega.
 
 ## Preguntas frecuentes sobre tratamientos con dron en Buenavista del Norte
 
@@ -64,7 +64,7 @@ No. El equipo llega en furgoneta hasta donde haya acceso y el dron cubre el rest
 No. La malla de cubierta impide que el producto llegue al cultivo. Si la finca tiene una parte cubierta y otra descubierta, se trata solo la descubierta.
 
 ### ¿Qué pasa con el viento del noroeste en la costa?
-Se mide antes de volar y se respeta. Si sopla por encima de lo que admite el plan de aplicación, el tratamiento se mueve a otra hora u otro día.
+Se mide antes de volar y se respeta. Si sopla fuerte, el tratamiento se mueve a otra hora u otro día.
 
 ### ¿Venís desde La Palma para una sola finca?
 Depende de la disponibilidad y de la superficie. Lo habitual es agrupar varias fincas de la Isla Baja en el mismo desplazamiento; cuanto antes avises, más fácil.
@@ -79,9 +79,9 @@ Mándanos desde [Agrodrón Canarias](https://agrodroncanarias.es/) ubicación, c
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Buenavista del Norte",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Tratamientos con dron DJI Agras T50 en la platanera de costa y en los bancales de papa y viña de El Palmar, Las Portelas y Teno Alto, en Buenavista del Norte (Tenerife). Servicio con desplazamiento desde La Palma.",
+      "name": "Tratamientos agrícolas con dron en Buenavista del Norte",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en la platanera de costa y en los bancales de papa y viña de El Palmar, Las Portelas y Teno Alto, en Buenavista del Norte (Tenerife). Servicio con desplazamiento desde La Palma.",
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/buenavista-del-norte/",
       "provider": {
         "@type": "LocalBusiness",
@@ -121,7 +121,7 @@ Mándanos desde [Agrodrón Canarias](https://agrodroncanarias.es/) ubicación, c
         {
           "@type": "Question",
           "name": "¿Qué pasa con el viento del noroeste en la costa?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Se mide antes de volar y se respeta. Si sopla por encima de lo que admite el plan de aplicación, el tratamiento se mueve a otra hora u otro día." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Se mide antes de volar y se respeta. Si sopla fuerte, el tratamiento se mueve a otra hora u otro día." }
         },
         {
           "@type": "Question",

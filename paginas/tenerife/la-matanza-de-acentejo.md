@@ -3,7 +3,7 @@ title: "Dron agrícola en La Matanza de Acentejo | Agrodrón Canarias"
 slug: "la-matanza-de-acentejo"
 meta_description: "Dron agrícola en La Matanza de Acentejo: viña en terrazas, papa de medianías y frutales del monte, zona a zona. Con desplazamiento desde La Palma."
 keyword: "dron agrícola en La Matanza de Acentejo"
-keywords_secundarias: "fumigar con dron en La Matanza, tratamiento con drones en viña de Acentejo, dron fitosanitario norte de Tenerife, pulverización aérea en terrazas de viña"
+keywords_secundarias: "pulverización con dron en La Matanza, tratamiento con drones en viña de Acentejo, dron pulverizador norte de Tenerife, abonado foliar con dron en terrazas de viña"
 parent: "dron-agricola-tenerife"
 nivel: "B"
 isla: "Tenerife"
@@ -34,13 +34,13 @@ Con mochila, tratar estas terrazas es media jornada de subir y bajar muros. El D
 
 En las mismas medianías va la papa. Es el cultivo que más sufre en el norte: la polilla guatemalteca (Tecia solanivora), detectada en la isla en 1999 en Icod de los Vinos, provoca pérdidas cercanas al 50 % en medianías y secano (Cabildo, ICIA), y el mildiu obliga a avisos de riesgo alto para el norte.
 
-El dron encaja en la papa para los tratamientos foliares contra el mildiu, sin pisar el surco mojado. Contra la polilla lo documentado es otra cosa: feromonas, control en almacén y medidas obligatorias de la Consejería desde 2002.
+El dron encaja en la papa para el abonado foliar y los bioestimulantes, sin pisar el surco mojado. Mildiu y polilla van por otro lado: avisos del Cabildo, feromonas, control en almacén y medidas obligatorias de la Consejería desde 2002.
 
 ## El monte: castaño, frutales y huerta de autoconsumo
 
-Por encima, el monte de La Matanza tiene castaños, frutales (entre ellos aguacate) y huerta [VERIFICAR: superficie de castaño, aguacate y huerta en la zona alta]. Para el castaño no hay en los datos ningún problema fitosanitario documentado en Tenerife, así que queda fuera.
+Por encima, el monte de La Matanza tiene castaños, frutales (entre ellos aguacate) y huerta [VERIFICAR: superficie de castaño, aguacate y huerta en la zona alta]. El castaño de monte queda fuera: el dron se centra en cultivo agrícola al aire libre.
 
-El aguacate sí es candidato: árbol alto, difícil de mojar desde el suelo, con la araña cristalina (Oligonychus perseae) como plaga principal en Tenerife desde 2006, en el 81,5 % de las parcelas encuestadas por el Cabildo. Las aguacateras al aire libre se pueden estudiar; bajo malla, no.
+El aguacate sí es candidato a un abono foliar o un bioestimulante: árbol alto, difícil de mojar desde el suelo. Su plaga principal en Tenerife, la araña cristalina (Oligonychus perseae), presente desde 2006 en el 81,5 % de las parcelas encuestadas por el Cabildo, es cosa del Cabildo, no del dron. Las aguacateras al aire libre se pueden estudiar; bajo malla, no.
 
 ## Mildiu, oídio, botritis y filoxera: lo documentado en la viña
 
@@ -50,9 +50,9 @@ La filoxera apareció en Tenerife en 2025, por primera vez en Canarias, con zona
 
 ## Cómo trabaja un dron agrícola en La Matanza de Acentejo
 
-Se empieza por el mapa: parcelas, accesos, cables, casas, árboles altos. Con la viña tan pegada a los núcleos, el margen con viviendas y carreteras es lo primero. Después se eligen fechas con los avisos del Cabildo y se comprueba el viento el día de volar.
+Se empieza por el mapa: parcelas, accesos, cables, casas, árboles altos. Con la viña tan pegada a los núcleos, el margen con viviendas y carreteras es lo primero. Después se eligen fechas según el momento de la cepa (brotación, tras el calor, posvendimia) y se comprueba el viento el día de volar.
 
-El marco legal, resumido: la aplicación aérea de fitosanitarios en España solo se autoriza en casos especiales, con permiso previo del órgano competente de la comunidad autónoma y plan de aplicación aprobado (RD 1311/2012, arts. 27 y 28); los drones entran en ese régimen (nota MAPA-AESA, 2018) y solo caben productos con la aplicación aérea en su autorización.
+Lo reglado, resumido: cada pago de La Matanza se consulta en el mapa de zonas geográficas de UAS de ENAIRE al preparar el plan; el piloto, certificado, vuela en la categoría específica de AESA/EASA (STS o PDRA-S01); y el depósito solo lleva abonos foliares, bioestimulantes o correctores de uso permitido en viña, papa o aguacate, a la dosis que marca su etiqueta. Bajo malla o invernadero no se aplica nada.
 
 Como el equipo viene desde La Palma, lo razonable en La Matanza es juntar parcelas de varios viticultores del mismo pago en la misma salida, según disponibilidad y sin plazos cerrados.
 
@@ -67,10 +67,10 @@ Sola, difícilmente justifica un desplazamiento desde La Palma. Junto con las pa
 Es su caso ideal. Despega desde el camino o la terraza más alta, sigue el relieve con el radar y trata cada bancal sin que nadie suba la mochila.
 
 ### ¿Tratáis castaños en el monte de La Matanza?
-No. Para el castaño no tenemos ningún problema fitosanitario documentado en Tenerife; el servicio se centra en viña, papa, aguacate y huerta al aire libre.
+No. El servicio se centra en cultivo agrícola al aire libre: viña, papa, aguacate y huerta, con abonos foliares y bioestimulantes de uso permitido en cada uno.
 
-### ¿Cómo se coordina con los avisos de mildiu y oídio del Cabildo?
-Acordando antes de la campaña las ventanas probables y confirmando cuando salta el aviso. Como el equipo viene desde La Palma, la antelación es lo que permite llegar a tiempo.
+### ¿Qué productos aplica el dron en La Matanza de Acentejo?
+Abonos foliares, bioestimulantes y correctores de uso permitido en viña, papa o aguacate, a dosis de etiqueta. Los avisos de mildiu y oídio del Cabildo son manejo del viticultor; el dron no entra ahí.
 
 ## Pide presupuesto para tus terrazas en La Matanza de Acentejo
 
@@ -82,9 +82,9 @@ Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/) con tus par
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en La Matanza de Acentejo",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Tratamientos con dron DJI Agras T50 en las terrazas de viña y papa de las medianías y en los frutales del monte de La Matanza de Acentejo (Tenerife), zona a zona, con desplazamiento desde La Palma.",
+      "name": "Tratamientos agrícolas con dron en La Matanza de Acentejo",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en las terrazas de viña y papa de las medianías y en los frutales del monte de La Matanza de Acentejo (Tenerife), zona a zona, con desplazamiento desde La Palma.",
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/la-matanza-de-acentejo/",
       "provider": {
         "@type": "LocalBusiness",
@@ -119,12 +119,12 @@ Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/) con tus par
         {
           "@type": "Question",
           "name": "¿Tratáis castaños en el monte de La Matanza?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. Para el castaño no tenemos ningún problema fitosanitario documentado en Tenerife; el servicio se centra en viña, papa, aguacate y huerta al aire libre." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. El servicio se centra en cultivo agrícola al aire libre: viña, papa, aguacate y huerta, con abonos foliares y bioestimulantes de uso permitido en cada uno." }
         },
         {
           "@type": "Question",
-          "name": "¿Cómo se coordina con los avisos de mildiu y oídio del Cabildo?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Acordando antes de la campaña las ventanas probables y confirmando cuando salta el aviso. Como el equipo viene desde La Palma, la antelación es lo que permite llegar a tiempo." }
+          "name": "¿Qué productos aplica el dron en La Matanza de Acentejo?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Abonos foliares, bioestimulantes y correctores de uso permitido en viña, papa o aguacate, a dosis de etiqueta. Los avisos de mildiu y oídio del Cabildo son manejo del viticultor; el dron no entra ahí." }
         }
       ]
     }

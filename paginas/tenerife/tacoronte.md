@@ -3,7 +3,7 @@ title: "Dron agrícola en Tacoronte | Agrodrón Canarias"
 slug: "tacoronte"
 meta_description: "Dron agrícola en Tacoronte: viña de la DO Tacoronte-Acentejo en terrazas, papa, aguacate y platanera. Presupuesto con desplazamiento desde La Palma."
 keyword: "dron agrícola en Tacoronte"
-keywords_secundarias: "fumigar con dron en Tacoronte, tratamiento con drones en viña de Tacoronte-Acentejo, dron fitosanitario Tenerife, pulverización aérea en Agua García"
+keywords_secundarias: "pulverización con dron en Tacoronte, tratamiento con drones en viña de Tacoronte-Acentejo, dron pulverizador Tenerife, abonado foliar con dron en Agua García"
 parent: "dron-agricola-tenerife"
 nivel: "B"
 isla: "Tenerife"
@@ -26,19 +26,19 @@ La diferencia está en qué se mide: viña plantada, inscrita o en producción. 
 
 Depende del parral. El dron pulveriza desde arriba y llega bien a la cara superior de la cubierta; los racimos que cuelgan bajo un parral alto y cerrado quedan a la sombra del follaje y el producto llega peor. En parral bajo o en vaso la cobertura mejora.
 
-La respuesta honesta es que se mira la parcela: altura del parral, densidad de hoja y problema a tratar (oídio en hoja no es botritis en racimo) deciden si el dron encaja [VERIFICAR: sistemas de conducción predominantes en la viña de Tacoronte].
+Se mira la parcela: altura del parral, densidad de hoja y producto a aplicar (un foliar para la hoja no es mojar el racimo) deciden si el dron encaja [VERIFICAR: sistemas de conducción predominantes en la viña de Tacoronte].
 
 ## ¿Qué hace un dron agrícola en Tacoronte que no haga el atomizador?
 
 Llegar a la terraza sin camino. El DJI Agras T50 sigue el relieve con radar de matriz en fase y visión binocular, baja la velocidad cuando la pendiente aprieta y pasa de un bancal al siguiente. Depósito de 40 litros y caudal de hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha de DJI): cuadra con la parcela pequeña y escalonada de Acentejo.
 
-Pide a cambio un punto despejado para despegar, viento dentro del plan de aplicación y distancia a viviendas y carreteras. Con la viña pegada a los barrios de Tacoronte, lo último se estudia parcela a parcela.
+Pide a cambio un punto despejado para despegar, viento que no saque el producto de la parcela y distancia a viviendas y carreteras. Con la viña pegada a los barrios de Tacoronte, lo último se estudia parcela a parcela.
 
 ## ¿Y la papa, el aguacate y la platanera de El Pris?
 
-La papa de las medianías carga con lo del norte de la isla: polilla guatemalteca (Tecia solanivora), en Tenerife desde 1999, con pérdidas cercanas al 50 % en medianías y secano (Cabildo, ICIA), y mildiu con avisos de riesgo alto. El mildiu es objetivo de tratamiento foliar; la polilla, de feromonas, control en almacén y medidas obligatorias de la Consejería desde 2002.
+La papa de las medianías carga con lo del norte de la isla: polilla guatemalteca (Tecia solanivora), en Tenerife desde 1999, con pérdidas cercanas al 50 % en medianías y secano (Cabildo, ICIA), y mildiu con avisos de riesgo alto. Ninguno es asunto del dron: el mildiu va con el aviso del Cabildo; la polilla, con feromonas, control en almacén y medidas obligatorias de la Consejería desde 2002.
 
-El aguacate crece: el Cabildo recuperó 3 hectáreas entre Tacoronte y La Laguna para 500 árboles de aguacate y café, con 512.015 euros (eldiario.es). Su plaga principal en Tenerife es la araña cristalina (Oligonychus perseae), presente desde 2006 en el 81,5 % de las parcelas encuestadas por el Cabildo, seguida de la cochinilla Nipaecoccus nipae (25,9 %) y el trips (14,8 %). Un aguacatero de 4 a 8 metros [VERIFICAR: altura] se moja mejor desde arriba.
+El aguacate crece: el Cabildo recuperó 3 hectáreas entre Tacoronte y La Laguna para 500 árboles de aguacate y café, con 512.015 euros (eldiario.es). Su plaga principal en Tenerife es la araña cristalina (Oligonychus perseae), presente desde 2006 en el 81,5 % de las parcelas encuestadas por el Cabildo, seguida de la cochinilla Nipaecoccus nipae (25,9 %) y el trips (14,8 %). Un aguacatero de 4 a 8 metros [VERIFICAR: altura] se moja mejor desde arriba con un foliar.
 
 La platanera de El Pris y Mesa del Mar es residual [VERIFICAR: superficie] y, al aire libre, se trata como en el resto de la isla.
 
@@ -46,22 +46,22 @@ La platanera de El Pris y Mesa del Mar es residual [VERIFICAR: superficie] y, al
 
 ## ¿Qué hace falta para contratar un tratamiento con dron desde La Palma?
 
-Datos de la parcela (ubicación, cultivo, superficie, accesos, obstáculos), el problema y el producto previsto. Con eso Agrodrón planifica el vuelo, tramita lo que la ley exige y cuadra el desplazamiento desde La Palma por disponibilidad, agrupando parcelas de Acentejo si puede.
+Datos de la parcela (ubicación, cultivo, superficie, accesos, obstáculos) y el producto previsto: abono foliar, bioestimulante o corrector. Con eso Agrodrón planifica el vuelo y cuadra el desplazamiento desde La Palma por disponibilidad, agrupando parcelas de Acentejo si puede.
 
-Y exige bastante: la pulverización aérea de fitosanitarios está prohibida con carácter general en España y solo cabe en casos especiales autorizados por el órgano competente de la comunidad autónoma con plan de aplicación aprobado (RD 1311/2012, arts. 27 y 28); el dron cuenta como medio aéreo (nota MAPA-AESA de 2018) y el producto debe tener la aplicación aérea en su autorización (anexo VI).
+Lo demás va por cuenta del operador: categoría específica de AESA/EASA, en escenario estándar o bajo el PDRA-S01, con piloto certificado; consulta de las zonas geográficas de UAS en el mapa de ENAIRE, con el aeropuerto de Tenerife Norte a pocos kilómetros; y solo productos de uso permitido en viña, papa o aguacate, a dosis de etiqueta, sobre parcela descubierta.
 
 ## ¿Qué parcelas de Tacoronte tienen sentido para el dron y cuáles no?
 
 Tienen sentido: viña en terrazas sin camino de tractor, aguacateros altos, papa en medianías de acceso complicado, platanera descubierta de la costa.
 
-Tienen poco sentido: lo que vaya bajo malla o invernadero, parcelas minúsculas entre viviendas sin margen de seguridad, y problemas que la pulverización foliar no resuelve, como la filoxera detectada en Tenerife en 2025 [VERIFICAR: municipios de la zona demarcada].
+Tienen poco sentido: lo que vaya bajo malla o invernadero, parcelas minúsculas entre viviendas sin margen de seguridad, y plagas que ninguna pulverización resuelve, como la filoxera detectada en Tenerife en 2025 [VERIFICAR: municipios de la zona demarcada].
 
 Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [tratamientos con dron en viña](https://agrodroncanarias.es/dron-agricola-vina/) y [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/). Y el vecino: [dron agrícola en El Sauzal](https://agrodroncanarias.es/dron-agricola-tenerife/el-sauzal/).
 
 ## Preguntas frecuentes sobre el dron agrícola en Tacoronte
 
-### ¿Puedo tratar la viña justo después de un aviso de oídio del Cabildo?
-Si producto y autorización están, sí: los avisos del Cabildo se actualizan a diario y la ventana es corta. El límite real es la disponibilidad del equipo para venir desde La Palma.
+### ¿Qué productos aplica el dron en la viña de Tacoronte?
+Abonos foliares, bioestimulantes y correctores de uso permitido en viña, a dosis de etiqueta, para el vigor de la cepa tras la brotación, el calor o la vendimia. Los avisos de oídio del Cabildo son manejo del viticultor, no del dron.
 
 ### ¿El dron moja las casas de al lado?
 No debe. Se fijan márgenes con viviendas y vías y no se trata con viento que saque el producto de la parcela; si no caben esos márgenes, se descarta.
@@ -82,9 +82,9 @@ Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y cuéntanos qué ti
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Tacoronte",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Tratamientos con dron DJI Agras T50 en la viña en terrazas de la DO Tacoronte-Acentejo, la papa, el aguacate y la platanera de costa de Tacoronte (Tenerife), con desplazamiento desde La Palma.",
+      "name": "Tratamientos agrícolas con dron en Tacoronte",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en la viña en terrazas de la DO Tacoronte-Acentejo, la papa, el aguacate y la platanera de costa de Tacoronte (Tenerife), con desplazamiento desde La Palma.",
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/tacoronte/",
       "provider": {
         "@type": "LocalBusiness",
@@ -108,8 +108,8 @@ Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y cuéntanos qué ti
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "¿Puedo tratar la viña justo después de un aviso de oídio del Cabildo?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Si producto y autorización están, sí: los avisos del Cabildo se actualizan a diario y la ventana es corta. El límite real es la disponibilidad del equipo para venir desde La Palma." }
+          "name": "¿Qué productos aplica el dron en la viña de Tacoronte?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Abonos foliares, bioestimulantes y correctores de uso permitido en viña, a dosis de etiqueta, para el vigor de la cepa tras la brotación, el calor o la vendimia. Los avisos de oídio del Cabildo son manejo del viticultor, no del dron." }
         },
         {
           "@type": "Question",
