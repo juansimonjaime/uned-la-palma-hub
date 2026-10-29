@@ -6,12 +6,12 @@ Total: 44 marcas en 13 páginas.
   - Contexto: El café da fama al valle, pero ocupa poco suelo: entre 10 y 15 hectáreas según el Gobierno de Canarias y Agropopular (2026). El censo de cafedeagaete.es suma 206,11 hectáreas en 87 explotaciones y estima unas 300 cultivadas en el valle. Una cifra cuenta cafetos; la otra, fincas mixtas con el café de
 - `paginas/gran-canaria/agaete.md` | [VERIFICAR: altitudes]
   - Contexto: Esa mezcla manda. En una misma finca hay naranjos de porte medio, mangos y aguacates más altos, papayos y, al pie, cafetos a la sombra. Los bancales suben desde la costa hasta El Hornillo y Los Berrazales, a unos 600 metros [VERIFICAR: altitudes].
-- `paginas/gran-canaria/agaete.md` | [VERIFICAR: avisos fitosanitarios del Gobierno de Canarias sobre cítricos]
-  - Contexto: En los naranjos, el cotonet de Sudáfrica no está documentado en Gran Canaria [VERIFICAR: avisos fitosanitarios del Gobierno de Canarias sobre cítricos].
+- `paginas/gran-canaria/agaete.md` | [VERIFICAR: avisos de sanidad vegetal del Gobierno de Canarias sobre cítricos]
+  - Contexto: En los naranjos, el cotonet de Sudáfrica no está documentado en Gran Canaria [VERIFICAR: avisos de sanidad vegetal del Gobierno de Canarias sobre cítricos].
 - `paginas/gran-canaria/agaete.md` | [VERIFICAR: hectáreas por cultivo]
-  - Contexto: El cafeto que crece a la sombra de los frutales queda debajo de la copa que el dron moja: la pulverización aérea trata el arbolado de arriba, no el café de abajo. Tampoco lo que quede de platanera o tomate bajo malla o invernadero [VERIFICAR: hectáreas por cultivo]. Con viento fuerte en la costa o n
+  - Contexto: El cafeto que crece a la sombra de los frutales queda debajo de la copa que el dron moja: la pulverización desde el aire cubre el arbolado de arriba, no el café de abajo. Tampoco lo que quede de platanera o tomate bajo malla o invernadero [VERIFICAR: hectáreas por cultivo]. Con viento fuerte en la c
 - `paginas/gran-canaria/agaete.md` | [VERIFICAR: datos de viento y precipitación]
-  - Contexto: El cafeto que crece a la sombra de los frutales queda debajo de la copa que el dron moja: la pulverización aérea trata el arbolado de arriba, no el café de abajo. Tampoco lo que quede de platanera o tomate bajo malla o invernadero [VERIFICAR: hectáreas por cultivo]. Con viento fuerte en la costa o n
+  - Contexto: El cafeto que crece a la sombra de los frutales queda debajo de la copa que el dron moja: la pulverización desde el aire cubre el arbolado de arriba, no el café de abajo. Tampoco lo que quede de platanera o tomate bajo malla o invernadero [VERIFICAR: hectáreas por cultivo]. Con viento fuerte en la c
 - `paginas/gran-canaria/arucas.md` | [VERIFICAR: hectáreas cultivadas de Arucas en el ISTAC]
   - Contexto: No hay cifra municipal de superficie cultivada en los datos de partida [VERIFICAR: hectáreas cultivadas de Arucas en el ISTAC]. Para situarlo, el ISTAC da 8.102,8 ha cultivadas en Gran Canaria en 2024 y el Mapa de Cultivos de ese año 1.940,7 ha de platanera en la isla.
 - `paginas/gran-canaria/arucas.md` | [VERIFICAR: porcentaje de platanera bajo malla en Arucas]
@@ -27,19 +27,19 @@ Total: 44 marcas en 13 páginas.
 - `paginas/gran-canaria/la-aldea-de-san-nicolas.md` | [VERIFICAR: hectáreas por cultivo]
   - Contexto: Las de árbol al aire libre: mango, aguacate y plátano puntual [VERIFICAR: hectáreas por cultivo]. El proyecto Lairaga Tropical del Cabildo y la Cooperativa Agrícola del Norte (2025-2026) quiere recuperar 100 hectáreas en desuso para subtropicales (45 de mango, 40 de aguacate, 15 de papaya) en nueve 
 - `paginas/gran-canaria/la-aldea-de-san-nicolas.md` | [VERIFICAR: porcentaje al aire libre]
-  - Contexto: La papaya suele ir bajo malla o invernadero en Canarias [VERIFICAR: porcentaje al aire libre], así que una papaya cubierta queda fuera. Un mango o un aguacate adulto es donde el DJI Agras T50 rinde: pulveriza desde arriba con depósito de 40 litros y hasta 24 L/min con cuatro boquillas (ficha técnica
+  - Contexto: La papaya suele ir bajo malla o invernadero en Canarias [VERIFICAR: porcentaje al aire libre], así que una papaya cubierta queda fuera. Un mango o un aguacate adulto es donde el DJI Agras T50 rinde: pulveriza desde arriba abono foliar o bioestimulante, con depósito de 40 litros y hasta 24 L/min con 
 - `paginas/gran-canaria/la-aldea-de-san-nicolas.md` | [VERIFICAR: precipitación media]
   - Contexto: El llano aluvial de La Aldea, entre 0 y 200 metros, es un fondo de barranco ancho rodeado de laderas abruptas, en un término de 139 kilómetros cuadrados casi todo escarpado. El oeste queda a sotavento del alisio: calmas, mucha insolación y aridez [VERIFICAR: precipitación media].
-- `paginas/gran-canaria/mogan.md` | [VERIFICAR: avisos fitosanitarios del Gobierno de Canarias para mango]
-  - Contexto: Para el mango no hay plaga documentada en Gran Canaria [VERIFICAR: avisos fitosanitarios del Gobierno de Canarias para mango]. En 2025 el Ayuntamiento repartió 101 plantones de una nueva variedad de mango. El tomate que queda va bajo invernadero y no se trata desde el aire; la papaya bajo malla, tam
+- `paginas/gran-canaria/mogan.md` | [VERIFICAR: avisos de sanidad vegetal del Gobierno de Canarias para mango]
+  - Contexto: Para el mango no hay plaga documentada en Gran Canaria [VERIFICAR: avisos de sanidad vegetal del Gobierno de Canarias para mango]. En 2025 el Ayuntamiento repartió 101 plantones de una nueva variedad de mango. El tomate que queda va bajo invernadero y no se trata desde el aire; la papaya bajo malla,
 - `paginas/gran-canaria/mogan.md` | [VERIFICAR: superficie de papaya y tomate]
-  - Contexto: Para el mango no hay plaga documentada en Gran Canaria [VERIFICAR: avisos fitosanitarios del Gobierno de Canarias para mango]. En 2025 el Ayuntamiento repartió 101 plantones de una nueva variedad de mango. El tomate que queda va bajo invernadero y no se trata desde el aire; la papaya bajo malla, tam
+  - Contexto: Para el mango no hay plaga documentada en Gran Canaria [VERIFICAR: avisos de sanidad vegetal del Gobierno de Canarias para mango]. En 2025 el Ayuntamiento repartió 101 plantones de una nueva variedad de mango. El tomate que queda va bajo invernadero y no se trata desde el aire; la papaya bajo malla,
 - `paginas/gran-canaria/moya.md` | [VERIFICAR: épocas de siembra y arranque de la papa en Moya y Fontanales]
   - Contexto: El calendario fino de siembras y arranques de la papa de Moya no está en los datos de partida [VERIFICAR: épocas de siembra y arranque de la papa en Moya y Fontanales]. A escala insular, el Cabildo habla de unas 1.200 ha de papa, un 90,5 % en regadío (Feria Insular de la Papa 2025-2026); el Mapa de 
 - `paginas/gran-canaria/moya.md` | [VERIFICAR: época de los avisos y comarca de Moya]
-  - Contexto: El mildiu (Phytophthora infestans) es la otra cara: enfermedad de hoja que avanza con humedad y que en Canarias genera avisos de riesgo alto por comarcas (Agrocabildo, 2024) [VERIFICAR: época de los avisos y comarca de Moya]. Ahí un fungicida foliar según etiqueta y plan sí es pulverización, candida
+  - Contexto: El mildiu (Phytophthora infestans) es la otra cara: enfermedad de hoja que avanza con humedad y que en Canarias genera avisos de riesgo alto por comarcas (Agrocabildo, 2024) [VERIFICAR: época de los avisos y comarca de Moya]. Qué hacer con él lo dicen esos avisos y el técnico; el dron no entra en el
 - `paginas/gran-canaria/moya.md` | [VERIFICAR: superficie de platanera en la costa de Moya]
-  - Contexto: - Encaja: papa y cebolla al aire libre en ciclo de hoja, si el plan de aplicación recoge un tratamiento foliar; hortícolas de ciclo corto en bancales; platanera descubierta de San Felipe y El Pagador [VERIFICAR: superficie de platanera en la costa de Moya]; frutales sin malla.
+  - Contexto: - Encaja: papa y cebolla al aire libre en ciclo de hoja, con abono foliar, bioestimulante o corrector de carencias de uso permitido; hortícolas de ciclo corto en bancales; platanera descubierta de San Felipe y El Pagador [VERIFICAR: superficie de platanera en la costa de Moya]; frutales sin malla.
 - `paginas/gran-canaria/moya.md` | [VERIFICAR: dato climático de Fontanales]
   - Contexto: Fontanales está entre los puntos más lluviosos y neblinosos de la isla [VERIFICAR: dato climático de Fontanales]; la laurisilva de Los Tilos lo confirma sin cifras. Alisio y mar de nubes son frecuentes en las medianías y la costa de San Felipe tiene viento propio. Antes de cada vuelo se mide y, si n
 - `paginas/gran-canaria/san-bartolome-de-tirajana.md` | [VERIFICAR: fechas locales de floración]
@@ -47,7 +47,7 @@ Total: 44 marcas en 13 páginas.
 - `paginas/gran-canaria/san-bartolome-de-tirajana.md` | [VERIFICAR: especie]
   - Contexto: El albaricoque abre el año. La flor sale al final del invierno en los bancales de Fataga y Tirajana [VERIFICAR: fechas locales de floración]; la cosecha de 2021 ya se contaba a mediados de junio (Canarias7). Entre flor y recogida, el Ayuntamiento reparte mosqueros contra la mosca de la fruta (1.700 
 - `paginas/gran-canaria/san-bartolome-de-tirajana.md` | [VERIFICAR: especies]
-  - Contexto: En mango y aguacate la temporada es larga y el calendario lo pone la plaga: araña del aguacate, trips, cochinillas (GOIA, Agrocabildo). Para el olivar, el Cabildo estudia sus plagas por comarcas desde 2024 [VERIFICAR: especies].
+  - Contexto: En mango y aguacate la temporada es larga; sus plagas (araña del aguacate, trips, cochinillas, según GOIA y Agrocabildo) las sigue la sanidad vegetal, y el dron entra con bioestimulantes y abono foliar. Para el olivar, el Cabildo estudia sus plagas por comarcas desde 2024 [VERIFICAR: especies].
 - `paginas/gran-canaria/san-bartolome-de-tirajana.md` | [VERIFICAR: hectáreas actuales]
   - Contexto: A mediados del siglo XX la costa de Tirajana tenía más de 500 hectáreas de tomate (ULPGC). Lo que queda de tomate y pepino va bajo invernadero [VERIFICAR: hectáreas actuales], y el plástico no se atraviesa con pulverización aérea: el dron aquí es cosa de la medianía, no de la costa.
 - `paginas/gran-canaria/santa-maria-de-guia.md` | [VERIFICAR: porcentaje de platanera bajo malla en Guía]
@@ -61,7 +61,7 @@ Total: 44 marcas en 13 páginas.
 - `paginas/gran-canaria/telde.md` | [VERIFICAR: fuente del porcentaje]
   - Contexto: Entre el mar y los 150 metros, la vega costera es tomate y hortaliza de exportación, casi todo bajo invernadero o malla. Gran Canaria mantiene unas 350 hectáreas de tomate (Canarias7, marzo de 2025) y concentra en torno al 90 % del tomate de invernadero de Canarias [VERIFICAR: fuente del porcentaje]
 - `paginas/gran-canaria/telde.md` | [VERIFICAR: plagas de los cítricos de Telde]
-  - Contexto: El cítrico es frutal arbóreo al aire libre: tratable. Qué plaga tiene no lo afirmamos: el cotonet de Sudáfrica no está documentado en Gran Canaria (plan de acción del MAPA, 2024) y de minador o piojo rojo no hay cita canaria [VERIFICAR: plagas de los cítricos de Telde]. La decisión de tratar es de t
+  - Contexto: El cítrico es frutal arbóreo al aire libre: tratable con abono foliar o correctores de carencias. Qué plaga tiene no lo afirmamos: el cotonet de Sudáfrica no está documentado en Gran Canaria (plan de acción del MAPA, 2024) y de minador o piojo rojo no hay cita canaria [VERIFICAR: plagas de los cítri
 - `paginas/gran-canaria/telde.md` | [VERIFICAR: sistema de cultivo de la papaya en Telde]
   - Contexto: Aguacate y mango crecen: el proyecto Lairaga Tropical (Cabildo y Cooperativa Agrícola del Norte, 2025-2026) quiere recuperar 100 hectáreas en desuso de la isla para subtropicales, y Telde está en la lista (Canarias7, enero de 2026). Aguacate y mango van al aire libre; la papaya suele ir bajo malla [
 - `paginas/gran-canaria/teror.md` | [VERIFICAR: precipitación media anual de Teror]

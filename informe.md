@@ -1,6 +1,6 @@
 # Informe: landings SEO local de Agrodrón Canarias
 
-Entrega del encargo maestro: páginas de aterrizaje de SEO local para agrodroncanarias.es (tratamientos agrícolas con dron: abonado foliar, bioestimulantes y otros productos permitidos; DJI Agras T50; base en Santa Cruz de La Palma). Se han redactado **77 páginas** en Markdown con frontmatter para WordPress: 14 municipios de La Palma (nivel A), 46 municipios de otras islas (nivel B), 7 páginas hub de isla y 10 páginas de cultivo. Todas pasan el control de calidad (0 errores) y el control de similitud (máximo 12,2 % frente al umbral del 30 %). Hay **279 marcas [VERIFICAR]** repartidas por las páginas, listadas al final de este informe.
+Entrega del encargo maestro: páginas de aterrizaje de SEO local para agrodroncanarias.es (tratamientos agrícolas con dron: abonado foliar, bioestimulantes y otros productos permitidos; DJI Agras T50; base en Santa Cruz de La Palma). Se han redactado **77 páginas** en Markdown con frontmatter para WordPress: 14 municipios de La Palma (nivel A), 46 municipios de otras islas (nivel B), 7 páginas hub de isla y 10 páginas de cultivo. Todas pasan el control de calidad (0 errores) y el control de similitud (máximo 12,2 % frente al umbral del 30 %). Hay **275 marcas [VERIFICAR]** repartidas por las páginas, listadas al final de este informe.
 
 ## 1. Dónde está todo
 
@@ -172,123 +172,123 @@ Los enlaces internos de todas las páginas ya apuntan a estas URL absolutas (mun
 
 | Página | Título | URL | Palabras | [VERIFICAR] |
 |---|---|---|---|---|
-| `paginas/islas/el-hierro.md` | Dron agrícola en El Hierro | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-el-hierro/ | 982 | 2 |
-| `paginas/islas/fuerteventura.md` | Dron agrícola en Fuerteventura | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-fuerteventura/ | 968 | 2 |
-| `paginas/islas/gran-canaria.md` | Dron agrícola en Gran Canaria | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/ | 987 | 2 |
-| `paginas/islas/la-gomera.md` | Dron agrícola en La Gomera | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-gomera/ | 984 | 3 |
-| `paginas/islas/la-palma.md` | Dron agrícola en La Palma | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/ | 993 | 2 |
-| `paginas/islas/lanzarote.md` | Dron agrícola en Lanzarote | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/ | 992 | 5 |
-| `paginas/islas/tenerife.md` | Dron agrícola en Tenerife | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/ | 979 | 3 |
+| `paginas/islas/el-hierro.md` | Dron agrícola en El Hierro | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-el-hierro/ | 978 | 2 |
+| `paginas/islas/fuerteventura.md` | Dron agrícola en Fuerteventura | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-fuerteventura/ | 984 | 1 |
+| `paginas/islas/gran-canaria.md` | Dron agrícola en Gran Canaria | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/ | 997 | 2 |
+| `paginas/islas/la-gomera.md` | Dron agrícola en La Gomera | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-gomera/ | 988 | 3 |
+| `paginas/islas/la-palma.md` | Dron agrícola en La Palma | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/ | 998 | 1 |
+| `paginas/islas/lanzarote.md` | Dron agrícola en Lanzarote | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/ | 994 | 5 |
+| `paginas/islas/tenerife.md` | Dron agrícola en Tenerife | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/ | 995 | 3 |
 
 ### Nivel A: La Palma
 
 | Página | Título | URL | Palabras | [VERIFICAR] |
 |---|---|---|---|---|
-| `paginas/la-palma/barlovento.md` | Dron agrícola en Barlovento | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/barlovento/ | 1184 | 4 |
-| `paginas/la-palma/brena-alta.md` | Dron agrícola en Breña Alta | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/ | 1152 | 5 |
-| `paginas/la-palma/brena-baja.md` | Dron agrícola en Breña Baja | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/brena-baja/ | 1168 | 2 |
-| `paginas/la-palma/el-paso.md` | Dron agrícola en El Paso | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/el-paso/ | 1181 | 8 |
-| `paginas/la-palma/fuencaliente.md` | Dron agrícola en Fuencaliente | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/fuencaliente/ | 1251 | 4 |
-| `paginas/la-palma/garafia.md` | Dron agrícola en Garafía | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/garafia/ | 1262 | 3 |
-| `paginas/la-palma/los-llanos-de-aridane.md` | Dron agrícola en Los Llanos de Aridane | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/los-llanos-de-aridane/ | 1279 | 8 |
-| `paginas/la-palma/puntagorda.md` | Dron agrícola en Puntagorda | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/puntagorda/ | 1147 | 6 |
-| `paginas/la-palma/puntallana.md` | Dron agrícola en Puntallana | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/puntallana/ | 1182 | 1 |
-| `paginas/la-palma/san-andres-y-sauces.md` | Dron agrícola en San Andrés y Sauces | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/san-andres-y-sauces/ | 1271 | 2 |
-| `paginas/la-palma/santa-cruz-de-la-palma.md` | Dron agrícola en Santa Cruz de La Palma | Agrodrón | https://agrodroncanarias.es/dron-agricola-la-palma/santa-cruz-de-la-palma/ | 1268 | 3 |
-| `paginas/la-palma/tazacorte.md` | Dron agrícola en Tazacorte | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/tazacorte/ | 1264 | 7 |
-| `paginas/la-palma/tijarafe.md` | Dron agrícola en Tijarafe | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/tijarafe/ | 1128 | 5 |
-| `paginas/la-palma/villa-de-mazo.md` | Dron agrícola en Villa de Mazo | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/villa-de-mazo/ | 1290 | 2 |
+| `paginas/la-palma/barlovento.md` | Dron agrícola en Barlovento | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/barlovento/ | 1284 | 4 |
+| `paginas/la-palma/brena-alta.md` | Dron agrícola en Breña Alta | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/ | 1237 | 5 |
+| `paginas/la-palma/brena-baja.md` | Dron agrícola en Breña Baja | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/brena-baja/ | 1280 | 2 |
+| `paginas/la-palma/el-paso.md` | Dron agrícola en El Paso | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/el-paso/ | 1294 | 8 |
+| `paginas/la-palma/fuencaliente.md` | Dron agrícola en Fuencaliente | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/fuencaliente/ | 1297 | 4 |
+| `paginas/la-palma/garafia.md` | Dron agrícola en Garafía | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/garafia/ | 1282 | 3 |
+| `paginas/la-palma/los-llanos-de-aridane.md` | Dron agrícola en Los Llanos de Aridane | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/los-llanos-de-aridane/ | 1286 | 8 |
+| `paginas/la-palma/puntagorda.md` | Dron agrícola en Puntagorda | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/puntagorda/ | 1288 | 6 |
+| `paginas/la-palma/puntallana.md` | Dron agrícola en Puntallana | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/puntallana/ | 1243 | 1 |
+| `paginas/la-palma/san-andres-y-sauces.md` | Dron agrícola en San Andrés y Sauces | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/san-andres-y-sauces/ | 1274 | 2 |
+| `paginas/la-palma/santa-cruz-de-la-palma.md` | Dron agrícola en Santa Cruz de La Palma | Agrodrón | https://agrodroncanarias.es/dron-agricola-la-palma/santa-cruz-de-la-palma/ | 1289 | 3 |
+| `paginas/la-palma/tazacorte.md` | Dron agrícola en Tazacorte | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/tazacorte/ | 1293 | 7 |
+| `paginas/la-palma/tijarafe.md` | Dron agrícola en Tijarafe | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/tijarafe/ | 1251 | 5 |
+| `paginas/la-palma/villa-de-mazo.md` | Dron agrícola en Villa de Mazo | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-palma/villa-de-mazo/ | 1295 | 2 |
 
 ### Nivel B: Tenerife
 
 | Página | Título | URL | Palabras | [VERIFICAR] |
 |---|---|---|---|---|
-| `paginas/tenerife/adeje.md` | Dron agrícola en Adeje | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/adeje/ | 967 | 2 |
-| `paginas/tenerife/arico.md` | Dron agrícola en Arico | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/arico/ | 962 | 3 |
-| `paginas/tenerife/arona.md` | Dron agrícola en Arona | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/arona/ | 977 | 2 |
-| `paginas/tenerife/buenavista-del-norte.md` | Dron agrícola en Buenavista del Norte | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/buenavista-del-norte/ | 983 | 3 |
-| `paginas/tenerife/candelaria.md` | Dron agrícola en Candelaria | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/candelaria/ | 976 | 3 |
-| `paginas/tenerife/el-sauzal.md` | Dron agrícola en El Sauzal | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/el-sauzal/ | 978 | 3 |
-| `paginas/tenerife/garachico.md` | Dron agrícola en Garachico | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/garachico/ | 971 | 5 |
-| `paginas/tenerife/granadilla-de-abona.md` | Dron agrícola en Granadilla de Abona | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/granadilla-de-abona/ | 979 | 2 |
-| `paginas/tenerife/guia-de-isora.md` | Dron agrícola en Guía de Isora | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/guia-de-isora/ | 964 | 2 |
-| `paginas/tenerife/guimar.md` | Dron agrícola en Güímar | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/guimar/ | 972 | 4 |
-| `paginas/tenerife/icod-de-los-vinos.md` | Dron agrícola en Icod de los Vinos | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/icod-de-los-vinos/ | 965 | 4 |
-| `paginas/tenerife/la-matanza-de-acentejo.md` | Dron agrícola en La Matanza de Acentejo | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/la-matanza-de-acentejo/ | 980 | 4 |
-| `paginas/tenerife/la-orotava.md` | Dron agrícola en La Orotava | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/la-orotava/ | 984 | 4 |
-| `paginas/tenerife/la-victoria-de-acentejo.md` | Dron agrícola en La Victoria de Acentejo | Agrodrón | https://agrodroncanarias.es/dron-agricola-tenerife/la-victoria-de-acentejo/ | 953 | 3 |
-| `paginas/tenerife/los-realejos.md` | Dron agrícola en Los Realejos | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/los-realejos/ | 977 | 4 |
-| `paginas/tenerife/los-silos.md` | Dron agrícola en Los Silos | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/los-silos/ | 982 | 3 |
-| `paginas/tenerife/san-cristobal-de-la-laguna.md` | Dron agrícola en La Laguna (Tenerife) | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/san-cristobal-de-la-laguna/ | 960 | 2 |
-| `paginas/tenerife/san-miguel-de-abona.md` | Dron agrícola en San Miguel de Abona | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/san-miguel-de-abona/ | 983 | 4 |
-| `paginas/tenerife/santa-ursula.md` | Dron agrícola en Santa Úrsula | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/santa-ursula/ | 970 | 2 |
-| `paginas/tenerife/tacoronte.md` | Dron agrícola en Tacoronte | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/tacoronte/ | 993 | 5 |
-| `paginas/tenerife/tegueste.md` | Dron agrícola en Tegueste | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/tegueste/ | 953 | 2 |
-| `paginas/tenerife/vilaflor-de-chasna.md` | Dron agrícola en Vilaflor | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/vilaflor-de-chasna/ | 973 | 4 |
+| `paginas/tenerife/adeje.md` | Dron agrícola en Adeje | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/adeje/ | 995 | 2 |
+| `paginas/tenerife/arico.md` | Dron agrícola en Arico | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/arico/ | 1000 | 3 |
+| `paginas/tenerife/arona.md` | Dron agrícola en Arona | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/arona/ | 996 | 2 |
+| `paginas/tenerife/buenavista-del-norte.md` | Dron agrícola en Buenavista del Norte | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/buenavista-del-norte/ | 993 | 3 |
+| `paginas/tenerife/candelaria.md` | Dron agrícola en Candelaria | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/candelaria/ | 999 | 3 |
+| `paginas/tenerife/el-sauzal.md` | Dron agrícola en El Sauzal | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/el-sauzal/ | 992 | 3 |
+| `paginas/tenerife/garachico.md` | Dron agrícola en Garachico | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/garachico/ | 998 | 5 |
+| `paginas/tenerife/granadilla-de-abona.md` | Dron agrícola en Granadilla de Abona | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/granadilla-de-abona/ | 997 | 2 |
+| `paginas/tenerife/guia-de-isora.md` | Dron agrícola en Guía de Isora | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/guia-de-isora/ | 1000 | 2 |
+| `paginas/tenerife/guimar.md` | Dron agrícola en Güímar | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/guimar/ | 997 | 4 |
+| `paginas/tenerife/icod-de-los-vinos.md` | Dron agrícola en Icod de los Vinos | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/icod-de-los-vinos/ | 993 | 4 |
+| `paginas/tenerife/la-matanza-de-acentejo.md` | Dron agrícola en La Matanza de Acentejo | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/la-matanza-de-acentejo/ | 996 | 4 |
+| `paginas/tenerife/la-orotava.md` | Dron agrícola en La Orotava | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/la-orotava/ | 997 | 4 |
+| `paginas/tenerife/la-victoria-de-acentejo.md` | Dron agrícola en La Victoria de Acentejo | Agrodrón | https://agrodroncanarias.es/dron-agricola-tenerife/la-victoria-de-acentejo/ | 997 | 3 |
+| `paginas/tenerife/los-realejos.md` | Dron agrícola en Los Realejos | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/los-realejos/ | 997 | 4 |
+| `paginas/tenerife/los-silos.md` | Dron agrícola en Los Silos | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/los-silos/ | 989 | 3 |
+| `paginas/tenerife/san-cristobal-de-la-laguna.md` | Dron agrícola en La Laguna (Tenerife) | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/san-cristobal-de-la-laguna/ | 998 | 2 |
+| `paginas/tenerife/san-miguel-de-abona.md` | Dron agrícola en San Miguel de Abona | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/san-miguel-de-abona/ | 992 | 4 |
+| `paginas/tenerife/santa-ursula.md` | Dron agrícola en Santa Úrsula | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/santa-ursula/ | 994 | 2 |
+| `paginas/tenerife/tacoronte.md` | Dron agrícola en Tacoronte | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/tacoronte/ | 999 | 5 |
+| `paginas/tenerife/tegueste.md` | Dron agrícola en Tegueste | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/tegueste/ | 993 | 2 |
+| `paginas/tenerife/vilaflor-de-chasna.md` | Dron agrícola en Vilaflor | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-tenerife/vilaflor-de-chasna/ | 999 | 4 |
 
 ### Nivel B: Gran Canaria
 
 | Página | Título | URL | Palabras | [VERIFICAR] |
 |---|---|---|---|---|
-| `paginas/gran-canaria/agaete.md` | Dron agrícola en Agaete | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/agaete/ | 966 | 5 |
-| `paginas/gran-canaria/arucas.md` | Dron agrícola en Arucas | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/arucas/ | 981 | 3 |
-| `paginas/gran-canaria/galdar.md` | Dron agrícola en Gáldar | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/galdar/ | 971 | 2 |
-| `paginas/gran-canaria/la-aldea-de-san-nicolas.md` | Dron agrícola en La Aldea de San Nicolás | Agrodrón | https://agrodroncanarias.es/dron-agricola-gran-canaria/la-aldea-de-san-nicolas/ | 987 | 4 |
-| `paginas/gran-canaria/mogan.md` | Dron agrícola en Mogán | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/mogan/ | 967 | 2 |
-| `paginas/gran-canaria/moya.md` | Dron agrícola en Moya | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/moya/ | 978 | 4 |
-| `paginas/gran-canaria/san-bartolome-de-tirajana.md` | Dron agrícola en San Bartolomé de Tirajana | Agrodrón | https://agrodroncanarias.es/dron-agricola-gran-canaria/san-bartolome-de-tirajana/ | 977 | 4 |
-| `paginas/gran-canaria/santa-maria-de-guia.md` | Dron agrícola en Santa María de Guía | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/santa-maria-de-guia/ | 988 | 2 |
-| `paginas/gran-canaria/telde.md` | Dron agrícola en Telde | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/telde/ | 977 | 5 |
-| `paginas/gran-canaria/teror.md` | Dron agrícola en Teror | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/teror/ | 990 | 4 |
-| `paginas/gran-canaria/valsequillo.md` | Dron agrícola en Valsequillo | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/valsequillo/ | 970 | 5 |
-| `paginas/gran-canaria/vega-de-san-mateo.md` | Dron agrícola en Vega de San Mateo | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/vega-de-san-mateo/ | 978 | 2 |
+| `paginas/gran-canaria/agaete.md` | Dron agrícola en Agaete | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/agaete/ | 999 | 5 |
+| `paginas/gran-canaria/arucas.md` | Dron agrícola en Arucas | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/arucas/ | 990 | 3 |
+| `paginas/gran-canaria/galdar.md` | Dron agrícola en Gáldar | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/galdar/ | 995 | 2 |
+| `paginas/gran-canaria/la-aldea-de-san-nicolas.md` | Dron agrícola en La Aldea de San Nicolás | Agrodrón | https://agrodroncanarias.es/dron-agricola-gran-canaria/la-aldea-de-san-nicolas/ | 1000 | 4 |
+| `paginas/gran-canaria/mogan.md` | Dron agrícola en Mogán | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/mogan/ | 989 | 2 |
+| `paginas/gran-canaria/moya.md` | Dron agrícola en Moya | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/moya/ | 998 | 4 |
+| `paginas/gran-canaria/san-bartolome-de-tirajana.md` | Dron agrícola en San Bartolomé de Tirajana | Agrodrón | https://agrodroncanarias.es/dron-agricola-gran-canaria/san-bartolome-de-tirajana/ | 998 | 4 |
+| `paginas/gran-canaria/santa-maria-de-guia.md` | Dron agrícola en Santa María de Guía | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/santa-maria-de-guia/ | 992 | 2 |
+| `paginas/gran-canaria/telde.md` | Dron agrícola en Telde | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/telde/ | 993 | 5 |
+| `paginas/gran-canaria/teror.md` | Dron agrícola en Teror | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/teror/ | 994 | 4 |
+| `paginas/gran-canaria/valsequillo.md` | Dron agrícola en Valsequillo | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/valsequillo/ | 992 | 5 |
+| `paginas/gran-canaria/vega-de-san-mateo.md` | Dron agrícola en Vega de San Mateo | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-gran-canaria/vega-de-san-mateo/ | 994 | 2 |
 
 ### Nivel B: Lanzarote
 
 | Página | Título | URL | Palabras | [VERIFICAR] |
 |---|---|---|---|---|
-| `paginas/lanzarote/haria.md` | Dron agrícola en Haría | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/haria/ | 969 | 4 |
-| `paginas/lanzarote/san-bartolome.md` | Dron agrícola en San Bartolomé | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/san-bartolome/ | 958 | 3 |
-| `paginas/lanzarote/teguise.md` | Dron agrícola en Teguise | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/teguise/ | 980 | 4 |
-| `paginas/lanzarote/tias.md` | Dron agrícola en Tías | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/tias/ | 957 | 4 |
-| `paginas/lanzarote/tinajo.md` | Dron agrícola en Tinajo | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/tinajo/ | 991 | 3 |
-| `paginas/lanzarote/yaiza.md` | Dron agrícola en Yaiza | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/yaiza/ | 963 | 2 |
+| `paginas/lanzarote/haria.md` | Dron agrícola en Haría | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/haria/ | 995 | 4 |
+| `paginas/lanzarote/san-bartolome.md` | Dron agrícola en San Bartolomé | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/san-bartolome/ | 992 | 3 |
+| `paginas/lanzarote/teguise.md` | Dron agrícola en Teguise | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/teguise/ | 993 | 4 |
+| `paginas/lanzarote/tias.md` | Dron agrícola en Tías | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/tias/ | 990 | 4 |
+| `paginas/lanzarote/tinajo.md` | Dron agrícola en Tinajo | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/tinajo/ | 995 | 3 |
+| `paginas/lanzarote/yaiza.md` | Dron agrícola en Yaiza | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-lanzarote/yaiza/ | 983 | 2 |
 
 ### Nivel B: Fuerteventura
 
 | Página | Título | URL | Palabras | [VERIFICAR] |
 |---|---|---|---|---|
-| `paginas/fuerteventura/antigua.md` | Dron agrícola en Antigua | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-fuerteventura/antigua/ | 961 | 2 |
-| `paginas/fuerteventura/tuineje.md` | Dron agrícola en Tuineje | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-fuerteventura/tuineje/ | 976 | 1 |
+| `paginas/fuerteventura/antigua.md` | Dron agrícola en Antigua | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-fuerteventura/antigua/ | 990 | 2 |
+| `paginas/fuerteventura/tuineje.md` | Dron agrícola en Tuineje | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-fuerteventura/tuineje/ | 983 | 1 |
 
 ### Nivel B: La Gomera
 
 | Página | Título | URL | Palabras | [VERIFICAR] |
 |---|---|---|---|---|
-| `paginas/la-gomera/hermigua.md` | Dron agrícola en Hermigua | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-gomera/hermigua/ | 984 | 4 |
-| `paginas/la-gomera/valle-gran-rey.md` | Dron agrícola en Valle Gran Rey | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-gomera/valle-gran-rey/ | 969 | 7 |
-| `paginas/la-gomera/vallehermoso.md` | Dron agrícola en Vallehermoso | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-gomera/vallehermoso/ | 992 | 4 |
+| `paginas/la-gomera/hermigua.md` | Dron agrícola en Hermigua | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-gomera/hermigua/ | 995 | 4 |
+| `paginas/la-gomera/valle-gran-rey.md` | Dron agrícola en Valle Gran Rey | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-gomera/valle-gran-rey/ | 1000 | 7 |
+| `paginas/la-gomera/vallehermoso.md` | Dron agrícola en Vallehermoso | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-la-gomera/vallehermoso/ | 983 | 4 |
 
 ### Nivel B: El Hierro
 
 | Página | Título | URL | Palabras | [VERIFICAR] |
 |---|---|---|---|---|
-| `paginas/el-hierro/frontera.md` | Dron agrícola en Frontera | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-el-hierro/frontera/ | 990 | 4 |
+| `paginas/el-hierro/frontera.md` | Dron agrícola en Frontera | Agrodrón Canarias | https://agrodroncanarias.es/dron-agricola-el-hierro/frontera/ | 979 | 4 |
 
 ### Cultivos
 
 | Página | Título | URL | Palabras | [VERIFICAR] |
 |---|---|---|---|---|
-| `paginas/cultivos/aguacate.md` | Dron agrícola para aguacate en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-aguacate/ | 1180 | 5 |
-| `paginas/cultivos/almendro.md` | Dron agrícola para almendro en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-almendro/ | 1202 | 5 |
-| `paginas/cultivos/citricos.md` | Dron agrícola para cítricos en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-citricos/ | 1170 | 4 |
-| `paginas/cultivos/flores-ornamentales.md` | Dron agrícola para flores y ornamentales | Agrodrón | https://agrodroncanarias.es/dron-agricola-flores-ornamentales/ | 1187 | 6 |
-| `paginas/cultivos/frutales-subtropicales.md` | Dron agrícola para frutales subtropicales | Agrodrón | https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/ | 1190 | 6 |
-| `paginas/cultivos/horticolas.md` | Dron agrícola para hortalizas en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-horticolas/ | 1233 | 6 |
-| `paginas/cultivos/papa.md` | Dron agrícola para papa en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-papa/ | 1239 | 3 |
-| `paginas/cultivos/platanera.md` | Dron agrícola para platanera en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-platanera/ | 1177 | 3 |
-| `paginas/cultivos/tomate.md` | Dron agrícola para tomate en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-tomate/ | 1244 | 4 |
-| `paginas/cultivos/vina.md` | Dron agrícola para viña en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-vina/ | 1294 | 4 |
+| `paginas/cultivos/aguacate.md` | Dron agrícola para aguacate en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-aguacate/ | 1289 | 5 |
+| `paginas/cultivos/almendro.md` | Dron agrícola para almendro en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-almendro/ | 1278 | 5 |
+| `paginas/cultivos/citricos.md` | Dron agrícola para cítricos en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-citricos/ | 1284 | 4 |
+| `paginas/cultivos/flores-ornamentales.md` | Dron agrícola para flores y ornamentales | Agrodrón | https://agrodroncanarias.es/dron-agricola-flores-ornamentales/ | 1283 | 5 |
+| `paginas/cultivos/frutales-subtropicales.md` | Dron agrícola para frutales subtropicales | Agrodrón | https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/ | 1285 | 6 |
+| `paginas/cultivos/horticolas.md` | Dron agrícola para hortalizas en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-horticolas/ | 1282 | 5 |
+| `paginas/cultivos/papa.md` | Dron agrícola para papa en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-papa/ | 1273 | 3 |
+| `paginas/cultivos/platanera.md` | Dron agrícola para platanera en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-platanera/ | 1285 | 3 |
+| `paginas/cultivos/tomate.md` | Dron agrícola para tomate en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-tomate/ | 1286 | 4 |
+| `paginas/cultivos/vina.md` | Dron agrícola para viña en Canarias | Agrodrón | https://agrodroncanarias.es/dron-agricola-vina/ | 1292 | 4 |
 
 ## 5. Fase 1: datos y fuentes
 
@@ -299,7 +299,7 @@ Los enlaces internos de todas las páginas ya apuntan a estas URL absolutas (mun
 
 ## 6. Enfoque del servicio y normativa: lo que afirman las páginas y con qué fuente
 
-Por indicación del responsable, en ninguna página aparece la palabra fitosanitario (ni sus derivados, ni plaguicida, fungicida, insecticida, herbicida, ni fumigar): Agrodrón no ofrece ese servicio en Canarias. El servicio se describe como **tratamientos agrícolas con dron**: pulverización de abonos foliares, bioestimulantes, correctores de carencias y otros productos de uso permitido, sobre cultivo al aire libre. Las plagas y enfermedades documentadas aparecen como contexto del agricultor, con su fuente, y el control de la plaga se remite a los servicios de sanidad vegetal; el dron no se presenta como herramienta contra plagas ni se promete ningún resultado. El script de control rechaza cualquier página con esas palabras, también en el frontmatter.
+Por indicación del responsable, en ninguna página aparece el término vetado que designa los productos contra plagas (ni sus derivados, ni plaguicida, fungicida, insecticida, herbicida, ni fumigar): Agrodrón no ofrece ese servicio en Canarias. El servicio se describe como **tratamientos agrícolas con dron**: pulverización de abonos foliares, bioestimulantes, correctores de carencias y otros productos de uso permitido, sobre cultivo al aire libre. Las plagas y enfermedades documentadas aparecen como contexto del agricultor, con su fuente, y el control de la plaga se remite a los servicios de sanidad vegetal; el dron no se presenta como herramienta contra plagas ni se promete ningún resultado. El script de control rechaza cualquier página con esas palabras, también en el frontmatter.
 
 Cada página lleva como máximo un párrafo de normativa y condiciones, redactado distinto, con solo estas afirmaciones:
 1. El operador vuela en la categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo PDRA-S01, con piloto certificado (AESA, ámbito drones; Reglamento de Ejecución (UE) 2019/947).
@@ -315,24 +315,24 @@ Métrica: proporción de secuencias de 5 palabras de una página que aparecen ta
 
 ```
 Páginas analizadas: 77  |  pares: 2926  |  métrica: contención de shingles de 5 palabras  |  umbral: 30 %
-Máxima similitud: 12.2 %  |  media: 2.3 %  |  pares por encima del umbral: 0
+Máxima similitud: 11.0 %  |  media: 2.3 %  |  pares por encima del umbral: 0
 
 Top 15 pares (shingles % | coseno TF-IDF % | página A | página B):
-   12.2 |  20.8 | paginas/tenerife/la-victoria-de-acentejo.md | paginas/tenerife/tegueste.md
-   11.0 |  17.8 | paginas/tenerife/icod-de-los-vinos.md | paginas/tenerife/la-orotava.md
-   10.7 |  52.7 | paginas/fuerteventura/antigua.md | paginas/islas/fuerteventura.md
-   10.5 |  39.5 | paginas/islas/la-gomera.md | paginas/la-gomera/vallehermoso.md
-   10.1 |  19.8 | paginas/cultivos/vina.md | paginas/tenerife/la-victoria-de-acentejo.md
-    9.7 |  13.8 | paginas/lanzarote/haria.md | paginas/lanzarote/tias.md
-    9.2 |   4.3 | paginas/la-palma/los-llanos-de-aridane.md | paginas/lanzarote/tias.md
-    8.9 |  25.7 | paginas/tenerife/buenavista-del-norte.md | paginas/tenerife/los-silos.md
-    8.8 |  11.6 | paginas/lanzarote/tias.md | paginas/tenerife/la-victoria-de-acentejo.md
-    8.7 |  13.5 | paginas/tenerife/la-orotava.md | paginas/tenerife/la-victoria-de-acentejo.md
-    8.5 |  20.6 | paginas/cultivos/vina.md | paginas/lanzarote/tias.md
-    8.3 |  17.5 | paginas/tenerife/candelaria.md | paginas/tenerife/la-victoria-de-acentejo.md
-    8.3 |  12.9 | paginas/tenerife/la-victoria-de-acentejo.md | paginas/tenerife/vilaflor-de-chasna.md
-    8.2 |  48.9 | paginas/fuerteventura/tuineje.md | paginas/islas/fuerteventura.md
-    8.2 |   9.6 | paginas/la-palma/los-llanos-de-aridane.md | paginas/tenerife/los-silos.md
+   11.0 |  19.4 | paginas/tenerife/la-victoria-de-acentejo.md | paginas/tenerife/tegueste.md
+   10.9 |  18.0 | paginas/tenerife/icod-de-los-vinos.md | paginas/tenerife/la-orotava.md
+   10.1 |  52.8 | paginas/fuerteventura/antigua.md | paginas/islas/fuerteventura.md
+    9.3 |  21.1 | paginas/tenerife/el-sauzal.md | paginas/tenerife/la-victoria-de-acentejo.md
+    9.3 |  39.7 | paginas/islas/la-gomera.md | paginas/la-gomera/vallehermoso.md
+    9.2 |  26.5 | paginas/tenerife/la-orotava.md | paginas/tenerife/los-realejos.md
+    8.6 |  23.6 | paginas/tenerife/la-matanza-de-acentejo.md | paginas/tenerife/tacoronte.md
+    8.3 |  25.2 | paginas/tenerife/buenavista-del-norte.md | paginas/tenerife/los-silos.md
+    7.9 |  16.1 | paginas/tenerife/garachico.md | paginas/tenerife/los-realejos.md
+    7.6 |  24.0 | paginas/tenerife/el-sauzal.md | paginas/tenerife/la-matanza-de-acentejo.md
+    7.5 |  36.9 | paginas/islas/la-gomera.md | paginas/la-gomera/hermigua.md
+    7.5 |  16.2 | paginas/tenerife/candelaria.md | paginas/tenerife/la-victoria-de-acentejo.md
+    7.3 |  26.2 | paginas/tenerife/garachico.md | paginas/tenerife/icod-de-los-vinos.md
+    7.3 |  12.2 | paginas/tenerife/guimar.md | paginas/tenerife/la-victoria-de-acentejo.md
+    7.0 |  46.8 | paginas/islas/lanzarote.md | paginas/lanzarote/teguise.md
 ```
 
 Ningún par supera el umbral; ninguna página ha necesitado reescritura por similitud. Los pares más altos (12,2 % como máximo) corresponden a municipios de la misma comarca vitícola que comparten el párrafo legal obligatorio y los mismos avisos del Cabildo, con redacción distinta. Los pares hub–municipio con coseno alto (Fuerteventura, La Gomera) comparten vocabulario de isla, no frases.
@@ -374,7 +374,7 @@ No publicar todo de golpe. Propuesta por tandas, siempre primero el hub de la is
 
 ## 12. Todas las marcas [VERIFICAR] por página
 
-Total: 279 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de la FAQ). Hay que confirmar el dato o pedir que se quite la frase.
+Total: 275 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de la FAQ). Hay que confirmar el dato o pedir que se quite la frase.
 
 ### `paginas/cultivos/aguacate.md` (5)
 
@@ -397,16 +397,15 @@ Total: 279 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 - [VERIFICAR: tablas 7.8.2.x del Anuario del MAPA e ISTAC]
 - [VERIFICAR: hectáreas de cítricos por municipio]
 - [VERIFICAR: estatus en Canarias con Sanidad Vegetal del Gobierno de Canarias]
-- [VERIFICAR: avisos fitosanitarios de los Cabildos y del Gobierno de Canarias]
+- [VERIFICAR: avisos de sanidad vegetal de los Cabildos y del Gobierno de Canarias]
 
-### `paginas/cultivos/flores-ornamentales.md` (6)
+### `paginas/cultivos/flores-ornamentales.md` (5)
 
 - [VERIFICAR: superficie oficial reciente de flor y ornamental en el ISTAC]
 - [VERIFICAR: porcentaje de ornamentales a cielo abierto]
 - [VERIFICAR: altura y marco de plantación con fuente técnica]
 - [VERIFICAR: avisos de Agrocabildo o del Cabildo de La Palma sobre proteas]
 - [VERIFICAR: hectáreas de proteas por municipio]
-- [VERIFICAR: confirmar con Agrodrón qué aplicaciones no fitosanitarias ofrece]
 
 ### `paginas/cultivos/frutales-subtropicales.md` (6)
 
@@ -417,14 +416,13 @@ Total: 279 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 - [VERIFICAR: presencia en Canarias]
 - [VERIFICAR: fuente canaria]
 
-### `paginas/cultivos/horticolas.md` (6)
+### `paginas/cultivos/horticolas.md` (5)
 
 - [VERIFICAR: ISTAC por cultivo]
 - [VERIFICAR: probablemente miles de toneladas]
 - [VERIFICAR: proporción bajo cubierta]
 - [VERIFICAR]
 - [VERIFICAR: avisos de hortícolas por isla]
-- [VERIFICAR: confirmar con Agrodrón qué aplicaciones no fitosanitarias ofrece]
 
 ### `paginas/cultivos/papa.md` (3)
 
@@ -472,7 +470,7 @@ Total: 279 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 
 - [VERIFICAR: superficie cultivada total de Agaete según el ISTAC]
 - [VERIFICAR: altitudes]
-- [VERIFICAR: avisos fitosanitarios del Gobierno de Canarias sobre cítricos]
+- [VERIFICAR: avisos de sanidad vegetal del Gobierno de Canarias sobre cítricos]
 - [VERIFICAR: hectáreas por cultivo]
 - [VERIFICAR: datos de viento y precipitación]
 
@@ -496,7 +494,7 @@ Total: 279 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 
 ### `paginas/gran-canaria/mogan.md` (2)
 
-- [VERIFICAR: avisos fitosanitarios del Gobierno de Canarias para mango]
+- [VERIFICAR: avisos de sanidad vegetal del Gobierno de Canarias para mango]
 - [VERIFICAR: superficie de papaya y tomate]
 
 ### `paginas/gran-canaria/moya.md` (4)
@@ -551,10 +549,9 @@ Total: 279 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 - [VERIFICAR: superficie actual de viña]
 - [VERIFICAR]
 
-### `paginas/islas/fuerteventura.md` (2)
+### `paginas/islas/fuerteventura.md` (1)
 
 - [VERIFICAR: superficie real con el Mapa de Cultivos]
-- [VERIFICAR: confirmar con Agrodrón qué aplicaciones no fitosanitarias ofrece]
 
 ### `paginas/islas/gran-canaria.md` (2)
 
@@ -567,10 +564,9 @@ Total: 279 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 - [VERIFICAR: ASPROCAN o ISTAC]
 - [VERIFICAR]
 
-### `paginas/islas/la-palma.md` (2)
+### `paginas/islas/la-palma.md` (1)
 
 - [VERIFICAR: desglose de platanera protegida en La Palma; el dato canario es un 35 %]
-- [VERIFICAR: qué aplicaciones no fitosanitarias ofrece Agrodrón]
 
 ### `paginas/islas/lanzarote.md` (5)
 
@@ -634,7 +630,7 @@ Total: 279 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 
 - [VERIFICAR: hectáreas de viña del municipio]
 - [VERIFICAR: hectáreas de aguacate actuales]
-- [VERIFICAR: problemas fitosanitarios locales del almendro]
+- [VERIFICAR: plagas y carencias documentadas del almendro en el municipio]
 - [VERIFICAR: superficie municipal tras la erupción]
 - [VERIFICAR: frecuencia del desborde del alisio sobre El Paso]
 - [VERIFICAR: superficie en el municipio]
@@ -667,7 +663,7 @@ Total: 279 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 
 ### `paginas/la-palma/puntagorda.md` (6)
 
-- [VERIFICAR: problemas fitosanitarios locales del almendro]
+- [VERIFICAR: plagas y carencias documentadas del almendro en Puntagorda]
 - [VERIFICAR: hectáreas]
 - [VERIFICAR: superficie exacta]
 - [VERIFICAR: barrancos del término]
@@ -743,7 +739,7 @@ Total: 279 marcas en el cuerpo de las páginas (las del JSON-LD repiten las de l
 
 - [VERIFICAR: altitud de las zonas de viña]
 - [VERIFICAR: patógeno y año del aviso]
-- [VERIFICAR: avisos fitosanitarios del Cabildo de Lanzarote]
+- [VERIFICAR: avisos de sanidad vegetal del Cabildo de Lanzarote]
 
 ### `paginas/lanzarote/yaiza.md` (2)
 

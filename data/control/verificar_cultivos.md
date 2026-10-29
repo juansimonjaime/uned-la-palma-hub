@@ -1,6 +1,6 @@
 # Marcas [VERIFICAR] pendientes: cultivos
 
-Total: 46 marcas en 10 páginas.
+Total: 44 marcas en 10 páginas.
 
 - `paginas/cultivos/aguacate.md` | [VERIFICAR: altura y marco de plantación con fuente técnica]
   - Contexto: El aguacatero adulto es un árbol de porte alto, de cuatro a ocho metros según manejo y edad [VERIFICAR: altura y marco de plantación con fuente técnica], con una copa densa que cierra la calle en pocos años si no se poda. En La Palma va en bancales de medianías entre 300 y 700 m; en Mogán, en el fon
@@ -28,8 +28,8 @@ Total: 46 marcas en 10 páginas.
   - Contexto: Hay datos de sitios concretos. En Telde, la naranja local mueve entre 250.000 y 258.000 kg al año hacia SPAR (FyH) y la Finca Jomera produce 80 t anuales (Telde Actualidad); la Feria de la Naranja llegó a su XIV edición en 2025. En Arafo, el Mapa de Cultivos 2016 contaba 17,2 ha de cítricos. Para el
 - `paginas/cultivos/citricos.md` | [VERIFICAR: estatus en Canarias con Sanidad Vegetal del Gobierno de Canarias]
   - Contexto: Conviene ser claro con lo que dicen las fuentes. El cotonet de Sudáfrica (Delottococcus aberiae) tiene un plan de acción del Ministerio de Agricultura de 2024 que lo sitúa en la Comunidad Valenciana, Cataluña y Murcia, sin mencionar Canarias [VERIFICAR: estatus en Canarias con Sanidad Vegetal del Go
-- `paginas/cultivos/citricos.md` | [VERIFICAR: avisos fitosanitarios de los Cabildos y del Gobierno de Canarias]
-  - Contexto: Minador de los cítricos, piojo rojo y mosca de la fruta (Ceratitis capitata) son plagas habituales del naranjo en el resto de España, pero sin fuente canaria leída para esta página [VERIFICAR: avisos fitosanitarios de los Cabildos y del Gobierno de Canarias]. Si tu técnico los tiene identificados, c
+- `paginas/cultivos/citricos.md` | [VERIFICAR: avisos de sanidad vegetal de los Cabildos y del Gobierno de Canarias]
+  - Contexto: Minador de los cítricos, piojo rojo y mosca de la fruta (Ceratitis capitata) son plagas habituales del naranjo en el resto de España, pero sin fuente canaria leída para esta página [VERIFICAR: avisos de sanidad vegetal de los Cabildos y del Gobierno de Canarias]. Si tu técnico los tiene identificado
 - `paginas/cultivos/flores-ornamentales.md` | [VERIFICAR: superficie oficial reciente de flor y ornamental en el ISTAC]
   - Contexto: Diario de Avisos (octubre de 2026) sigue hablando de unas 750 ha y 70 millones de euros al año, concentrados en Tenerife, Gran Canaria y La Palma, señal de que la cifra no se ha actualizado [VERIFICAR: superficie oficial reciente de flor y ornamental en el ISTAC].
 - `paginas/cultivos/flores-ornamentales.md` | [VERIFICAR: porcentaje de ornamentales a cielo abierto]
@@ -37,11 +37,9 @@ Total: 46 marcas en 10 páginas.
 - `paginas/cultivos/flores-ornamentales.md` | [VERIFICAR: altura y marco de plantación con fuente técnica]
   - Contexto: La protea es un arbusto [VERIFICAR: altura y marco de plantación con fuente técnica] plantado en líneas sobre bancales de medianías, en laderas donde el tractor no entra y la mochila se sube a cuestas. En la vertiente este de La Palma el mar de nubes baja a esas cotas y la humedad media es la más al
 - `paginas/cultivos/flores-ornamentales.md` | [VERIFICAR: avisos de Agrocabildo o del Cabildo de La Palma sobre proteas]
-  - Contexto: Sobre plagas y enfermedades de proteas en Canarias no hemos encontrado fuente técnica publicada [VERIFICAR: avisos de Agrocabildo o del Cabildo de La Palma sobre proteas]. Lo que se aplique sale del diagnóstico de tu técnico y de la etiqueta del producto.
+  - Contexto: Sobre plagas y enfermedades de proteas en Canarias no hemos encontrado fuente técnica publicada [VERIFICAR: avisos de Agrocabildo o del Cabildo de La Palma sobre proteas]; si aparece algo, el control es de tu técnico y de Sanidad Vegetal, no del dron.
 - `paginas/cultivos/flores-ornamentales.md` | [VERIFICAR: hectáreas de proteas por municipio]
   - Contexto: En [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) las proteas se reparten por las medianías de casi todos los municipios: [Breña Alta](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/) las tiene en sus medianías y [El Paso](https://agrodroncanarias.es/dron-agricola-la-
-- `paginas/cultivos/flores-ornamentales.md` | [VERIFICAR: confirmar con Agrodrón qué aplicaciones no fitosanitarias ofrece]
-  - Contexto: Cada tratamiento fitosanitario con dron, también en flor, necesita autorización previa del Gobierno de Canarias como órgano competente y un plan de aplicación aprobado, porque en España la aplicación aérea de fitosanitarios solo se permite en casos especiales (Real Decreto 1311/2012, artículos 27 y 
 - `paginas/cultivos/frutales-subtropicales.md` | [VERIFICAR: porcentaje a cielo abierto]
   - Contexto: El mango va al aire libre. La papaya va habitualmente bajo malla o invernadero (norma técnica de Agrocabildo, monografía de Cajamar) [VERIFICAR: porcentaje a cielo abierto]: poco recorrido para el dron. La piña de El Hierro es mixta: en 1988 la mayoría de las parcelas de Frontera iban al aire libre 
 - `paginas/cultivos/frutales-subtropicales.md` | [VERIFICAR: cubierta actual de la piña en El Golfo]
@@ -63,13 +61,11 @@ Total: 46 marcas en 10 páginas.
 - `paginas/cultivos/horticolas.md` | [VERIFICAR]
   - Contexto: No encaja lo que va bajo túnel, malla o invernadero. Parte del calabacín y del pepino se cultiva protegido, sin porcentaje con fuente [VERIFICAR: proporción bajo cubierta]; la fresa de Valsequillo va bajo túnel [VERIFICAR]; las flores de Guía, bajo invernadero. En una misma finca se trata la parte d
 - `paginas/cultivos/horticolas.md` | [VERIFICAR: avisos de hortícolas por isla]
-  - Contexto: El manual fitosanitario de Agrocabildo de 2026 cita el trips de la cebolla (Thrips tabaci) y, como polífagas que pasan de un cultivo a otro, la araña roja, la mosca blanca y la lagarta (Chrysodeixis chalcites). De otras plagas y enfermedades de col, lechuga o calabacín en Canarias no hay fuente leíd
-- `paginas/cultivos/horticolas.md` | [VERIFICAR: confirmar con Agrodrón qué aplicaciones no fitosanitarias ofrece]
-  - Contexto: Sobre la norma, lo justo. El Ministerio de Agricultura trata los tratamientos con dron como tratamientos aéreos (nota informativa MAPA-AESA de 2018), con autorización previa del órgano competente de la comunidad autónoma y plan de aplicación, y solo con productos cuya autorización incluya expresamen
+  - Contexto: El manual de plagas de Agrocabildo de 2026 cita el trips de la cebolla (Thrips tabaci) y, como polífagas que pasan de un cultivo a otro, la araña roja, la mosca blanca y la lagarta (Chrysodeixis chalcites). De otras plagas y enfermedades de col, lechuga o calabacín en Canarias no hay fuente leída ni
 - `paginas/cultivos/papa.md` | [VERIFICAR: calendario de avisos por comarca]
   - Contexto: El mildiu (Phytophthora infestans) es otra historia. Agrocabildo emite avisos de riesgo alto por comarcas (2024) y el Cabildo de Tenerife los ha lanzado para el norte de la isla (AtlánticoHoy, hacia 2024). Avanza con humedad y temperaturas suaves, lo que dan el mar de nubes y las nieblas de barloven
 - `paginas/cultivos/papa.md` | [VERIFICAR]
-  - Contexto: Aquí el dron sí entra: cuando llega el aviso, el bancal está mojado y el tractor no pasa, el tratamiento no puede esperar a que escampe. Del escarabajo hay ensayos de insecticidas de Agrocabildo (2008); de nematodos no hay fuente canaria [VERIFICAR].
+  - Contexto: Ese aviso lo gestionas con lo que indique el Cabildo; el dron no va contra el hongo. Entra después: tras semanas de bancal mojado o tras una sequía como la que costó el 60 % de una cosecha de papa en el norte de Tenerife (ASAGA), cuando se plantea un foliar o un bioestimulante pensado para que la ma
 - `paginas/cultivos/papa.md` | [VERIFICAR: metodología ISTAC]
   - Contexto: Para 2023 hay tres superficies que no casan: 6.710 ha (Diario de Avisos); 3.300 ha según el consejero Narvay Quintero vía RTVC, frente a 5.400 ha en 2014; y 3.555 ha, con 2.257 ha en Tenerife, según el ISTAC citado por eldiario.es. El ISTAC da 3.303 ha para 2024. La diferencia probablemente venga de
 - `paginas/cultivos/platanera.md` | [VERIFICAR: altura media en producción con fuente técnica]

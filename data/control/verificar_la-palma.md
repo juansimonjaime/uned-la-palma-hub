@@ -1,25 +1,23 @@
 # Marcas [VERIFICAR] pendientes: la-palma
 
-Total: 62 marcas en 15 páginas.
+Total: 61 marcas en 15 páginas.
 
 - `paginas/islas/la-palma.md` | [VERIFICAR: desglose de platanera protegida en La Palma; el dato canario es un 35 %]
   - Contexto: El dron solo trabaja cultivo al aire libre: lo que esté bajo malla o invernadero queda fuera. La platanera palmera es, según el sector, la de mayor proporción descubierta de Canarias, con cortavientos verticales y no de cubierta [VERIFICAR: desglose de platanera protegida en La Palma; el dato canari
-- `paginas/islas/la-palma.md` | [VERIFICAR: qué aplicaciones no fitosanitarias ofrece Agrodrón]
-  - Contexto: La aplicación aérea de fitosanitarios está prohibida en España con carácter general y solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28); el Ministerio de Agricultura
 - `paginas/la-palma/barlovento.md` | [VERIFICAR: aviso o fuente local de mildiu de la papa en Barlovento]
-  - Contexto: Para tratamientos foliares de la papa la respuesta cambia. Un problema de hoja como el mildiu [VERIFICAR: aviso o fuente local de mildiu de la papa en Barlovento] se trata desde arriba, y las terrazas de papa de las medianías son el tipo de parcela donde arrastrar un atomizador cuesta más que el pro
+  - Contexto: Para el abonado foliar de la papa la respuesta cambia. El mildiu de la hoja [VERIFICAR: aviso o fuente local de mildiu de la papa en Barlovento] lo sigue tu técnico con lo que marque sanidad vegetal; el dron aplica abono foliar o un corrector de carencias para una mata que viene de sequía o de seman
 - `paginas/la-palma/barlovento.md` | [VERIFICAR: superficie de platanera de Barlovento en el Mapa de Cultivos]
   - Contexto: La platanera es el cultivo dominante de la franja costera de regadío, transformada desde los años 60 con aguas subterráneas y los canales de los barrancos. Wikipedia habla de 226 hectáreas de plátano en el municipio [VERIFICAR: superficie de platanera de Barlovento en el Mapa de Cultivos]. Está en s
 - `paginas/la-palma/barlovento.md` | [VERIFICAR: proporción de platanera bajo malla en Barlovento]
   - Contexto: La platanera es el cultivo dominante de la franja costera de regadío, transformada desde los años 60 con aguas subterráneas y los canales de los barrancos. Wikipedia habla de 226 hectáreas de plátano en el municipio [VERIFICAR: superficie de platanera de Barlovento en el Mapa de Cultivos]. Está en s
 - `paginas/la-palma/barlovento.md` | [VERIFICAR: hectáreas de viña en Barlovento]
-  - Contexto: - Viña residual de la subzona Norte [VERIFICAR: hectáreas de viña en Barlovento]: sí para mildiu y oídio, que en 2025 afectaron a toda la isla según El Time.
+  - Contexto: - Viña residual de la subzona Norte [VERIFICAR: hectáreas de viña en Barlovento]: sí para foliares de vigor; el mildiu y el oídio que en 2025 afectaron a toda la isla según El Time los lleva el viticultor con su técnico.
 - `paginas/la-palma/brena-alta.md` | [VERIFICAR: hectáreas de platanera en el Mapa de Cultivos]
   - Contexto: Con tan poco frente de mar, la platanera de Breña Alta es una franja estrecha [VERIFICAR: hectáreas de platanera en el Mapa de Cultivos], más soleada que el resto del término y con las plagas de toda la platanera canaria: picudo negro, cochinilla algodonosa y trips.
 - `paginas/la-palma/brena-alta.md` | [VERIFICAR: tamaño de las fincas de aguacate]
   - Contexto: Aquí está el grueso. Breña Alta era en 2017 el cuarto municipio de la isla en aguacate, con 82 hectáreas y un 67,35 % más que en 2008 (Mapa de Cultivos de La Palma 2017, vía Canarias Agrícola), en fincas pequeñas y dispersas por las laderas [VERIFICAR: tamaño de las fincas de aguacate].
 - `paginas/la-palma/brena-alta.md` | [VERIFICAR: hectáreas de viña en Breña Alta]
-  - Contexto: La viña entra en la subzona Hoyo de Mazo de la DO Vinos La Palma, rastrera sobre picón o empedrados (ICCA) [VERIFICAR: hectáreas de viña en Breña Alta]. Tras el mildiu y el oídio que recorrieron el viñedo palmero en 2025 (El Time), una viña baja en una ladera sin acceso para tractor es candidata cla
+  - Contexto: La viña entra en la subzona Hoyo de Mazo de la DO Vinos La Palma, rastrera sobre picón o empedrados (ICCA) [VERIFICAR: hectáreas de viña en Breña Alta]. El mildiu y el oídio que recorrieron el viñedo palmero en 2025 (El Time) los maneja cada viticultor con su técnico.
 - `paginas/la-palma/brena-alta.md` | [VERIFICAR: superficie de proteas en Breña Alta]
   - Contexto: Subiendo hacia la Cumbre Nueva, con el mar de nubes del alisio casi fijo entre los 500 y los 1.200 metros, aparecen las proteas. La isla tiene entre 25 y 32 hectáreas repartidas por las medianías de casi todos los municipios, 45 agricultores y entre 1,1 y 1,5 millones de tallos por campaña, casi tod
 - `paginas/la-palma/brena-alta.md` | [VERIFICAR: régimen de viento en las medianías]
@@ -29,11 +27,11 @@ Total: 62 marcas en 15 páginas.
 - `paginas/la-palma/brena-baja.md` | [VERIFICAR: superficie protegida en Breña Baja]
   - Contexto: - Platanera: picudo negro (en La Palma desde 2001, ICIA), cochinilla algodonosa Dysmicoccus grassii y trips (Cuaderno de plagas de Coplaca, 2014). Solo se trata desde el aire la que está al aire libre; parte de la platanera junto al aeropuerto puede ir bajo malla, como las 165 hectáreas citadas para
 - `paginas/la-palma/el-paso.md` | [VERIFICAR: hectáreas de viña del municipio]
-  - Contexto: Sí, si está al aire libre, el producto admite aplicación aérea y la parcela deja sitio para volar. La viña de El Paso se reparte entre Las Manchas, Tacande y el entorno del casco [VERIFICAR: hectáreas de viña del municipio], dentro de la DO Vinos La Palma. Una viña baja, en vaso o rastrera, es cómod
+  - Contexto: Sí, si está al aire libre, el producto es de uso permitido en viña y la parcela deja sitio para volar. La viña de El Paso se reparte entre Las Manchas, Tacande y el entorno del casco [VERIFICAR: hectáreas de viña del municipio], dentro de la DO Vinos La Palma. Una viña baja, en vaso o rastrera, es c
 - `paginas/la-palma/el-paso.md` | [VERIFICAR: hectáreas de aguacate actuales]
   - Contexto: El Paso era en 2017 el tercer municipio aguacatero de la isla, tras Tijarafe y Los Llanos (eldiario.es) [VERIFICAR: hectáreas de aguacate actuales]. Un árbol de seis metros no es un obstáculo para el dron, que vuela por encima de la copa; lo que cambia es la penetración. Una copa densa recibe bien e
-- `paginas/la-palma/el-paso.md` | [VERIFICAR: problemas fitosanitarios locales del almendro]
-  - Contexto: En los datos no hay plaga del almendro documentada para El Paso [VERIFICAR: problemas fitosanitarios locales del almendro]. Si hay un tratamiento autorizado que aplicar, el dron puede hacerlo sobre árboles sueltos, pero con muchas paradas y poca superficie por vuelo; en esos casos lo decimos antes d
+- `paginas/la-palma/el-paso.md` | [VERIFICAR: plagas y carencias documentadas del almendro en el municipio]
+  - Contexto: En los datos no hay plaga ni carencia del almendro documentada para El Paso [VERIFICAR: plagas y carencias documentadas del almendro en el municipio]. Si tu técnico marca un abono foliar o un corrector que aplicar, el dron puede hacerlo sobre árboles sueltos, pero con muchas paradas y poca superfici
 - `paginas/la-palma/el-paso.md` | [VERIFICAR: superficie municipal tras la erupción]
   - Contexto: El cono del Tajogaite está en el municipio y las coladas de 2021 cruzan Las Manchas y Tacande. La ceniza cubrió en la isla 128 ha de viña, 84 de aguacate y 412 de platanera (Valencia Fruits), y las proteas de la cara oeste perdieron un 40 % por los gases (Proteas de La Palma). El Paso tenía 591,6 ha
 - `paginas/la-palma/el-paso.md` | [VERIFICAR: frecuencia del desborde del alisio sobre El Paso]
@@ -51,17 +49,17 @@ Total: 62 marcas en 15 páginas.
 - `paginas/la-palma/fuencaliente.md` | [VERIFICAR: año]
   - Contexto: La costa de Fuencaliente, de 0 a 200 metros, está casi toda ocupada por plataneras, igual que el barrio de Los Quemados y Las Indias (La Palma Biosfera). El mismo estudio de suelos da 244,1 hectáreas de plátano [VERIFICAR: año], y buena parte sale por la Cooperativa Teneguía, con 150 socios. En tota
 - `paginas/la-palma/fuencaliente.md` | [VERIFICAR: proporción bajo malla en Fuencaliente]
-  - Contexto: Esa platanera es mayoritariamente al aire libre [VERIFICAR: proporción bajo malla en Fuencaliente] y arrastra las plagas de toda la isla: picudo negro, cochinilla algodonosa, que en Canarias encadena hasta ocho generaciones al año, y trips. Si tienes piñas en la costa, mira la página de [tratamiento
+  - Contexto: Esa platanera es mayoritariamente al aire libre [VERIFICAR: proporción bajo malla en Fuencaliente] y arrastra las plagas de toda la isla: picudo negro, cochinilla algodonosa, que en Canarias encadena hasta ocho generaciones al año, y trips, todas asunto del técnico y de sanidad vegetal. El dron apli
 - `paginas/la-palma/garafia.md` | [VERIFICAR: superficie de platanera de Garafía en el Mapa de Cultivos]
   - Contexto: La costa garafiana es acantilado casi todo el rato. La platanera es escasa aquí [VERIFICAR: superficie de platanera de Garafía en el Mapa de Cultivos]. Lo que sobra es viento: la vertiente norte-noroeste recibe el alisio de frente y en los lomos expuestos y en la costa acantilada sopla fuerte.
 - `paginas/la-palma/garafia.md` | [VERIFICAR: hectáreas de viña en Garafía]
   - Contexto: Aquí está el grueso de la agricultura del municipio. Papa en bancales y lomos entre barrancos, viña rastrera de la subzona Norte de la DO Vinos La Palma [VERIFICAR: hectáreas de viña en Garafía], frutales y hortalizas, cítricos en la finca El Cántaro dentro del programa ecológico del Cabildo y el CS
 - `paginas/la-palma/garafia.md` | [VERIFICAR: plagas del almendro en Garafía]
-  - Contexto: Las Tricias es el pueblo de los almendros de Garafía, repartidos en bancales y con árboles ya grandes. En los datos locales no hay ninguna plaga del almendro documentada para el municipio [VERIFICAR: plagas del almendro en Garafía], y un técnico serio no pulveriza lo que no está diagnosticado. Si ap
+  - Contexto: Las Tricias es el pueblo de los almendros de Garafía, repartidos en bancales y con árboles ya grandes. En los datos locales no hay ninguna plaga del almendro documentada para el municipio [VERIFICAR: plagas del almendro en Garafía], y un técnico serio no pulveriza por pulverizar. Si tu técnico ve un
 - `paginas/la-palma/los-llanos-de-aridane.md` | [VERIFICAR: intensidad de las rachas en la costa de Puerto Naos]
   - Contexto: Clima de sotavento: cielo despejado, insolación alta y capa seca sin nubosidad (AECLIM), menos de 250 mm anuales en la costa suroeste (macaronesian.org). El límite para volar lo ponen los vientos de ladera y las rachas de Puerto Naos [VERIFICAR: intensidad de las rachas en la costa de Puerto Naos].
 - `paginas/la-palma/los-llanos-de-aridane.md` | [VERIFICAR: proporción de platanera bajo malla en el municipio]
-  - Contexto: La platanera clásica del Valle, al aire libre con mallas cortaviento puntuales [VERIFICAR: proporción de platanera bajo malla en el municipio]. Fincas en sorriba, cadenas de riego, piñas que salen hacia Covalle, Cupalma, Europlátano o La Prosperidad. Fumigar con dron esta zona es directo: parcelas r
+  - Contexto: La platanera clásica del Valle, al aire libre con mallas cortaviento puntuales [VERIFICAR: proporción de platanera bajo malla en el municipio]. Fincas en sorriba, cadenas de riego, piñas que salen hacia Covalle, Cupalma, Europlátano o La Prosperidad. Pulverizar con dron esta zona es directo: parcela
 - `paginas/la-palma/los-llanos-de-aridane.md` | [VERIFICAR: estado actual de las restricciones]
   - Contexto: Un matiz: Puerto Naos y La Bombilla arrastraron gases volcánicos residuales (CO2) hasta 2024-2025 [VERIFICAR: estado actual de las restricciones], así que ahí se comprueba el acceso finca a finca.
 - `paginas/la-palma/los-llanos-de-aridane.md` | [VERIFICAR: hectáreas de aguacate 2022]
@@ -74,10 +72,10 @@ Total: 62 marcas en 15 páginas.
   - Contexto: Lo que no puede hacer: tratar bajo malla de cubierta o invernadero, porque el producto no atraviesa la protección. En Los Llanos la platanera es mayoritariamente al aire libre con cortavientos verticales [VERIFICAR: proporción exacta], así que casi toda es tratable, pero cada finca se mira antes. Ta
 - `paginas/la-palma/los-llanos-de-aridane.md` | [VERIFICAR: restricciones vigentes por CO2 en Puerto Naos y La Bombilla]
   - Contexto: Se comprueba primero el estado de acceso de cada finca [VERIFICAR: restricciones vigentes por CO2 en Puerto Naos y La Bombilla]. Si el piloto y el equipo de apoyo pueden entrar, se trata como cualquier otra del llano.
-- `paginas/la-palma/puntagorda.md` | [VERIFICAR: problemas fitosanitarios locales del almendro]
-  - Contexto: El almendro florece en pleno invierno y Puntagorda lo celebra con la Fiesta del Almendro en Flor. En esa época no hay aplicación foliar que hacer en la viña, que está en reposo, y en los datos no figura ninguna plaga del almendro documentada en el municipio [VERIFICAR: problemas fitosanitarios local
+- `paginas/la-palma/puntagorda.md` | [VERIFICAR: plagas y carencias documentadas del almendro en Puntagorda]
+  - Contexto: El almendro florece en pleno invierno y Puntagorda lo celebra con la Fiesta del Almendro en Flor. En esa época no hay aplicación foliar que hacer en la viña, que está en reposo, y en los datos no figura ninguna plaga del almendro documentada en el municipio [VERIFICAR: plagas y carencias documentada
 - `paginas/la-palma/puntagorda.md` | [VERIFICAR: hectáreas]
-  - Contexto: Con la brotación arranca el riesgo de mildiu en la viña, y detrás el de oídio. El Consejo Regulador documentó ambos en la campaña de 2025 en toda la isla, con el norte mejor situado que el resto (El Time). Es el tramo del año donde los tratamientos preventivos de hoja en viña encajan con la pulveriz
+  - Contexto: Lo que entra en el calendario del dron en este tramo es el abonado foliar de brotación en viña, con un producto de uso permitido a su dosis de etiqueta, pensado para el vigor del brote, no como garantía. La viña de Puntagorda [VERIFICAR: hectáreas] va en bancales entre barrancos, parcelas cortas y a
 - `paginas/la-palma/puntagorda.md` | [VERIFICAR: superficie exacta]
   - Contexto: El municipio ocupa unos 31 km² [VERIFICAR: superficie exacta] de lomos suaves entre barrancos profundos, Garome e Izcagua entre ellos [VERIFICAR: barrancos del término], con bancales de almendro y viña, y una costa acantilada con platanera en pequeños llanos. Las pistas van en pendiente y la agricul
 - `paginas/la-palma/puntagorda.md` | [VERIFICAR: barrancos del término]
@@ -101,9 +99,9 @@ Total: 62 marcas en 15 páginas.
 - `paginas/la-palma/tazacorte.md` | [VERIFICAR: superficie exacta del municipio]
   - Contexto: El Mapa de Cultivos de La Palma de 2022 (Gobierno de Canarias) da para Tazacorte 450,54 hectáreas de platanera frente a 3,40 de aguacate y 0,18 de viña: un término de 11,37 km² [VERIFICAR: superficie exacta del municipio] donde casi todo lo que se cultiva es plátano. Un dron agrícola en Tazacorte se
 - `paginas/la-palma/tazacorte.md` | [VERIFICAR: total agrícola 2022 en el PDF del Mapa de Cultivos]
-  - Contexto: El parcelario es regular, heredero de las grandes fincas de antes, y buena parte de la propiedad está en manos de no residentes (Wikipedia). Entre parcela y parcela, muros de sorriba, cadenas de riego y cortavientos. En 2019 había 695,6 ha en producción según el Observatorio de Sostenibilidad 2020; 
+  - Contexto: El parcelario es regular y buena parte de la propiedad está en manos de no residentes (Wikipedia). Entre parcela y parcela, muros de sorriba, cadenas de riego y cortavientos. En 2019 había 695,6 ha en producción según el Observatorio de Sostenibilidad 2020; el total agrícola de 2022 oscila entre 484
 - `paginas/la-palma/tazacorte.md` | [VERIFICAR: fuente canaria sobre araña roja en platanera]
-  - Contexto: La cochinilla pesa tanto en la platanera canaria que para 2026 hubo una autorización excepcional de piriproxifen en el cultivo (COSEPAL). Eso no significa que ese ni ningún producto pueda ir en el dron: la aplicación aérea la permite o no la etiqueta y el plan de aplicación aprobado. La araña roja f
+  - Contexto: La cochinilla pesa tanto en la platanera canaria que para 2026 hubo una autorización excepcional de piriproxifen en el cultivo (COSEPAL). Esa lucha es de sanidad vegetal y del técnico de cada finca, no del dron. La araña roja figura en los datos sin fuente técnica [VERIFICAR: fuente canaria sobre ar
 - `paginas/la-palma/tazacorte.md` | [VERIFICAR: régimen de viento en la costa de Tazacorte]
   - Contexto: El viento es de componente N-NO, canalizado por el Barranco de las Angustias, con brisas marinas [VERIFICAR: régimen de viento en la costa de Tazacorte]. Es la zona más soleada y seca de la isla, con cielo despejado casi permanente (AECLIM) y menos de 250 mm al año en la costa suroeste (macaronesian
 - `paginas/la-palma/tazacorte.md` | [VERIFICAR: proporción bajo malla o invernadero en La Palma y en Tazacorte]
@@ -111,7 +109,7 @@ Total: 62 marcas en 15 páginas.
 - `paginas/la-palma/tazacorte.md` | [VERIFICAR: proporción]
   - Contexto: El dron solo trata cultivo al aire libre. En Canarias unas 3.200 de las 9.100 ha de platanera están protegidas (Agroislas con datos del Gobierno de Canarias), pero el desglose de La Palma no está localizado [VERIFICAR: proporción bajo malla o invernadero en La Palma y en Tazacorte]. En Tazacorte el 
 - `paginas/la-palma/tazacorte.md` | [VERIFICAR: superficies]
-  - Contexto: Con 3,40 ha de aguacate y 0,18 ha de viña en 2022, más papaya y mango marginales [VERIFICAR: superficies], el resto del municipio apenas da para una visita aparte; se trata junto a la platanera de la misma finca si el producto y la autorización lo permiten. La nueva carretera de la costa se llevó un
+  - Contexto: Con 3,40 ha de aguacate y 0,18 ha de viña en 2022, más papaya y mango marginales [VERIFICAR: superficies], el resto del municipio apenas da para una visita aparte; se pulveriza junto a la platanera de la misma finca si el producto está permitido también en ese cultivo. La nueva carretera de la costa
 - `paginas/la-palma/tijarafe.md` | [VERIFICAR: pagos plataneros de la costa]
   - Contexto: El término mide 53,76 km² y tenía 614,9 ha en producción en 2019 según el Observatorio de Sostenibilidad 2020, la tercera superficie agrícola de la isla. La platanera ocupa las plataformas costeras de 0 a 250 m, en zonas como Candelaria y El Jesús [VERIFICAR: pagos plataneros de la costa], a las que
 - `paginas/la-palma/tijarafe.md` | [VERIFICAR: barrancos citados]
@@ -121,7 +119,7 @@ Total: 62 marcas en 15 páginas.
 - `paginas/la-palma/tijarafe.md` | [VERIFICAR: hectáreas]
   - Contexto: Platanera: 239 ha en el Mapa de Cultivos 2017, con picudo negro, cochinilla algodonosa y trips como problemas documentados en Canarias. Aguacate: 132,9 ha según el estudio de Mercatenerife de 2018, la mayor superficie municipal de la isla, con ácaro cristalino (Oligonychus perseae) en todas las zona
 - `paginas/la-palma/tijarafe.md` | [VERIFICAR: hectáreas de viña en Tinizara]
-  - Contexto: Si el producto tiene autorización expresa para aplicación aérea y la parcela está abierta, sí. Lo comprobamos etiqueta por etiqueta al preparar el plan [VERIFICAR: hectáreas de viña en Tinizara].
+  - Contexto: Abono foliar y bioestimulantes de uso permitido en viña, a la dosis de su etiqueta, si la parcela está abierta. El mildiu lo maneja el viticultor con su técnico; el dron no entra ahí. Lo comprobamos etiqueta por etiqueta al preparar el vuelo [VERIFICAR: hectáreas de viña en Tinizara].
 - `paginas/la-palma/villa-de-mazo.md` | [VERIFICAR: año del dato]
   - Contexto: - Costa, de 0 a 200 metros: platanera, con unas 165 hectáreas bajo protección junto al aeropuerto según tierrasagroecologicas.es [VERIFICAR: año del dato].
 - `paginas/la-palma/villa-de-mazo.md` | [VERIFICAR: superficie de aguacate en Villa de Mazo en el Mapa de Cultivos 2022]
