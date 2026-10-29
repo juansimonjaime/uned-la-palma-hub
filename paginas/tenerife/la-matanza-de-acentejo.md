@@ -40,7 +40,7 @@ El dron encaja en la papa para el abonado foliar y los bioestimulantes, sin pisa
 
 Por encima, el monte de La Matanza tiene castaños, frutales (entre ellos aguacate) y huerta [VERIFICAR: superficie de castaño, aguacate y huerta en la zona alta]. El castaño de monte queda fuera: el dron se centra en cultivo agrícola al aire libre.
 
-El aguacate sí es candidato a un abono foliar o un bioestimulante: árbol alto, difícil de mojar desde el suelo. Su plaga principal en Tenerife, la araña cristalina (Oligonychus perseae), presente desde 2006 en el 81,5 % de las parcelas encuestadas por el Cabildo, es cosa del Cabildo, no del dron. Las aguacateras al aire libre se pueden estudiar; bajo malla, no.
+El aguacate sí es candidato a un foliar: árbol alto, difícil de mojar desde el suelo. Su plaga principal en Tenerife, la araña cristalina (Oligonychus perseae), en el 81,5 % de las parcelas encuestadas por el Cabildo desde 2006, no es asunto del dron. Las aguacateras al aire libre se pueden estudiar; bajo malla, no.
 
 ## Mildiu, oídio, botritis y filoxera: lo documentado en la viña
 
@@ -50,9 +50,9 @@ La filoxera apareció en Tenerife en 2025, por primera vez en Canarias, con zona
 
 ## Cómo trabaja un dron agrícola en La Matanza de Acentejo
 
-Se empieza por el mapa: parcelas, accesos, cables, casas, árboles altos. Con la viña tan pegada a los núcleos, el margen con viviendas y carreteras es lo primero. Después se eligen fechas según el momento de la cepa (brotación, tras el calor, posvendimia) y se comprueba el viento el día de volar.
+Se empieza por el mapa: parcelas, accesos, cables, casas, árboles altos. Con la viña tan pegada a los núcleos, el margen con viviendas y carreteras es lo primero. Después se eligen fechas según el momento de la cepa y se comprueba el viento el día de volar.
 
-Lo reglado, resumido: cada pago de La Matanza se consulta en el mapa de zonas geográficas de UAS de ENAIRE al preparar el plan; el piloto, certificado, vuela en la categoría específica de AESA/EASA (STS o PDRA-S01); y el depósito solo lleva abonos foliares, bioestimulantes o correctores de uso permitido en viña, papa o aguacate, a la dosis que marca su etiqueta. Bajo malla o invernadero no se aplica nada.
+Lo reglado, resumido: cada pago de La Matanza se consulta en el mapa de zonas geográficas de UAS de ENAIRE al preparar el plan; el piloto, certificado, vuela en la categoría específica de AESA/EASA (STS o PDRA-S01); y el depósito solo lleva abonos foliares, bioestimulantes o correctores de uso permitido en viña, papa o aguacate, a la dosis que marca su etiqueta.
 
 Como el equipo viene desde La Palma, lo razonable en La Matanza es juntar parcelas de varios viticultores del mismo pago en la misma salida, según disponibilidad y sin plazos cerrados.
 

@@ -26,11 +26,11 @@ En Canarias cerca de un 35 % del plátano crece bajo invernadero o malla (eldiar
 
 El picudo negro (Cosmopolites sordidus) es la principal plaga de la platanera en Canarias y reapareció en Tenerife en 1987, según el Cabildo. Vive en el cormo, donde una pulverización foliar no llega; lo documentado es el control con feromonas de agregación (30.000 unidades repartidas por el Gobierno de Canarias con Asprocan y los cabildos).
 
-Trips (Hercinothrips femoralis) y araña roja (Tetranychus) van por hoja y racimo: la guía del Cabildo de 2009 habla de ataques intensos que llegan a los racimos en algunas zonas plataneras de la isla, favorecidos por humedades del 70-80 % en otoño, y en un llano a barlovento como el de Los Silos esa humedad es la norma. También figura la cochinilla algodonosa (ULPGC). El manejo de las tres lo marca sanidad vegetal del Cabildo, no el dron.
+Trips (Hercinothrips femoralis) y araña roja (Tetranychus) van por hoja y racimo: la guía del Cabildo de 2009 habla de ataques intensos que llegan a los racimos en algunas zonas plataneras de la isla, favorecidos por humedades del 70-80 % en otoño, y en un llano a barlovento como el de Los Silos esa humedad es la norma. También figura la cochinilla algodonosa (ULPGC). El manejo de las tres lo marca el Cabildo, no el dron.
 
 ## Por qué un dron agrícola en Los Silos encaja en estas parcelas
 
-La platanera es un cultivo alto, en torno a 3-4 metros [VERIFICAR: altura media en la zona], denso y cruzado por cadenas de riego. Con mochila toca levantar la lanza y empaparse; con atomizador hace falta pasillo. El dron pulveriza desde arriba, sin pisar el suelo, el abono foliar o el bioestimulante que la finca necesite tras el calor o el viento.
+La platanera es un cultivo alto, en torno a 3-4 metros [VERIFICAR: altura media en la zona], denso y cruzado por cadenas de riego. Con mochila toca levantar la lanza y empaparse; con atomizador hace falta pasillo. El dron pulveriza desde arriba, sin pisar el suelo, el abono foliar o el bioestimulante que toque.
 
 El DJI Agras T50 que usa Agrodrón lleva depósito de 40 litros y aplica hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha de DJI). En finca llana el vuelo es regular, con pasadas paralelas; el radar de matriz en fase y la visión binocular vigilan cortavientos, postes y cables.
 
@@ -61,7 +61,7 @@ Sí, si la finca está descubierta. Los cortavientos se cargan como obstáculos 
 Esa parte queda fuera. El dron trata solo la superficie al aire libre, y en el presupuesto se separa lo que se puede volar de lo que no.
 
 ### ¿El dron sirve contra el picudo negro?
-No. El picudo está en el cormo y su control (feromonas) lo marca el Cabildo. El dron tiene sentido para el abonado foliar, los bioestimulantes y los correctores de la platanera, con el producto que admita la etiqueta.
+No. El picudo está en el cormo y su control (feromonas) lo marca el Cabildo. El dron tiene sentido para abonado foliar, bioestimulantes y correctores, con el producto que admita la etiqueta.
 
 ### ¿Cuánto tarda Agrodrón en venir a Los Silos desde La Palma?
 No hay plazo fijo. La salida a Tenerife se cuadra con la disponibilidad del equipo y, si se puede, con otras fincas de la Isla Baja el mismo viaje.
@@ -113,7 +113,7 @@ Si tienes platanera, huerta o frutales al aire libre en Los Silos, escríbenos d
         {
           "@type": "Question",
           "name": "¿El dron sirve contra el picudo negro?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. El picudo está en el cormo y su control (feromonas) lo marca el Cabildo. El dron tiene sentido para el abonado foliar, los bioestimulantes y los correctores de la platanera, con el producto que admita la etiqueta." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. El picudo está en el cormo y su control (feromonas) lo marca el Cabildo. El dron tiene sentido para abonado foliar, bioestimulantes y correctores, con el producto que admita la etiqueta." }
         },
         {
           "@type": "Question",

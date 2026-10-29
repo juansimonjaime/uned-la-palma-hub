@@ -46,11 +46,11 @@ Más en [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vi
 
 ## Vuelo y producto en dos frases
 
-Primera: el operador vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el PDRA-S01 (Reglamento (UE) 2019/947), con piloto certificado, y la ladera de Santa Úrsula se comprueba en el mapa de zonas geográficas de UAS de ENAIRE al planificar. Segunda: solo se pulverizan abonos foliares, bioestimulantes y correctores de uso permitido en viña, papa o platanera, a la dosis que fija su etiqueta, y solo sobre cultivo al aire libre.
+Primera: el operador vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el PDRA-S01 (Reglamento (UE) 2019/947), con piloto certificado, y la ladera se comprueba en el mapa de zonas geográficas de UAS de ENAIRE al planificar. Segunda: solo abonos foliares, bioestimulantes y correctores de uso permitido en viña, papa o platanera, a la dosis que fija su etiqueta, y solo sobre cultivo al aire libre.
 
 ## Cómo organizamos una salida a Santa Úrsula desde La Palma
 
-Nos mandas ubicación, cultivo, superficie, accesos y obstáculos (cables, cortavientos, invernaderos cercanos). Planificamos el vuelo sobre el mapa de la parcela, comprobamos que el producto sea de uso permitido en el cultivo y la dosis cuadre con su etiqueta, y fijamos fecha según disponibilidad. El día del vuelo se mide el viento y el tratamiento queda registrado; varias fincas en la misma ladera se agrupan en una salida.
+Nos mandas ubicación, cultivo, superficie, accesos y obstáculos (cables, cortavientos, invernaderos cercanos). Planificamos el vuelo sobre el mapa de la parcela, comprobamos que el producto sea de uso permitido y la dosis cuadre con su etiqueta, y fijamos fecha según disponibilidad. El día del vuelo se mide el viento y el tratamiento queda registrado; varias fincas en la misma ladera se agrupan en una salida.
 
 ## Preguntas frecuentes sobre pulverizar con dron en Santa Úrsula
 
@@ -64,7 +64,7 @@ Si está al aire libre, sí, con abonos foliares o correctores de carencias de u
 No damos una cifra fija: se mide en la finca antes de despegar. Con rachas del alisio en los lomos se aplaza, porque la deriva se lleva el producto fuera de la parcela.
 
 ### ¿Tengo que pedir yo algún permiso para tratar con dron mi finca?
-No. El vuelo (operador en categoría específica de AESA, piloto certificado, zonas de UAS) va por nuestra cuenta; tú aportas los datos de la parcela y un producto de uso permitido en tu cultivo.
+No. El vuelo (operador en categoría específica de AESA, piloto certificado, zonas de UAS) va por nuestra cuenta; tú aportas datos de la parcela y un producto de uso permitido.
 
 ### ¿Cuándo podéis venir a Santa Úrsula y qué cuesta?
 Venimos desde La Palma según disponibilidad, mejor con varias fincas agrupadas. El precio sale de superficie, pendiente, accesos y producto; con eso te damos presupuesto.
@@ -121,7 +121,7 @@ Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/) con la ubic
         {
           "@type": "Question",
           "name": "¿Tengo que pedir yo algún permiso para tratar con dron mi finca?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. El vuelo (operador en categoría específica de AESA, piloto certificado, zonas de UAS) va por nuestra cuenta; tú aportas los datos de la parcela y un producto de uso permitido en tu cultivo." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. El vuelo (operador en categoría específica de AESA, piloto certificado, zonas de UAS) va por nuestra cuenta; tú aportas datos de la parcela y un producto de uso permitido." }
         },
         {
           "@type": "Question",

@@ -38,13 +38,15 @@ En los datos no hay plaga ni carencia del almendro documentada para El Paso [VER
 
 El cono del Tajogaite está en el municipio y las coladas de 2021 cruzan Las Manchas y Tacande. La ceniza cubrió en la isla 128 ha de viña, 84 de aguacate y 412 de platanera (Valencia Fruits), y las proteas de la cara oeste perdieron un 40 % por los gases (Proteas de La Palma). El Paso tenía 591,6 ha en producción en 2019 según el Observatorio de Sostenibilidad 2020; parte quedó sepultada [VERIFICAR: superficie municipal tras la erupción].
 
-Para el dron, las coladas son sobre todo accesos cambiados: pistas nuevas, fincas a las que se llega por otro lado y bancales que quedaron en isla entre lava. El vuelo se planifica sobre el plano actual de la parcela y el despegue se hace desde el punto más cercano con acceso. Y la ceniza es, para la planta, estrés acumulado: ahí un bioestimulante foliar tiene su finalidad, sin que nadie te prometa cómo responderá cada cepa.
+Para el dron, las coladas son sobre todo accesos cambiados: pistas nuevas, fincas a las que se llega por otro lado y bancales que quedaron en isla entre lava. El vuelo se planifica sobre el plano actual de la parcela y el despegue se hace desde el punto más cercano con acceso. Y la ceniza es, para la planta, estrés acumulado: ahí un bioestimulante foliar tiene su finalidad, sin promesa de resultado.
 
 [IMAGEN: Almendros y viña junto a una colada de 2021 en Las Manchas, El Paso | alt: Almendro y viña junto a la colada del volcán Tajogaite en Las Manchas, El Paso]
 
 ## ¿Qué hace falta para contratar un tratamiento con dron en El Paso?
 
-Tres cosas: los datos de la finca (ubicación, cultivo, superficie, accesos, cables o árboles altos), el producto que quieres aplicar y un hueco en el calendario. El producto ha de ser de uso permitido en tu cultivo, abono foliar, bioestimulante o corrector, y va a la dosis de su etiqueta. El piloto vuela en la categoría específica de AESA, como operador STS o bajo el PDRA-S01, y antes de cada vuelo en El Paso revisa el mapa de zonas geográficas de UAS de ENAIRE para saber en qué zona cae el bancal y qué condiciones impone.
+Tres cosas: los datos de la finca (ubicación, cultivo, superficie, accesos, cables o árboles altos), el producto que quieres aplicar y un hueco en el calendario. El producto ha de ser de uso permitido en tu cultivo, abono foliar, bioestimulante o corrector, y va a la dosis de su etiqueta.
+
+El piloto vuela en la categoría específica de AESA, como operador STS o bajo el PDRA-S01, y antes de cada vuelo en El Paso revisa el mapa de zonas geográficas de UAS de ENAIRE para saber en qué zona cae el bancal.
 
 El día del vuelo se miran las condiciones. En El Paso los vientos son de componente E-NE, canalizados por la cumbre, y el mar de nubes desborda a veces la Cumbre Nueva y mete niebla en las medianías [VERIFICAR: frecuencia del desborde del alisio sobre El Paso]. Con niebla o racha no se trata; se espera a la siguiente ventana.
 

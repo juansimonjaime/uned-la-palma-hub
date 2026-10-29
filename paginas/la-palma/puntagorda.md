@@ -18,11 +18,15 @@ Puntagorda está a unos 600 m de altitud media (turismorural.com), en el noroest
 
 ## Invierno: almendro en flor, viña parada y papeles sobre la mesa
 
-El almendro florece en pleno invierno y Puntagorda lo celebra con la Fiesta del Almendro en Flor. En esa época no hay aplicación foliar que hacer en la viña, que está en reposo, y en los datos no figura ninguna plaga del almendro documentada en el municipio [VERIFICAR: plagas y carencias documentadas del almendro en Puntagorda]. Es el momento de levantar el plano de las fincas, listar obstáculos y mirar en el mapa de ENAIRE en qué zona cae cada parcela, para llegar a la primavera con los vuelos ya dibujados.
+El almendro florece en pleno invierno y Puntagorda lo celebra con la Fiesta del Almendro en Flor. En esa época no hay aplicación foliar que hacer en la viña, que está en reposo, y en los datos no figura ninguna plaga del almendro documentada en el municipio [VERIFICAR: plagas y carencias documentadas del almendro en Puntagorda].
+
+Es el momento de levantar el plano de las fincas, listar obstáculos y mirar en el mapa de ENAIRE en qué zona cae cada parcela, para llegar a la primavera con los vuelos ya dibujados.
 
 ## Primavera: brotación de la viña y el mildiu que asoma
 
-Con la brotación arranca el riesgo de mildiu en la viña, y detrás el de oídio. El Consejo Regulador documentó ambos en la campaña de 2025 en toda la isla, con el norte mejor situado que el resto (El Time). Ese frente lo lleva cada viticultor con su técnico y los avisos de sanidad vegetal. Lo que entra en el calendario del dron en este tramo es el abonado foliar de brotación en viña, con un producto de uso permitido a su dosis de etiqueta, pensado para el vigor del brote y no como garantía de nada. La viña de Puntagorda [VERIFICAR: hectáreas] va en bancales entre barrancos, parcelas cortas y a distintas alturas.
+Con la brotación arranca el riesgo de mildiu en la viña, y detrás el de oídio. El Consejo Regulador documentó ambos en la campaña de 2025 en toda la isla, con el norte mejor situado que el resto (El Time). Ese frente lo lleva cada viticultor con su técnico y los avisos de sanidad vegetal.
+
+Lo que entra en el calendario del dron en este tramo es el abonado foliar de brotación en viña, con un producto de uso permitido a su dosis de etiqueta, pensado para el vigor del brote, no como garantía. La viña de Puntagorda [VERIFICAR: hectáreas] va en bancales entre barrancos, parcelas cortas y a distintas alturas.
 
 El aguacate está en floración y cuajado; el ácaro cristalino (Oligonychus perseae) está presente en todas las zonas productoras de la isla (Canal Agrario La Palma), y su control es cosa del técnico. Si ese técnico marca un abono foliar de cuajado, las 46 ha de aguacate del municipio en 2017 están repartidas en fincas pequeñas, lo que obliga a agrupar parcelas en cada salida.
 

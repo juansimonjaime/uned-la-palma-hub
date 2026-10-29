@@ -42,7 +42,7 @@ Lo que no cambia: el dron no trata lo que esté bajo malla o invernadero, ni vue
 
 Platanera, primero. El picudo negro (Cosmopolites sordidus) es la principal plaga del plátano en Canarias y reapareció en Tenerife en 1987 (Cabildo); su control documentado es con feromonas, no con pulverización. Trips (Hercinothrips femoralis) y araña roja (Tetranychus) van por hoja y racimo: la guía del Cabildo de 2009 recoge ataques intensos en racimos con humedades del 70-80 % en otoño; su manejo lo indica sanidad vegetal del Cabildo.
 
-Papa de medianías. La polilla guatemalteca (Tecia solanivora) entró en Tenerife en 1999 por Icod de los Vinos y castiga sobre todo el norte, con pérdidas cercanas al 50 % en medianías y secano (Cabildo, ICIA). El mildiu de la papa tiene avisos de riesgo alto del Cabildo para el norte de la isla; el dron entra en la papa de El Palmar con el abonado foliar, no con la plaga.
+Papa de medianías. La polilla guatemalteca (Tecia solanivora) entró en Tenerife en 1999 por Icod de los Vinos y castiga sobre todo el norte, con pérdidas cercanas al 50 % en medianías y secano (Cabildo, ICIA). El mildiu de la papa tiene avisos de riesgo alto del Cabildo para el norte de la isla; el dron entra en esa papa con el abonado foliar, no con la plaga.
 
 Viña. El Cabildo publica avisos semanales por comarca de mildiu, oídio y botritis, y en 2025 se detectó filoxera en Tenerife con zona demarcada [VERIFICAR: municipios de la zona demarcada]. La viña de Buenavista entra en la DO Ycoden-Daute-Isora.
 
@@ -50,7 +50,7 @@ Puedes ampliar en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-
 
 ## Normativa en dos frases
 
-El piloto de Agrodrón vuela en categoría específica de AESA/EASA (STS o PDRA-S01), con certificado en vigor, y tanto el llano de Buenavista como los valles de Teno, dentro del Parque Rural, se comprueban en el mapa de zonas geográficas de UAS de ENAIRE antes de trazar el plan. Solo se aplican productos de uso permitido en el cultivo, a la dosis de la etiqueta, sobre parcela al aire libre; con viento fuerte, lluvia o niebla no se despega.
+El piloto de Agrodrón vuela en categoría específica de AESA/EASA (STS o PDRA-S01), con certificado en vigor, y el llano de Buenavista y los valles de Teno, dentro del Parque Rural, se comprueban en el mapa de zonas geográficas de UAS de ENAIRE antes de trazar el plan. Solo productos de uso permitido en el cultivo, a dosis de etiqueta, sobre parcela al aire libre; con viento fuerte, lluvia o niebla no se despega.
 
 ## Preguntas frecuentes sobre tratamientos con dron en Buenavista del Norte
 

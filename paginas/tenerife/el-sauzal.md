@@ -28,11 +28,11 @@ Vendimia: en 2025 se detectó filoxera en Tenerife, por primera vez en Canarias,
 
 ## Qué tratamientos encajan con un dron agrícola en El Sauzal en cada época
 
-Primavera: con la brotación, un abono foliar o un bioestimulante para el arranque de la cepa; el oídio y el mildiu van con lo que marque el aviso, no con el dron. Es cuando el dron aporta más, porque cubre todas las terrazas el mismo día en lugar de repartir la finca en varias jornadas de mochila.
+Primavera: con la brotación, un abono foliar o un bioestimulante para el arranque de la cepa; oídio y mildiu van con el aviso, no con el dron. Es cuando el dron aporta más, porque cubre todas las terrazas el mismo día en lugar de repartir la finca en varias jornadas de mochila.
 
 Verano: con el racimo formado y la vegetación cerrada, la cobertura desde arriba se comprueba en campo; tras el calor de julio, un corrector de carencias o un bioestimulante ayuda a la cepa a llegar al envero. En vaso o espaldera baja la cobertura es mejor que en parral cerrado. Siempre producto de uso permitido en viña y dosis de etiqueta.
 
-Tras la vendimia: un foliar de otoño antes de la parada, con la hoja todavía activa.
+Tras la vendimia: un foliar de otoño, con la hoja todavía activa.
 
 ## La papa y el resto del año agrícola
 
@@ -56,7 +56,7 @@ El viento se mide en la parcela antes de cada tratamiento. Si la racha es fuerte
 
 ## El vuelo, en pocas líneas
 
-El operador de Agrodrón vuela en categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el PDRA-S01, con piloto certificado, y el término, del acantilado a Ravelo, se comprueba en el mapa de zonas geográficas de UAS de ENAIRE antes de cada campaña. En viña solo se pulverizan abonos foliares, bioestimulantes y correctores de uso permitido, a la dosis de su etiqueta, sobre parcela descubierta; con lluvia, niebla o racha fuerte, se aplaza.
+El operador de Agrodrón vuela en categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el PDRA-S01, con piloto certificado, y el término se comprueba en el mapa de zonas geográficas de UAS de ENAIRE antes de cada campaña. En viña solo se pulverizan abonos foliares, bioestimulantes y correctores de uso permitido, a la dosis de su etiqueta, sobre parcela descubierta.
 
 Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [tratamientos con dron en la viña](https://agrodroncanarias.es/dron-agricola-vina/) y [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/). Vecinos: [dron agrícola en Tacoronte](https://agrodroncanarias.es/dron-agricola-tenerife/tacoronte/) y [dron agrícola en La Matanza de Acentejo](https://agrodroncanarias.es/dron-agricola-tenerife/la-matanza-de-acentejo/).
 

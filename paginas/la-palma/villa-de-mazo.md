@@ -32,7 +32,7 @@ Con la brotación de primavera llega la humedad del alisio y la nubosidad de las
 
 El oídio es endémico en Canarias según la guía de viña de Agrocabildo (2020), y los avisos de ese servicio para finales de julio y principios de agosto (año sin indicar) hablan de riesgo elevado de oídio, medio de mildiu y atención a la botritis en envero.
 
-Trasladado a Mazo: ese frente es del viticultor y de los avisos de Agrocabildo, no del dron. Lo que la viña rastrera sobre picón, donde no entra el tractor, recibe del dron de marzo a agosto es abono foliar y bioestimulante de uso permitido, a dosis de etiqueta. El detalle del cultivo está en [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/).
+Trasladado a Mazo: ese frente es del viticultor y de Agrocabildo, no del dron. Lo que la viña rastrera sobre picón, donde no entra el tractor, recibe del dron de marzo a agosto es abono foliar y bioestimulante de uso permitido, a dosis de etiqueta. El detalle del cultivo está en [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/).
 
 Las parras del Hoyo crecen entre cenizas volcánicas (Demaracumbre), y la erupción de 2021 dejó a Mazo entre los municipios con viña cubierta de ceniza. Parcelas chicas, sueltas, sobre malpaís: el formato que le va a un depósito de 40 litros que se agota en un par de ellas y se recarga junto a la pista.
 
@@ -40,7 +40,9 @@ Las parras del Hoyo crecen entre cenizas volcánicas (Demaracumbre), y la erupci
 
 La cochinilla algodonosa encadena hasta ocho generaciones al año en Canarias sin parada invernal (Agrocabildo, ICIA). Las dos ventanas de la autorización excepcional de 2026 contra ella en platanera, del 1 de junio al 30 de julio y del 1 de octubre al 29 de noviembre (COSEPAL), marcan cuándo el sector concentra la lucha. Esa lucha es de sanidad vegetal, no del dron.
 
-El picudo negro, en La Palma desde 2001 (ICIA), se vigila con trampas de feromona, no con pulverización. Lo que el dron aplica en la costa es abono foliar y bioestimulante para la piña que aguanta el nordeste del aeropuerto. Y aquí está la frontera de Mazo: la platanera bajo malla o invernadero de la zona del aeropuerto no se trata con dron, porque el producto no atraviesa la cubierta. Solo cuenta la que está al aire libre, explicada en [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/).
+El picudo negro, en La Palma desde 2001 (ICIA), se vigila con trampas de feromona, no con pulverización. El dron aplica en la costa abono foliar y bioestimulante para la piña que aguanta el nordeste.
+
+Y aquí está la frontera de Mazo: la platanera bajo malla o invernadero de la zona del aeropuerto no se trata con dron, porque el producto no atraviesa la cubierta. Solo cuenta la que está al aire libre, explicada en [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/).
 
 [IMAGEN: Plataneras bajo malla junto a la pista del aeropuerto de La Palma, en la costa de Villa de Mazo, con fincas al aire libre al lado | alt: platanera bajo malla y al aire libre en la costa de Villa de Mazo, junto al aeropuerto de La Palma]
 
@@ -60,7 +62,7 @@ El viento sí manda. La costa es ventosa, con nordeste constante junto al aeropu
 
 ## Las reglas que lleva cada tratamiento con dron en Mazo
 
-Con la pista del aeropuerto en el límite del municipio, lo primero en Mazo es el mapa de zonas geográficas de UAS de ENAIRE: cada parcela se sitúa en él al planificar. Lo segundo, el piloto, certificado por AESA para la categoría específica (STS o PDRA-S01). Lo tercero, el producto: de uso permitido en el cultivo, a dosis de etiqueta, sobre cultivo descubierto. Tú aportas parcela y producto.
+Con la pista del aeropuerto en el límite del municipio, lo primero en Mazo es el mapa de zonas geográficas de UAS de ENAIRE: cada parcela se sitúa en él. Lo segundo, el piloto, certificado por AESA para la categoría específica (STS o PDRA-S01). Lo tercero, el producto: de uso permitido en el cultivo, a dosis de etiqueta, sobre cultivo descubierto. Tú aportas parcela y producto.
 
 ## Preguntas frecuentes sobre pulverizar con dron en Villa de Mazo
 
