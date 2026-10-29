@@ -14,7 +14,7 @@ municipio: "Puntagorda"
 
 Puntagorda está a unos 600 m de altitud media (turismorural.com), en el noroeste de La Palma, con 316 ha en producción en 2019 según el Observatorio de Sostenibilidad 2020: almendro como cultivo identitario, viña de la subzona Norte de la DO, 46 ha de aguacate en 2017 (Mapa de Cultivos) y platanera en los llanos de la costa. Cada cultivo tiene su época de riesgo, y un dron agrícola en Puntagorda se planifica siguiendo ese calendario y el viento.
 
-[IMAGEN: Almendros en flor en bancales de Puntagorda con los barrancos del noroeste al fondo | alt: Almendros en flor en las medianías de Puntagorda, La Palma]
+![Almendros en flor sobre bancales de piedra en las medianías de La Palma, con el pinar detrás](/imagenes/almendros-flor-bancales-el-paso.webp)
 
 ## Invierno: almendro en flor, viña parada y planos sobre la mesa
 
@@ -42,7 +42,7 @@ Hay también picudo negro y trips en la platanera (Canarias). Los plataneros de 
 
 Tras la vendimia la viña baja el ritmo; un foliar de poscosecha, si tu técnico lo marca, entra mientras queda hoja. En platanera, la segunda ventana de la autorización excepcional de piriproxifen de 2026 va del 1 de octubre al 29 de noviembre (COSEPAL), señal de que la cochinilla sigue activa en otoño. El almendro ya está cosechado y es época de revisar qué ha funcionado y preparar el calendario siguiente.
 
-[IMAGEN: Bancal de viña entre muros de piedra y almendros en Puntagorda, con la costa acantilada abajo | alt: Viña en bancales con almendros en Puntagorda, noroeste de La Palma]
+![Bancales de viña con muros de piedra en una ladera del oeste de La Palma](/imagenes/bancales-vina-oeste-la-palma.webp)
 
 ## Terreno y accesos: dónde vuela un dron agrícola en Puntagorda
 

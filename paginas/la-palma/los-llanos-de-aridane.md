@@ -14,7 +14,7 @@ municipio: "Los Llanos de Aridane"
 
 Los Llanos de Aridane tenía 984 hectáreas en producción en 2019 según el Observatorio de Sostenibilidad 2020 de la Reserva de la Biosfera, la mayor superficie agrícola de la isla, y reúne el 28,8 % de la platanera palmera según un estudio de la Universidad de La Laguna. Con un dron agrícola en Los Llanos de Aridane el tratamiento deja de depender de que el tractor llegue a la finca, y eso pesa desde que las coladas de 2021 partieron el municipio en dos.
 
-[IMAGEN: Vista del llano platanero de Los Llanos de Aridane desde las medianías, con las coladas de 2021 cruzando hasta el mar | alt: Platanera de Los Llanos de Aridane con las coladas del volcán de 2021 llegando a la costa]
+![Dron agrícola al atardecer sobre plataneras del valle de Aridane, con el mar al fondo](/imagenes/dron-atardecer-plataneras-aridane.webp)
 
 ## Un término de 35,79 km² que va del mar a los 600 metros
 

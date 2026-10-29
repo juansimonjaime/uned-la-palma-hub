@@ -14,7 +14,7 @@ municipio: "Candelaria"
 
 Candelaria tiene 184,5 hectáreas de viña como primer cultivo, en su mayoría de secano y para vino de la DO Valle de Güímar, y 56,8 hectáreas de hortalizas de las que solo un 5 % va bajo plástico (web municipal, sin fecha). Un dron agrícola en Candelaria tiene que encajar en el calendario de esas fincas; lo repasamos estación a estación. En Tenerife el servicio es con desplazamiento desde La Palma y bajo disponibilidad.
 
-[IMAGEN: Viña de secano en bancales de las medianías de Candelaria con el Valle de Güímar y el mar al fondo | alt: Viñedo de secano en terrazas en Candelaria, Valle de Güímar, Tenerife]
+![Dron agrícola sobre hileras de viña con nubes al fondo](/imagenes/dron-sobre-vinedo-nubes.webp)
 
 ## El año agrícola de Candelaria, de un vistazo
 

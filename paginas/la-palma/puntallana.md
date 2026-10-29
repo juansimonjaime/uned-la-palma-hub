@@ -14,7 +14,7 @@ municipio: "Puntallana"
 
 La tabla municipal del Mapa de Cultivos de 2017 da a Puntallana 177,58 hectáreas de platanera, 96,26 de huerta, 46 de aguacate y 20,27 de viña, en un término que los barrancos de Nogales y La Galga cortan en tajadas de la cumbre al mar. Un dron agrícola en Puntallana se justifica por el terreno antes que por la plaga: aquí el problema no es solo qué echar, sino cómo llegar con la máquina al bancal que cuelga sobre el acantilado.
 
-[IMAGEN: Bancales de platanera al borde del acantilado en la costa de Puntallana con el barranco detrás | alt: platanera en bancales sobre el acantilado de Puntallana, La Palma]
+![Dron agrícola pulverizando una viña en ladera en el nordeste de La Palma](/imagenes/dron-pulverizando-vina-ladera-la-palma.webp)
 
 ## Barrancos que parten el municipio y bancales sobre el mar
 
@@ -48,7 +48,7 @@ El piloto de Agrodrón, con más de diez años de experiencia profesional, opera
 
 Puntallana es uno de los catorce municipios de la página de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/). El detalle de cada cultivo está en las páginas de [dron para plataneras](https://agrodroncanarias.es/dron-agricola-platanera/) y de [tratamientos con dron en aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/). Hacia el norte, el vecino [San Andrés y Sauces](https://agrodroncanarias.es/dron-agricola-la-palma/san-andres-y-sauces/) repite el esquema de platanera en terrazas, con más agua.
 
-[IMAGEN: Piloto comprobando el viento con anemómetro junto al dron T50 en una pista sobre bancales de Puntallana | alt: piloto de Agrodrón Canarias midiendo el viento antes de un tratamiento con dron en Puntallana, La Palma]
+![Dron DJI Agras T50 en tierra antes de un vuelo en el nordeste de La Palma](/imagenes/dron-t50-en-tierra-nordeste-la-palma.webp)
 
 ## Preguntas frecuentes sobre el dron agrícola en Puntallana
 

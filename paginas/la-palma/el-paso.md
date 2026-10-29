@@ -14,7 +14,7 @@ municipio: "El Paso"
 
 El Paso es el municipio más extenso de La Palma, con 135,92 km², y el único sin costa (Gobierno de Canarias): aquí no hay platanera de llano, sino viña, aguacate y almendro entre 400 y 1.000 m sobre lapilli, en el flanco oeste de Cumbre Vieja. Las dudas sobre un dron agrícola en El Paso son otras que en el Valle: altura de copa, pendiente, niebla y lo que dejó el volcán. Vamos una por una.
 
-[IMAGEN: Bancales de viña y aguacate en las medianías de El Paso con el cono del Tajogaite al fondo | alt: Viña y aguacate en bancales de medianías de El Paso, La Palma, con el volcán de 2021 detrás]
+![Dron agrícola pulverizando sobre proteas en una finca de El Paso, La Palma](/imagenes/dron-pulverizando-proteas-el-paso.webp)
 
 ## ¿Se puede tratar con dron una viña en Las Manchas o en Tacande?
 
@@ -40,7 +40,7 @@ El cono del Tajogaite está en el municipio y las coladas de 2021 cruzan Las Man
 
 Para el dron, las coladas son sobre todo accesos cambiados: pistas nuevas, fincas a las que se llega por otro lado y bancales que quedaron en isla entre lava. El vuelo se planifica sobre el plano actual de la parcela y el despegue se hace desde el punto más cercano con acceso. Y la ceniza es, para la planta, estrés acumulado: ahí un bioestimulante foliar tiene su finalidad, sin promesa de resultado.
 
-[IMAGEN: Almendros y viña junto a una colada de 2021 en Las Manchas, El Paso | alt: Almendro y viña junto a la colada del volcán Tajogaite en Las Manchas, El Paso]
+![Almendros en flor y pinar en las medianías de El Paso, con un dron agrícola en vuelo](/imagenes/dron-almendros-flor-el-paso.webp)
 
 ## ¿Qué hace falta para contratar un tratamiento con dron en El Paso?
 

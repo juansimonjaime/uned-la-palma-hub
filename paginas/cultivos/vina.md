@@ -14,7 +14,7 @@ municipio: ""
 
 La viña canaria no tiene una sola forma, y un dron agrícola para viña tiene que leerla antes de despegar: de ella dependen la altura de vuelo, la pasada y lo que llega al racimo. En Fuencaliente la cepa va rastrera sobre el picón, entre muros cortavientos; en el Valle de La Orotava, en cordón trenzado; en Tacoronte-Acentejo, en parral o en vaso sobre terrazas; en La Geria, en un hoyo con su zoco.
 
-[IMAGEN: Viña rastrera de Malvasía sobre picón negro con muros cortavientos de piedra volcánica en Fuencaliente | alt: Viña rastrera sobre picón con muros cortavientos en Fuencaliente, La Palma]
+![Dron agrícola pulverizando una viña en espaldera al atardecer en el nordeste de La Palma](/imagenes/dron-vina-espaldera-atardecer.webp)
 
 ## Rastrera, parral, cordón trenzado, vaso y hoyo: qué cambia para el dron
 
@@ -54,7 +54,7 @@ No encaja contra la filoxera ni contra mildiu, oídio o botritis: eso va por los
 
 El plano de vuelo se contrasta con las zonas geográficas de UAS de ENAIRE: una rastrera del Hoyo de Mazo queda a un paso del aeropuerto de La Palma. Agrodrón vuela en la categoría específica de AESA/EASA (STS o PDRA-S01) con piloto certificado, solo sobre viña al aire libre, y con lluvia, niebla o viento fuerte no despega.
 
-[IMAGEN: Hoyos de viña con zocos de piedra en La Geria, con un dron agrícola sobrevolando las cepas aisladas en el picón | alt: Viñedo en hoyos y zocos de La Geria, Lanzarote, con dron pulverizador en vuelo]
+![Brote de vid en primavera en un viñedo del nordeste de La Palma](/imagenes/brote-vid-primavera-la-palma.webp)
 
 ## Islas y municipios donde la viña pesa
 

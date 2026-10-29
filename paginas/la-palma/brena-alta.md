@@ -40,7 +40,7 @@ Subiendo hacia la Cumbre Nueva, con el mar de nubes del alisio casi fijo entre l
 
 Las proteas crecen al aire libre, así que podrían recibir un abonado foliar desde el aire. Pero no tenemos documentado con fuente canaria qué pide la protea en hoja, y no vamos a inventarte una necesidad para venderte un vuelo. La flor cortada y la planta ornamental van mayoritariamente bajo invernadero o malla, y ahí el dron no entra. Si tienes flor, lee [dron agrícola para flores y ornamentales](https://agrodroncanarias.es/dron-agricola-flores-ornamentales/) antes de llamar.
 
-[IMAGEN: Plantación de proteas al aire libre en las medianías altas de Breña Alta, con un invernadero de flor cortada al fondo bajo el mar de nubes | alt: proteas al aire libre e invernadero de flor cortada en las medianías de Breña Alta, La Palma]
+![Dron agrícola pulverizando una plantación de proteas al aire libre en las medianías de La Palma](/imagenes/dron-proteas-pinar-el-paso.webp)
 
 ## Dónde encaja el dron agrícola en Breña Alta y dónde no
 

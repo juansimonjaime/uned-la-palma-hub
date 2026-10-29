@@ -14,7 +14,7 @@ municipio: "San Andrés y Sauces"
 
 En Los Sauces la platanera no tiene temporada: se corta piña los doce meses y el agua de Marcos y Cordero riega los bancales de la costa a las laderas bajas de San Andrés. Son 435,8 hectáreas en producción (Observatorio de Sostenibilidad 2020, datos de 2019) bajo la zona más lluviosa de la isla. Un dron agrícola en San Andrés y Sauces trabaja con dos relojes: el de la plaga, que no para, y el del cielo, que decide qué día se vuela.
 
-[IMAGEN: Terrazas de platanera en Los Sauces con el mar de nubes asomando por el Barranco del Agua | alt: bancales de platanera en Los Sauces, San Andrés y Sauces, La Palma, bajo nubes del alisio]
+![Bancales de platanera en una ladera del nordeste de La Palma con el mar al fondo](/imagenes/bancales-platanera-nordeste-la-palma.webp)
 
 ## Zafra continua: por qué en Los Sauces no existe el fin de campaña
 

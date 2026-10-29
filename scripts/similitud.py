@@ -35,6 +35,7 @@ def limpiar(texto: str) -> str:
     texto = re.sub(r"```.*?```", " ", texto, flags=re.S)
     # quitar marcadores de imagen y enlaces (dejar texto del enlace)
     texto = re.sub(r"\[IMAGEN:[^\]]*\]", " ", texto)
+    texto = re.sub(r"!\[[^\]]*\]\([^)]+\)", " ", texto)
     texto = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", texto)
     texto = re.sub(r"<[^>]+>", " ", texto)
     texto = texto.lower()

@@ -38,7 +38,7 @@ Más detalle: [dron agrícola para platanera](https://agrodroncanarias.es/dron-a
 - Abona: papa de cotas altas, viña hasta 1.600 metros.
 - Suroeste: la mayor platanera de la isla, en parte cubierta.
 
-[IMAGEN: Dron agrícola DJI Agras T50 sobre un bancal de viña en terrazas con muros de piedra y el mar de nubes del norte de Tenerife detrás | alt: Dron agrícola tratando viña en terrazas en las medianías del norte de Tenerife]
+![Dron agrícola pulverizando una viña en espaldera con nubes bajas al fondo](/imagenes/dron-vina-espaldera-nubes-bajas.webp)
 
 ## Cómo se organiza una salida desde La Palma
 

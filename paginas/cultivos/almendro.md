@@ -14,7 +14,7 @@ municipio: ""
 
 Los almendros canarios están en los lomos de Puntagorda, a 600 m de altitud media; en los bancales de Las Tricias, en Garafía; en las laderas de Timagada, La Culata y Ayacata, en Tejeda; y entre 1.000 y 1.600 m en Vilaflor de Chasna. Casi todo secano, casi todo pendiente, muchos árboles sueltos. Un dron agrícola para almendro trabaja en ese terreno, el que deja fuera al atomizador y convierte la mochila en una tarde cuesta arriba.
 
-[IMAGEN: Almendros en flor sobre bancales de piedra seca en Puntagorda con el mar al fondo y pista de tierra en pendiente | alt: Almendros en flor en bancales de medianías de Puntagorda, La Palma]
+![Proteas en flor en primer término y almendros floridos al fondo en las medianías de El Paso, La Palma](/imagenes/proteas-almendros-flor-el-paso.webp)
 
 ## Lomos, bancales altos y árboles sueltos: la finca de almendros canaria
 
@@ -52,7 +52,7 @@ En Tejeda y Vilaflor la altitud y el viento de cresta se valoran antes de compro
 
 Lo que no se salta: el piloto de Agrodrón, con certificados AESA/EASA (PDRA-S01, operador STS), vuela en la categoría específica, y antes de subir a Las Tricias o a Timagada el plano se contrasta con las zonas geográficas de UAS de ENAIRE. Solo árboles al aire libre, y sin despegar con viento fuerte, lluvia o niebla: la ventana se decide en la finca el mismo día.
 
-[IMAGEN: Dron agrícola sobrevolando almendros dispersos en un lomo de Las Tricias, Garafía, con el barranco y el mar de nubes detrás | alt: Dron pulverizador sobre almendros de secano en Las Tricias, Garafía, La Palma]
+![Dron agrícola en vuelo junto a almendros en flor en las medianías de El Paso, La Palma](/imagenes/dron-junto-almendros-el-paso.webp)
 
 ## La Palma sin desplazamiento; Tenerife y Gran Canaria con él
 

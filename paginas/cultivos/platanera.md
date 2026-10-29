@@ -14,7 +14,7 @@ municipio: ""
 
 Una platanera en producción te saca una cabeza o más: unos 2,25 m la Pequeña Enana y medio metro más la Gran Enana (hoja divulgadora del MAPA, 1967), hojas que cierran el pasillo y la piña a la altura del pecho. Un dron agrícola para platanera hace el recorrido al revés: pasa por encima de la mata y deja el caldo sobre la hoja, sin que nadie camine entre las matas con la lanza.
 
-[IMAGEN: Dron DJI Agras T50 sobrevolando una finca de platanera al aire libre en la costa de La Palma, con muros de piedra y cortavientos de malla vertical al fondo | alt: Dron agrícola pulverizando platanera al aire libre en la costa oeste de La Palma]
+![Dron agrícola en vuelo junto al muro de una finca de platanera en el norte de Tenerife](/imagenes/dron-vuelo-platanera-norte-tenerife.webp)
 
 ## Cuánta platanera hay y cuánta se puede tratar desde el aire
 

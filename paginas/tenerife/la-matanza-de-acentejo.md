@@ -14,7 +14,7 @@ municipio: "La Matanza de Acentejo"
 
 La Matanza de Acentejo sube de golpe: acantilado en la costa, medianías de viña y papa en terrazas entre 300 y 750 metros, y monte con castaños y frutales por encima. Un dron agrícola en La Matanza de Acentejo no vale igual en cada piso, así que esta página va zona por zona. Agrodrón Canarias tiene base en La Palma y en Tenerife trabaja con desplazamiento, bajo consulta y según disponibilidad.
 
-[IMAGEN: Vista de La Matanza de Acentejo desde el mar hacia la cumbre, con el acantilado, las terrazas de viña y el monte arriba | alt: Terrazas de viña y papa en pendiente en La Matanza de Acentejo, Tenerife, con el monte al fondo]
+![Dron agrícola en vuelo bajo sobre una viña al anochecer](/imagenes/dron-vina-anochecer.webp)
 
 ## La costa: acantilado y poca tierra
 

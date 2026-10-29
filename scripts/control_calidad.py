@@ -4,7 +4,8 @@
 Comprueba por página: frontmatter completo, longitud de título (<=60) y meta
 (<=155), formato del slug, número de palabras según nivel, keyword en título /
 H1 / primer párrafo / algún H2 / meta, un único H1, FAQ con 4-6 preguntas,
-llamada a la acción con enlace a agrodroncanarias.es, [IMAGEN] con alt,
+llamada a la acción con enlace a agrodroncanarias.es, imágenes ([IMAGEN] o
+![alt](/imagenes/...)) con alt y archivo existente,
 bloque JSON-LD válido con Service + FAQPage + areaServed, enlaces internos,
 frases prohibidas, exclamaciones, aviso de desplazamiento fuera de La Palma y
 párrafos demasiado largos.
@@ -19,6 +20,7 @@ import re
 import sys
 
 RAIZ = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
+IMG_MD = r"!\[([^\]]*)\]\(([^)\s]+)\)"
 RANGOS = {"A": (900, 1340), "B": (700, 1040), "hub": (700, 1040), "cultivo": (800, 1340)}
 PROHIBIDAS = [
     "en el mundo actual", "la agricultura moderna", "sin duda", "en definitiva",
@@ -61,13 +63,14 @@ def cuerpo_sin_codigo(cuerpo):
 def contar_palabras(cuerpo):
     t = cuerpo_sin_codigo(cuerpo)
     t = re.sub(r"\[IMAGEN:[^\]]*\]", " ", t)
+    t = re.sub(IMG_MD, " ", t)
     t = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", t)
     t = re.sub(r"[#*_>`|-]", " ", t)
     return len([p for p in t.split() if re.search(r"[a-záéíóúñ0-9]", p, flags=re.I)])
 
 
 def revisar(ruta):
-    rel = os.path.relpath(ruta, RAIZ)
+    rel = os.path.relpath(ruta, RAIZ).replace(os.sep, "/")
     with open(ruta, encoding="utf-8") as f:
         texto = f.read()
     errores, avisos = [], []
@@ -116,7 +119,7 @@ def revisar(ruta):
     primer = ""
     for bloque in re.split(r"\n\s*\n", tras_h1):
         b = bloque.strip()
-        if b and not b.startswith("#") and not b.startswith("[IMAGEN") and not b.startswith("```"):
+        if b and not b.startswith("#") and not b.startswith("[IMAGEN") and not b.startswith("![") and not b.startswith("```"):
             primer = b
             break
     nk = norm(kw)
@@ -148,11 +151,17 @@ def revisar(ruta):
         errores.append("no se menciona 'presupuesto' en la llamada a la acción")
     # imágenes
     imgs = re.findall(r"\[IMAGEN:([^\]]*)\]", sin_codigo)
-    if not imgs:
-        errores.append("sin marcadores [IMAGEN]")
+    imgs_md = re.findall(IMG_MD, sin_codigo)
+    if not imgs and not imgs_md:
+        errores.append("sin imágenes ni marcadores [IMAGEN]")
     for im in imgs:
         if "alt:" not in im.lower():
             errores.append("[IMAGEN] sin texto alt")
+    for alt, ruta in imgs_md:
+        if not alt.strip():
+            errores.append(f"imagen sin texto alt: {ruta}")
+        if not os.path.isfile(os.path.join(RAIZ, ruta.lstrip("/"))):
+            errores.append(f"imagen no encontrada: {ruta}")
     # JSON-LD
     bloques = re.findall(r"```json\s*\n(.*?)```", cuerpo, flags=re.S)
     if not bloques:
@@ -186,15 +195,15 @@ def revisar(ruta):
         errores.append("página fuera de La Palma sin mención al desplazamiento")
     if fuera and not re.search(r"disponibilidad|bajo consulta", sin_codigo, flags=re.I):
         avisos.append("página fuera de La Palma sin mención a disponibilidad/consulta")
-    # prohibidas
-    nt = norm(sin_codigo) + " " + norm(" ".join(fm.values()))
+    # prohibidas (el "!" de la sintaxis de imagen no es una exclamación; el alt y la ruta sí se revisan)
+    nt = norm(re.sub(IMG_MD, r"[\1](\2)", sin_codigo)) + " " + norm(" ".join(fm.values()))
     for p in PROHIBIDAS:
         if norm(p) in nt:
             errores.append(f"frase prohibida: '{p}'")
     # párrafos largos
     for bloque in re.split(r"\n\s*\n", sin_codigo):
         b = bloque.strip()
-        if b and not b.startswith("#") and not b.startswith("[") and not b.startswith("-") and not b.startswith("|"):
+        if b and not b.startswith("#") and not b.startswith("[") and not b.startswith("![") and not b.startswith("-") and not b.startswith("|"):
             n = len(b.split())
             if n > 85:
                 avisos.append(f"párrafo de {n} palabras (demasiado largo para móvil)")

@@ -14,7 +14,7 @@ municipio: ""
 
 Una lechuga está en el suelo unas semanas; una col o una cebolla de enarenado, unos meses; un calabacín se corta cada pocos días. Con ciclos así una aplicación foliar no puede esperar al tractor ni a que el bancal se seque, y lo que diga la etiqueta sobre aplicar cerca del corte pesa más que en ningún otro cultivo. Un dron agrícola para hortalizas encaja en esa prisa: entra cuando hace falta, en parcelas de una fracción de hectárea, y no pisa el surco.
 
-[IMAGEN: Bancales de cebolla y col en medianías de Moya con niebla sobre la cumbre y muros de piedra | alt: Hortalizas al aire libre en bancales de medianías en Moya, Gran Canaria]
+![Sandías recién cogidas en cajas en una finca al aire libre del norte de Tenerife](/imagenes/sandias-finca-norte-tenerife.webp)
 
 ## Ciclos cortos: el calendario lo marca la etiqueta, no la máquina
 

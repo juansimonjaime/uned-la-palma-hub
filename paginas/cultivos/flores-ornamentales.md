@@ -14,7 +14,7 @@ municipio: ""
 
 Lo primero es lo que no hacemos. La flor cortada y la planta ornamental que crece bajo invernadero o malla, la mayor parte de la de Tejina, Valle de Guerra, Güímar o Guía, no se puede tratar con dron: el caldo no atraviesa la cubierta. Un dron agrícola para flores tiene sentido en lo que queda fuera, sobre todo las proteas de las medianías de La Palma y Tenerife.
 
-[IMAGEN: Plantación de proteas en flor en bancales de medianías de Breña Alta, con el mar de nubes sobre la Cumbre Nueva | alt: Proteas al aire libre en Breña Alta, La Palma, cultivo de flor cortada para exportación]
+![Dron agrícola pulverizando sobre hileras de proteas al aire libre en bancales de La Palma](/imagenes/dron-proteas-bancales-la-palma.webp)
 
 ## Qué queda fuera: la flor bajo cubierta
 
@@ -48,7 +48,7 @@ Sobre plagas y enfermedades de proteas en Canarias no hemos encontrado fuente t�
 
 Para lo que hace el dron no hace falta esperarla: en protea el trabajo es el abonado foliar, los correctores de carencias y los bioestimulantes, pensados para el vigor del arbusto tras el corte de la campaña o tras un episodio como los gases de 2021. Finalidad del producto, sin prometer la cosecha siguiente. La protea no admite cualquier cosa: producto y dosis los fija tu técnico con la etiqueta delante.
 
-[IMAGEN: Detalle de una flor de protea en una plantación en ladera de la cara oeste de La Palma, con el cono del Tajogaite al fondo | alt: Protea de La Palma en plantación al aire libre en El Paso]
+![Flor de protea en una plantación al aire libre de El Paso, La Palma](/imagenes/flor-protea-el-paso.webp)
 
 ## Dónde: La Palma, Tenerife y Gran Canaria
 

@@ -14,7 +14,7 @@ municipio: ""
 
 La Palma cultiva 6.895,5 hectáreas, el 17,6 % de la superficie agrícola de Canarias, y produjo 153.536,9 toneladas en 2025, tercera isla de Canarias según el ISTAC. Agrodrón Canarias trabaja desde Santa Cruz de La Palma, así que un dron agrícola en La Palma no lleva desplazamiento: el equipo sale de la isla para la isla.
 
-[IMAGEN: Panorámica de plataneras del Valle de Aridane con las coladas de 2021 al fondo | alt: plataneras y coladas volcánicas en el Valle de Aridane, La Palma]
+![Dron agrícola pulverizando una viña en ladera en el nordeste de La Palma](/imagenes/dron-vina-ladera-nordeste-la-palma.webp)
 
 ## La agricultura palmera en cifras
 
@@ -61,7 +61,7 @@ Agrodrón Canarias nació en junio de 2025 y vuela un DJI Agras T50: 40 litros d
 
 El dron carga abonos foliares, bioestimulantes y correctores de carencias de uso permitido en cada cultivo, a la dosis de su etiqueta, para el vigor de la planta tras calor, viento o ceniza; las plagas son asunto del Cabildo y del Gobierno de Canarias. El vuelo va en la categoría específica de AESA/EASA, en escenario STS o bajo el PDRA-S01, con las zonas geográficas de UAS de ENAIRE comprobadas en cada municipio, y nunca con lluvia, niebla o viento fuerte.
 
-[IMAGEN: DJI Agras T50 de Agrodrón Canarias despegando desde una pista agrícola de La Palma | alt: dron agrícola DJI Agras T50 de Agrodrón Canarias en La Palma]
+![Dron DJI Agras T50 posado en una pista agrícola de La Palma con el mar de nubes al fondo](/imagenes/dron-t50-pista-mar-de-nubes-la-palma.webp)
 
 ## Preguntas frecuentes sobre el dron agrícola en La Palma
 

@@ -14,7 +14,7 @@ municipio: "Tijarafe"
 
 Tijarafe tiene 11,5 km de costa y el casco a 640 m (Gobierno de Canarias): entre el mar y el pueblo, la platanera se agarra a plataformas bajas al pie del acantilado y el aguacate y la viña suben en bancales hasta los 900 m. Tratar ahí con mochila es un día entero de cuesta. Un dron agrícola en Tijarafe cambia el problema de sitio: del que carga a la espalda al que planifica desde la pista.
 
-[IMAGEN: Plataformas de platanera al pie del acantilado de Tijarafe, con la pista de acceso zigzagueando por la ladera | alt: Platanera en plataformas costeras de acantilado en Tijarafe, La Palma]
+![Pista de tierra entre bancales de viña en el oeste de La Palma, con el mar de nubes al fondo](/imagenes/pista-bancales-vina-oeste-la-palma.webp)
 
 ## Del acantilado a los 900 metros: así es el terreno
 
@@ -34,7 +34,7 @@ El DJI Agras T50 lleva un radar de matriz en fase y visión binocular que leen e
 
 El depósito de 40 litros y el caudal de hasta 16 L/min con dos boquillas o 24 L/min con cuatro se adaptan a parcelas pequeñas: se despega desde la pista, se trata el bancal y se vuelve a cargar sin que nadie baje muros. El aplicador se queda arriba con el mando y el agua. Lo que no hace: tratar bajo malla o invernadero, ni volar con viento que saque el caldo de la finca.
 
-[IMAGEN: Dron DJI Agras T50 sobre bancales de aguacate en las medianías de Tijarafe, siguiendo la pendiente con el radar | alt: Dron agrícola tratando aguacate en bancales de Tijarafe, La Palma]
+![Estación RTK sobre trípode en el borde de un bancal de viña en ladera](/imagenes/base-rtk-borde-bancal-vina.webp)
 
 ## Viento del noroeste y nieblas de medianías
 

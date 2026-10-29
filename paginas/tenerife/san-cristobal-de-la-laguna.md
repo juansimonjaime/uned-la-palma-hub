@@ -14,7 +14,7 @@ municipio: "San Cristóbal de La Laguna"
 
 San Cristóbal de La Laguna tenía 1.676 hectáreas cultivadas, 456 de platanera en Tejina, Bajamar, Valle de Guerra y Punta del Hidalgo, según el Censo Agrario de 1999 (ISTAC, vía elcanario.net). Son cifras de hace más de 25 años, pero el reparto sigue: platanera abajo, papa y cereal en la meseta, bancales en Anaga. Un dron agrícola en La Laguna no trabaja igual en las tres zonas, y viene desde La Palma con desplazamiento y bajo consulta de disponibilidad.
 
-[IMAGEN: Platanera al aire libre en Valle de Guerra con cortavientos y el mar al fondo, La Laguna | alt: Fincas de platanera al aire libre en Valle de Guerra, San Cristóbal de La Laguna, Tenerife]
+![Dron agrícola en vuelo junto a una finca de platanera en el norte de Tenerife](/imagenes/dron-junto-platanera-norte-tenerife.webp)
 
 ## Costa norte: Tejina, Bajamar, Valle de Guerra y Punta del Hidalgo
 
@@ -32,7 +32,7 @@ Hay otro condicionante propio de La Laguna: el aeropuerto de Los Rodeos. Su ento
 
 En la parte de Anaga que cae en La Laguna hay bancales en ladera, huerta y viña de la DO en parcelas pequeñas [VERIFICAR: superficie cultivada en el Anaga lagunero]. Pistas estrechas, mucha humedad y accesos a pie. Es donde la mochila pesa más y donde el dron, que ajusta la velocidad a la pendiente, evita subir escalones con el caldo encima.
 
-[IMAGEN: Bancales de cultivo en una ladera de Anaga, en el término de La Laguna, con niebla en la cumbre | alt: Bancales en pendiente del macizo de Anaga, San Cristóbal de La Laguna]
+![Sandías recién cogidas en una finca al aire libre del norte de Tenerife](/imagenes/sandias-cosecha-norte-tenerife.webp)
 
 ## Picudo, trips, araña roja y cochinilla: plagas documentadas en la platanera
 

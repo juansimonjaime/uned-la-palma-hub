@@ -38,7 +38,7 @@ El DJI Agras T50 lleva radar de matriz en fase y visión binocular: sigue el sal
 
 En el depósito va el foliar o el bioestimulante que la cepa necesite tras el alisio o el calor.
 
-[IMAGEN: Dron agrícola DJI Agras T50 sobrevolando una terraza de viña en La Victoria de Acentejo mientras el piloto lo controla desde el camino | alt: Dron pulverizador tratando viña en terrazas en La Victoria de Acentejo, Tenerife]
+![Dron agrícola pulverizando una viña en espaldera con una loma al fondo](/imagenes/dron-pulverizando-vina-loma.webp)
 
 ## Cómo se organiza un tratamiento con dron en La Victoria
 

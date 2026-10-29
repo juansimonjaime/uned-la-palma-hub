@@ -14,7 +14,7 @@ municipio: "Barlovento"
 
 Barlovento es el principal municipio productor de papas de la isla, según la EnciclopediaGuanche, y tiene la platanera en la franja costera de regadío, en grandes terrazas sobre un terreno muy desnivelado, como lo describe la Reserva de la Biosfera. Son 419 hectáreas en producción (Observatorio de Sostenibilidad 2020, datos de 2019) de la costa a la cumbre en 44 kilómetros cuadrados. Antes de meter un dron agrícola en Barlovento, hay que responder a lo que preguntan quienes trabajan esas terrazas.
 
-[IMAGEN: Terrazas de papa en las medianías de Barlovento con niebla del alisio cerrando el fondo | alt: terrazas de papa en medianías de Barlovento, La Palma, con niebla]
+![Plataneras junto a una pista agrícola de Barlovento, con las medianías y el caserío al fondo](/imagenes/platanera-pista-barlovento.webp)
 
 ## ¿Sirve el dron para la papa en Barlovento?
 
@@ -57,7 +57,7 @@ Al depósito solo va producto de uso permitido en el cultivo, a la dosis de su e
 
 Toda la isla está en la página de [tratamientos con dron en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/). El cultivo que más pesa en Barlovento tiene la suya, [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/), igual que la [platanera tratada con dron](https://agrodroncanarias.es/dron-agricola-platanera/). El vecino [San Andrés y Sauces](https://agrodroncanarias.es/dron-agricola-la-palma/san-andres-y-sauces/) tiene más platanera y la misma humedad.
 
-[IMAGEN: Vista de la Laguna de Barlovento con bancales de platanera y papa alrededor | alt: Laguna de Barlovento, balsa de riego del norte de La Palma, rodeada de cultivos]
+![Plataneras al aire libre sobre la costa acantilada de Barlovento, La Palma](/imagenes/platanera-costa-barlovento.webp)
 
 ## Preguntas frecuentes sobre el abonado foliar con dron en Barlovento
 

@@ -36,7 +36,7 @@ El DJI Agras T50 carga 40 litros de caldo y pulveriza hasta 16 L/min con dos boq
 
 Aquí la ventaja no está en el relieve, que es suave, sino en el tiempo y en el acceso. Las piñas colgando, las cadenas de riego a media altura y los muros entre parcelas hacen lento el trabajo a pie; desde arriba todo eso queda debajo. El dron pulverizador vuela por encima del cultivo siguiendo el plano de la parcela, pasada tras pasada, y el agricultor no pisa la finca mojada.
 
-[IMAGEN: DJI Agras T50 en el borde de una finca de platanera de Tazacorte durante la recarga del depósito de 40 litros | alt: Dron agrícola DJI Agras T50 recargando junto a una platanera en Tazacorte]
+![Dron DJI Agras T50 en tierra con el depósito de pulverización montado](/imagenes/dron-t50-preparado-vuelo.webp)
 
 ## Cómo se organiza un tratamiento en el llano de Tazacorte
 

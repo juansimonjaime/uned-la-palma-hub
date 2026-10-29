@@ -50,7 +50,7 @@ Y las reglas, en corto. El piloto vuela en la categoría específica de AESA, en
 
 Para ver el resto de la isla, la página de [tratamientos con dron en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) recoge los catorce municipios. Y para los cultivos que más pesan aquí, la de [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/) y la de [dron agrícola para almendro](https://agrodroncanarias.es/dron-agricola-almendro/). El vecino del suroeste, [Puntagorda](https://agrodroncanarias.es/dron-agricola-la-palma/puntagorda/), comparte almendro y viña de la subzona Norte.
 
-[IMAGEN: Dron DJI Agras T50 en el borde de una pista de tierra junto a bancales de viña rastrera en Garafía | alt: dron agrícola DJI Agras T50 preparado en una pista de Garafía, La Palma, con viña rastrera al fondo]
+![Estación RTK sobre trípode junto a bancales de viña en La Palma](/imagenes/estacion-rtk-vina-terrazas-la-palma.webp)
 
 ## Preguntas frecuentes sobre el dron agrícola en Garafía
 

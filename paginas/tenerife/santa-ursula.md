@@ -14,7 +14,7 @@ municipio: "Santa Úrsula"
 
 Santa Úrsula no tiene llano. El término arranca en los acantilados de la Costa de Acentejo, sube por medianías en pendiente hasta la corona forestal y deja la viña de la DO Tacoronte-Acentejo en terrazas entre 300 y 750 metros. Un dron agrícola en Santa Úrsula entra donde la pendiente cierra el paso al tractor. En Tenerife el servicio es con desplazamiento desde La Palma y según disponibilidad.
 
-[IMAGEN: Ladera de Santa Úrsula vista desde la costa, con bancales de viña escalonados y la corona forestal al fondo | alt: Bancales de viña en pendiente en Santa Úrsula, Tenerife, con el monte al fondo]
+![Dron agrícola sobre una viña en espaldera bajo un cielo de atardecer](/imagenes/dron-vina-cielo-atardecer.webp)
 
 ## Acantilado, medianías en pendiente y bancales: el terreno
 
