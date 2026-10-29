@@ -1,6 +1,6 @@
 # Informe: landings SEO local de Agrodrón Canarias
 
-Entrega del encargo maestro: páginas de aterrizaje de SEO local para agrodroncanarias.es (tratamientos fitosanitarios con dron, DJI Agras T50, base en Santa Cruz de La Palma). Se han redactado **77 páginas** en Markdown con frontmatter para WordPress: 14 municipios de La Palma (nivel A), 46 municipios de otras islas (nivel B), 7 páginas hub de isla y 10 páginas de cultivo. Todas pasan el control de calidad (0 errores) y el control de similitud (máximo 12,2 % frente al umbral del 30 %). Hay **279 marcas [VERIFICAR]** repartidas por las páginas, listadas al final de este informe.
+Entrega del encargo maestro: páginas de aterrizaje de SEO local para agrodroncanarias.es (tratamientos agrícolas con dron: abonado foliar, bioestimulantes y otros productos permitidos; DJI Agras T50; base en Santa Cruz de La Palma). Se han redactado **77 páginas** en Markdown con frontmatter para WordPress: 14 municipios de La Palma (nivel A), 46 municipios de otras islas (nivel B), 7 páginas hub de isla y 10 páginas de cultivo. Todas pasan el control de calidad (0 errores) y el control de similitud (máximo 12,2 % frente al umbral del 30 %). Hay **279 marcas [VERIFICAR]** repartidas por las páginas, listadas al final de este informe.
 
 ## 1. Dónde está todo
 
@@ -295,18 +295,19 @@ Los enlaces internos de todas las páginas ya apuntan a estas URL absolutas (mun
 - Lista de municipios: los 88 municipios oficiales de Canarias (ISTAC), repartidos por isla. Datos por municipio en `data/municipios.csv` con la fuente y el año en cada celda.
 - Fuentes principales: ISTAC (estadística de superficies 2021–2025), Mapa de Cultivos de Canarias (Gobierno de Canarias/GRAFCAN, campañas 2017–2024), Cabildos (Agrocabildo, Cabildo de La Palma, Cabildo de Gran Canaria), ICIA, MAPA (Anuario, nota MAPA–AESA 2018, plan cotonet), consejos reguladores de las DO, ASPROCAN/Coplaca, ULL/ULPGC y prensa regional cuando cita a técnicos o a la administración.
 - **Limitación importante**: la red de la sesión en la nube bloqueaba la lectura directa de gobiernodecanarias.org, istac, boe.es, mapa.gob.es, agrocabildo.org, ag.dji.com y la mayoría de la prensa canaria. Todas las cifras proceden de resúmenes de búsqueda web con la URL de la fuente anotada, no de la lectura íntegra del documento. Por eso hay tantas marcas [VERIFICAR] y por eso conviene abrir cada URL de `data/notas/` antes de publicar una cifra. El presupuesto de búsquedas de la sesión se agotó, así que quedaron consultas sin hacer (superficie municipal de la mayoría de municipios fuera de La Palma, % de platanera bajo malla, hectáreas por cultivo y municipio). La forma rápida de cerrar casi todos los [VERIFICAR] de superficie es descargar el CSV municipal del ISTAC (E01135A_000003) y el Mapa de Cultivos de Canarias (datos.gob.es, actualización 20-06-2024).
-- Datos de la empresa usados en las páginas: solo los del encargo (base en Santa Cruz de La Palma, junio de 2025, DJI Agras T50 líquido, piloto con más de 10 años, certificados AESA/EASA PDRA-S01 y operador STS, radiofonista, La Palma sin desplazamiento y resto de Canarias con desplazamiento y bajo consulta). Del T50 se citan solo depósito de 40 L, caudal 16/24 L/min y seguimiento de terreno por radar y visión binocular (ficha DJI vía distribuidores); la anchura de pulverización y las hectáreas/hora no se citan por no estar confirmadas.
+- Datos de la empresa usados en las páginas: solo los del encargo y la indicación posterior del responsable sobre el servicio (base en Santa Cruz de La Palma, junio de 2025, DJI Agras T50 líquido, piloto con más de 10 años, certificados AESA/EASA PDRA-S01 y operador STS, radiofonista, La Palma sin desplazamiento y resto de Canarias con desplazamiento y bajo consulta). Del T50 se citan solo depósito de 40 L, caudal 16/24 L/min y seguimiento de terreno por radar y visión binocular (ficha DJI vía distribuidores); la anchura de pulverización y las hectáreas/hora no se citan por no estar confirmadas.
 
-## 6. Marco legal: lo que afirman las páginas y con qué fuente
+## 6. Enfoque del servicio y normativa: lo que afirman las páginas y con qué fuente
 
-Cada página lleva como máximo un párrafo de normativa, redactado distinto, con solo estas afirmaciones:
-1. La aplicación aérea de productos fitosanitarios está prohibida con carácter general en España y solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, de 14 de septiembre, artículos 27 y 28; BOE núm. 223, de 15/09/2012).
-2. Solo pueden aplicarse productos cuya autorización incluya expresamente la aplicación aérea (RD 1311/2012, anexo VI).
-3. El Ministerio de Agricultura considera los tratamientos con dron como tratamientos aéreos (nota informativa MAPA–AESA sobre tratamientos aéreos con drones, 2018).
-4. El operador vuela en la categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo PDRA-S01 (AESA, ámbito drones; Reglamento de Ejecución (UE) 2019/947).
-5. Opcional, solo en algunos hubs y cultivos y siempre con [VERIFICAR]: que abonos foliares y bioestimulantes tienen otro régimen. **Hay que confirmar con Agrodrón si ofrece aplicaciones no fitosanitarias** y, si no, borrar esa frase.
+Por indicación del responsable, en ninguna página aparece la palabra fitosanitario (ni sus derivados, ni plaguicida, fungicida, insecticida, herbicida, ni fumigar): Agrodrón no ofrece ese servicio en Canarias. El servicio se describe como **tratamientos agrícolas con dron**: pulverización de abonos foliares, bioestimulantes, correctores de carencias y otros productos de uso permitido, sobre cultivo al aire libre. Las plagas y enfermedades documentadas aparecen como contexto del agricultor, con su fuente, y el control de la plaga se remite a los servicios de sanidad vegetal; el dron no se presenta como herramienta contra plagas ni se promete ningún resultado. El script de control rechaza cualquier página con esas palabras, también en el frontmatter.
 
-No se pudo leer el texto consolidado del BOE ni la web de AESA desde la sesión (red bloqueada): las afirmaciones 1 y 2 se contrastaron con el manual de aplicaciones aéreas de la Junta de Andalucía y con el texto parcial del artículo 27 disponible en la búsqueda. Conviene que el responsable revise ese párrafo en una página de cada tipo antes de publicar. Las páginas de los municipios con aeropuerto (Breña Baja, La Laguna, San Miguel de Abona, Telde) solo dicen que la cercanía condiciona la planificación de vuelos y autorizaciones, remitiendo al mapa de zonas geográficas de UAS de ENAIRE (https://drones.enaire.es/).
+Cada página lleva como máximo un párrafo de normativa y condiciones, redactado distinto, con solo estas afirmaciones:
+1. El operador vuela en la categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo PDRA-S01, con piloto certificado (AESA, ámbito drones; Reglamento de Ejecución (UE) 2019/947).
+2. Cada vuelo se planifica sobre el mapa de la parcela y se comprueban las zonas geográficas de UAS (mapa de ENAIRE, https://drones.enaire.es/); las páginas de municipios con aeropuerto (Breña Baja, La Laguna, San Miguel de Abona, Telde) solo dicen que la cercanía condiciona la planificación.
+3. Solo se aplican productos de uso permitido en el cultivo, a la dosis de su etiqueta, y solo sobre cultivo al aire libre (práctica de la empresa, sin cita normativa).
+4. Con viento fuerte, lluvia o niebla no se vuela (práctica operativa, sin cifra de viento).
+
+**Pendiente de confirmar con Agrodrón**: la lista exacta de productos que aplica (abonos foliares, bioestimulantes, correctores u otros). Las páginas usan la fórmula genérica "abonos foliares, bioestimulantes y otros productos de uso permitido".
 
 ## 7. Control de similitud
 
@@ -338,7 +339,7 @@ Ningún par supera el umbral; ninguna página ha necesitado reescritura por simi
 
 ## 8. Control de calidad SEO
 
-`scripts/control_calidad.py` comprueba en cada página: frontmatter completo (title ≤60, meta 120–155, slug válido, parent correcto), longitud por nivel (A 900–1.300, B y hub 700–1.000, cultivo 800–1.300), keyword en title, H1, primer párrafo, un H2 y meta, un solo H1, FAQ con 4–6 preguntas idénticas a las del JSON-LD, JSON-LD válido con Service + FAQPage + areaServed, CTA con enlace y la palabra presupuesto, marcadores [IMAGEN] con alt, enlaces internos obligatorios, aviso de desplazamiento fuera de La Palma, frases prohibidas y exclamaciones. Resultado: **77 páginas, 0 errores**. Tabla completa en `data/control/calidad.md`.
+`scripts/control_calidad.py` comprueba en cada página: frontmatter completo (title ≤60, meta 120–155, slug válido, parent correcto), longitud por nivel (A 900–1.300, B y hub 700–1.000, cultivo 800–1.300), keyword en title, H1, primer párrafo, un H2 y meta, un solo H1, FAQ con 4–6 preguntas idénticas a las del JSON-LD, JSON-LD válido con Service + FAQPage + areaServed, CTA con enlace y la palabra presupuesto, marcadores [IMAGEN] con alt, enlaces internos obligatorios, aviso de desplazamiento fuera de La Palma, frases prohibidas (incluidas las palabras vetadas por el responsable) y exclamaciones. Resultado: **77 páginas, 0 errores**. Tabla completa en `data/control/calidad.md`.
 
 ## 9. Orden recomendado de publicación
 
@@ -364,11 +365,11 @@ No publicar todo de golpe. Propuesta por tandas, siempre primero el hub de la is
 
 ## 11. Decisiones tomadas que conviene conocer
 
-- Keyword principal: `dron agrícola en {Municipio}` en municipios y hubs, `dron agrícola para {cultivo}` en cultivos; variantes reales en el cuerpo (fumigar con dron, tratamiento con drones, dron fitosanitario, pulverización aérea). Para La Laguna se usa el nombre corto; para Güímar, Santa María de Guía, Guía de Isora y Valle Gran Rey, el nombre de uso común.
+- Keyword principal: `dron agrícola en {Municipio}` en municipios y hubs, `dron agrícola para {cultivo}` en cultivos; variantes reales en el cuerpo (tratamiento con drones, pulverización con dron, dron pulverizador, abonado foliar con dron). Para La Laguna se usa el nombre corto; para Güímar, Santa María de Guía, Guía de Isora y Valle Gran Rey, el nombre de uso común.
 - Longitud de las páginas de cultivo fijada en 800–1.300 palabras (el encargo no la especificaba).
 - Cinco esqueletos distintos (del cultivo al dron, del terreno al dron, preguntas del agricultor, por zonas, calendario) asignados por rotación para que páginas con datos parecidos se lean distintas.
 - Las páginas de municipios con cultivo mayoritario bajo cubierta (La Aldea, Arona, Guía de Isora, Antigua, Tuineje, Frontera…) dicen sin rodeos qué no se trata con dron y centran el servicio en lo que va al aire libre.
-- Ninguna página da precios, clientes, casos, cifras de ahorro ni productos autorizados para aplicación aérea. Ninguna promete plazos.
+- Ninguna página da precios, clientes, casos, cifras de ahorro ni promete plazos o resultados.
 - Donde el encargo y los datos discrepaban (Tazacorte, Tinajo, Villa de Mazo, Fuencaliente), mandaron los datos y así consta en la página.
 
 ## 12. Todas las marcas [VERIFICAR] por página
