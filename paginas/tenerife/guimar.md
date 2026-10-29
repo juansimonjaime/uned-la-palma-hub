@@ -3,7 +3,7 @@ title: "Dron agrícola en Güímar | Agrodrón Canarias"
 slug: "guimar"
 meta_description: "Dron agrícola en Güímar: viña DO Valle de Güímar en bancales y platanera al aire libre en la costa (Mapa de Cultivos 2021). Desplazamiento desde La Palma."
 keyword: "dron agrícola en Güímar"
-keywords_secundarias: "fumigar con dron en Güímar, tratamiento con drones en viña del Valle de Güímar, dron para plataneras en El Puertito, dron fitosanitario Tenerife"
+keywords_secundarias: "pulverización con dron en Güímar, tratamiento con drones en viña del Valle de Güímar, dron para plataneras en El Puertito, dron pulverizador Tenerife"
 parent: "dron-agricola-tenerife"
 nivel: "B"
 isla: "Tenerife"
@@ -30,7 +30,7 @@ Desde 2025 hay otro frente: la filoxera, detectada en Tenerife con zona demarcad
 
 ## Por qué un dron agrícola en Güímar encaja en la viña de bancal
 
-Tratar una parra de bancal con mochila significa subir muros con el depósito a la espalda. El dron lo hace desde arriba: el DJI Agras T50 sigue el relieve con radar de matriz en fase y visión binocular y regula la velocidad con la pendiente. Carga 40 litros y pulveriza hasta 16 litros por minuto con dos boquillas centrífugas, o 24 con cuatro. La dosis y el producto siguen siendo los de la etiqueta y del plan de aplicación.
+Tratar una parra de bancal con mochila significa subir muros con el depósito a la espalda. El dron lo hace desde arriba: el DJI Agras T50 sigue el relieve con radar de matriz en fase y visión binocular y regula la velocidad con la pendiente. Carga 40 litros y pulveriza hasta 16 litros por minuto con dos boquillas centrífugas, o 24 con cuatro. La dosis y el producto siguen siendo los de la etiqueta: abonos foliares o bioestimulantes de uso permitido en viña.
 
 [IMAGEN: Platanera al aire libre junto al mar en El Puertito de Güímar, con el malpaís negro detrás | alt: Platanera de la costa de Güímar entre El Puertito y Chimisay, Tenerife]
 
@@ -40,37 +40,37 @@ Recogemos ubicación, cultivo, superficie, accesos y obstáculos (tendidos, cort
 
 Fuera de La Palma salimos con desplazamiento y agrupamos fincas de Güímar, Arafo y Candelaria en una visita; no damos plazos cerrados, damos disponibilidad.
 
-## Lo que el dron no hace: cubierta, viento y autorización
+## Lo que el dron no hace: cubierta, viento y plagas
 
 Nada bajo malla o invernadero se trata desde el aire: en el valle, las ornamentales de la comarca y la platanera que lleve malla [VERIFICAR: proporción de platanera bajo cubierta en la costa de Güímar]. Con viento sobre el límite seguro, se aplaza.
 
-El operador vuela en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01), pero el vuelo no basta: la aplicación aérea de fitosanitarios en España está prohibida con carácter general y se autoriza en casos especiales, por el órgano competente de la comunidad autónoma y con un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). Cada viña de Güímar pasa por ese trámite.
+El operador vuela en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01) con piloto certificado y antes de cada salida comprueba las viñas del valle en el mapa de zonas geográficas de UAS de ENAIRE. Tampoco combate plagas: oídio, mildiu o filoxera son de sanidad vegetal del Cabildo. Lo que cae de arriba es abono foliar o bioestimulante de uso permitido en viña, a dosis de etiqueta.
 
 ## Platanera, papa y aguacate: el resto del municipio
 
 Las 90,37 hectáreas de platanera están en la costa, entre El Puertito y Chimisay, bajo los 200 metros. Plagas documentadas en Tenerife: picudo negro (Cosmopolites sordidus, reaparecido en 1987 según el Cabildo), trips (Hercinothrips femoralis) y araña roja, con ataques que llegan al racimo según la guía del Cabildo de 2009, y cochinilla algodonosa (Dysmicoccus grassii), con resistencias según la ULPGC.
 
-Trips, araña roja y cochinilla van en hoja y fruto, alcanzables en piña al aire libre; el picudo vive en el cormo y no. La papa asociada se trata con la parra. El aguacate de la comarca tiene como plaga principal la araña cristalina (Oligonychus perseae), en Tenerife desde 2006 (81,5 % de parcelas encuestadas por el Cabildo).
+Trips, araña roja y cochinilla van en hoja y fruto; el picudo vive en el cormo. Ninguno es asunto del dron, que en piña descubierta aplica abonado foliar. La papa asociada se abona en hoja con la parra. El aguacate de la comarca tiene como plaga principal la araña cristalina (Oligonychus perseae), en Tenerife desde 2006 (81,5 % de parcelas encuestadas por el Cabildo).
 
 Enlaces: [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [dron agrícola para platanera](https://agrodroncanarias.es/dron-agricola-platanera/) y el vecino [dron agrícola en Candelaria](https://agrodroncanarias.es/dron-agricola-tenerife/candelaria/).
 
 ## Preguntas frecuentes sobre el dron agrícola en Güímar
 
 ### ¿Se puede tratar con dron la viña asociada a papa en los bancales de El Escobonal?
-Sí, si está al aire libre y el producto tiene autorización para aplicación aérea. Parra y papa comparten parcela y el vuelo se planifica sobre el bancal completo.
+Sí, si está al aire libre y el producto es de uso permitido en los dos cultivos, a dosis de etiqueta. Parra y papa comparten parcela y el vuelo se planifica sobre el bancal completo.
 
-### ¿Trata el dron la platanera de El Puertito contra el picudo negro?
-No. El picudo vive en el cormo, donde la pulverización no llega; el control documentado pasa por trampas de feromonas. Para trips, araña roja o cochinilla sí, en piña sin malla y según etiqueta.
+### ¿Sirve el dron contra el picudo negro de la platanera de El Puertito?
+No. El picudo vive en el cormo, donde la pulverización no llega; el control documentado pasa por trampas de feromonas y lo marca el Cabildo. En piña sin malla el dron aplica abonos foliares y bioestimulantes según etiqueta.
 
 ### ¿Cuánto cuesta un tratamiento con dron en Güímar?
 Depende de superficie, cultivo, número de bancales, accesos y producto: una viña en tres escalones no se calcula igual que una platanera llana. Pide presupuesto con esos datos.
 
 ### ¿Cómo funciona el desplazamiento desde La Palma hasta Güímar?
-El equipo sale de Santa Cruz de La Palma y agrupa fincas del valle en una visita. La fecha se cierra según disponibilidad, con la autorización aprobada y el viaje organizado.
+El equipo sale de Santa Cruz de La Palma y agrupa fincas del valle en una visita. La fecha se cierra según disponibilidad, con el producto elegido y el viaje organizado.
 
 ## Pide presupuesto para tu viña o tu platanera de Güímar
 
-Mándanos ubicación, cultivo, hectáreas y el problema a tratar. Te decimos si el dron encaja y preparamos presupuesto con el desplazamiento desde La Palma, desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Mándanos ubicación, cultivo, hectáreas y el producto que quieres aplicar. Te decimos si el dron encaja y preparamos presupuesto con el desplazamiento desde La Palma, desde [Agrodrón Canarias](https://agrodroncanarias.es/).
 
 ```json
 {
@@ -78,9 +78,9 @@ Mándanos ubicación, cultivo, hectáreas y el problema a tratar. Te decimos si 
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Güímar",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en la viña de bancal de la DO Valle de Güímar, en la platanera al aire libre de El Puertito y Chimisay y en la papa asociada a la viña. Servicio con desplazamiento desde La Palma.",
+      "name": "Tratamientos agrícolas con dron en Güímar",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en la viña de bancal de la DO Valle de Güímar, en la platanera al aire libre de El Puertito y Chimisay y en la papa asociada a la viña. Servicio con desplazamiento desde La Palma.",
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/guimar/",
       "provider": {
         "@type": "LocalBusiness",
@@ -105,12 +105,12 @@ Mándanos ubicación, cultivo, hectáreas y el problema a tratar. Te decimos si 
         {
           "@type": "Question",
           "name": "¿Se puede tratar con dron la viña asociada a papa en los bancales de El Escobonal?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si está al aire libre y el producto tiene autorización para aplicación aérea. Parra y papa comparten parcela y el vuelo se planifica sobre el bancal completo." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si está al aire libre y el producto es de uso permitido en los dos cultivos, a dosis de etiqueta. Parra y papa comparten parcela y el vuelo se planifica sobre el bancal completo." }
         },
         {
           "@type": "Question",
-          "name": "¿Trata el dron la platanera de El Puertito contra el picudo negro?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. El picudo vive en el cormo, donde la pulverización no llega; el control documentado pasa por trampas de feromonas. Para trips, araña roja o cochinilla sí, en piña sin malla y según etiqueta." }
+          "name": "¿Sirve el dron contra el picudo negro de la platanera de El Puertito?",
+          "acceptedAnswer": { "@type": "Answer", "text": "No. El picudo vive en el cormo, donde la pulverización no llega; el control documentado pasa por trampas de feromonas y lo marca el Cabildo. En piña sin malla el dron aplica abonos foliares y bioestimulantes según etiqueta." }
         },
         {
           "@type": "Question",
@@ -120,7 +120,7 @@ Mándanos ubicación, cultivo, hectáreas y el problema a tratar. Te decimos si 
         {
           "@type": "Question",
           "name": "¿Cómo funciona el desplazamiento desde La Palma hasta Güímar?",
-          "acceptedAnswer": { "@type": "Answer", "text": "El equipo sale de Santa Cruz de La Palma y agrupa fincas del valle en una visita. La fecha se cierra según disponibilidad, con la autorización aprobada y el viaje organizado." }
+          "acceptedAnswer": { "@type": "Answer", "text": "El equipo sale de Santa Cruz de La Palma y agrupa fincas del valle en una visita. La fecha se cierra según disponibilidad, con el producto elegido y el viaje organizado." }
         }
       ]
     }

@@ -3,7 +3,7 @@ title: "Dron agrícola en Santa María de Guía | Agrodrón Canarias"
 slug: "santa-maria-de-guia"
 meta_description: "Dron agrícola en Santa María de Guía: platanera de San Felipe y papa de Montaña Alta al aire libre, con desplazamiento desde La Palma. Pide presupuesto."
 keyword: "dron agrícola en Santa María de Guía"
-keywords_secundarias: "fumigar con dron en Guía de Gran Canaria, tratamiento con drones en platanera de San Felipe, dron fitosanitario Montaña Alta, pulverización aérea en Guía"
+keywords_secundarias: "pulverización con dron en Guía de Gran Canaria, tratamiento con drones en platanera de San Felipe, abonado foliar con dron Montaña Alta, dron pulverizador en Guía"
 parent: "dron-agricola-gran-canaria"
 nivel: "B"
 isla: "Gran Canaria"
@@ -34,21 +34,21 @@ Todo eso va al aire libre y en bancales, así que es tratable. La pega son las n
 
 ## Flores, cítricos y subtropicales: qué trata el dron agrícola en Santa María de Guía y qué no
 
-Las flores ocupaban unas 32 ha en 2009 (Enciclopedia Guanche) y van en su mayoría bajo cubierta: ahí el dron no entra. Los frutales de regadío sumaban menos de 6 ha ese año, cítricos y tropicales en parcelas pequeñas al aire libre, que sí admiten tratamiento aéreo si la etiqueta lo permite.
+Las flores ocupaban unas 32 ha en 2009 (Enciclopedia Guanche) y van en su mayoría bajo cubierta: ahí el dron no entra. Los frutales de regadío sumaban menos de 6 ha ese año, cítricos y tropicales en parcelas pequeñas al aire libre, que sí admiten abono foliar con dron.
 
 Guía figura además en Lairaga Tropical, el proyecto para recuperar 100 ha de tierras en desuso de la isla con mango, aguacate y papaya. Mango y aguacate crecen al aire libre; la papaya suele ir bajo malla [VERIFICAR: sistema de cultivo de la papaya en Guía].
 
 ## Plagas con fuente en la comarca de Guía
 
 - Picudo negro (Cosmopolites sordidus): rebrote en 2012 en fincas de Sardina del Norte, en la misma comarca (eldiario.es, Phytoma). Vive en el cormo y se maneja con trampas de feromonas (Agrocabildo), no con pulverización.
-- Araña roja (Tetranychus urticae) y trips (Hercinothrips femoralis): plagas principales de la platanera canaria según Phytoma (2025) y Koppert; viven en hoja y fruto.
+- Araña roja (Tetranychus urticae) y trips (Hercinothrips femoralis): plagas principales de la platanera canaria según Phytoma (2025) y Koppert; viven en hoja y fruto; los sigue la sanidad vegetal.
 - Polilla guatemalteca (Tecia solanivora): en Gran Canaria desde 2002; punto de recogida del Cabildo en Santa Cristina, en el propio municipio (Pellagofio). La larva va dentro del tubérculo.
 
 ## Cómo se trabaja: del mapa de la finca al registro
 
-Se recogen los datos de la parcela (zona, cultivo, hectáreas, accesos, obstáculos), se dibuja el vuelo sobre el mapa, se mide el viento antes de despegar, se aplica la dosis de etiqueta del plan y se anota todo en el registro. El T50 lleva 40 litros de depósito y se recarga al borde de la finca.
+Se recogen los datos de la parcela (zona, cultivo, hectáreas, accesos, obstáculos), se dibuja el vuelo sobre el mapa, se mide el viento antes de despegar, se aplica el producto a su dosis de etiqueta y se anota todo en el registro. El T50 lleva 40 litros de depósito y se recarga al borde de la finca.
 
-En lo legal, el Ministerio de Agricultura considera los tratamientos con dron tratamientos aéreos y les aplica ese mismo régimen de autorización (nota informativa MAPA-AESA de 2018). El operador vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el análisis de riesgo PDRA-S01.
+En lo legal, el operador vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el PDRA-S01, con piloto certificado, y consulta las zonas geográficas de UAS de ENAIRE de San Felipe a Montaña Alta. Solo carga productos de uso permitido en el cultivo, a dosis de etiqueta.
 
 Más contexto en [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/), [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/), [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/) y, al lado, [dron agrícola en Gáldar](https://agrodroncanarias.es/dron-agricola-gran-canaria/galdar/).
 
@@ -64,14 +64,14 @@ No ese día. El vuelo necesita visibilidad y viento dentro de límites; se busca
 No. Lo que está bajo cubierta queda fuera. El servicio se centra en platanera al aire libre, papa, cebolla, hortaliza de bancal y frutales descubiertos.
 
 ### ¿Vale el dron contra la polilla guatemalteca que se recoge en Santa Cristina?
-No es su terreno. La larva está dentro del tubérculo; las medidas documentadas son trampas con feromonas, retirada de papa afectada y rotación. El dron queda para tratamientos foliares que recoja el plan de aplicación.
+No es su terreno. La larva está dentro del tubérculo; las medidas que marca el Cabildo son trampas con feromonas, retirada de papa afectada y rotación. El dron queda para el abonado foliar.
 
 ### ¿Cuánto tarda el dron en llegar desde La Palma a Santa María de Guía?
-No damos plazos: fuera de La Palma el servicio es con desplazamiento y bajo consulta, según disponibilidad. Se estudia la finca, se tramita la autorización y se agenda la salida, mejor con varias parcelas en la comarca.
+No damos plazos: fuera de La Palma el servicio es con desplazamiento y bajo consulta, según disponibilidad. Se estudia la finca, se concreta el producto y se agenda la salida, mejor con varias parcelas en la comarca.
 
 ## Pide presupuesto para tu finca en Santa María de Guía
 
-Dinos si tu parcela está en la costa, en las medianías o arriba, qué cultivas, cuántas hectáreas y qué quieres tratar. Valoramos si el dron encaja y te mandamos presupuesto con el desplazamiento incluido. Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y escríbenos.
+Dinos si tu parcela está en la costa, en las medianías o arriba, qué cultivas, cuántas hectáreas y qué quieres aplicar. Valoramos si el dron encaja y te mandamos presupuesto con el desplazamiento incluido. Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y escríbenos.
 
 ```json
 {
@@ -79,9 +79,9 @@ Dinos si tu parcela está en la costa, en las medianías o arriba, qué cultivas
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Santa María de Guía",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en la platanera al aire libre de San Felipe y Roque Prieto y en la papa, cebolla y hortalizas de bancal de las medianías de Montaña Alta, con desplazamiento desde La Palma bajo consulta.",
+      "name": "Tratamientos agrícolas con dron en Santa María de Guía",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en la platanera al aire libre de San Felipe y Roque Prieto y en la papa, cebolla y hortalizas de bancal de las medianías de Montaña Alta, con desplazamiento desde La Palma bajo consulta.",
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/santa-maria-de-guia/",
       "provider": {
         "@type": "LocalBusiness",
@@ -121,12 +121,12 @@ Dinos si tu parcela está en la costa, en las medianías o arriba, qué cultivas
         {
           "@type": "Question",
           "name": "¿Vale el dron contra la polilla guatemalteca que se recoge en Santa Cristina?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No es su terreno. La larva está dentro del tubérculo; las medidas documentadas son trampas con feromonas, retirada de papa afectada y rotación. El dron queda para tratamientos foliares que recoja el plan de aplicación." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No es su terreno. La larva está dentro del tubérculo; las medidas que marca el Cabildo son trampas con feromonas, retirada de papa afectada y rotación. El dron queda para el abonado foliar." }
         },
         {
           "@type": "Question",
           "name": "¿Cuánto tarda el dron en llegar desde La Palma a Santa María de Guía?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No damos plazos: fuera de La Palma el servicio es con desplazamiento y bajo consulta, según disponibilidad. Se estudia la finca, se tramita la autorización y se agenda la salida, mejor con varias parcelas en la comarca." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No damos plazos: fuera de La Palma el servicio es con desplazamiento y bajo consulta, según disponibilidad. Se estudia la finca, se concreta el producto y se agenda la salida, mejor con varias parcelas en la comarca." }
         }
       ]
     }

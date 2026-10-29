@@ -3,7 +3,7 @@ title: "Dron agrícola en San Bartolomé de Tirajana | Agrodrón"
 slug: "san-bartolome-de-tirajana"
 meta_description: "Dron agrícola en San Bartolomé de Tirajana: albaricoque de Tunte y Fataga, viña de Los Azules y subtropicales al aire libre, por meses. Pide presupuesto."
 keyword: "dron agrícola en San Bartolomé de Tirajana"
-keywords_secundarias: "fumigar con dron en San Bartolomé de Tirajana, tratamiento con drones en viña Tunte, dron fitosanitario albaricoque Fataga, pulverización aérea medianías del sur de Gran Canaria"
+keywords_secundarias: "pulverización con dron en San Bartolomé de Tirajana, tratamiento con drones en viña Tunte, abonado foliar con dron albaricoque Fataga, dron pulverizador medianías del sur de Gran Canaria"
 parent: "dron-agricola-gran-canaria"
 nivel: "B"
 isla: "Gran Canaria"
@@ -28,11 +28,11 @@ En los barrancos hay además mango, aguacate y papaya (ULPGC), y el olivar compa
 
 ## Cuándo encaja un dron agrícola en San Bartolomé de Tirajana
 
-En el albaricoque, la ventana va de la brotación al engorde del fruto, con producto autorizado para aplicación aérea en frutal de hueso y fuera de la floración. En plena recogida no se vuela.
+En el albaricoque, la ventana va de la brotación al engorde del fruto: abono foliar de uso permitido en frutal de hueso, fuera de la floración. En plena recogida no se vuela.
 
-En la viña, una primavera húmeda como la de 2025 es la época de riesgo de oídio y mildiu; Agrocabildo, que considera el oídio endémico en Canarias, marca además riesgo alto a finales de julio y botritis en envero. En Tunte, con vendimia a finales de junio, todo se adelanta y la última aplicación respeta el plazo de seguridad.
+En la viña, una primavera húmeda como la de 2025 es la época de riesgo de oídio y mildiu; Agrocabildo, que considera el oídio endémico en Canarias, marca además riesgo alto a finales de julio y botritis en envero. El dron entra en la viña con bioestimulantes y abono foliar en brotación y cuajado; en Tunte, con vendimia a finales de junio, todo se adelanta.
 
-En mango y aguacate la temporada es larga y el calendario lo pone la plaga: araña del aguacate, trips, cochinillas (GOIA, Agrocabildo). Para el olivar, el Cabildo estudia sus plagas por comarcas desde 2024 [VERIFICAR: especies].
+En mango y aguacate la temporada es larga; sus plagas (araña del aguacate, trips, cochinillas, según GOIA y Agrocabildo) las sigue la sanidad vegetal, y el dron entra con bioestimulantes y abono foliar. Para el olivar, el Cabildo estudia sus plagas por comarcas desde 2024 [VERIFICAR: especies].
 
 [IMAGEN: Viñedo de Los Azules en Tunte, en bancales, con las parras bajo el sol de junio | alt: Viña de Los Azules en Tunte, San Bartolomé de Tirajana, Gran Canaria]
 
@@ -50,19 +50,19 @@ El sur está a sotavento: costa de Maspalomas muy árida y en calma, y cumbre fr
 
 A mediados del siglo XX la costa de Tirajana tenía más de 500 hectáreas de tomate (ULPGC). Lo que queda de tomate y pepino va bajo invernadero [VERIFICAR: hectáreas actuales], y el plástico no se atraviesa con pulverización aérea: el dron aquí es cosa de la medianía, no de la costa.
 
-## Autorización y salida desde La Palma
+## Piloto, zonas UAS y salida desde La Palma
 
-Cada tratamiento con dron se tramita como aplicación aérea: prohibida con carácter general en España y permitida solo en casos especiales, con autorización previa de la comunidad autónoma y plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28), con productos cuya autorización incluya expresamente la aplicación aérea (anexo VI). Así lo fija para los drones la nota del Ministerio de Agricultura y AESA de 2018.
+Cada salida a Tirajana se vuela en la categoría específica de AESA, en escenarios estándar STS o bajo el PDRA-S01, con piloto certificado. De la costa de Maspalomas a la cumbre, el mapa de zonas geográficas de UAS de ENAIRE se mira bancal por bancal antes de planificar; el producto, de uso permitido en el cultivo y a dosis de etiqueta, solo sobre frutal o viña al aire libre.
 
 La isla, en [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/); la viña, en [tratamientos con dron en viña](https://agrodroncanarias.es/dron-agricola-vina/), y los frutales, en [dron para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/). Al otro lado de la divisoria, [dron agrícola en Mogán](https://agrodroncanarias.es/dron-agricola-gran-canaria/mogan/).
 
 ## Preguntas frecuentes sobre el dron en Tunte, Fataga y la costa
 
 ### ¿Se puede tratar con dron el albaricoque de Tunte y Fataga?
-Sí, si el frutal está al aire libre, el producto tiene autorización para aplicación aérea y la fecha evita floración y recogida. Los bancales estrechos no son impedimento.
+Sí, si el frutal está al aire libre, el abono foliar es de uso permitido en albaricoquero y la fecha evita floración y recogida. Los bancales estrechos no son impedimento.
 
-### ¿Llega el dron a tiempo para el oídio de la viña de Los Azules?
-Depende de la disponibilidad y de organizar la salida desde La Palma antes de la época de riesgo: si quieres cubrir la primavera, avisa en invierno.
+### ¿Sirve el dron contra el oídio de la viña de Los Azules?
+No: el oídio lo vigila Agrocabildo y lo maneja tu técnico. El dron aplica abono foliar y bioestimulantes en la viña; para la primavera, avisa en invierno.
 
 ### ¿Trata el dron el tomate y el pepino de la costa de San Bartolomé?
 No. Van bajo invernadero y la pulverización aérea no entra; el servicio se centra en albaricoque, viña, mango, aguacate y olivar al aire libre.
@@ -80,9 +80,9 @@ Si tienes albaricoqueros, viña, mangos o aguacates al aire libre en San Bartolo
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en San Bartolomé de Tirajana",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en albaricoque, viña, mango y aguacate al aire libre en Tunte, Fataga y los barrancos de Tirajana, según el calendario de cada cultivo. Servicio con desplazamiento desde La Palma.",
+      "name": "Tratamientos agrícolas con dron en San Bartolomé de Tirajana",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en albaricoque, viña, mango y aguacate al aire libre en Tunte, Fataga y los barrancos de Tirajana, según el calendario de cada cultivo. Servicio con desplazamiento desde La Palma.",
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/san-bartolome-de-tirajana/",
       "provider": {
         "@type": "LocalBusiness",
@@ -107,12 +107,12 @@ Si tienes albaricoqueros, viña, mangos o aguacates al aire libre en San Bartolo
         {
           "@type": "Question",
           "name": "¿Se puede tratar con dron el albaricoque de Tunte y Fataga?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si el frutal está al aire libre, el producto tiene autorización para aplicación aérea y la fecha evita floración y recogida. Los bancales estrechos no son impedimento." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si el frutal está al aire libre, el abono foliar es de uso permitido en albaricoquero y la fecha evita floración y recogida. Los bancales estrechos no son impedimento." }
         },
         {
           "@type": "Question",
-          "name": "¿Llega el dron a tiempo para el oídio de la viña de Los Azules?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la disponibilidad y de organizar la salida desde La Palma antes de la época de riesgo: si quieres cubrir la primavera, avisa en invierno." }
+          "name": "¿Sirve el dron contra el oídio de la viña de Los Azules?",
+          "acceptedAnswer": { "@type": "Answer", "text": "No: el oídio lo vigila Agrocabildo y lo maneja tu técnico. El dron aplica abono foliar y bioestimulantes en la viña; para la primavera, avisa en invierno." }
         },
         {
           "@type": "Question",

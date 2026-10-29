@@ -3,7 +3,7 @@ title: "Dron agrícola para frutales subtropicales | Agrodrón"
 slug: "dron-agricola-frutales-subtropicales"
 meta_description: "Dron agrícola para frutales subtropicales en Canarias: mango y piña al aire libre en barrancos y bancales; la papaya bajo malla queda fuera."
 keyword: "dron agrícola para frutales subtropicales"
-keywords_secundarias: "fumigar mango con dron, tratamiento con drones en piña tropical, dron fitosanitario papaya Canarias, pulverización aérea en frutales tropicales, dron agrícola piña El Hierro"
+keywords_secundarias: "pulverización con dron en mango, tratamiento con drones en piña tropical, abonado foliar con dron papaya Canarias, dron pulverizador frutales tropicales, dron agrícola piña El Hierro"
 parent: ""
 nivel: "cultivo"
 isla: ""
@@ -40,7 +40,7 @@ El proyecto Lairaga Tropical (Cabildo y Cooperativa Agrícola del Norte) quiere 
 
 La piña tropical Roja Española de [Frontera](https://agrodroncanarias.es/dron-agricola-el-hierro/frontera/) es el caso más serio del grupo. El ICIA y RTVC daban 123 ha; el cultivo llegó a 130 ha y ha caído a 80 ha en 2026 (RTVC, 4 de junio de 2026). Detrás está la cochinilla Dysmicoccus brevipes y el complejo viral asociado: la cooperativa habla de un rendimiento un 70 % menor en cinco años (Infoagro).
 
-En 2023 se autorizó de forma excepcional spirotetramat contra esa cochinilla, dos aplicaciones entre julio y octubre (Infoagro, Agronews). Una autorización excepcional para el cultivo no es una autorización para aplicación aérea: son dos permisos distintos. El dron solo entra en las parcelas sin malla, y en [El Hierro](https://agrodroncanarias.es/dron-agricola-el-hierro/) el desplazamiento desde La Palma se organiza con antelación y agrupando fincas.
+En 2023 hubo una autorización excepcional de spirotetramat contra esa cochinilla, dos aplicaciones entre julio y octubre (Infoagro, Agronews). Ese frente es de la cooperativa, del Cabildo de El Hierro y de Sanidad Vegetal, no del dron, que solo entra en las parcelas sin malla y con abonos foliares o bioestimulantes. En [El Hierro](https://agrodroncanarias.es/dron-agricola-el-hierro/) el desplazamiento desde La Palma se organiza con antelación y agrupando fincas.
 
 [IMAGEN: Plantación de piña tropical al aire libre en el Valle de El Golfo, Frontera, con el escarpe de más de mil metros al fondo | alt: Piña tropical Roja Española al aire libre en El Golfo, El Hierro]
 
@@ -53,13 +53,15 @@ Para mango y papaya hay poca fuente canaria:
 - Mango: antracnosis, oídio (Oidium mangiferae) y mosca de la fruta (Ceratitis capitata) aparecen en referencias peninsulares del IHSM-UMA [VERIFICAR: presencia en Canarias].
 - Papaya: ácaros, oídio, virus y cochinilla en bibliografía general [VERIFICAR: fuente canaria].
 
-Los cuatro cultivos tienen normas de producción integrada en Canarias (Orden de 18 de junio de 2012), y ese cuaderno es la base del plan de aplicación.
+Los cuatro cultivos tienen normas de producción integrada en Canarias (Orden de 18 de junio de 2012), y en ese cuaderno se anota también lo que aplique el dron.
+
+El papel del dron queda acotado: no es herramienta contra plagas. Carga abonos foliares, correctores de carencias y bioestimulantes pensados para el vigor del mango tras la cosecha o una poda, o de la piña tras un verano de calor en El Golfo; finalidad del producto, sin resultado prometido. La plaga es de Sanidad Vegetal y del Cabildo de cada isla.
 
 ## Cómo se plantea el vuelo en un barranco
 
 En un barranco estrecho el DJI Agras T50 trabaja a lo largo, siguiendo el fondo. El radar de matriz en fase y la visión binocular leen el desnivel entre bancales y detectan la pared o la línea eléctrica que cruza; la velocidad se ajusta a la pendiente. Con 40 litros de depósito y hasta 16 L/min por dos boquillas centrífugas (24 L/min con cuatro), una finca de mango de una o dos hectáreas se hace en pocas cargas.
 
-Antes de eso va el papel. En España la aplicación aérea de fitosanitarios está prohibida salvo casos especiales autorizados por el órgano competente de la comunidad autónoma con un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28), y solo con productos cuya autorización incluya expresamente la aplicación aérea (anexo VI).
+Antes va el papel, que es poco. El piloto vuela en la categoría específica de AESA/EASA (STS o PDRA-S01), y las zonas geográficas de UAS se comprueban en el mapa de ENAIRE isla por isla: Gran Canaria, El Hierro y Tenerife no tienen las mismas. Solo productos de uso permitido en mango, papaya o piña, a dosis de etiqueta, sobre parcela descubierta; si el barranco amanece con viento, lluvia o niebla, se espera.
 
 Agrodrón Canarias, con base en Santa Cruz de La Palma, prepara el vuelo y el registro con los datos de tu parcela y del producto. En [Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), donde el Mapa de Cultivos de 2021 señala a los subtropicales como el grupo que más crece, también vamos con desplazamiento.
 
@@ -69,7 +71,7 @@ Agrodrón Canarias, con base en Santa Cruz de La Palma, prepara el vuelo y el re
 Solo la que esté a cielo abierto, que en Canarias es la minoría: la papaya va habitualmente bajo malla o invernadero. Si la tienes descubierta, cuenta como cualquier otro frutal.
 
 ### ¿Vale el dron para la cochinilla de la piña en El Hierro?
-Depende de dos cosas: que la parcela esté sin malla y que el producto tenga autorización para aplicación aérea, además de la excepcional para el cultivo. Con eso en orden, el dron trata la piña desde arriba sin pisar las líneas de plantación.
+No. La cochinilla de la piña se controla con lo que marcan Sanidad Vegetal, el Cabildo y la cooperativa. En la piña sin malla el dron se usa para abonado foliar y bioestimulantes de uso permitido, pensados para el vigor de la planta, sin pisar las líneas de plantación.
 
 ### ¿Cómo se vuela una finca de mango en un barranco de Mogán?
 A lo largo del barranco, con el radar siguiendo el fondo y los bancales. Se mira la hora de las brisas de barranco y se despega desde la pista más cercana. Las paredes y los cables se marcan en el plano antes.
@@ -79,7 +81,7 @@ Sí, con desplazamiento y según disponibilidad. Agrupar fincas de la misma coma
 
 ## Pide presupuesto para tu finca de mango, papaya o piña
 
-Mándanos municipio, cultivo, hectáreas al aire libre y bajo malla por separado, altura de los árboles y qué plaga quieres tratar desde [Agrodrón Canarias](https://agrodroncanarias.es/), y te decimos si el dron encaja y con qué presupuesto. Desde Santa Cruz de La Palma salimos sin desplazamiento en la isla; a Gran Canaria, El Hierro y Tenerife con desplazamiento y según disponibilidad.
+Mándanos municipio, cultivo, hectáreas al aire libre y bajo malla por separado, altura de los árboles y qué producto quieres aplicar desde [Agrodrón Canarias](https://agrodroncanarias.es/), y te decimos si el dron encaja y con qué presupuesto. Desde Santa Cruz de La Palma salimos sin desplazamiento en la isla; a Gran Canaria, El Hierro y Tenerife con desplazamiento y según disponibilidad.
 
 ```json
 {
@@ -87,9 +89,9 @@ Mándanos municipio, cultivo, hectáreas al aire libre y bajo malla por separado
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola para frutales subtropicales en Canarias",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 sobre mango, papaya y piña tropical al aire libre en Canarias: barrancos de Mogán, vegas de Telde y La Aldea y el Valle de El Golfo en El Hierro. Las parcelas bajo malla o invernadero no se tratan desde el aire.",
+      "name": "Tratamientos agrícolas con dron para frutales subtropicales en Canarias",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización con dron DJI Agras T50 de abonos foliares y bioestimulantes sobre mango, papaya y piña tropical al aire libre en Canarias: barrancos de Mogán, vegas de Telde y La Aldea y el Valle de El Golfo en El Hierro. Las parcelas bajo malla o invernadero no se tratan desde el aire.",
       "url": "https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/",
       "provider": {
         "@type": "LocalBusiness",
@@ -115,7 +117,7 @@ Mándanos municipio, cultivo, hectáreas al aire libre y bajo malla por separado
         {
           "@type": "Question",
           "name": "¿Vale el dron para la cochinilla de la piña en El Hierro?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Depende de dos cosas: que la parcela esté sin malla y que el producto tenga autorización para aplicación aérea, además de la excepcional para el cultivo. Con eso en orden, el dron trata la piña desde arriba sin pisar las líneas de plantación." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. La cochinilla de la piña se controla con lo que marcan Sanidad Vegetal, el Cabildo y la cooperativa. En la piña sin malla el dron se usa para abonado foliar y bioestimulantes de uso permitido, pensados para el vigor de la planta, sin pisar las líneas de plantación." }
         },
         {
           "@type": "Question",

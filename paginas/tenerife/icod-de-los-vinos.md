@@ -42,20 +42,20 @@ Platanera: el picudo negro, principal plaga en Canarias, vive en el cormo y no s
 
 Viña: la DO Ycoden-Daute-Isora suma entre 1.000 y 1.600 ha en la comarca, con 306 ha controladas por el Consejo (descorchandoversos, 2018) [VERIFICAR: hectáreas de viña en el municipio]. El Cabildo publica avisos semanales por comarca de mildiu, oídio y botritis (datos.tenerife.es). La filoxera apareció en Tenerife en 2025 [VERIFICAR: si Icod está en la zona demarcada]; es de raíz.
 
-Papa: la polilla guatemalteca (Tecia solanivora) se detectó por primera vez en Tenerife en 1999, aquí en Icod (Cabildo), y castiga al norte con pérdidas cercanas al 50 % en medianías y secano (eldiario.es). Vive en el tubérculo. El mildiu de la papa tuvo aviso de riesgo alto para el norte (hacia 2024). El dron no entra en ninguno de los dos; en la papa, su parte es el abonado foliar.
+Papa: la polilla guatemalteca (Tecia solanivora) se detectó por primera vez en Tenerife en 1999, aquí en Icod (Cabildo), y castiga al norte con pérdidas cercanas al 50 % en medianías y secano (eldiario.es). Vive en el tubérculo. El mildiu de la papa tuvo aviso de riesgo alto para el norte (hacia 2024). El dron no entra en ninguno; en la papa, su parte es el abonado foliar.
 
 ## Malla, bruma y zonas de vuelo
 
 La platanera bajo malla o invernadero no se trata: la cubierta frena el producto. En el noroeste la mayoría va al aire libre [VERIFICAR: porcentaje bajo malla en Icod].
 
-Lo del vuelo cabe en tres líneas. Con la finca marcada en el plano, sea en San Marcos o en La Vega, se consultan las zonas geográficas de UAS de ENAIRE y se traza la pasada. El operador vuela en categoría específica de AESA/EASA, en STS o bajo el PDRA-S01, con piloto certificado. Y en el tanque, nada que no sea de uso permitido en el cultivo, a la dosis de su etiqueta: abonos foliares, bioestimulantes, correctores.
+Lo del vuelo cabe en tres líneas. Con la finca marcada en el plano, de San Marcos a La Vega, se consultan las zonas geográficas de UAS de ENAIRE y se traza la pasada. El operador vuela en categoría específica de AESA/EASA, en STS o bajo el PDRA-S01, con piloto certificado. Y en el tanque, nada que no sea de uso permitido en el cultivo, a la dosis de su etiqueta: abonos foliares, bioestimulantes, correctores.
 
-Más detalle en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [dron agrícola para platanera](https://agrodroncanarias.es/dron-agricola-platanera/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/) y en la Isla Baja vecina, [dron agrícola en Garachico](https://agrodroncanarias.es/dron-agricola-tenerife/garachico/).
+Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [dron agrícola para platanera](https://agrodroncanarias.es/dron-agricola-platanera/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/) y en la Isla Baja vecina, [dron agrícola en Garachico](https://agrodroncanarias.es/dron-agricola-tenerife/garachico/).
 
 ## Preguntas frecuentes sobre el dron agrícola en Icod de los Vinos
 
 ### ¿Puede el dron tratar la platanera de San Marcos y Las Cañas?
-Sí, la que esté al aire libre, con abonos foliares, bioestimulantes u otros productos de uso permitido en platanera, a dosis de etiqueta. Lo que vaya bajo malla no se puede tratar desde el aire.
+Sí, la que esté al aire libre, con abonos foliares, bioestimulantes u otros productos de uso permitido en platanera. Lo que vaya bajo malla no se puede tratar desde el aire.
 
 ### ¿Sirve el dron contra la polilla guatemalteca que se detectó en Icod en 1999?
 No. La Tecia solanivora vive dentro del tubérculo y en el almacén; lo documentado es el monitoreo con feromonas y el tratamiento de almacén. El dron se queda en lo nutricional: abonado foliar y bioestimulantes para el vigor de la mata.
@@ -64,7 +64,7 @@ No. La Tecia solanivora vive dentro del tubérculo y en el almacén; lo document
 El dron despega desde el borde, sigue la pendiente con radar y trata cepa a cepa desde arriba. Los muros de piedra se cargan como obstáculos en el plan de vuelo.
 
 ### ¿Cuánto cuesta pulverizar con dron en Icod de los Vinos?
-Depende de la superficie, el cultivo, los accesos, el producto y el desplazamiento desde La Palma, que va según disponibilidad. Con esos datos te preparamos presupuesto; sin verlos no damos cifras.
+Depende de la superficie, el cultivo, los accesos, el producto y el desplazamiento desde La Palma, que va según disponibilidad. Con esos datos te preparamos presupuesto.
 
 ## Pide presupuesto para tu finca de Icod de los Vinos
 
@@ -103,7 +103,7 @@ Mándanos el pago (costa, medianías o zona de La Vega), cultivo, hectáreas y p
         {
           "@type": "Question",
           "name": "¿Puede el dron tratar la platanera de San Marcos y Las Cañas?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, la que esté al aire libre, con abonos foliares, bioestimulantes u otros productos de uso permitido en platanera, a dosis de etiqueta. Lo que vaya bajo malla no se puede tratar desde el aire." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, la que esté al aire libre, con abonos foliares, bioestimulantes u otros productos de uso permitido en platanera. Lo que vaya bajo malla no se puede tratar desde el aire." }
         },
         {
           "@type": "Question",
@@ -118,7 +118,7 @@ Mándanos el pago (costa, medianías o zona de La Vega), cultivo, hectáreas y p
         {
           "@type": "Question",
           "name": "¿Cuánto cuesta pulverizar con dron en Icod de los Vinos?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la superficie, el cultivo, los accesos, el producto y el desplazamiento desde La Palma, que va según disponibilidad. Con esos datos te preparamos presupuesto; sin verlos no damos cifras." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la superficie, el cultivo, los accesos, el producto y el desplazamiento desde La Palma, que va según disponibilidad. Con esos datos te preparamos presupuesto." }
         }
       ]
     }

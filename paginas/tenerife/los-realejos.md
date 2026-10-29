@@ -20,7 +20,7 @@ Los Realejos tiene 57,2 km² y 15,8 km² de suelo cultivable, con la papa como p
 
 El municipio arranca en la platanera de los acantilados costeros y sube hasta las medianías de Icod el Alto y Palo Blanco, entre 600 y 1.000 m [VERIFICAR: cotas por pago]. Los barrancos de Ruiz y Godínez lo cortan y los bancales ganan terreno a la pendiente.
 
-Para el dron son tres planes de vuelo distintos: abajo, parcelas regulares con cortavientos y cables; en medio, bancales estrechos con muros; arriba, secano con niebla casi a diario. El T50 sigue el relieve con radar y visión binocular, pero la planificación la hace el piloto parcela a parcela.
+Para el dron son tres planes de vuelo distintos: abajo, parcelas regulares con cortavientos y cables; en medio, bancales estrechos con muros; arriba, secano con niebla casi a diario. El T50 sigue el relieve con radar y visión binocular; la planificación, el piloto, parcela a parcela.
 
 ## Costa: platanera de Rambla de Castro y aguacate
 
@@ -46,17 +46,17 @@ Aquí el dron espera ventana sin niebla ni racha; cuando la hay, el bancal de se
 
 ## Dron agrícola en Los Realejos: qué se trata y qué no
 
-Se aplica lo foliar al aire libre: abonos, bioestimulantes y correctores sobre papa, viña, platanera y aguacate, a dosis de etiqueta, para el vigor de la planta tras calor, viento o cosecha. Los avisos del Cabildo por comarca de mildiu, oídio y botritis (datos.tenerife.es), con riesgo alto de oídio en zonas bajas del 30 de abril al 7 de mayo, guían al viticultor; ese manejo es de sanidad vegetal, no del dron.
+Se aplica lo foliar al aire libre: abonos, bioestimulantes y correctores sobre papa, viña, platanera y aguacate, a dosis de etiqueta, para el vigor tras calor, viento o cosecha. Los avisos del Cabildo por comarca de mildiu, oídio y botritis (datos.tenerife.es), con riesgo alto de oídio en zonas bajas del 30 de abril al 7 de mayo, son manejo del viticultor, no del dron.
 
 El dron tampoco va contra la polilla guatemalteca (tubérculo), el picudo (cormo), los hongos de la madera que Agrocabildo estudió en el Valle en 2024 (tronco) ni la filoxera detectada en Tenerife en 2025 [VERIFICAR: si Los Realejos está en la zona demarcada], que es de raíz. Ni vuela sobre nada bajo malla o invernadero.
 
-Dos frases sobre el vuelo: el piloto, certificado, opera en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01), y cada parcela, de Rambla de Castro a Palo Blanco, se mira en el mapa de zonas geográficas de UAS de ENAIRE antes de planificar. Y una sobre el producto: solo abonos foliares, bioestimulantes y correctores de uso permitido en ese cultivo, a dosis de etiqueta, sobre finca al aire libre.
+Dos frases sobre el vuelo: el piloto, certificado, opera en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01), y cada parcela se mira en el mapa de zonas geográficas de UAS de ENAIRE antes de planificar. Y una sobre el producto: solo abonos foliares, bioestimulantes y correctores de uso permitido en el cultivo, a dosis de etiqueta, al aire libre.
 
 ## Cómo se monta una salida a Los Realejos desde La Palma
 
 Nos mandas ubicación, cultivo, superficie, accesos y obstáculos; planificamos el vuelo sobre el mapa, comprobamos el viento al llegar, aplicamos la dosis de la etiqueta y registramos. Agrupamos fincas del Valle en la misma salida según disponibilidad.
 
-Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/), [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/) y en el municipio de al lado, [dron agrícola en La Orotava](https://agrodroncanarias.es/dron-agricola-tenerife/la-orotava/).
+Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/), [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/) y en el vecino [dron agrícola en La Orotava](https://agrodroncanarias.es/dron-agricola-tenerife/la-orotava/).
 
 ## Preguntas frecuentes sobre el dron agrícola en Los Realejos
 
@@ -64,17 +64,17 @@ Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-t
 Sí, si está al aire libre. El dron despega desde el borde y el radar sigue el desnivel; cortavientos y cables van como obstáculos en el plan. Lo que esté bajo malla queda fuera.
 
 ### ¿Qué cultivo de Los Realejos saca más partido al dron, la papa o la viña?
-Los dos, porque son cultivos bajos en bancal: un abono foliar en la papa o un bioestimulante en la viña tras el envero se reparten en una pasada sin pisar nada.
+Los dos, porque son cultivos bajos en bancal: un abono foliar en la papa o un bioestimulante en la viña van en una pasada sin pisar nada.
 
 ### ¿Sirve el dron contra la araña cristalina del aguacate?
-No. Esa plaga se maneja con lo que indica el Cabildo. Lo que sí hace el dron es mojar la copa desde arriba con un abono foliar o un bioestimulante, cosa que la lanza desde el suelo hace mal.
+No; esa plaga va con lo que indique el Cabildo. El dron moja la copa desde arriba con un abono foliar o un bioestimulante, cosa que la lanza desde el suelo hace mal.
 
 ### ¿Hay que esperar mucho a que el equipo venga desde La Palma?
-Depende de la disponibilidad y de cuántas fincas haya en la zona. No prometemos fechas: te decimos cuándo hay salida a Tenerife y si tu parcela encaja.
+Depende de la disponibilidad y de cuántas fincas haya en la zona: te decimos cuándo hay salida a Tenerife y si tu parcela encaja.
 
 ## Pide presupuesto para tu finca de Los Realejos
 
-Indícanos la zona (costa, medianías o zona alta), cultivo, hectáreas y qué producto quieres aplicar. Te decimos si el dron encaja y te preparamos presupuesto con el desplazamiento desde La Palma en [Agrodrón Canarias](https://agrodroncanarias.es/).
+Indícanos zona (costa, medianías o alta), cultivo, hectáreas y producto a aplicar. Te decimos si el dron encaja y te preparamos presupuesto con el desplazamiento desde La Palma en [Agrodrón Canarias](https://agrodroncanarias.es/).
 
 ```json
 {
@@ -114,17 +114,17 @@ Indícanos la zona (costa, medianías o zona alta), cultivo, hectáreas y qué p
         {
           "@type": "Question",
           "name": "¿Qué cultivo de Los Realejos saca más partido al dron, la papa o la viña?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Los dos, porque son cultivos bajos en bancal: un abono foliar en la papa o un bioestimulante en la viña tras el envero se reparten en una pasada sin pisar nada." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Los dos, porque son cultivos bajos en bancal: un abono foliar en la papa o un bioestimulante en la viña van en una pasada sin pisar nada." }
         },
         {
           "@type": "Question",
           "name": "¿Sirve el dron contra la araña cristalina del aguacate?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. Esa plaga se maneja con lo que indica el Cabildo. Lo que sí hace el dron es mojar la copa desde arriba con un abono foliar o un bioestimulante, cosa que la lanza desde el suelo hace mal." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No; esa plaga va con lo que indique el Cabildo. El dron moja la copa desde arriba con un abono foliar o un bioestimulante, cosa que la lanza desde el suelo hace mal." }
         },
         {
           "@type": "Question",
           "name": "¿Hay que esperar mucho a que el equipo venga desde La Palma?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la disponibilidad y de cuántas fincas haya en la zona. No prometemos fechas: te decimos cuándo hay salida a Tenerife y si tu parcela encaja." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la disponibilidad y de cuántas fincas haya en la zona: te decimos cuándo hay salida a Tenerife y si tu parcela encaja." }
         }
       ]
     }

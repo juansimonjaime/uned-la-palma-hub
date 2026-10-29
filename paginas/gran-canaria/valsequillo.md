@@ -3,7 +3,7 @@ title: "Dron agrícola en Valsequillo | Agrodrón Canarias"
 slug: "valsequillo"
 meta_description: "Dron agrícola en Valsequillo: la fresa bajo túnel no se trata desde el aire; papa, millo, almendro y cítricos de medianías sí. Pide presupuesto."
 keyword: "dron agrícola en Valsequillo"
-keywords_secundarias: "fumigar con dron en Valsequillo, tratamiento con drones en almendro, dron fitosanitario Gran Canaria, pulverización aérea Tenteniguada, dron para papas Valsequillo de Gran Canaria"
+keywords_secundarias: "pulverización con dron en Valsequillo, tratamiento con drones en almendro, dron pulverizador Gran Canaria, abonado foliar con dron Tenteniguada, dron para papas Valsequillo de Gran Canaria"
 parent: "dron-agricola-gran-canaria"
 nivel: "B"
 isla: "Gran Canaria"
@@ -28,9 +28,9 @@ El almendro es el otro cultivo de peso: el Cabildo sitúa en Tejeda y Valsequill
 
 ## Plagas documentadas: polilla de la papa y tigre del almendro
 
-En papa, la referencia insular es la polilla guatemalteca (Tecia solanivora), en Gran Canaria desde 2002 y con hasta un tercio de la papa afectada hacia 2021 (Valencia Fruits); para Valsequillo no hay cita específica [VERIFICAR: incidencia en el municipio]. Su control es de almacén y retirada de tubérculo; el dron solo entra en los foliares del plan.
+En papa, la referencia insular es la polilla guatemalteca (Tecia solanivora), en Gran Canaria desde 2002 y con hasta un tercio de la papa afectada hacia 2021 (Valencia Fruits); para Valsequillo no hay cita específica [VERIFICAR: incidencia en el municipio]. Su control es de almacén y retirada de tubérculo, como marca el Cabildo; el dron solo entra en el abonado foliar.
 
-En almendro, el tigre del almendro (Monosteira unicostata) es una especie muy invasora extendida por Europa y Canarias (Agronews); la monilia, con máxima susceptibilidad en floración, solo está documentada en fuentes peninsulares [VERIFICAR: monilia en los almendros de Gran Canaria]. En cítricos no afirmamos nada: el cotonet de Sudáfrica no está documentado en la isla.
+En almendro, el tigre del almendro (Monosteira unicostata) es una especie muy invasora extendida por Europa y Canarias (Agronews); la monilia, con máxima susceptibilidad en floración, solo está documentada en fuentes peninsulares [VERIFICAR: monilia en los almendros de Gran Canaria]. En cítricos no afirmamos nada: el cotonet de Sudáfrica no está documentado en la isla. Ninguna se trata con el dron, que en Valsequillo pulveriza abonos foliares y bioestimulantes.
 
 ## Por qué un dron agrícola en Valsequillo encaja en los bancales de Tenteniguada
 
@@ -46,11 +46,11 @@ Después, mesa y campo: ubicación de cada parcela, superficie, acceso y obstác
 
 [IMAGEN: Almendros en flor en una ladera de secano de Valsequillo con muros de piedra y el casco al fondo | alt: almendros en ladera de secano en Valsequillo de Gran Canaria]
 
-## Límites: barranco, viento, túnel y autorización
+## Límites: barranco, viento, túnel y espacio aéreo
 
 El barranco de San Miguel y las laderas más cerradas marcan dónde se vuela con seguridad; las parcelas estrechas entre casas se estudian una a una. El viento se mira el día del tratamiento y, si no permite una aplicación limpia, se cambia.
 
-Y la ley. El Real Decreto 1311/2012 prohíbe con carácter general la aplicación aérea de fitosanitarios y solo la permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado; su anexo VI exige que el producto esté autorizado expresamente para aplicación aérea. El expediente lo prepara Agrodrón con los datos que tú aportas.
+Y el espacio aéreo. Agrodrón vuela en la categoría específica de AESA, en escenarios estándar STS o bajo el PDRA-S01, con piloto certificado, y comprueba las zonas geográficas de UAS de ENAIRE para cada bancal de Tenteniguada o del valle. En el depósito solo va producto de uso permitido en papa, almendro o cítrico, a dosis de etiqueta, sobre cultivo descubierto.
 
 La isla, con 8.102,8 hectáreas cultivadas en 2024 según el ISTAC, está en [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/); ladera abajo, el vecino tiene la suya: [dron agrícola en Telde](https://agrodroncanarias.es/dron-agricola-gran-canaria/telde/). Para la papa, [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/).
 
@@ -62,9 +62,9 @@ Si va bajo túnel o invernadero, no: lo cubierto no se trata desde el aire. Si t
 
 ### ¿El dron sirve para los almendros de secano en ladera?
 
-Sí, siempre que haya un producto autorizado para aplicación aérea para tu problema y la parcela se pueda mapear. En un almendro en pendiente el dron evita subir con la mochila.
+Sí, para aplicar abono foliar o bioestimulante de uso permitido en almendro, por ejemplo tras la recogida, si la parcela se puede mapear. En un almendro en pendiente el dron evita subir con la mochila.
 
-### ¿Cuánto cuesta fumigar con dron en Valsequillo?
+### ¿Cuánto cuesta pulverizar con dron en Valsequillo?
 
 Depende de la superficie, de cuántas fincas del municipio entren en la misma salida desde La Palma, del acceso y del producto. No damos tarifas; preparamos un presupuesto para tu caso.
 
@@ -74,7 +74,7 @@ No hay calendario fijo: el servicio en Gran Canaria es bajo consulta y disponibi
 
 ## Pide presupuesto para tus papas, almendros o cítricos de Valsequillo
 
-Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) y dinos qué tienes al aire libre, dónde y cuántos metros. Te respondemos qué se puede tratar, qué no, qué trámite lleva y un presupuesto sin compromiso para la próxima salida a la isla.
+Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) y dinos qué tienes al aire libre, dónde y cuántos metros. Te respondemos qué se puede tratar, qué no, qué producto puede ir y un presupuesto sin compromiso para la próxima salida a la isla.
 
 ```json
 {
@@ -82,9 +82,9 @@ Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) y dinos qu
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Valsequillo de Gran Canaria",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en papa, millo, hortalizas, almendro y cítricos al aire libre de las medianías de Valsequillo de Gran Canaria; la fresa bajo túnel queda fuera. Servicio con desplazamiento desde La Palma y autorización previa para cada tratamiento.",
+      "name": "Tratamientos agrícolas con dron en Valsequillo de Gran Canaria",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en papa, millo, hortalizas, almendro y cítricos al aire libre de las medianías de Valsequillo de Gran Canaria; la fresa bajo túnel queda fuera. Servicio con desplazamiento desde La Palma, con productos de uso permitido a dosis de etiqueta.",
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/valsequillo/",
       "provider": {
         "@type": "LocalBusiness",
@@ -114,11 +114,11 @@ Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) y dinos qu
         {
           "@type": "Question",
           "name": "¿El dron sirve para los almendros de secano en ladera?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, siempre que haya un producto autorizado para aplicación aérea para tu problema y la parcela se pueda mapear. En un almendro en pendiente el dron evita subir con la mochila." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, para aplicar abono foliar o bioestimulante de uso permitido en almendro, por ejemplo tras la recogida, si la parcela se puede mapear. En un almendro en pendiente el dron evita subir con la mochila." }
         },
         {
           "@type": "Question",
-          "name": "¿Cuánto cuesta fumigar con dron en Valsequillo?",
+          "name": "¿Cuánto cuesta pulverizar con dron en Valsequillo?",
           "acceptedAnswer": { "@type": "Answer", "text": "Depende de la superficie, de cuántas fincas del municipio entren en la misma salida desde La Palma, del acceso y del producto. No damos tarifas; preparamos un presupuesto para tu caso." }
         },
         {

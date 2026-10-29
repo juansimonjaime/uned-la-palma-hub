@@ -44,13 +44,13 @@ En Puntagorda y Garafía no hay plaga de almendro documentada localmente [VERIFI
 
 Un almendro adulto es un árbol de copa abierta, más alto que una persona y más bajo que un aguacatero viejo. El dron pulveriza desde encima y cubre mejor cuanto más abierta esté la copa. Con árboles dispersos el vuelo se planifica por puntos, parándose sobre cada pie o grupo, no por pasadas paralelas.
 
-Lo que se aplica es un abono foliar, un bioestimulante o un corrector de carencias de uso permitido en almendro, a la dosis de la etiqueta: productos pensados para el vigor del árbol y para ayudarle a rehacerse tras una helada en Tejeda o Vilaflor, un verano seco en los lomos de Puntagorda o el vareo de la cosecha. Contra monilia, tigre o cabezudo no va; eso se maneja con lo que indique el Cabildo.
+Lo que se aplica es abono foliar, bioestimulante o corrector de carencias de uso permitido en almendro, a dosis de etiqueta: productos pensados para el vigor del árbol y para que se rehaga tras una helada en Tejeda o Vilaflor, un verano seco en Puntagorda o el vareo. Contra monilia, tigre o cabezudo no va; eso lo marca el Cabildo.
 
 Los 40 litros del T50 dan para muchos árboles así, porque el gasto va por copa y no por superficie; el caudal de 16 L/min con dos boquillas centrífugas o 24 con cuatro (ficha de DJI) se ajusta a la etiqueta. El radar de matriz en fase y la visión binocular mantienen la altura sobre la copa cuando el bancal baja un escalón y adaptan la velocidad a la pendiente.
 
 En Tejeda y Vilaflor la altitud y el viento de cresta se valoran antes de comprometer un vuelo [VERIFICAR: comportamiento del T50 por encima de 1.000 m]. En Puntagorda manda el viento de componente norte-noroeste.
 
-Lo que no se salta: el piloto de Agrodrón, con certificados AESA/EASA (PDRA-S01, operador STS), vuela en la categoría específica, y antes de subir a Las Tricias o a Timagada el plano de vuelo se contrasta con las zonas geográficas de UAS de ENAIRE. Solo árboles al aire libre, que en el almendro son todos, y sin despegar con viento fuerte, lluvia o niebla: la ventana se decide en la finca el mismo día.
+Lo que no se salta: el piloto de Agrodrón, con certificados AESA/EASA (PDRA-S01, operador STS), vuela en la categoría específica, y antes de subir a Las Tricias o a Timagada el plano se contrasta con las zonas geográficas de UAS de ENAIRE. Solo árboles al aire libre, y sin despegar con viento fuerte, lluvia o niebla: la ventana se decide en la finca el mismo día.
 
 [IMAGEN: Dron agrícola sobrevolando almendros dispersos en un lomo de Las Tricias, Garafía, con el barranco y el mar de nubes detrás | alt: Dron pulverizador sobre almendros de secano en Las Tricias, Garafía, La Palma]
 
@@ -66,7 +66,7 @@ Tenerife y Gran Canaria llevan desplazamiento y quedan sujetas a disponibilidad:
 Sí. El vuelo se planifica por árbol o por grupo, no por pasadas, y el gasto de caldo va por copa. Es lo habitual en Puntagorda, Garafía o Tejeda, donde casi no hay plantaciones regulares.
 
 ### ¿Cuándo se aplica un foliar en el almendro?
-Según el producto y el momento del árbol: con hoja activa tras el cuajado, en el engorde del fruto o después de la cosecha, y tras una helada o un golpe de viento en Tejeda o Vilaflor. El calendario de la monilia (floración y maduración con humedad, Vida Rural 2004) es cosa de sanidad vegetal, no del dron.
+Según el producto y el momento del árbol: con hoja activa tras el cuajado, en el engorde del fruto o después de la cosecha, y tras una helada o un golpe de viento en Tejeda o Vilaflor. El calendario de la monilia (Vida Rural, 2004) es cosa de sanidad vegetal, no del dron.
 
 ### ¿El dron vuela en Tejeda o Vilaflor, por encima de los 1.000 metros?
 La altitud y el viento de cumbre se valoran antes de cada vuelo y pueden descartar un día o una parcela. No se da por hecho hasta estudiar la finca.
@@ -115,7 +115,7 @@ Dinos municipio, cuántos árboles tienes y cómo están repartidos, cómo se su
         {
           "@type": "Question",
           "name": "¿Cuándo se aplica un foliar en el almendro?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Según el producto y el momento del árbol: con hoja activa tras el cuajado, en el engorde del fruto o después de la cosecha, y tras una helada o un golpe de viento en Tejeda o Vilaflor. El calendario de la monilia (floración y maduración con humedad, Vida Rural 2004) es cosa de sanidad vegetal, no del dron." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Según el producto y el momento del árbol: con hoja activa tras el cuajado, en el engorde del fruto o después de la cosecha, y tras una helada o un golpe de viento en Tejeda o Vilaflor. El calendario de la monilia (Vida Rural, 2004) es cosa de sanidad vegetal, no del dron." }
         },
         {
           "@type": "Question",

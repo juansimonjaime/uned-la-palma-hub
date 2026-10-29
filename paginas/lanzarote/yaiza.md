@@ -3,7 +3,7 @@ title: "Dron agrícola en Yaiza | Agrodrón Canarias"
 slug: "yaiza"
 meta_description: "Dron agrícola en Yaiza para la viña de La Geria y Uga: hoyos en picón, zocos y parcelas sin camino. Agrodrón llega con desplazamiento desde La Palma."
 keyword: "dron agrícola en Yaiza"
-keywords_secundarias: "fumigar con dron en Yaiza, tratamiento con drones en La Geria, dron fitosanitario en Uga, pulverización aérea en viña de Lanzarote, dron pulverizador sobre picón"
+keywords_secundarias: "pulverización con dron en Yaiza, tratamiento con drones en La Geria, abonado foliar con dron en Uga, bioestimulantes con dron en viña de Lanzarote, dron pulverizador sobre picón"
 parent: "dron-agricola-lanzarote"
 nivel: "B"
 isla: "Lanzarote"
@@ -26,7 +26,7 @@ Las parcelas no tienen camino interior: entre hoyo y hoyo hay picón, no una cal
 
 Hoy el tratamiento en La Geria es manual. Se baja a cada hoyo con la mochila, se pulveriza la cepa rastrera, se sale por el picón suelto y se repite en el siguiente, a cuatro metros. El atomizador de tractor no entra: no hay calles y el zoco no se pisa. En una ladera con sol y alisio es una jornada dura para pocas cepas.
 
-Hay otro dato que pesa: de las 1.368 ha de viña de La Geria, 237 ha están abandonadas, un 15 % (Mapa de Cultivos vía Infoagro, 2024). Las parcelas en producción quedan mezcladas con otras sin cuidar, y una viña abandonada al lado puede guardar lo que tú tratas en la tuya.
+Hay otro dato que pesa: de las 1.368 ha de viña de La Geria, 237 ha están abandonadas, un 15 % (Mapa de Cultivos vía Infoagro, 2024). Las parcelas en producción quedan mezcladas con otras sin cuidar, y ese dibujo a manchas hay que llevarlo al plan de vuelo.
 
 ## Qué cambia con un dron agrícola en Yaiza
 
@@ -42,21 +42,21 @@ Un límite claro: con alisio fuerte no se vuela. En Yaiza se mide el viento en l
 
 La viña es casi todo; hay higueras en hoyos y hortícolas marginales. En plagas y enfermedades el registro es corto: el Consejo Regulador de la DO avisó de un hongo en viñas de varias fincas sin identificarlo [VERIFICAR: identificación y fecha del hongo]; la filoxera no tiene positivos en Lanzarote tras las prospecciones de 2025-2026; y la sequía de 2025 dejó brotación irregular y una cosecha insular de unos 750.000 kilos, frente a 3,3 millones en 2023 (Consejo Regulador vía RTVC).
 
-Con menos de 150 mm de lluvia al año y calor, la cepa de Yaiza vive del rocío que capta el picón. Un tratamiento mal puesto en una planta estresada la castiga; por eso la dosis es la de la etiqueta y el momento lo marca el estado de la viña.
+Con menos de 150 mm de lluvia al año y calor, la cepa de Yaiza vive del rocío que capta el picón. Lo que tiene sentido aplicar desde el aire es un abono foliar o un bioestimulante pensado para esa cepa con sed, a la dosis de la etiqueta y en el momento que marque el estado de la viña; las plagas son cosa del Cabildo.
 
-## Dos frases sobre la ley y una sobre el viaje
+## Dos frases sobre el vuelo y una sobre el viaje
 
-El Ministerio de Agricultura trata la pulverización con dron como tratamiento aéreo (nota informativa MAPA-AESA de 2018), y los tratamientos aéreos requieren autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01.
+Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01, con piloto certificado, y antes de dibujar el plan sobre los hoyos de Uga comprueba la parcela en el mapa de zonas geográficas de UAS de ENAIRE. En el depósito solo va producto de uso permitido en viña, a la dosis de su etiqueta, y solo sobre cepas al aire libre.
 
 Desde Santa Cruz de La Palma hasta Yaiza hay desplazamiento; agrupamos fincas de la zona por salida y cerramos fecha según disponibilidad. Más en [tratamientos con dron en Lanzarote](https://agrodroncanarias.es/dron-agricola-lanzarote/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/) y la vecina [dron agrícola en Tías](https://agrodroncanarias.es/dron-agricola-lanzarote/tias/).
 
-## Preguntas frecuentes sobre fumigar con dron en Yaiza
+## Preguntas frecuentes sobre pulverizar con dron en Yaiza
 
 ### ¿El dron trata cada hoyo de La Geria o pulveriza toda la parcela?
 Cada hoyo. La parcela se mapea cepa a cepa y el dron aplica solo donde hay planta; el picón entre hoyos no recibe producto.
 
 ### ¿Qué hacéis con las parcelas abandonadas que lindan con la mía en Uga?
-Quedan fuera del plan de vuelo, con su contorno marcado, salvo que su dueño las incluya. Solo se trata lo que el titular pide y la autorización cubre.
+Quedan fuera del plan de vuelo, con su contorno marcado, salvo que su dueño las incluya. Solo se pulveriza lo que el titular pide, con el producto que él elige.
 
 ### ¿Cuánto cuesta tratar una viña en hoyos en Yaiza?
 Depende del número de cepas, de la pendiente, del acceso al borde de la parcela y del producto. Con esos datos te damos un presupuesto.
@@ -66,7 +66,7 @@ Reunimos las fincas de La Geria y Uga que lo pidan, miramos la previsión de vie
 
 ## Pide presupuesto para tu viña en Yaiza
 
-Cuéntanos cuántos hoyos tienes en producción, dónde están (La Geria o Uga) y qué quieres tratar. Desde [Agrodrón Canarias](https://agrodroncanarias.es/) te preparamos un presupuesto y te decimos cuándo podemos salir desde La Palma.
+Cuéntanos cuántos hoyos tienes en producción, dónde están (La Geria o Uga) y qué quieres aplicar. Desde [Agrodrón Canarias](https://agrodroncanarias.es/) te preparamos un presupuesto y te decimos cuándo podemos salir desde La Palma.
 
 ```json
 {
@@ -74,9 +74,9 @@ Cuéntanos cuántos hoyos tienes en producción, dónde están (La Geria o Uga) 
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Yaiza",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en la viña en hoyos de La Geria y Uga, en Yaiza, Lanzarote: tratamiento cepa a cepa sobre picón sin pisar la parcela. Con desplazamiento desde La Palma y bajo disponibilidad.",
+      "name": "Tratamientos agrícolas con dron en Yaiza",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en la viña en hoyos de La Geria y Uga, en Yaiza, Lanzarote: aplicación cepa a cepa sobre picón sin pisar la parcela. Con desplazamiento desde La Palma y bajo disponibilidad.",
       "url": "https://agrodroncanarias.es/dron-agricola-lanzarote/yaiza/",
       "provider": {
         "@type": "LocalBusiness",
@@ -106,7 +106,7 @@ Cuéntanos cuántos hoyos tienes en producción, dónde están (La Geria o Uga) 
         {
           "@type": "Question",
           "name": "¿Qué hacéis con las parcelas abandonadas que lindan con la mía en Uga?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Quedan fuera del plan de vuelo, con su contorno marcado, salvo que su dueño las incluya. Solo se trata lo que el titular pide y la autorización cubre." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Quedan fuera del plan de vuelo, con su contorno marcado, salvo que su dueño las incluya. Solo se pulveriza lo que el titular pide, con el producto que él elige." }
         },
         {
           "@type": "Question",

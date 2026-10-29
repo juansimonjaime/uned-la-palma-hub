@@ -3,7 +3,7 @@ title: "Dron agrícola en Granadilla de Abona | Agrodrón Canarias"
 slug: "granadilla-de-abona"
 meta_description: "Dron agrícola en Granadilla de Abona: papa de Charco del Pino y viña de la DOP Abona según el calendario. Desplazamiento desde La Palma; pide presupuesto."
 keyword: "dron agrícola en Granadilla de Abona"
-keywords_secundarias: "fumigar con dron en Granadilla de Abona, tratamiento con drones en papa de Charco del Pino, dron fitosanitario DOP Abona, pulverización aérea en medianías de Granadilla"
+keywords_secundarias: "pulverización con dron en Granadilla de Abona, tratamiento con drones en papa de Charco del Pino, dron pulverizador DOP Abona, abonado foliar con dron en medianías de Granadilla"
 parent: "dron-agricola-tenerife"
 nivel: "B"
 isla: "Tenerife"
@@ -24,17 +24,17 @@ Para la viña, el final de julio trae riesgo elevado de oídio, riesgo medio de 
 
 ## De diciembre a marzo: papa en pie y mildiu
 
-Con la papa de media estación en desarrollo, el riesgo es el mildiu (Phytophthora infestans), con avisos de riesgo alto por comarcas del Cabildo, y la polilla guatemalteca (Tecia solanivora), que entró en Tenerife por Icod en 1999 y en secano y medianías deja pérdidas que rozan la mitad (Cabildo, ICIA).
+Con la papa de media estación en desarrollo, el riesgo es el mildiu (Phytophthora infestans), con avisos de riesgo alto por comarcas del Cabildo, y la polilla guatemalteca (Tecia solanivora), que entró en Tenerife por Icod en 1999 y en secano y medianías deja pérdidas que rozan la mitad (Cabildo, ICIA). Eso es del Cabildo; el dron, del abonado foliar.
 
 El tomate de invernadero de San Isidro, de exportación tras la llegada del regadío (EnciclopediaGuanche) y hoy residual (102,4 ha en toda Tenerife en 2021, SITCAN), tiene su propio invierno: la Tuta absoluta se desbordó en el de 2019. Va bajo plástico y el dron no entra.
 
 ## De abril a junio: brotación de la viña y oídio
 
-Entre el 30 de abril y el 7 de mayo el Cabildo lanzó un aviso de riesgo alto de oídio para las zonas bajas de Tenerife; la viña de Granadilla, entre 600 y 1.200 m, sigue los avisos por comarca de mildiu, oídio y botritis de datos.tenerife.es. Conviene tener ya el expediente andando: la autorización la concede el Gobierno de Canarias y no sale de un día para otro.
+Entre el 30 de abril y el 7 de mayo el Cabildo lanzó un aviso de riesgo alto de oídio para las zonas bajas de Tenerife; la viña de Granadilla, entre 600 y 1.200 m, sigue los avisos por comarca de mildiu, oídio y botritis de datos.tenerife.es. Es la ventana del abonado foliar en brotación, y la salida desde La Palma se cuadra con semanas, no de un día para otro.
 
 ## Qué encaja con dron agrícola en Granadilla de Abona y cuándo
 
-- Papa en bancal (otoño-invierno): cultivo bajo al aire libre en parcelas estrechas donde el tractor no entra; el dron aplica lo que marque la etiqueta y el plan, y el producto lo elige tu técnico.
+- Papa en bancal (otoño-invierno): cultivo bajo al aire libre en parcelas estrechas donde el tractor no entra; el dron aplica el abono foliar que elija tu técnico, a dosis de etiqueta.
 - Viña de la DOP Abona (primavera-verano): parcelas pequeñas en pendiente sobre jable; el DJI Agras T50 ajusta la velocidad a la pendiente y su depósito de 40 litros, a 16 o 24 L/min según monte dos o cuatro boquillas centrífugas (ficha de DJI), cubre varias parcelas por carga.
 - Hortalizas al aire libre y frutales de secano: si hay varias parcelas juntas.
 - Tomate y hortaliza de invernadero: nunca, por la cubierta.
@@ -45,9 +45,9 @@ Granadilla tiene 162 km² y va de la costa de El Médano a la cumbre de Las Cañ
 
 El viento manda: El Médano es la zona más ventosa de Tenerife por el alisio canalizado y en costa casi no hay días de vuelo; en las medianías, más tranquilas, se trabaja. Vertiente árida y de alta radiación (tenerifeconnect, webtenerife): se vuela a primera hora y se para si el viento sube.
 
-## Papeles antes que vuelo
+## Reglas antes que vuelo
 
-Los tratamientos con dron son tratamientos aéreos para el Ministerio de Agricultura (nota informativa MAPA-AESA, 2018) y entran en el Real Decreto 1311/2012: prohibición general, autorización previa del órgano competente de la comunidad autónoma y plan de aplicación aprobado (artículos 27 y 28). Tú aportas parcela y producto; Agrodrón prepara vuelo y registro.
+El vuelo va en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01) con piloto certificado. Tenerife Sur está en el propio municipio, así que el mapa de zonas geográficas de UAS de ENAIRE se mira antes de aceptar cualquier parcela. Producto de uso permitido en papa o viña, a dosis de etiqueta, solo al aire libre. Tú aportas parcela y producto; Agrodrón prepara vuelo y registro.
 
 [IMAGEN: Viñedo de la DOP Abona en medianías de Granadilla, con hileras sobre jable y la costa de El Médano al fondo | alt: Viña de la DOP Abona sobre jable en las medianías de Granadilla de Abona, Tenerife]
 
@@ -56,20 +56,20 @@ Para seguir: [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agric
 ## Preguntas frecuentes sobre el dron agrícola en Granadilla de Abona
 
 ### ¿Con cuánta antelación hay que avisar para un tratamiento de viña en mayo?
-Semanas, no días. Hay que tramitar la autorización ante el Gobierno de Canarias y cuadrar la salida desde La Palma con otras fincas del sur. Si cada primavera tienes oídio, consulta en invierno.
+Semanas, no días: hay que cuadrar la salida desde La Palma con otras fincas del sur. Si cada primavera quieres abonar la viña en hoja, consulta en invierno.
 
 ### ¿Se puede tratar la papa de Charco del Pino con el viento que hay en Granadilla?
 En las medianías sí, eligiendo hora y midiendo el viento en la parcela antes de despegar. En la costa de El Médano, con el alisio canalizado, casi nunca.
 
 ### ¿Vale el dron para los invernaderos de tomate de San Isidro?
-No. La cubierta impide la pulverización aérea; el tomate de invernadero se trata por dentro.
+No. La cubierta frena la pulverización desde el aire; el tomate de invernadero se trata por dentro.
 
 ### ¿Se puede juntar la papa de Granadilla con fincas de San Miguel o Vilaflor en la misma salida?
 Sí, es lo habitual: la salida desde La Palma se organiza por comarca y bajo disponibilidad. Cuantas más parcelas del sur entren en la misma semana, más sentido tiene el desplazamiento.
 
 ## Pide presupuesto con el calendario en la mano
 
-Dinos cultivo, pago, número de parcelas y en qué mes esperas el problema; te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento desde La Palma. Escríbenos en [Agrodrón Canarias](https://agrodroncanarias.es/).
+Dinos cultivo, pago, número de parcelas y en qué mes quieres la aplicación; te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento desde La Palma. Escríbenos en [Agrodrón Canarias](https://agrodroncanarias.es/).
 
 ```json
 {
@@ -77,9 +77,9 @@ Dinos cultivo, pago, número de parcelas y en qué mes esperas el problema; te d
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Granadilla de Abona",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en la papa de las medianías altas y la viña de la DOP Abona de Granadilla de Abona, según el calendario de riesgo de cada cultivo, con desplazamiento desde La Palma y bajo disponibilidad.",
+      "name": "Tratamientos agrícolas con dron en Granadilla de Abona",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en la papa de las medianías altas y la viña de la DOP Abona de Granadilla de Abona, según el calendario de riesgo de cada cultivo, con desplazamiento desde La Palma y bajo disponibilidad.",
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/granadilla-de-abona/",
       "provider": {
         "@type": "LocalBusiness",
@@ -104,7 +104,7 @@ Dinos cultivo, pago, número de parcelas y en qué mes esperas el problema; te d
         {
           "@type": "Question",
           "name": "¿Con cuánta antelación hay que avisar para un tratamiento de viña en mayo?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Semanas, no días. Hay que tramitar la autorización ante el Gobierno de Canarias y cuadrar la salida desde La Palma con otras fincas del sur. Si cada primavera tienes oídio, consulta en invierno." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Semanas, no días: hay que cuadrar la salida desde La Palma con otras fincas del sur. Si cada primavera quieres abonar la viña en hoja, consulta en invierno." }
         },
         {
           "@type": "Question",
@@ -114,7 +114,7 @@ Dinos cultivo, pago, número de parcelas y en qué mes esperas el problema; te d
         {
           "@type": "Question",
           "name": "¿Vale el dron para los invernaderos de tomate de San Isidro?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. La cubierta impide la pulverización aérea; el tomate de invernadero se trata por dentro." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. La cubierta frena la pulverización desde el aire; el tomate de invernadero se trata por dentro." }
         },
         {
           "@type": "Question",

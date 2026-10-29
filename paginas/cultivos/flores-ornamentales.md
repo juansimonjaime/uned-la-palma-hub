@@ -3,7 +3,7 @@ title: "Dron agrícola para flores y ornamentales | Agrodrón"
 slug: "dron-agricola-flores-ornamentales"
 meta_description: "Dron agrícola para flores en Canarias: proteas y ornamentales al aire libre en La Palma, Tenerife y Gran Canaria. La flor bajo invernadero queda fuera."
 keyword: "dron agrícola para flores"
-keywords_secundarias: "fumigar proteas con dron, tratamiento con drones en flor cortada, dron fitosanitario proteas La Palma, pulverización aérea en ornamentales, dron agrícola planta ornamental al aire libre"
+keywords_secundarias: "pulverización con dron en proteas, tratamiento con drones en flor cortada, abonado foliar con dron proteas La Palma, bioestimulantes con dron en ornamentales, dron agrícola planta ornamental al aire libre"
 parent: ""
 nivel: "cultivo"
 isla: ""
@@ -44,7 +44,9 @@ La protea es un arbusto [VERIFICAR: altura y marco de plantación con fuente té
 
 El DJI Agras T50 sigue el escalonado de los bancales con su radar de matriz en fase y la visión binocular, ajusta la velocidad a la pendiente y pulveriza desde encima de las líneas: depósito de 40 litros, hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro. Con 25 a 32 ha repartidas entre 45 agricultores, la plantación palmera media no llega a la hectárea, y eso se hace en pocas cargas.
 
-Sobre plagas y enfermedades de proteas en Canarias no hemos encontrado fuente técnica publicada [VERIFICAR: avisos de Agrocabildo o del Cabildo de La Palma sobre proteas]. Lo que se aplique sale del diagnóstico de tu técnico y de la etiqueta del producto.
+Sobre plagas y enfermedades de proteas en Canarias no hemos encontrado fuente técnica publicada [VERIFICAR: avisos de Agrocabildo o del Cabildo de La Palma sobre proteas]; si aparece algo, el control es de tu técnico y de Sanidad Vegetal, no del dron.
+
+Para lo que hace el dron no hace falta esperarla: en protea el trabajo es el abonado foliar, los correctores de carencias y los bioestimulantes, pensados para el vigor del arbusto tras el corte de la campaña o tras un episodio como los gases de 2021. Finalidad del producto, sin prometer la cosecha siguiente. La protea no admite cualquier cosa: producto y dosis los fija tu técnico con la etiqueta delante.
 
 [IMAGEN: Detalle de una flor de protea en una plantación en ladera de la cara oeste de La Palma, con el cono del Tajogaite al fondo | alt: Protea de La Palma en plantación al aire libre en El Paso]
 
@@ -56,28 +58,28 @@ En [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) las proteas s
 
 En [Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/) las 15 ha de proteas de 2017 (Infoagro) conviven con el grueso de la flor bajo invernadero del norte. En [Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/) el ejemplo es al revés: en [Santa María de Guía](https://agrodroncanarias.es/dron-agricola-gran-canaria/santa-maria-de-guia/) las 32 ha de flores van bajo invernadero y no se tratan con dron, mientras que la platanera y la papa del municipio sí. En ambas islas trabajamos con desplazamiento y según disponibilidad.
 
-Cada tratamiento fitosanitario con dron, también en flor, necesita autorización previa del Gobierno de Canarias como órgano competente y un plan de aplicación aprobado, porque en España la aplicación aérea de fitosanitarios solo se permite en casos especiales (Real Decreto 1311/2012, artículos 27 y 28). Para abonos foliares, bioestimulantes y otros productos que no son fitosanitarios el régimen es distinto [VERIFICAR: confirmar con Agrodrón qué aplicaciones no fitosanitarias ofrece].
+Del papel, lo necesario. Agrodrón vuela en la categoría específica de AESA/EASA (STS o PDRA-S01) con piloto certificado, y antes de dar fecha consulta las zonas geográficas de UAS en el mapa de ENAIRE. Solo productos de uso permitido en el cultivo, a dosis de etiqueta y sobre plantación descubierta. Con el mar de nubes metido en los bancales, con lluvia o con viento, no se despega: la ventana se decide en la finca esa mañana.
 
 ## Preguntas frecuentes sobre el dron en flores y ornamentales
 
-### ¿Se puede fumigar con dron un invernadero de flor cortada?
+### ¿Se puede pulverizar con dron un invernadero de flor cortada?
 No. Ni invernadero ni malla de cubierta: la gota no atraviesa el techo. Eso descarta la mayor parte de la flor cortada canaria, que va bajo plástico en Tejina, Valle de Guerra, Güímar o Guía.
 
 ### ¿Qué ornamentales sí se pueden tratar con dron?
 Las que crecen a cielo abierto: proteas y otros arbustos de flor en bancal, y planta ornamental de exterior. Si una parte de la finca va bajo malla, se trata solo la parte descubierta.
 
 ### ¿Hay datos de plagas de proteas en Canarias?
-No hemos encontrado fuente técnica publicada. El diagnóstico lo hace tu técnico y el producto lo fija la etiqueta; nosotros aportamos el vuelo y el registro del tratamiento.
+No hemos encontrado fuente técnica publicada. Si tu técnico detecta algo, el control lo marca Sanidad Vegetal; nosotros no tratamos plagas: aportamos el vuelo para abonos foliares y bioestimulantes, y el registro.
 
 ### ¿Tratáis proteas en Tenerife y Gran Canaria?
 Sí, con desplazamiento desde La Palma y según disponibilidad. En La Palma, donde está la base, sin desplazamiento.
 
 ### ¿Se puede aplicar abono foliar o bioestimulantes con el dron en flor?
-El régimen de esos productos es distinto al de los fitosanitarios [VERIFICAR: confirmar con Agrodrón qué aplicaciones no fitosanitarias ofrece]. Pregúntanos por tu caso concreto.
+Sí, es justo lo que hace: abonos foliares, correctores de carencias y bioestimulantes de uso permitido en el cultivo, a dosis de etiqueta, sobre proteas y ornamentales a cielo abierto. Producto y momento los decides con tu técnico.
 
 ## Pide presupuesto para tu plantación de proteas u ornamentales
 
-Dinos el municipio, las hectáreas al aire libre, la altura de las plantas y qué quieres tratar. Desde [Agrodrón Canarias](https://agrodroncanarias.es/) te confirmamos si el dron encaja y te preparamos el presupuesto; en La Palma sin desplazamiento, en Tenerife y Gran Canaria con desplazamiento y según disponibilidad.
+Dinos el municipio, las hectáreas al aire libre, la altura de las plantas y qué quieres aplicar. Desde [Agrodrón Canarias](https://agrodroncanarias.es/) te confirmamos si el dron encaja y te preparamos el presupuesto; en La Palma sin desplazamiento, en Tenerife y Gran Canaria con desplazamiento y según disponibilidad.
 
 ```json
 {
@@ -85,9 +87,9 @@ Dinos el municipio, las hectáreas al aire libre, la altura de las plantas y qu�
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola para flores y ornamentales en Canarias",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 sobre proteas y planta ornamental al aire libre en Canarias, en bancales de medianías de La Palma, Tenerife y Gran Canaria. La flor cortada bajo invernadero o malla no se trata desde el aire.",
+      "name": "Tratamientos agrícolas con dron para flores y ornamentales en Canarias",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización con dron DJI Agras T50 de abonos foliares y bioestimulantes sobre proteas y planta ornamental al aire libre en Canarias, en bancales de medianías de La Palma, Tenerife y Gran Canaria. La flor cortada bajo invernadero o malla no se trata desde el aire.",
       "url": "https://agrodroncanarias.es/dron-agricola-flores-ornamentales/",
       "provider": {
         "@type": "LocalBusiness",
@@ -107,7 +109,7 @@ Dinos el municipio, las hectáreas al aire libre, la altura de las plantas y qu�
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "¿Se puede fumigar con dron un invernadero de flor cortada?",
+          "name": "¿Se puede pulverizar con dron un invernadero de flor cortada?",
           "acceptedAnswer": { "@type": "Answer", "text": "No. Ni invernadero ni malla de cubierta: la gota no atraviesa el techo. Eso descarta la mayor parte de la flor cortada canaria, que va bajo plástico en Tejina, Valle de Guerra, Güímar o Guía." }
         },
         {
@@ -118,7 +120,7 @@ Dinos el municipio, las hectáreas al aire libre, la altura de las plantas y qu�
         {
           "@type": "Question",
           "name": "¿Hay datos de plagas de proteas en Canarias?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No hemos encontrado fuente técnica publicada. El diagnóstico lo hace tu técnico y el producto lo fija la etiqueta; nosotros aportamos el vuelo y el registro del tratamiento." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No hemos encontrado fuente técnica publicada. Si tu técnico detecta algo, el control lo marca Sanidad Vegetal; nosotros no tratamos plagas: aportamos el vuelo para abonos foliares y bioestimulantes, y el registro." }
         },
         {
           "@type": "Question",
@@ -128,7 +130,7 @@ Dinos el municipio, las hectáreas al aire libre, la altura de las plantas y qu�
         {
           "@type": "Question",
           "name": "¿Se puede aplicar abono foliar o bioestimulantes con el dron en flor?",
-          "acceptedAnswer": { "@type": "Answer", "text": "El régimen de esos productos es distinto al de los fitosanitarios y hay que confirmarlo caso por caso. Pregúntanos por tu caso concreto." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, es justo lo que hace: abonos foliares, correctores de carencias y bioestimulantes de uso permitido en el cultivo, a dosis de etiqueta, sobre proteas y ornamentales a cielo abierto. Producto y momento los decides con tu técnico." }
         }
       ]
     }

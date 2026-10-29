@@ -3,7 +3,7 @@ title: "Dron agrícola en Breña Baja | Agrodrón Canarias"
 slug: "brena-baja"
 meta_description: "Dron agrícola en Breña Baja: platanera de costa y aguacate de medianías en 15 km², con el aeropuerto al lado y cada vuelo planificado. Pide presupuesto."
 keyword: "dron agrícola en Breña Baja"
-keywords_secundarias: "fumigar con dron en Breña Baja, tratamiento con drones en platanera, dron fitosanitario La Palma, pulverización aérea Breña Baja, dron pulverizador aguacate"
+keywords_secundarias: "pulverización con dron en Breña Baja, tratamiento con drones en platanera, abonado foliar con dron La Palma, bioestimulantes con dron Breña Baja, dron pulverizador aguacate"
 parent: "dron-agricola-la-palma"
 nivel: "A"
 isla: "La Palma"
@@ -38,9 +38,9 @@ El depósito de 40 litros, con caudal de hasta 16 litros por minuto con dos boqu
 
 ## El aeropuerto al lado: cómo condiciona cada vuelo del dron agrícola en Breña Baja
 
-El aeropuerto de La Palma está en el límite sur del municipio. Eso obliga, antes de planificar cualquier vuelo aquí, a mirar el mapa de zonas geográficas de UAS de ENAIRE (https://drones.enaire.es/), donde figura la zona de control aéreo del aeropuerto y las condiciones que impone a cada operación. Se comprueba en qué zona cae la parcela y qué autorización o coordinación exige.
+El aeropuerto de La Palma está en el límite sur del municipio. Eso obliga, antes de planificar cualquier vuelo aquí, a mirar el mapa de zonas geográficas de UAS de ENAIRE (https://drones.enaire.es/), donde figura la zona de control aéreo del aeropuerto y las condiciones que impone a cada operación. Se comprueba en qué zona cae la parcela y qué condiciones impone a ese vuelo.
 
-No es un impedimento general, es un paso más del expediente, y lo asume el operador. Para ti cambia una cosa: en Breña Baja conviene pedir el tratamiento con más margen que en una finca del interior, porque hay un trámite aéreo añadido.
+No es un impedimento general, es un paso más de la planificación, y lo asume el operador. Para ti cambia una cosa: en Breña Baja conviene pedir la aplicación con más margen que en una finca del interior, porque hay una comprobación añadida con ENAIRE antes de fijar el día.
 
 [IMAGEN: Vista desde las medianías de Breña Baja hacia la pista del aeropuerto de La Palma, con plataneras al aire libre y bajo malla en la franja costera | alt: plataneras junto al aeropuerto de La Palma en la costa de Breña Baja]
 
@@ -51,9 +51,11 @@ No es un impedimento general, es un paso más del expediente, y lo asume el oper
 - Viña: mildiu y oídio en la campaña 2025 a nivel insular (El Time). Rastrera sobre picón, parcelas chicas, al aire libre.
 - Papas y frutales de huerta: parcelas pequeñas que se agrupan por zona.
 
-## Permisos: lo que exige cada aplicación desde el aire
+Ninguna de esas plagas se combate desde el dron: ese frente lo llevan tu técnico y los servicios de sanidad vegetal del Cabildo con trampas, control biológico y labores. Lo que el T50 sube a los bancales de Breña Baja es abono foliar, bioestimulante o corrector de carencias, pensado para la platanera que sale del nordeste de invierno o el aguacatero recién cosechado.
 
-Solo pueden aplicarse productos cuya autorización incluya expresamente la aplicación aérea (anexo VI del Real Decreto 1311/2012), y cada tratamiento necesita la autorización previa del Gobierno de Canarias con su plan de aplicación aprobado, porque la aplicación aérea de fitosanitarios está prohibida en España salvo casos especiales (artículos 27 y 28 del mismo decreto). Tú aportas parcela y producto; el resto lo tramita Agrodrón Canarias.
+## Reglas de vuelo y productos: lo que se cumple en cada aplicación
+
+Tres reglas y ninguna negociable. El piloto opera en la categoría específica de AESA/EASA, en escenario estándar STS o bajo el análisis de riesgo PDRA-S01, con su certificado al día. En el dron solo va producto de uso permitido en el cultivo que se pulveriza, a la dosis que marca su etiqueta, y solo sobre cultivo descubierto. Y si la mañana amanece con lluvia, niebla en las medianías o viento fuerte en la costa, la ventana se decide en la propia finca y, si no la hay, se aplaza. Tú aportas parcela y producto; lo demás lo pone Agrodrón Canarias.
 
 ## Preguntas que nos hacen en Breña Baja antes de contratar
 
@@ -63,11 +65,11 @@ Depende de la zona exacta en la que caiga la finca dentro del mapa de zonas geog
 
 ### ¿Qué cultivos de Breña Baja se pueden tratar desde el aire?
 
-Platanera al aire libre, aguacate, viña rastrera y huerta en bancales, siempre que la finca se pueda mapear y el producto tenga autorización para aplicación aérea. Lo que esté bajo malla de cubierta o invernadero, no.
+Platanera al aire libre, aguacate, viña rastrera y huerta en bancales, siempre que la finca se pueda mapear y el producto sea de uso permitido en ese cultivo. Lo que esté bajo malla de cubierta o invernadero, no.
 
-### ¿Tengo que tramitar yo algún permiso para fumigar con dron en Breña Baja?
+### ¿Qué productos aplica el dron en Breña Baja?
 
-No. Aportas los datos de la parcela y del producto que quieres aplicar; la autorización ante el Gobierno de Canarias, el plan de aplicación y la parte aérea los prepara Agrodrón Canarias.
+Abonos foliares, bioestimulantes y correctores de carencias de uso permitido en tu cultivo, a la dosis de su etiqueta. Tú dices qué quieres aplicar, normalmente lo que te haya recomendado tu técnico; la comprobación de la etiqueta y la planificación del vuelo las hace Agrodrón Canarias.
 
 ### ¿Qué tengo que preparar en la finca antes de que llegue el dron?
 
@@ -75,11 +77,11 @@ Un punto de agua o una cuba para rellenar el depósito cerca de la pista y el ac
 
 ### ¿Qué precio tiene un tratamiento con dron en una finca de Breña Baja?
 
-Lo marcan la superficie, el cultivo, el acceso y el producto del plan de aplicación; en Breña Baja también cuenta el trámite aéreo de la zona del aeropuerto. Con eso sale un presupuesto cerrado para tu finca.
+Lo marcan la superficie, el cultivo, el acceso y el producto que se aplique; en Breña Baja también cuenta la comprobación de la zona del aeropuerto en el mapa de ENAIRE. Con eso sale un presupuesto cerrado para tu finca.
 
 ## Pide presupuesto para tu finca de Breña Baja
 
-Manda desde [agrodroncanarias.es](https://agrodroncanarias.es/) la ubicación de los bancales, el cultivo, la superficie y el acceso, y te contestamos con la parcela ya mirada sobre el mapa de ENAIRE: si se puede volar, qué trámites lleva y el presupuesto. El resto de la isla está en el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/); el vecino de arriba, en [dron agrícola en Breña Alta](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/).
+Manda desde [agrodroncanarias.es](https://agrodroncanarias.es/) la ubicación de los bancales, el cultivo, la superficie y el acceso, y te contestamos con la parcela ya mirada sobre el mapa de ENAIRE: si se puede volar, qué condiciones pone esa zona y el presupuesto. El resto de la isla está en el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/); el vecino de arriba, en [dron agrícola en Breña Alta](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/).
 
 ```json
 {
@@ -87,9 +89,9 @@ Manda desde [agrodroncanarias.es](https://agrodroncanarias.es/) la ubicación de
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Breña Baja",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en bancales de platanera, aguacate, viña y huerta de Breña Baja, con cada vuelo planificado teniendo en cuenta la zona de control aéreo del aeropuerto de La Palma.",
+      "name": "Tratamientos agrícolas con dron en Breña Baja",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Abonado foliar y bioestimulantes con dron DJI Agras T50 en bancales de platanera, aguacate, viña y huerta de Breña Baja, con cada vuelo planificado teniendo en cuenta la zona de control aéreo del aeropuerto de La Palma.",
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/brena-baja/",
       "provider": {
         "@type": "LocalBusiness",
@@ -119,12 +121,12 @@ Manda desde [agrodroncanarias.es](https://agrodroncanarias.es/) la ubicación de
         {
           "@type": "Question",
           "name": "¿Qué cultivos de Breña Baja se pueden tratar desde el aire?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Platanera al aire libre, aguacate, viña rastrera y huerta en bancales, siempre que la finca se pueda mapear y el producto tenga autorización para aplicación aérea. Lo que esté bajo malla de cubierta o invernadero, no." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Platanera al aire libre, aguacate, viña rastrera y huerta en bancales, siempre que la finca se pueda mapear y el producto sea de uso permitido en ese cultivo. Lo que esté bajo malla de cubierta o invernadero, no." }
         },
         {
           "@type": "Question",
-          "name": "¿Tengo que tramitar yo algún permiso para fumigar con dron en Breña Baja?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. Aportas los datos de la parcela y del producto que quieres aplicar; la autorización ante el Gobierno de Canarias, el plan de aplicación y la parte aérea los prepara Agrodrón Canarias." }
+          "name": "¿Qué productos aplica el dron en Breña Baja?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Abonos foliares, bioestimulantes y correctores de carencias de uso permitido en el cultivo, a la dosis de su etiqueta. El agricultor dice qué quiere aplicar, normalmente lo que le haya recomendado su técnico; la comprobación de la etiqueta y la planificación del vuelo las hace Agrodrón Canarias." }
         },
         {
           "@type": "Question",
@@ -134,7 +136,7 @@ Manda desde [agrodroncanarias.es](https://agrodroncanarias.es/) la ubicación de
         {
           "@type": "Question",
           "name": "¿Qué precio tiene un tratamiento con dron en una finca de Breña Baja?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Lo marcan la superficie, el cultivo, el acceso y el producto del plan de aplicación; en Breña Baja también cuenta el trámite aéreo de la zona del aeropuerto. Con eso sale un presupuesto cerrado para tu finca." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Lo marcan la superficie, el cultivo, el acceso y el producto que se aplique; en Breña Baja también cuenta la comprobación de la zona del aeropuerto en el mapa de ENAIRE. Con eso sale un presupuesto cerrado para tu finca." }
         }
       ]
     }

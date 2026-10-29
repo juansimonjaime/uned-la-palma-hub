@@ -3,7 +3,7 @@ title: "Dron agrícola en San Bartolomé | Agrodrón Canarias"
 slug: "san-bartolome"
 meta_description: "Dron agrícola en San Bartolomé de Lanzarote: cebolla en enarenado, batata en el jable y viña de La Geria con el alisio de por medio. Pide presupuesto."
 keyword: "dron agrícola en San Bartolomé"
-keywords_secundarias: "fumigar con dron en el jable de Lanzarote, tratamiento con drones en cebolla de enarenado, dron fitosanitario San Bartolomé Lanzarote, pulverización aérea Montaña Blanca"
+keywords_secundarias: "pulverización con dron en el jable de Lanzarote, tratamiento con drones en cebolla de enarenado, dron pulverizador San Bartolomé Lanzarote, abonado foliar con dron en Montaña Blanca"
 parent: "dron-agricola-lanzarote"
 nivel: "B"
 isla: "Lanzarote"
@@ -20,7 +20,7 @@ Hablamos de San Bartolomé de Lanzarote, el municipio del centro de la isla cuyo
 
 Sí. La cebolla es un cultivo bajo y al aire libre, y el enarenado (una capa de 10-12 cm de picón sobre la tierra, según la ficha SIPAM de la FAO de 2025) conviene pisarlo lo menos posible: cada pasada de mochila o tractor remueve el picón. El dron no toca la finca.
 
-Lo que se aplica lo decide la etiqueta y el plan de aplicación. La plaga de cebolla con fuente canaria es el trips (Thrips tabaci), en el manual fitosanitario del Cabildo de Tenerife de 2026. Para la variedad local cebolla de Lanzarote, con programa de mejora de semilla en la ULPGC, no hay plagas documentadas [VERIFICAR].
+Lo que se aplica lo decide la etiqueta: abono foliar, bioestimulante o corrector permitido en cebolla. La plaga con fuente canaria es el trips (Thrips tabaci), en el manual de plagas del Cabildo de Tenerife de 2026; su control es cosa de sanidad vegetal, no del dron. Para la variedad local cebolla de Lanzarote, con programa de mejora de semilla en la ULPGC, no hay plagas documentadas [VERIFICAR].
 
 ## ¿Y con el alisio que cruza el jable?
 
@@ -32,21 +32,21 @@ Si ese día el jable no da tregua, se busca otra ventana. El DJI Agras T50 regul
 
 El municipio es zona vitícola principal junto a Masdache, Tías y Tinajo, y forma parte del espacio protegido de La Geria, 5.255 ha en cinco municipios (Infoagro, 2024). Las 1.368 ha de viña de La Geria no tienen desglose municipal [VERIFICAR: hectáreas de viña en San Bartolomé].
 
-En hoyos y zocos sobre picón, el dron trata cada cepa como un punto en el mapa. Encaja cuando hay que proteger la hoja en poco tiempo y la mochila obliga a bajar a cada hoyo. De enfermedades hay poco: el Consejo Regulador avisó de un hongo en varias fincas [VERIFICAR: patógeno y fecha], y las prospecciones de filoxera de 2025-2026 no han dado positivos.
+En hoyos y zocos sobre picón, el dron trata cada cepa como un punto en el mapa. Encaja cuando toca un foliar o un bioestimulante tras la sequía y la mochila obliga a bajar a cada hoyo. De enfermedades hay poco: el Consejo Regulador avisó de un hongo en varias fincas [VERIFICAR: patógeno y fecha], y las prospecciones de filoxera de 2025-2026 no han dado positivos.
 
 ## ¿La batata del jable se trata desde el aire?
 
 Puede tratarse: es un cultivo rastrero, al aire libre y en parcelas llanas, lo más fácil de volar del municipio. La pregunta útil es si hace falta: no hay plaga documentada de la batata en Lanzarote [VERIFICAR], y el jable actúa como acolchado que permite cultivar casi sin riego (FAO, 2025).
 
-Si aparece un problema que justifique tratar, el dron lo hace sin rodar sobre la arena ni marcar los surcos. Si no hay problema, no se trata.
+Si en plena campaña hace falta un foliar o un corrector, el dron lo aplica sin rodar sobre la arena ni marcar los surcos. Si no, no se aplica.
 
 [IMAGEN: Hoyo de viña con zoco de piedra en el sector de Montaña Blanca, San Bartolomé, con una cepa de malvasía volcánica brotando | alt: Viña en hoyo y zoco en Montaña Blanca, San Bartolomé de Lanzarote]
 
 ## ¿Qué hace falta para contratar un tratamiento desde La Palma?
 
-Tres cosas: datos, papeles y fecha. Los datos son los de tu finca: dónde está, qué cultivo, cuántas hectáreas, por dónde se entra y qué obstáculos hay (cables, naves, palmeras). Con eso se dibuja el plan de vuelo.
+Tres cosas: datos, producto y fecha. Los datos son los de tu finca: dónde está, qué cultivo, cuántas hectáreas, por dónde se entra y qué obstáculos hay (cables, naves, palmeras). Con eso se dibuja el plan de vuelo.
 
-Los papeles son la autorización: solo pueden aplicarse productos cuya autorización incluya expresamente la aplicación aérea (Real Decreto 1311/2012, anexo VI), y el piloto vuela en la categoría específica de AESA/EASA, en escenario estándar STS o bajo el PDRA-S01. La fecha depende de la campaña y de la disponibilidad: Agrodrón se desplaza desde La Palma y agrupa fincas de Lanzarote en la misma salida.
+El producto lo eliges tú entre los de uso permitido en tu cultivo, a la dosis de su etiqueta, y solo se pulveriza parcela al aire libre. El piloto vuela en la categoría específica de AESA/EASA, en escenario STS o bajo el PDRA-S01, y sitúa la finca en el mapa de zonas geográficas de UAS de ENAIRE. La fecha depende de la campaña y de la disponibilidad: Agrodrón viene desde La Palma y agrupa fincas de Lanzarote en la misma salida.
 
 ## ¿Qué cultivos de San Bartolomé tienen sentido y cuáles no?
 
@@ -56,13 +56,13 @@ Los papeles son la autorización: solo pueden aplicarse productos cuya autorizac
 
 El cuadro de la isla, en [dron agrícola en Lanzarote](https://agrodroncanarias.es/dron-agricola-lanzarote/); por cultivo, [tratamientos con dron en hortícolas](https://agrodroncanarias.es/dron-agricola-horticolas/) y [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/); el vecino, [dron agrícola en Tías](https://agrodroncanarias.es/dron-agricola-lanzarote/tias/).
 
-## Preguntas frecuentes sobre fumigar con dron en San Bartolomé de Lanzarote
+## Preguntas frecuentes sobre pulverizar con dron en San Bartolomé de Lanzarote
 
 ### ¿El dron estropea el jable o el enarenado al tratar?
 No lo toca. Despega y aterriza desde el borde de la finca y la pulverización cae desde el aire: esa es la ventaja frente a la mochila y el tractor en arena o picón.
 
 ### ¿Se puede tratar la cebolla de Lanzarote en ecológico con dron?
-Solo con productos autorizados en ecológico cuya etiqueta admita además la aplicación aérea, y con el plan de aplicación aprobado. Esa doble condición se comprueba producto a producto.
+Sí, si el abono foliar o el bioestimulante que quieres aplicar está permitido en producción ecológica y en cebolla. Eso lo dice la etiqueta y se comprueba producto a producto.
 
 ### ¿Cuánto viento es demasiado para volar en el jable?
 El límite lo marcan el fabricante del dron y la deriva que se mida en la parcela ese día. No damos cifra porque el viento en Montaña Blanca y el del llano del jable no son el mismo.
@@ -72,7 +72,7 @@ Sin frecuencia fija. El servicio fuera de La Palma es con desplazamiento y bajo 
 
 ## Pide presupuesto para tu finca de San Bartolomé
 
-Cuéntanos si es cebolla en enarenado, batata en el jable o viña en Montaña Blanca, cuántas hectáreas y qué problema tienes, y te decimos si el dron encaja. El presupuesto tiene en cuenta el desplazamiento desde La Palma: [Agrodrón Canarias](https://agrodroncanarias.es/).
+Cuéntanos si es cebolla en enarenado, batata en el jable o viña en Montaña Blanca, cuántas hectáreas y qué quieres aplicar, y te decimos si el dron encaja. El presupuesto tiene en cuenta el desplazamiento desde La Palma: [Agrodrón Canarias](https://agrodroncanarias.es/).
 
 ```json
 {
@@ -80,9 +80,9 @@ Cuéntanos si es cebolla en enarenado, batata en el jable o viña en Montaña Bl
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en San Bartolomé (Lanzarote)",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en cebolla de enarenado, batata del jable y viña en hoyos del municipio de San Bartolomé, en el centro de Lanzarote.",
+      "name": "Tratamientos agrícolas con dron en San Bartolomé (Lanzarote)",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en cebolla de enarenado, batata del jable y viña en hoyos del municipio de San Bartolomé, en el centro de Lanzarote.",
       "url": "https://agrodroncanarias.es/dron-agricola-lanzarote/san-bartolome/",
       "provider": {
         "@type": "LocalBusiness",
@@ -112,7 +112,7 @@ Cuéntanos si es cebolla en enarenado, batata en el jable o viña en Montaña Bl
         {
           "@type": "Question",
           "name": "¿Se puede tratar la cebolla de Lanzarote en ecológico con dron?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Solo con productos autorizados en ecológico cuya etiqueta admita además la aplicación aérea, y con el plan de aplicación aprobado. Esa doble condición se comprueba producto a producto." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si el abono foliar o el bioestimulante que quieres aplicar está permitido en producción ecológica y en cebolla. Eso lo dice la etiqueta y se comprueba producto a producto." }
         },
         {
           "@type": "Question",

@@ -3,7 +3,7 @@ title: "Dron agrícola en Arico | Agrodrón Canarias"
 slug: "arico"
 meta_description: "Dron agrícola en Arico por zonas: papa y viña de medianías en bancal y jable, pitaya en costa; el tomate de invernadero no. Desplazamiento desde La Palma."
 keyword: "dron agrícola en Arico"
-keywords_secundarias: "fumigar con dron en Arico, tratamiento con drones en viña DOP Abona, dron fitosanitario en el sureste de Tenerife, pulverización aérea en medianías de Arico"
+keywords_secundarias: "pulverización con dron en Arico, tratamiento con drones en viña DOP Abona, dron pulverizador en el sureste de Tenerife, abonado foliar con dron en medianías de Arico"
 parent: "dron-agricola-tenerife"
 nivel: "B"
 isla: "Tenerife"
@@ -42,17 +42,19 @@ Por encima de los pueblos siguen bancales de secano con almendros dispersos y ce
 - Viña: mildiu, oídio y botritis, con avisos semanales por comarca en datos.tenerife.es; riesgo alto de oídio en zonas bajas entre el 30 de abril y el 7 de mayo de un año reciente. Filoxera en Tenerife desde 2025, con zona demarcada [VERIFICAR: municipios incluidos].
 - Tomate: Tuta absoluta, con explosión poblacional en 2019 (eldiario.es, Phytoma); irrelevante para el dron porque va bajo cubierta.
 
+Todo eso es asunto de sanidad vegetal del Cabildo; el dron pone abono foliar donde no entra el tractor.
+
 ## Cómo se organiza un tratamiento con dron agrícola en Arico
 
 La salida se prepara desde Santa Cruz de La Palma, así que juntamos varias fincas de Abona en el mismo viaje; por eso hablamos de disponibilidad y no de fechas fijas. Tú nos das ubicación, cultivo, superficie, accesos y obstáculos: cables, invernaderos vecinos, árboles altos.
 
-El Ministerio de Agricultura considera los tratamientos con dron como tratamientos aéreos (nota informativa MAPA–AESA de 2018), de modo que cada aplicación en Arico necesita autorización previa del Gobierno de Canarias y un plan de aplicación aprobado, con un producto que lleve la aplicación aérea en su autorización. El piloto opera en la categoría específica de AESA/EASA (PDRA-S01, STS).
+El piloto opera en la categoría específica de AESA/EASA (PDRA-S01 o escenarios estándar) y, antes de cada vuelo en Arico, comprueba la parcela en el mapa de zonas geográficas de UAS de ENAIRE. Lo que se pulveriza es abono foliar, bioestimulante o corrector de uso permitido en papa, viña o pitaya, a la dosis que marca la etiqueta, solo sobre cultivo descubierto; con el alisio fuerte de la costa, lluvia o niebla, el equipo se queda en tierra.
 
 Más información en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/) y [dron agrícola para frutales subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/). Ladera arriba, [dron agrícola en Vilaflor de Chasna](https://agrodroncanarias.es/dron-agricola-tenerife/vilaflor-de-chasna/).
 
 ## Preguntas frecuentes sobre tratamientos con dron en Arico
 
-### ¿Se puede fumigar con dron el tomate de los invernaderos de la costa de Arico?
+### ¿Se puede pulverizar con dron el tomate de los invernaderos de la costa de Arico?
 No. Las 34,3 hectáreas que quedaban en 2021 van bajo plástico y el caldo no atraviesa la cubierta. El dron queda para lo descubierto: la pitaya de la costa y las medianías.
 
 ### ¿Qué zona de Arico es la más favorable para el dron?
@@ -74,9 +76,9 @@ Cuéntanos en qué zona está la finca (costa, medianías o secano alto), cultiv
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Arico",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en papa y viña de las medianías de Arico y en pitaya al aire libre de la costa; el tomate bajo invernadero no se trata. Servicio con desplazamiento desde La Palma.",
+      "name": "Tratamientos agrícolas con dron en Arico",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en papa y viña de las medianías de Arico y en pitaya al aire libre de la costa; el tomate bajo invernadero no se trata. Servicio con desplazamiento desde La Palma.",
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/arico/",
       "provider": {
         "@type": "LocalBusiness",
@@ -100,7 +102,7 @@ Cuéntanos en qué zona está la finca (costa, medianías o secano alto), cultiv
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "¿Se puede fumigar con dron el tomate de los invernaderos de la costa de Arico?",
+          "name": "¿Se puede pulverizar con dron el tomate de los invernaderos de la costa de Arico?",
           "acceptedAnswer": { "@type": "Answer", "text": "No. Las 34,3 hectáreas que quedaban en 2021 van bajo plástico y el caldo no atraviesa la cubierta. El dron queda para lo descubierto: la pitaya de la costa y las medianías." }
         },
         {

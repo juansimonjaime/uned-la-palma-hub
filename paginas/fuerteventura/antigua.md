@@ -3,7 +3,7 @@ title: "Dron agrícola en Antigua | Agrodrón Canarias"
 slug: "antigua"
 meta_description: "Dron agrícola en Antigua, Fuerteventura: el tomate bajo cubierta no se trata; aloe, forrajes y gavias al aire libre sí, viento mediante. Pide presupuesto."
 keyword: "dron agrícola en Antigua"
-keywords_secundarias: "fumigar con dron en Fuerteventura, tratamiento con drones en aloe vera, dron fitosanitario Antigua, pulverización aérea en gavias"
+keywords_secundarias: "pulverización con dron en Fuerteventura, tratamiento con drones en aloe vera, dron pulverizador Antigua, abonado foliar con dron en gavias"
 parent: "dron-agricola-fuerteventura"
 nivel: "B"
 isla: "Fuerteventura"
@@ -20,17 +20,17 @@ Antigua es uno de los tres municipios majoreros con tomate de exportación, junt
 
 Depende de qué tengas plantado fuera. Fuerteventura cultivaba unas 760 ha en 2021 según el ISTAC (vía ASAGA), y lo que va bajo cubierta queda fuera del dron. El hueco está en lo descubierto: el Cabildo rehabilitó 211.000 m² de gavias y muros en Tuineje y Antigua en 2025 (RTVC); si vuelven a dar cereal, alfalfa o maíz forrajero, son parcelas llanas y sin obstáculos.
 
-La respuesta honesta: para una gavia de cereal de secano pocas veces hace falta tratar. Para aloe, forraje de regadío u hortícola al aire libre con un problema concreto, sí puede tener sentido, sobre todo agrupando fincas en la misma salida desde La Palma.
+La respuesta honesta: para una gavia de cereal de secano pocas veces hace falta tratar. Para aloe, forraje de regadío u hortícola al aire libre que pida un foliar o un bioestimulante, sí puede tener sentido, sobre todo agrupando fincas en la misma salida desde La Palma.
 
-## ¿Se puede fumigar con dron el tomate de exportación?
+## ¿Se puede pulverizar con dron el tomate de exportación?
 
-No. El producto no atraviesa la malla ni el plástico. La plaga que marca el tomate majorero es la Tuta absoluta, detectada en Canarias en diciembre de 2008 y presente desde entonces en Gran Canaria, Tenerife y Fuerteventura (EPPO); en 2010 se le atribuyó la pérdida del 40 % de la producción canaria de tomate (consumer.es). Esa pelea se da dentro de la nave.
+No. El producto no atraviesa la malla ni el plástico. La plaga que marca el tomate majorero es la Tuta absoluta, detectada en Canarias en diciembre de 2008 y presente desde entonces en Gran Canaria, Tenerife y Fuerteventura (EPPO); en 2010 se le atribuyó la pérdida del 40 % de la producción canaria de tomate (consumer.es). Esa pelea se da dentro de la nave, con sanidad vegetal, no con un dron.
 
 ## ¿Y el aloe vera, como el de Verdeaurora?
 
-El aloe sí es tratable: planta baja, al aire libre, en marco regular. En Antigua está la finca Verdeaurora, con visitas y certificación ecológica; en ecológico solo entran productos autorizados para esa producción y cuya etiqueta admita además la aplicación aérea.
+El aloe sí es tratable: planta baja, al aire libre, en marco regular. En Antigua está la finca Verdeaurora, con visitas y certificación ecológica; en ecológico solo entran abonos foliares y bioestimulantes permitidos para esa producción, y eso lo dice la etiqueta de cada producto.
 
-Otra cosa es que haga falta. Las fuentes consultadas no documentan plagas del aloe en Canarias [VERIFICAR: cochinilla u otras en aloe majorero] y la superficie insular de aloe no está localizada [VERIFICAR]. Si tu aloe tiene un problema de hoja, mándanos fotos; si no, no hay tratamiento que vender.
+Otra cosa es que haga falta. Las fuentes consultadas no documentan plagas del aloe en Canarias [VERIFICAR: cochinilla u otras en aloe majorero] y la superficie insular de aloe no está localizada [VERIFICAR]. Si tu aloe necesita un abonado foliar o un corrector de carencias, cuéntanos cuál; si no, no hay tratamiento que vender.
 
 ## ¿Con 21,6 km/h de viento medio se puede volar?
 
@@ -44,11 +44,11 @@ Para el dron eso significa elegir el momento: el viento se mide en la finca el m
 
 Las gavias son el paisaje agrario de la isla: unas 3.800 ha, cerca del 35 % de las tierras más productivas (UPA, Anuario 2024), parcelas cerradas por muros de tierra, los trastones, que reparten el agua de escorrentía. Dentro va cereal de invierno, alfalfa y maíz para el ganado (MAPA), y la salinidad del agua limita qué más cabe (ULPGC).
 
-Para volar son ideales: suelo plano, sin árboles, con el trastón como único borde. El radar del DJI Agras T50 las sigue sin esfuerzo y el depósito de 40 litros, con caudal de hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha de DJI), se recarga al borde. Lo que cuesta justificar es el gasto en un cereal de secano con 136,6 mm de lluvia al año (ULPGC): se trata si hay plaga.
+Para volar son ideales: suelo plano, sin árboles, con el trastón como único borde. El radar del DJI Agras T50 las sigue sin esfuerzo y el depósito de 40 litros, con caudal de hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha de DJI), se recarga al borde. Lo que cuesta justificar es el gasto en un cereal de secano con 136,6 mm de lluvia al año (ULPGC): se aplica si hay una razón agronómica, por ejemplo un forraje que pida abono foliar.
 
-## ¿Cómo se contrata desde La Palma y qué papeles hacen falta?
+## ¿Cómo se contrata desde La Palma y qué hace falta?
 
-Mandas ubicación, cultivo, superficie, accesos y obstáculos (cables, naves, molinos). Se planifica el vuelo sobre el mapa y se tramita la autorización: el Ministerio de Agricultura considera los tratamientos con dron tratamientos aéreos (nota MAPA-AESA de 2018), con su régimen de autorización previa y plan de aplicación ante el Gobierno de Canarias, y solo pueden usarse productos cuya autorización incluya expresamente la aplicación aérea (RD 1311/2012, anexo VI). Después se fija la salida según disponibilidad.
+Mandas ubicación, cultivo, superficie, accesos y obstáculos (cables, naves, molinos) y el producto que quieres aplicar, que debe ser de uso permitido en ese cultivo y va a la dosis de su etiqueta. Se planifica el vuelo sobre el mapa de la parcela y se comprueba su posición en el mapa de zonas geográficas de UAS de ENAIRE; el piloto vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01. Después se fija la salida según disponibilidad.
 
 El cuadro de la isla, en [dron agrícola en Fuerteventura](https://agrodroncanarias.es/dron-agricola-fuerteventura/); por cultivo, [tratamientos con dron en tomate](https://agrodroncanarias.es/dron-agricola-tomate/) y [dron agrícola para hortícolas](https://agrodroncanarias.es/dron-agricola-horticolas/); el vecino del sur, [dron agrícola en Tuineje](https://agrodroncanarias.es/dron-agricola-fuerteventura/tuineje/).
 
@@ -58,7 +58,7 @@ El cuadro de la isla, en [dron agrícola en Fuerteventura](https://agrodroncanar
 No. La malla frena la gota igual que el plástico y el producto se queda en la cubierta. Cualquier tomate protegido queda fuera.
 
 ### ¿Hay plagas documentadas en el aloe de Antigua?
-En las fuentes que manejamos, ninguna con nombre y fecha para Fuerteventura [VERIFICAR]. Por eso no ofrecemos tratamientos de aloe por calendario: se mira la planta y, si hay motivo, se busca producto con etiqueta aérea.
+En las fuentes que manejamos, ninguna con nombre y fecha para Fuerteventura [VERIFICAR]. Si apareciera una, la llevaría el Cabildo; el dron aplica en aloe abonos foliares y bioestimulantes permitidos cuando la planta lo pide, no por calendario.
 
 ### ¿Agrodrón se desplaza a Antigua por una sola gavia?
 Puede, pero conviene juntar fincas. El servicio en Fuerteventura es con desplazamiento desde La Palma y bajo disponibilidad; cuanto más trabajo en el mismo viaje, mejor.
@@ -68,7 +68,7 @@ Depende de la superficie al aire libre, del cultivo, de los accesos, del product
 
 ## Pide presupuesto para tu finca al aire libre en Antigua
 
-Si tienes aloe, forraje, cereal en gavia o huerta descubierta en Antigua, Valles de Ortega o Triquivijate, cuéntanos qué, cuánto y qué problema hay; te decimos si el dron encaja y te mandamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Si tienes aloe, forraje, cereal en gavia o huerta descubierta en Antigua, Valles de Ortega o Triquivijate, cuéntanos qué, cuánto y qué quieres aplicar; te decimos si el dron encaja y te mandamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/).
 
 ```json
 {
@@ -76,9 +76,9 @@ Si tienes aloe, forraje, cereal en gavia o huerta descubierta en Antigua, Valles
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Antigua",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en aloe vera, forrajes, cereal de gavia y huerta al aire libre del municipio de Antigua, en el centro de Fuerteventura; el tomate bajo cubierta queda fuera.",
+      "name": "Tratamientos agrícolas con dron en Antigua",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en aloe vera, forrajes, cereal de gavia y huerta al aire libre del municipio de Antigua, en el centro de Fuerteventura; el tomate bajo cubierta queda fuera.",
       "url": "https://agrodroncanarias.es/dron-agricola-fuerteventura/antigua/",
       "provider": {
         "@type": "LocalBusiness",
@@ -108,7 +108,7 @@ Si tienes aloe, forraje, cereal en gavia o huerta descubierta en Antigua, Valles
         {
           "@type": "Question",
           "name": "¿Hay plagas documentadas en el aloe de Antigua?",
-          "acceptedAnswer": { "@type": "Answer", "text": "En las fuentes que manejamos, ninguna con nombre y fecha para Fuerteventura. Por eso no ofrecemos tratamientos de aloe por calendario: se mira la planta y, si hay motivo, se busca producto con etiqueta aérea." }
+          "acceptedAnswer": { "@type": "Answer", "text": "En las fuentes que manejamos, ninguna con nombre y fecha para Fuerteventura. Si apareciera una, la llevaría el Cabildo; el dron aplica en aloe abonos foliares y bioestimulantes permitidos cuando la planta lo pide, no por calendario." }
         },
         {
           "@type": "Question",

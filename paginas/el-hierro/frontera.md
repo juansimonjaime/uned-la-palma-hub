@@ -3,7 +3,7 @@ title: "Dron agrícola en Frontera | Agrodrón Canarias"
 slug: "frontera"
 meta_description: "Dron agrícola en Frontera para la piña tropical de El Golfo al aire libre, platanera y viña: qué se trata desde el aire y qué no. Pide presupuesto."
 keyword: "dron agrícola en Frontera"
-keywords_secundarias: "fumigar con dron en Frontera, tratamiento con drones en piña tropical de El Hierro, dron fitosanitario El Golfo, pulverización aérea en El Hierro"
+keywords_secundarias: "pulverización con dron en Frontera, tratamiento con drones en piña tropical de El Hierro, dron pulverizador El Golfo, abonado foliar con dron en El Hierro"
 parent: "dron-agricola-el-hierro"
 nivel: "B"
 isla: "El Hierro"
@@ -26,23 +26,23 @@ Cómo está plantada es la clave. En 1988 "la mayoría de las parcelas de Fronte
 
 La crisis tiene nombre: cochinilla Dysmicoccus brevipes y el complejo viral asociado, que debilita la planta y hace perder la tercera cosecha. La cooperativa habla de un rendimiento un 70 % menor en cinco años (Infoagro), el Cabildo de producción caída hasta el 50 % (bases de ayuda 2024) y el sector cifra la pérdida en el 60 % del cultivo (Agronews).
 
-En 2023 el MAPA concedió una autorización excepcional para spirotetramat (Movento Gold), dos aplicaciones entre julio y octubre, y se usa metam sodio para desinfectar suelo (Infoagro, RTVC). Ojo: autorización excepcional para el cultivo no es autorización para aplicar desde el aire; eso lo dice la etiqueta y el plan de aplicación.
+Esa pelea, incluidas las medidas excepcionales que el sector logró del MAPA en 2023 (Infoagro, RTVC), la llevan los productores con el Cabildo y sanidad vegetal. El dron no entra ahí: en la piña su papel es otro.
 
 ## Por qué el dron agrícola en Frontera encaja en la piña al aire libre
 
-La piña es un cultivo bajo, en hileras densas y con hojas que cortan: entrar con la mochila entre líneas cerradas es lento e incómodo y el tractor necesita calles que no siempre hay. Desde el aire el producto llega a lo que está a la vista, hoja y corazón; lo que viva en la base o en el suelo no lo alcanza, y la desinfección del suelo sigue siendo labor de tierra.
+La piña es un cultivo bajo, en hileras densas y con hojas que cortan: entrar con la mochila entre líneas cerradas es lento e incómodo y el tractor necesita calles que no siempre hay. Desde el aire se aplican foliares y bioestimulantes para una planta debilitada, a dosis de etiqueta; llegan a lo que está a la vista, hoja y corazón, no a la base ni al suelo, que sigue siendo labor de tierra.
 
 El DJI Agras T50 lleva 40 litros y pulveriza hasta 16 L/min con dos boquillas centrífugas o 24 con cuatro (ficha de DJI). En la plataforma de El Golfo, llana, el radar de matriz en fase y la visión binocular sirven sobre todo para postes de malla, cortavientos y cables; en las laderas hacia Sabinosa, para seguir la pendiente.
 
 [IMAGEN: Dron agrícola DJI Agras T50 en vuelo bajo sobre hileras de piña tropical al aire libre en El Golfo, con una parcela bajo malla al lado sin tratar | alt: Dron agrícola sobre piña tropical al aire libre en Frontera, El Hierro, junto a una parcela bajo malla]
 
-## Malla, invernadero, viento y autorización: lo que no se trata
+## Malla, invernadero, viento y producto: lo que no se trata
 
 Lo que esté bajo malla o en invernadero no se trata con dron. Punto. En Frontera eso obliga a separar parcela a parcela la piña descubierta de la cubierta antes de ofertar nada, igual que la papaya, que en Canarias va habitualmente bajo malla [VERIFICAR: papaya en El Golfo]. Con brisa marina fuerte tampoco se vuela.
 
-Antes de ofertar recogemos ubicación, cultivo, superficie, accesos y cubiertas de cada parcela, planificamos el vuelo sobre el mapa y aplicamos la dosis de etiqueta dentro del plan autorizado; si varios productores agrupan parcelas, la salida desde La Palma rinde más.
+Antes de ofertar recogemos ubicación, cultivo, superficie, accesos y cubiertas de cada parcela, planificamos el vuelo sobre el mapa y aplicamos el producto que elijas, permitido en tu cultivo, a la dosis de su etiqueta; si varios productores agrupan parcelas, la salida desde La Palma rinde más.
 
-El papel: España prohíbe con carácter general tratar desde el aire con fitosanitarios; los casos especiales pasan por autorización previa del órgano autonómico competente y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). El dron es tratamiento aéreo para el Ministerio (nota MAPA–AESA de 2018) y Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo PDRA-S01.
+El papel: Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo PDRA-S01, con piloto certificado, y antes de aceptar una parcela de El Golfo la sitúa en el mapa de zonas geográficas de UAS de ENAIRE. Nada de volar con brisa fuerte, lluvia o niebla, y nada bajo malla.
 
 ## Platanera, viña y frutales: los otros cultivos de Frontera
 
@@ -53,10 +53,10 @@ La viña, en las subzonas Valle del Golfo y Sabinosa, forma parte de las aproxim
 ## Preguntas frecuentes sobre el dron agrícola en Frontera
 
 ### ¿Se puede tratar con dron la piña tropical de El Golfo?
-La que esté al aire libre, sí, con producto cuya autorización incluya la aplicación aérea y plan aprobado. La que esté bajo malla o invernadero, no.
+La que esté al aire libre, sí, con foliares, bioestimulantes o correctores de uso permitido en piña, a dosis de etiqueta. La que esté bajo malla o invernadero, no.
 
 ### ¿El dron sirve contra la cochinilla de la piña?
-Llega a lo que está a la vista en la planta. Producto y dosis los marca la etiqueta y la autorización vigente; la excepcional de 2023 no implica uso aéreo.
+No. La cochinilla y el complejo viral los llevan el Cabildo y sanidad vegetal del Gobierno de Canarias. El dron se usa en la piña para abonado foliar y bioestimulantes, no contra la plaga.
 
 ### ¿Qué parte de la piña de Frontera está bajo malla?
 No lo sabemos con cifra. El único dato es de 1988, cuando la mayoría iba al aire libre con algunas parcelas bajo malla e invernadero. Por eso vemos cada finca antes.
@@ -74,9 +74,9 @@ Mándanos la parcela en un mapa, cultivo, superficie y, en la piña, si va descu
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Frontera",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en la piña tropical al aire libre del Valle de El Golfo, la platanera de costa y la viña de Frontera, con desplazamiento desde La Palma y bajo disponibilidad.",
+      "name": "Tratamientos agrícolas con dron en Frontera",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en la piña tropical al aire libre del Valle de El Golfo, la platanera de costa y la viña de Frontera, con desplazamiento desde La Palma y bajo disponibilidad.",
       "url": "https://agrodroncanarias.es/dron-agricola-el-hierro/frontera/",
       "provider": {
         "@type": "LocalBusiness",
@@ -101,12 +101,12 @@ Mándanos la parcela en un mapa, cultivo, superficie y, en la piña, si va descu
         {
           "@type": "Question",
           "name": "¿Se puede tratar con dron la piña tropical de El Golfo?",
-          "acceptedAnswer": { "@type": "Answer", "text": "La que esté al aire libre, sí, con producto cuya autorización incluya la aplicación aérea y plan aprobado. La que esté bajo malla o invernadero, no." }
+          "acceptedAnswer": { "@type": "Answer", "text": "La que esté al aire libre, sí, con foliares, bioestimulantes o correctores de uso permitido en piña, a dosis de etiqueta. La que esté bajo malla o invernadero, no." }
         },
         {
           "@type": "Question",
           "name": "¿El dron sirve contra la cochinilla de la piña?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Llega a lo que está a la vista en la planta. Producto y dosis los marca la etiqueta y la autorización vigente; la excepcional de 2023 no implica uso aéreo." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. La cochinilla y el complejo viral los llevan el Cabildo y sanidad vegetal del Gobierno de Canarias. El dron se usa en la piña para abonado foliar y bioestimulantes, no contra la plaga." }
         },
         {
           "@type": "Question",

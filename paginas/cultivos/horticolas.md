@@ -34,7 +34,7 @@ En Lanzarote la hortícola es otra cosa: cebolla sobre enarenado de picón en Ti
 
 ## Qué encaja con dron y qué va bajo túnel
 
-Encaja lo que crece al aire libre: cebolla, col, lechuga, zanahoria, judía, millo y el calabacín o el pepino que se cultivan sin cubierta. El millo, aunque sea alto, se sobrevuela sin problema. Lo que carga el dron es un abono foliar, un bioestimulante o un corrector de carencias de uso permitido en esa hortaliza: productos pensados para el vigor de la planta y para que una tabla de col o de cebolla se rehaga tras una racha de calor, un alisio seco en el jable o un trasplante que ha costado arraigar.
+Encaja lo que crece al aire libre: cebolla, col, lechuga, zanahoria, judía, millo y el calabacín o el pepino sin cubierta. El millo, aunque sea alto, se sobrevuela sin problema. Lo que carga el dron es abono foliar, bioestimulante o corrector de carencias de uso permitido en esa hortaliza, pensado para el vigor de la planta y para que una tabla de col o cebolla se rehaga tras una racha de calor, un alisio seco en el jable o un trasplante que ha costado arraigar.
 
 No encaja lo que va bajo túnel, malla o invernadero. Parte del calabacín y del pepino se cultiva protegido, sin porcentaje con fuente [VERIFICAR: proporción bajo cubierta]; la fresa de Valsequillo va bajo túnel [VERIFICAR]; las flores de Guía, bajo invernadero. En una misma finca se trata la parte descubierta y se deja la otra.
 
@@ -42,7 +42,7 @@ No encaja lo que va bajo túnel, malla o invernadero. Parte del calabacín y del
 
 El manual de plagas de Agrocabildo de 2026 cita el trips de la cebolla (Thrips tabaci) y, como polífagas que pasan de un cultivo a otro, la araña roja, la mosca blanca y la lagarta (Chrysodeixis chalcites). De otras plagas y enfermedades de col, lechuga o calabacín en Canarias no hay fuente leída ni calendario de riesgo [VERIFICAR: avisos de hortícolas por isla].
 
-El trips se esconde en la base de las hojas de la cebolla y la mosca blanca en la cara inferior; la lagarta y la araña roja van más a la vista. Su control es asunto de los servicios de sanidad vegetal de cada Cabildo y de las herramientas que ellos indican, no del dron: una pulverización con dron en la huerta lleva nutrición foliar, no va contra el bicho.
+Su control es asunto de sanidad vegetal de cada Cabildo y de las herramientas que ellos indican (trampas, control biológico, labores), no del dron: una pulverización con dron en la huerta lleva nutrición foliar, no va contra el bicho.
 
 ## Cómo se organiza un dron agrícola para hortalizas en una finca de medianías
 
@@ -50,13 +50,13 @@ Primero los datos: municipio, cota, qué hay en cada tabla y cuándo se recoge, 
 
 Los 40 litros del T50 son la medida justa: un cuarto de hectárea de col va con una carga y la máquina se queda en el camino. El radar de matriz en fase y la visión binocular mantienen la altura sobre cada bancal; el caudal va de 16 L/min con dos boquillas centrífugas a 24 con cuatro (DJI).
 
-Sobre la norma, lo justo. Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el PDRA-S01, con piloto certificado, y el plano de cada finca se contrasta con las zonas geográficas de UAS de ENAIRE antes de salir. Solo se cargan productos de uso permitido en la hortaliza que toca, a la dosis de su etiqueta, y solo sobre tablas descubiertas. Si el parte da viento fuerte, lluvia o niebla cerrada en Fontanales, se aplaza.
+Sobre la norma, lo justo. Agrodrón vuela en la categoría específica de AESA/EASA (escenarios STS o PDRA-S01) con piloto certificado y contrasta el plano de cada finca con las zonas geográficas de UAS de ENAIRE. Solo productos de uso permitido en la hortaliza que toca, a dosis de etiqueta, y solo sobre tablas descubiertas. Si el parte da viento fuerte, lluvia o niebla cerrada en Fontanales, se aplaza.
 
 [IMAGEN: Cebollas sobre enarenado de picón negro en Tinajo con un dron agrícola bajo el cielo del alisio | alt: Cebolla de Lanzarote en enarenado de picón en Tinajo con dron pulverizador]
 
 ## Islas y municipios con huerta al aire libre
 
-Gran Canaria: [tratamientos con dron en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/) y, en detalle, [dron agrícola en Moya](https://agrodroncanarias.es/dron-agricola-gran-canaria/moya/), [dron agrícola en Santa María de Guía](https://agrodroncanarias.es/dron-agricola-gran-canaria/santa-maria-de-guia/) y [dron agrícola en Vega de San Mateo](https://agrodroncanarias.es/dron-agricola-gran-canaria/vega-de-san-mateo/); Teror aparece en la página de la isla. Tenerife: [tratamientos con dron en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/). Lanzarote: [tratamientos con dron en Lanzarote](https://agrodroncanarias.es/dron-agricola-lanzarote/) y [dron agrícola en Teguise](https://agrodroncanarias.es/dron-agricola-lanzarote/teguise/), con el jable y Los Valles; San Bartolomé tiene página propia.
+Gran Canaria: [tratamientos con dron en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/) y, en detalle, [dron agrícola en Moya](https://agrodroncanarias.es/dron-agricola-gran-canaria/moya/), [dron agrícola en Santa María de Guía](https://agrodroncanarias.es/dron-agricola-gran-canaria/santa-maria-de-guia/) y [dron agrícola en Vega de San Mateo](https://agrodroncanarias.es/dron-agricola-gran-canaria/vega-de-san-mateo/); Teror aparece en la página de la isla. Tenerife: [tratamientos con dron en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/). Lanzarote: [tratamientos con dron en Lanzarote](https://agrodroncanarias.es/dron-agricola-lanzarote/) y [dron agrícola en Teguise](https://agrodroncanarias.es/dron-agricola-lanzarote/teguise/), con el jable y Los Valles;
 
 ## Preguntas frecuentes sobre el dron en las hortalizas canarias
 
@@ -67,7 +67,7 @@ Sí, es el tamaño habitual en las medianías de Gran Canaria. Una carga de 40 l
 No. Bajo túnel, malla o invernadero el producto no llega al cultivo. Se trata la parte de la finca que esté descubierta.
 
 ### ¿Se puede aplicar un foliar con dron si cosecho a diario?
-Sí, si la etiqueta del producto lo permite cerca del corte. Las tablas en recolección se dejan fuera del plano de vuelo y se vuela bajo para no derivar a la vecina; el dron pulveriza justo la tabla que toca.
+Sí, si la etiqueta lo permite cerca del corte. Las tablas en recolección quedan fuera del plano de vuelo y se vuela bajo para no derivar a la vecina.
 
 ### ¿Qué plagas de hortalizas están documentadas en Canarias?
 El manual de plagas de Agrocabildo de 2026 recoge el trips de la cebolla y, como polífagas, araña roja, mosca blanca y lagarta. De col, lechuga y calabacín faltan avisos propios en las fuentes consultadas. El dron no se usa contra ninguna de ellas.
@@ -118,7 +118,7 @@ Mándanos municipio, qué tienes sembrado y en qué tabla, superficie, acceso y 
         {
           "@type": "Question",
           "name": "¿Se puede aplicar un foliar con dron si cosecho a diario?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si la etiqueta del producto lo permite cerca del corte. Las tablas en recolección se dejan fuera del plano de vuelo y se vuela bajo para no derivar a la vecina; el dron pulveriza justo la tabla que toca." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si la etiqueta lo permite cerca del corte. Las tablas en recolección quedan fuera del plano de vuelo y se vuela bajo para no derivar a la vecina." }
         },
         {
           "@type": "Question",

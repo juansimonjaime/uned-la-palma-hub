@@ -3,7 +3,7 @@ title: "Dron agrícola en Teguise | Agrodrón Canarias"
 slug: "teguise"
 meta_description: "Dron agrícola en Teguise para viña de la DO Lanzarote, cebolla y batata del jable y papa de Los Valles. Con desplazamiento desde La Palma, bajo consulta."
 keyword: "dron agrícola en Teguise"
-keywords_secundarias: "fumigar con dron en Teguise, tratamiento con drones en el jable de Lanzarote, dron fitosanitario Lanzarote, pulverización aérea en Los Valles, dron para viña en enarenado"
+keywords_secundarias: "pulverización con dron en Teguise, tratamiento con drones en el jable de Lanzarote, dron pulverizador Lanzarote, abonado foliar con dron en Los Valles, dron para viña en enarenado"
 parent: "dron-agricola-lanzarote"
 nivel: "B"
 isla: "Lanzarote"
@@ -20,7 +20,7 @@ Teguise es el municipio más extenso de Lanzarote y junta tres sistemas de culti
 
 El jable es arena marina que el alisio arrastra desde Famara en una franja de noreste a suroeste entre Teguise y San Bartolomé. Hace de acolchado y permite cultivar casi sin riego. Sobre él van batata, cebolla y la sandía de Soo.
 
-Cultivos bajos en un llano abierto, sin bancales ni paredes. Para fumigar con dron es la zona más cómoda de Teguise: parcelas regulares, pocos obstáculos y una arena que no conviene pisar con tractor. La pega es el viento.
+Cultivos bajos en un llano abierto, sin bancales ni paredes. Para pulverizar con dron es la zona más cómoda de Teguise: parcelas regulares, pocos obstáculos y una arena que no conviene pisar con tractor. La pega es el viento.
 
 ## Los Valles: papa bajo las nieblas de Famara
 
@@ -40,9 +40,9 @@ El norte es malpaís y conos volcánicos, y la costa no figura en los datos agra
 
 ## Lo que está documentado: plagas, un hongo y la sequía
 
-En viña, el Consejo Regulador avisó de un hongo en varias fincas de la isla sin identificar el patógeno [VERIFICAR: hongo y fecha del aviso]. La filoxera se rastrea desde la Orden de agosto de 2025 y Lanzarote sigue sin positivos tras más de 1.300 inspecciones. En papa, el MAPA sitúa la polilla guatemalteca en almacenes, no en campo. En cebolla, el manual fitosanitario de Agrocabildo de 2026 recoge el trips Thrips tabaci.
+En viña, el Consejo Regulador avisó de un hongo en varias fincas de la isla sin identificar el patógeno [VERIFICAR: hongo y fecha del aviso]. La filoxera se rastrea desde la Orden de agosto de 2025 y Lanzarote sigue sin positivos tras más de 1.300 inspecciones. En papa, el MAPA sitúa la polilla guatemalteca en almacenes, no en campo. En cebolla, el manual de plagas de Agrocabildo de 2026 recoge el trips Thrips tabaci.
 
-La sequía ha pesado más que cualquier plaga: la uva de la isla pasó de 3,3 millones de kilos en 2023 a 1,4 en 2024 y a unos 750.000 en 2025, la tercera peor cosecha con registros, por estrés hídrico y brotación irregular (Consejo Regulador vía RTVC).
+La sequía ha pesado más que cualquier plaga: la uva de la isla pasó de 3,3 millones de kilos en 2023 a 1,4 en 2024 y a unos 750.000 en 2025, la tercera peor cosecha con registros, por estrés hídrico y brotación irregular (Consejo Regulador vía RTVC). Las plagas las lleva sanidad vegetal; el dron pinta en el foliar o el bioestimulante de la cepa castigada por la sed.
 
 ## El alisio manda: cómo se vuela un dron agrícola en Teguise
 
@@ -50,11 +50,11 @@ El alisio del noreste sopla casi a diario y en el jable no hay cortavientos. Ant
 
 El DJI Agras T50 carga 40 litros y pulveriza hasta 16 L/min con dos boquillas o 24 con cuatro (ficha técnica de DJI). Su radar y la visión binocular siguen el relieve, detectan paredes y postes y ajustan la velocidad a la pendiente de Los Valles. Sobre batata o cebolla se vuela bajo para que la gota llegue antes de que el viento la mueva.
 
-Cada tratamiento lleva trámite: la aplicación aérea de fitosanitarios está prohibida en España con carácter general y solo se autoriza en casos especiales por el órgano competente autonómico, con plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28); el dron cuenta como tratamiento aéreo (nota MAPA-AESA, 2018).
+Dos comprobaciones y una regla antes de despegar: piloto en la categoría específica de AESA/EASA (operador STS, PDRA-S01); parcela situada en el mapa de zonas geográficas de UAS de ENAIRE; y en el depósito solo producto de uso permitido en el cultivo, a dosis de etiqueta.
 
 Agrodrón agrupa fincas de Teguise por viaje según disponibilidad. Más en [tratamientos con dron en Lanzarote](https://agrodroncanarias.es/dron-agricola-lanzarote/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [dron agrícola para hortícolas](https://agrodroncanarias.es/dron-agricola-horticolas/) y [dron agrícola en San Bartolomé](https://agrodroncanarias.es/dron-agricola-lanzarote/san-bartolome/).
 
-## Preguntas frecuentes sobre fumigar con dron en Teguise
+## Preguntas frecuentes sobre pulverizar con dron en Teguise
 
 ### ¿Se puede tratar la batata del jable con dron si el viento no para?
 Cuando hay ventana, sí. El jable es llano y abierto, así que el límite es la deriva: el piloto mide el viento en la finca y vuela bajo cuando las rachas lo permiten.
@@ -63,7 +63,7 @@ Cuando hay ventana, sí. El jable es llano y abierto, así que el límite es la 
 Planta a planta: cada hoyo entra en el plan de vuelo y el dron suelta la dosis sobre la cepa, no sobre el picón. El zoco cuenta como un obstáculo más para el radar.
 
 ### ¿Sirve el dron contra la polilla guatemalteca en la papa de Los Valles?
-No. El MAPA la localiza en almacenes de Lanzarote, no en campo, y es plaga de tubérculo. El dron encaja con problemas de hoja, con producto autorizado para aplicación aérea.
+No. El MAPA la localiza en almacenes de Lanzarote, no en campo, y es plaga de tubérculo: cosa del Cabildo. En Los Valles el dron sirve para abonado foliar de la papa, no contra plagas.
 
 ### ¿Cuánto tarda Agrodrón en venir a Teguise desde La Palma?
 No damos plazos. En Lanzarote el servicio es con desplazamiento y bajo disponibilidad: agrupamos fincas de la zona y te decimos cuándo es posible.
@@ -78,9 +78,9 @@ Dinos si tu parcela está en el jable, en Los Valles o en el borde de La Geria, 
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Teguise",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en Teguise, Lanzarote: batata, cebolla y sandía del jable, papa de Los Valles y viña en enarenado del sector de La Geria. Servicio con desplazamiento desde La Palma y bajo disponibilidad.",
+      "name": "Tratamientos agrícolas con dron en Teguise",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en Teguise, Lanzarote: batata, cebolla y sandía del jable, papa de Los Valles y viña en enarenado del sector de La Geria. Servicio con desplazamiento desde La Palma y bajo disponibilidad.",
       "url": "https://agrodroncanarias.es/dron-agricola-lanzarote/teguise/",
       "provider": {
         "@type": "LocalBusiness",
@@ -115,7 +115,7 @@ Dinos si tu parcela está en el jable, en Los Valles o en el borde de La Geria, 
         {
           "@type": "Question",
           "name": "¿Sirve el dron contra la polilla guatemalteca en la papa de Los Valles?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. El MAPA la localiza en almacenes de Lanzarote, no en campo, y es plaga de tubérculo. El dron encaja con problemas de hoja, con producto autorizado para aplicación aérea." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. El MAPA la localiza en almacenes de Lanzarote, no en campo, y es plaga de tubérculo: cosa del Cabildo. En Los Valles el dron sirve para abonado foliar de la papa, no contra plagas." }
         },
         {
           "@type": "Question",

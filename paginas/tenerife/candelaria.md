@@ -27,11 +27,11 @@ Candelaria tiene 184,5 hectáreas de viña como primer cultivo, en su mayoría d
 
 El oídio es endémico en Canarias (guía de la viña de Agrocabildo, 2020). El Cabildo publica avisos por comarca de mildiu, oídio y botritis (datos.tenerife.es) y en una campaña reciente dio riesgo alto de oídio en las zonas bajas de la isla la semana del 30 de abril al 7 de mayo. Para una viña de secano de Araya o Igueste, esa es la primera fecha que mirar.
 
-Es también la época de plantar la hortaliza de verano al aire libre, el 95 % de las 56,8 hectáreas, con las plagas polífagas que recoge el manual de plagas de Agrocabildo de 2026: araña roja, mosca blanca, lagarta y trips de la cebolla. En la hortaliza recién plantada el dron pone abonado foliar de arranque; las plagas, por la vía que marque el Cabildo.
+Es también la época de plantar la hortaliza de verano al aire libre, el 95 % de las 56,8 hectáreas, con las plagas que recoge el manual de plagas de Agrocabildo de 2026: araña roja, mosca blanca, lagarta y trips de la cebolla. Ahí el dron pone abonado foliar de arranque; las plagas, por la vía del Cabildo.
 
 ## Verano: envero, botritis y vendimia con medidas por filoxera
 
-El boletín de Agrocabildo de finales de julio mantiene riesgo elevado de oídio, medio de mildiu y pide atención a la botritis en envero. Es el último tramo con recorrido para una aplicación foliar con dron sobre la viña antes de la vendimia, con producto de uso permitido en viña y a dosis de etiqueta.
+El boletín de Agrocabildo de finales de julio mantiene riesgo elevado de oídio, medio de mildiu y pide atención a la botritis en envero. Es el último tramo con recorrido para una aplicación foliar con dron sobre la viña antes de la vendimia, siempre a dosis de etiqueta.
 
 La filoxera, detectada en Tenerife en 2025, dejó en 2026 un total de 16 positivos en 5.429 prospecciones y restricciones al movimiento de uva en vendimia (AtlánticoHoy) [VERIFICAR: si Candelaria está en la zona demarcada]. No se trata con pulverización, pero cambia la logística del verano.
 
@@ -49,16 +49,16 @@ La costa está urbanizada hasta los 100 metros; la agricultura vive en las media
 
 ## Viento del este y humedad: cuándo se vuela
 
-Candelaria mira al este-sureste, en la transición entre el norte húmedo y el sur árido, y el alisio entra por el este sobre las medianías de secano (web municipal, Wikipedia Valle de Güímar). El viento se mide en la parcela antes de despegar; si sopla fuerte, o hay lluvia o niebla, se aplaza. Las boquillas centrífugas, 16 litros por minuto con dos y 24 con cuatro, se ajustan al caudal de la etiqueta.
+Candelaria mira al este-sureste, en la transición entre el norte húmedo y el sur árido, y el alisio entra por el este sobre las medianías de secano (web municipal, Wikipedia Valle de Güímar). El viento se mide en la parcela antes de despegar; si sopla fuerte, llueve o hay niebla, se aplaza. Las boquillas centrífugas, 16 litros por minuto con dos y 24 con cuatro, se ajustan al caudal de la etiqueta.
 
-Quien vuela es un operador en categoría específica de AESA/EASA (escenarios estándar o PDRA-S01) con piloto certificado; lo que cae es un abono foliar, un bioestimulante o un corrector de uso permitido en viña u hortaliza, a dosis de etiqueta y solo sobre cultivo descubierto. Cada parcela de Igueste o Araya se comprueba antes en el mapa de zonas geográficas de UAS de ENAIRE.
+Quien vuela es un operador en categoría específica de AESA/EASA (escenarios estándar o PDRA-S01) con piloto certificado; lo que cae es un abono foliar, un bioestimulante o un corrector de uso permitido en viña u hortaliza, a dosis de etiqueta, solo en cultivo descubierto. Cada parcela de Igueste o Araya se mira antes en el mapa de zonas geográficas de UAS de ENAIRE.
 
 Más contexto: [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [dron agrícola para hortícolas](https://agrodroncanarias.es/dron-agricola-horticolas/), el hub de [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/) y la página vecina de [Güímar](https://agrodroncanarias.es/dron-agricola-tenerife/guimar/). Arafo, el tercer municipio del valle, no tiene página propia.
 
 ## Preguntas frecuentes sobre el dron agrícola en Candelaria
 
 ### ¿En qué meses encaja un tratamiento con dron en la viña de Candelaria?
-Entre la brotación y el envero, cuando el abonado foliar y los bioestimulantes tienen sentido en la parra. Como venimos desde La Palma, las fechas se cierran con antelación.
+Entre la brotación y el envero, cuando el abonado foliar tiene sentido en la parra. Como venimos desde La Palma, las fechas se cierran con antelación.
 
 ### ¿Tratáis el tomate bajo plástico de Candelaria?
 No. Ese 5 % de la hortaliza va cubierto y el dron no puede entrar; el 95 % restante, al aire libre, sí.
@@ -109,7 +109,7 @@ En [Agrodrón Canarias](https://agrodroncanarias.es/) nos cuentas la zona, el cu
         {
           "@type": "Question",
           "name": "¿En qué meses encaja un tratamiento con dron en la viña de Candelaria?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Entre la brotación y el envero, cuando el abonado foliar y los bioestimulantes tienen sentido en la parra. Como venimos desde La Palma, las fechas se cierran con antelación." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Entre la brotación y el envero, cuando el abonado foliar tiene sentido en la parra. Como venimos desde La Palma, las fechas se cierran con antelación." }
         },
         {
           "@type": "Question",

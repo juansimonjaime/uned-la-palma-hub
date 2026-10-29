@@ -42,17 +42,17 @@ La campaña 2014-15 cerró con 63.000 t, un 82 % menos que las 352.000 t del añ
 
 La Tuta absoluta se detectó en Canarias en diciembre de 2008 con trampas de feromonas en todas las zonas tomateras; estaba en Gran Canaria, Tenerife y Fuerteventura (EPPO, 2009). En 2010 se le atribuyó la pérdida del 40 % de la producción canaria (consumer.es) y en el invierno de 2019 los productores de Tenerife y Gran Canaria la declararon fuera de control (Phytoma).
 
-El Cabildo de Gran Canaria destinó 300.000 euros a su control ecológico en la zafra 2024-25, sobre todo en tomate de mercado local. La larva mina hoja y fruto desde dentro; su control va por las trampas y el manejo integrado que marcan los Cabildos, no por una pulverización con dron.
+El Cabildo de Gran Canaria destinó 300.000 euros a su control ecológico en la zafra 2024-25, sobre todo en tomate de mercado local. La larva mina hoja y fruto desde dentro; su control va por trampas y manejo integrado (Cabildos), no por el dron.
 
 La mosca blanca (Bemisia tabaci y Trialeurodes vaporariorum) transmite el ToCV, detectado en Tenerife y Gran Canaria desde 1997 (revista Granja, Cabildo de Gran Canaria). De ToBRFV y trips no hay dato canario leído [VERIFICAR].
 
 ## Dron agrícola para tomate: cuándo tiene sentido pedirlo
 
-Tiene sentido si la parcela está descubierta, si lo que quieres aplicar es un abono foliar, un bioestimulante o un corrector de carencias de uso permitido en tomate, y si el acceso o la pendiente hacen pesada la mochila. El T50 carga 40 litros, de sobra para parcelas de vega de Telde de una fracción de hectárea, y sigue el relieve con radar y visión binocular.
+Tiene sentido si la parcela está descubierta, si lo que quieres aplicar es un foliar, un bioestimulante o un corrector de uso permitido en tomate, y si el acceso o la pendiente hacen pesada la mochila. El T50 carga 40 litros, de sobra para parcelas de vega de Telde de una fracción de hectárea, y sigue el relieve con radar y visión binocular.
 
-En Fuerteventura manda el viento: en Antigua la media fue de 21,6 km/h en el aeropuerto (año 2000), con 136,6 mm de lluvia anual (ULPGC), así que las ventanas de vuelo son cortas y se planifican con el parte. Una mata entutorada que lleva semanas de alisio y sol es, de hecho, el caso típico en que se plantea un foliar pensado para sostener el vigor; lo que haga, lo dice su etiqueta.
+En Fuerteventura manda el viento: en Antigua la media fue de 21,6 km/h en el aeropuerto (año 2000), con 136,6 mm de lluvia anual (ULPGC), así que las ventanas de vuelo son cortas y se planifican con el parte. Una mata entutorada tras semanas de alisio y sol es el caso típico en que se plantea un foliar pensado para sostener el vigor.
 
-Dos cosas sobre la norma. El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el análisis de riesgo predefinido PDRA-S01 (AESA, Reglamento de Ejecución (UE) 2019/947), y cada plano de vuelo se contrasta con las zonas geográficas de UAS de ENAIRE, que en una vega cercana a un aeropuerto pueden dejar parcelas fuera. Y sobre el producto: solo de uso permitido en tomate, a dosis de etiqueta, sobre planta descubierta.
+Dos cosas sobre la norma. El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el análisis de riesgo predefinido PDRA-S01 (AESA, Reglamento de Ejecución (UE) 2019/947), y cada plano de vuelo se contrasta con las zonas geográficas de UAS de ENAIRE (cercanía de aeropuertos, zonas restringidas). Y sobre el producto: solo de uso permitido en tomate, a dosis de etiqueta, sobre planta descubierta.
 
 [IMAGEN: Tomate entutorado al aire libre en una vega de Telde, con cortavientos de caña y el macizo al fondo | alt: Tomate de mercado local al aire libre en Telde, Gran Canaria]
 

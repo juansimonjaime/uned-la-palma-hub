@@ -3,7 +3,7 @@ title: "Dron agrícola para cítricos en Canarias | Agrodrón"
 slug: "dron-agricola-citricos"
 meta_description: "Dron agrícola para cítricos en Canarias: naranjos de Telde, Agaete, Valsequillo y La Palma tratados desde arriba sin pisar la vega. Base en La Palma."
 keyword: "dron agrícola para cítricos"
-keywords_secundarias: "fumigar naranjos con dron, tratamiento con drones en cítricos, dron fitosanitario naranja de Telde, pulverización aérea en naranjos, dron agrícola Agaete cítricos"
+keywords_secundarias: "pulverización con dron en naranjos, tratamiento con drones en cítricos, dron pulverizador naranja de Telde, abonado foliar con dron en naranjos, dron agrícola Agaete cítricos"
 parent: ""
 nivel: "cultivo"
 isla: ""
@@ -12,7 +12,7 @@ municipio: ""
 
 # Dron agrícola para cítricos en Canarias: el año del naranjo visto desde arriba
 
-El naranjo marca su propio calendario: florece en primavera, cuaja y engorda en verano y se recoge entre el otoño y la primavera siguiente según variedad, con flor y fruta a la vez durante semanas. Casi todos los tratamientos de hoja caen entre brotación y cuajado, cuando la copa está más tierna y cerrada. Un dron agrícola para cítricos entra en ese calendario con una ventaja: trata la copa entera desde arriba sin meter ruedas entre las filas.
+El naranjo marca su propio calendario: florece en primavera, cuaja y engorda en verano y se recoge entre el otoño y la primavera siguiente según variedad, con flor y fruta a la vez durante semanas. Casi todas las aplicaciones de hoja caen entre brotación y cuajado, cuando la copa está más tierna y cerrada. Un dron agrícola para cítricos entra en ese calendario con una ventaja: trata la copa entera desde arriba sin meter ruedas entre las filas.
 
 [IMAGEN: Huerto de naranjos en la vega de Telde con el fruto madurando, muros de piedra y una pista de tierra entre las filas | alt: Naranjos de Telde, Gran Canaria, en la vega del Valle de los Nueve]
 
@@ -48,13 +48,15 @@ Agrodrón Canarias sale de Santa Cruz de La Palma, así que en la isla no hay de
 
 Conviene ser claro con lo que dicen las fuentes. El cotonet de Sudáfrica (Delottococcus aberiae) tiene un plan de acción del Ministerio de Agricultura de 2024 que lo sitúa en la Comunidad Valenciana, Cataluña y Murcia, sin mencionar Canarias [VERIFICAR: estatus en Canarias con Sanidad Vegetal del Gobierno de Canarias]. No te diremos que lo tienes en Telde o Agaete sin una fuente.
 
-Minador de los cítricos, piojo rojo y mosca de la fruta (Ceratitis capitata) son plagas habituales del naranjo en el resto de España, pero sin fuente canaria leída para esta página [VERIFICAR: avisos fitosanitarios de los Cabildos y del Gobierno de Canarias]. Si tu técnico los tiene identificados, con eso trabajamos: el dron aplica lo que la etiqueta y el plan de aplicación permitan.
+Minador de los cítricos, piojo rojo y mosca de la fruta (Ceratitis capitata) son plagas habituales del naranjo en el resto de España, pero sin fuente canaria leída para esta página [VERIFICAR: avisos de sanidad vegetal de los Cabildos y del Gobierno de Canarias]. Si tu técnico los tiene identificados, el control va por donde él y Sanidad Vegetal indiquen, no por el dron.
+
+Su trabajo en el naranjo es otro: abonado foliar, correctores de carencias y bioestimulantes de uso permitido en cítricos, pensados para el vigor del árbol tras un verano seco en una vega de 130 a 300 mm de lluvia al año, o tras la poda. Finalidad del producto; el resultado no se promete.
 
 [IMAGEN: Bancales de medianías en Valsequillo con naranjos jóvenes y almendros, muros de piedra seca y la caldera de Tenteniguada al fondo | alt: Cítricos en bancales de Valsequillo de Gran Canaria]
 
 ## El papel que va antes del vuelo
 
-El Ministerio de Agricultura considera los tratamientos con dron como tratamientos aéreos (nota informativa MAPA-AESA de 2018), y eso los somete al mismo régimen de autorización previa del Gobierno de Canarias que cualquier aplicación aérea. El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el análisis de riesgo PDRA-S01, lleva más de diez años de experiencia profesional y es radiofonista.
+Es menos de lo que parece. El piloto de Agrodrón, con más de diez años de experiencia profesional y radiofonista, vuela en la categoría específica de AESA/EASA (STS o PDRA-S01). Cada huerto se mira antes en el mapa de zonas geográficas de UAS de ENAIRE, y en Telde eso pesa: el aeropuerto de Gran Canaria está dentro del municipio y su zona condiciona qué vegas se vuelan. Solo productos de uso permitido en cítricos, a dosis de etiqueta, sobre huertos a cielo abierto; con viento, lluvia o niebla se cambia el día.
 
 Qué datos necesitamos: municipio, hectáreas, altura de los árboles, accesos, obstáculos y el producto que el técnico quiera aplicar. Con eso se planifica el vuelo sobre el plano de la parcela, se comprueba el viento el día señalado y se registra el tratamiento.
 
@@ -65,6 +67,9 @@ Depende del producto: en floración manda la etiqueta y la protección de las ab
 
 ### ¿El dron llega bien al interior de la copa del naranjo?
 La gota cae desde arriba empujada por el aire de los rotores. En copas densas y sin podar la parte interior recibe menos; se habla antes y, si hace falta, se combina con una poda de aclareo.
+
+### ¿Qué aplica el dron en un naranjo?
+Abonos foliares, correctores de carencias y bioestimulantes de uso permitido en cítricos, a la dosis de su etiqueta. El producto lo eliges con tu técnico; nosotros ponemos el vuelo y el registro.
 
 ### ¿Tratáis los naranjos de Agaete que están bajo sombra de otros frutales?
 Los naranjos a cielo abierto sí. Lo que esté bajo la sombra de frutales grandes o en parcelas tan estrechas que no permitan un vuelo seguro se descarta en la visita previa.
@@ -77,7 +82,7 @@ Depende de la superficie, del porte de los árboles, de los accesos y del produc
 
 ## Pide presupuesto para tus naranjos
 
-Dinos dónde está el huerto, cuántos árboles o hectáreas tienes y qué plaga te preocupa. En [Agrodrón Canarias](https://agrodroncanarias.es/) te decimos si el dron encaja y te mandamos presupuesto: sin desplazamiento en La Palma, con desplazamiento y según disponibilidad en Gran Canaria y Tenerife.
+Dinos dónde está el huerto, cuántos árboles o hectáreas tienes y qué quieres aplicar. En [Agrodrón Canarias](https://agrodroncanarias.es/) te decimos si el dron encaja y te mandamos presupuesto: sin desplazamiento en La Palma, con desplazamiento y según disponibilidad en Gran Canaria y Tenerife.
 
 ```json
 {
@@ -85,9 +90,9 @@ Dinos dónde está el huerto, cuántos árboles o hectáreas tienes y qué plaga
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola para cítricos en Canarias",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 sobre naranjos y otros cítricos al aire libre en Canarias: vegas de Telde, valle de Agaete, bancales de Valsequillo y huertas de La Palma. Base en Santa Cruz de La Palma.",
+      "name": "Tratamientos agrícolas con dron para cítricos en Canarias",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización con dron DJI Agras T50 de abonos foliares, correctores y bioestimulantes sobre naranjos y otros cítricos al aire libre en Canarias: vegas de Telde, valle de Agaete, bancales de Valsequillo y huertas de La Palma. Base en Santa Cruz de La Palma.",
       "url": "https://agrodroncanarias.es/dron-agricola-citricos/",
       "provider": {
         "@type": "LocalBusiness",
@@ -114,6 +119,11 @@ Dinos dónde está el huerto, cuántos árboles o hectáreas tienes y qué plaga
           "@type": "Question",
           "name": "¿El dron llega bien al interior de la copa del naranjo?",
           "acceptedAnswer": { "@type": "Answer", "text": "La gota cae desde arriba empujada por el aire de los rotores. En copas densas y sin podar la parte interior recibe menos; se habla antes y, si hace falta, se combina con una poda de aclareo." }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué aplica el dron en un naranjo?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Abonos foliares, correctores de carencias y bioestimulantes de uso permitido en cítricos, a la dosis de su etiqueta. El producto lo eliges con tu técnico; nosotros ponemos el vuelo y el registro." }
         },
         {
           "@type": "Question",

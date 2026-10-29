@@ -1,9 +1,9 @@
 ---
 title: "Dron agrícola en Vega de San Mateo | Agrodrón Canarias"
 slug: "vega-de-san-mateo"
-meta_description: "Dron agrícola en Vega de San Mateo: el año de la papa y la huerta de medianías, en qué época encaja un tratamiento aéreo y cómo pedir presupuesto."
+meta_description: "Dron agrícola en Vega de San Mateo: el año de la papa y la huerta de medianías, en qué época encaja el dron y cómo pedir presupuesto."
 keyword: "dron agrícola en Vega de San Mateo"
-keywords_secundarias: "fumigar con dron en San Mateo, tratamiento con drones en papa de medianías, dron fitosanitario Gran Canaria, pulverización aérea Las Lagunetas, dron para hortalizas San Mateo"
+keywords_secundarias: "pulverización con dron en San Mateo, tratamiento con drones en papa de medianías, dron pulverizador Gran Canaria, abonado foliar con dron Las Lagunetas, dron para hortalizas San Mateo"
 parent: "dron-agricola-gran-canaria"
 nivel: "B"
 isla: "Gran Canaria"
@@ -22,23 +22,23 @@ Aviso previo: Agrodrón Canarias sale desde La Palma; en San Mateo el servicio l
 
 La polilla guatemalteca (Tecia solanivora) es la plaga de la papa documentada en el municipio: el Cabildo tiene en San Mateo un punto de recogida de papa afectada (Pellagofio). La misma fuente apunta que la plaga se agrava con la escasez de lluvia invernal.
 
-Contra la polilla el dron hace poco: se combate retirando tubérculo afectado, rotando y tratando el almacén. Si tu plan de aplicación incluye un foliar autorizado para uso aéreo, ese es el momento. Más en [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/).
+Contra la polilla el dron no hace nada: se combate retirando tubérculo afectado, rotando y tratando el almacén, como marca el Cabildo. En invierno puede entrar un abono foliar para la papa que ya está en hoja. Más en [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/).
 
 ## Primavera: hoja mojada y riesgo de mildiu
 
 Con la papa en plena hoja y la humedad del alisio, el mildiu (Phytophthora infestans) es la enfermedad que vigilan los técnicos: Agrocabildo emite avisos de riesgo alto por comarcas (2024) [VERIFICAR: calendario de avisos de mildiu en papa para las medianías de Gran Canaria e incidencia en San Mateo].
 
-Un fungicida preventivo con autorización expresa para aplicación aérea es lo que mejor encaja con el dron: cultivo bajo, bancal en pendiente y una ventana corta entre dos días de humedad. El T50 vuela cerca de la hoja siguiendo el relieve con el radar y adapta la velocidad a la pendiente.
+Del mildiu se ocupan esos avisos y tu técnico; el dron no lo trata. Lo que encaja es un bioestimulante para una papa con semanas de hoja mojada: cultivo bajo, bancal en pendiente y una ventana corta entre dos días de humedad. El T50 vuela cerca de la hoja siguiendo el relieve con el radar y adapta la velocidad a la pendiente.
 
 ## Verano y otoño: hortalizas, millo y frutales
 
 Pasada la papa, la vega se llena de hortalizas de mercado y millo, y en las fincas altas quedan manzana, pera y castaño, sin plagas documentadas con fuente local [VERIFICAR: hectáreas de frutales en San Mateo y plagas de manzano y peral en Gran Canaria]; no proponemos tratamientos sin saber si hacen falta.
 
-Las hortalizas al aire libre sí entran, con las plagas que recoge el manual fitosanitario de Agrocabildo 2026: trips, araña roja, mosca blanca y lagarta. Las flores bajo invernadero o malla, no: lo cubierto no se trata desde el aire. Mira [tratamientos con dron en hortícolas](https://agrodroncanarias.es/dron-agricola-horticolas/).
+Las hortalizas al aire libre sí entran; las plagas que Agrocabildo lista para la hortaliza (2026), trips, araña roja, mosca blanca y lagarta, son cosa de sanidad vegetal, no del dron. Las flores bajo invernadero o malla, no: lo cubierto no se trata desde el aire. Mira [tratamientos con dron en hortícolas](https://agrodroncanarias.es/dron-agricola-horticolas/).
 
 ## Cuándo encaja el dron agrícola en Vega de San Mateo
 
-La regla no depende del mes: cultivo al aire libre, producto autorizado para aplicación aérea y una ventana sin niebla ni viento fuerte. El mar de nubes del alisio se queda entre 800 y 1.500 metros (GEVIC), justo donde están la mayoría de las fincas; en Las Lagunetas y la cumbre la niebla es frecuente.
+La regla no depende del mes: cultivo al aire libre, producto de uso permitido a dosis de etiqueta y una ventana sin niebla ni viento fuerte. El mar de nubes del alisio se queda entre 800 y 1.500 metros (GEVIC), justo donde están la mayoría de las fincas; en Las Lagunetas y la cumbre la niebla es frecuente.
 
 Eso obliga a trabajar por horas: parte, vistazo a la finca a primera hora y decisión. Se habla antes de cerrar la salida: un viaje desde La Palma para no volar no le interesa a nadie.
 
@@ -52,7 +52,7 @@ Los obstáculos son los de un paisaje habitado: cables entre casas, castaños al
 
 ## Lo que hay que tener en orden antes de volar
 
-El Ministerio de Agricultura considera los tratamientos con dron como tratamientos aéreos (nota informativa MAPA–AESA de 2018), así que cada aplicación en San Mateo necesita autorización previa del Gobierno de Canarias y plan de aplicación. El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01. Tú aportas finca y producto; el expediente lo lleva Agrodrón.
+El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01, con certificado en vigor, y antes de cada salida comprueba las zonas geográficas de UAS de ENAIRE para la vega y Las Lagunetas. Tú aportas finca y producto, de uso permitido en tu cultivo; la dosis es la de la etiqueta y el vuelo, solo sobre cultivo descubierto.
 
 La isla, con 8.102,8 hectáreas cultivadas según el ISTAC de 2024, está en [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/). El vecino, sede de la Feria Insular de la Papa del Cabildo, tiene la suya: [dron agrícola en Teror](https://agrodroncanarias.es/dron-agricola-gran-canaria/teror/).
 
@@ -60,7 +60,7 @@ La isla, con 8.102,8 hectáreas cultivadas según el ISTAC de 2024, está en [dr
 
 ### ¿En qué época se puede tratar la papa de San Mateo con dron?
 
-Cuando el plan de aplicación aprobado prevea un foliar con producto autorizado para uso aéreo y haya ventana sin niebla. El dron no cambia el calendario de la papa; se ajusta a él.
+Cuando la papa está en hoja y toca abono foliar o bioestimulante, y haya ventana sin niebla. El dron no cambia el calendario de la papa; se ajusta a él.
 
 ### ¿La niebla de Las Lagunetas impide volar siempre?
 
@@ -68,7 +68,7 @@ No siempre, pero hay que contar con ella. Cuando la nube levanta y el viento lo 
 
 ### ¿Se pueden tratar los manzanos y perales de las fincas altas?
 
-Son árboles al aire libre y el dron puede sobrevolarlos. Lo que falta es saber si hace falta: no tenemos plagas documentadas para el manzano y el peral de San Mateo, y no se trata por tratar.
+Son árboles al aire libre y el dron puede sobrevolarlos con abono foliar de uso permitido en frutal; conviene que lo pida tu técnico, no se trata por tratar.
 
 ### ¿Qué superficie mínima hace falta para que compense venir desde La Palma?
 
@@ -84,9 +84,9 @@ Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) con la zon
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Vega de San Mateo",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en papa, hortalizas y millo al aire libre de las medianías de Vega de San Mateo, organizada según el calendario del cultivo, con desplazamiento desde La Palma y autorización previa para cada tratamiento.",
+      "name": "Tratamientos agrícolas con dron en Vega de San Mateo",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en papa, hortalizas y millo al aire libre de las medianías de Vega de San Mateo, organizada según el calendario del cultivo, con desplazamiento desde La Palma y productos de uso permitido a dosis de etiqueta.",
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/vega-de-san-mateo/",
       "provider": {
         "@type": "LocalBusiness",
@@ -111,7 +111,7 @@ Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) con la zon
         {
           "@type": "Question",
           "name": "¿En qué época se puede tratar la papa de San Mateo con dron?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Cuando el plan de aplicación aprobado prevea un foliar con producto autorizado para uso aéreo y haya ventana sin niebla. El dron no cambia el calendario de la papa; se ajusta a él." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Cuando la papa está en hoja y toca abono foliar o bioestimulante, y haya ventana sin niebla. El dron no cambia el calendario de la papa; se ajusta a él." }
         },
         {
           "@type": "Question",
@@ -121,7 +121,7 @@ Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) con la zon
         {
           "@type": "Question",
           "name": "¿Se pueden tratar los manzanos y perales de las fincas altas?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Son árboles al aire libre y el dron puede sobrevolarlos. Lo que falta es saber si hace falta: no tenemos plagas documentadas para el manzano y el peral de San Mateo, y no se trata por tratar." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Son árboles al aire libre y el dron puede sobrevolarlos con abono foliar de uso permitido en frutal; conviene que lo pida tu técnico, no se trata por tratar." }
         },
         {
           "@type": "Question",

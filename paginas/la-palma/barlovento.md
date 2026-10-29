@@ -3,7 +3,7 @@ title: "Dron agrícola en Barlovento | Agrodrón Canarias"
 slug: "barlovento"
 meta_description: "Dron agrícola en Barlovento para papa y platanera: qué se trata, qué no, y cómo pesan niebla y alisio. Respuestas directas y presupuesto de Agrodrón."
 keyword: "dron agrícola en Barlovento"
-keywords_secundarias: "fumigar con dron en Barlovento, tratamiento con drones en papa, dron fitosanitario norte de La Palma, pulverización aérea en platanera de Barlovento"
+keywords_secundarias: "pulverización con dron en Barlovento, tratamiento con drones en papa, abonado foliar con dron norte de La Palma, bioestimulantes con dron en platanera de Barlovento"
 parent: "dron-agricola-la-palma"
 nivel: "A"
 isla: "La Palma"
@@ -20,7 +20,7 @@ Barlovento es el principal municipio productor de papas de la isla, según la En
 
 Para la polilla guatemalteca, no. La Tecia solanivora llegó a La Palma en 2002 y está extendida por toda la isla según la guía de gestión integrada del ICIA. La larva come dentro del tubérculo, bajo tierra, y un caldo pulverizado sobre la hoja no la toca. Lo que funciona lo tiene documentado el Cabildo de Tenerife: trampas de feromona, rotación de parcelas y no dejar ni una papa en el campo tras la cosecha.
 
-Para tratamientos foliares de la papa la respuesta cambia. Un problema de hoja como el mildiu [VERIFICAR: aviso o fuente local de mildiu de la papa en Barlovento] se trata desde arriba, y las terrazas de papa de las medianías son el tipo de parcela donde arrastrar un atomizador cuesta más que el propio tratamiento. La condición es la de siempre: producto con autorización expresa para aplicación aérea.
+Para el abonado foliar de la papa la respuesta cambia. El mildiu de la hoja [VERIFICAR: aviso o fuente local de mildiu de la papa en Barlovento] lo sigue tu técnico con lo que marque sanidad vegetal; el dron aplica abono foliar o un corrector de carencias para una mata que viene de sequía o de semanas de niebla. Y las terrazas de papa de las medianías son el tipo de parcela donde arrastrar un atomizador cuesta más que la propia aplicación.
 
 Un apunte más sobre esas medianías. La Laguna de Barlovento, la gran balsa de riego comarcal del norte, estaba vacía en pleno invierno de 2020 (Diario de Avisos), con efecto sobre papas, viña y almendro. La papa de aquí sabe de niebla y también de sequía.
 
@@ -34,20 +34,22 @@ Con niebla no se vuela: el piloto necesita ver el dron y la hoja mojada no retie
 
 La platanera es el cultivo dominante de la franja costera de regadío, transformada desde los años 60 con aguas subterráneas y los canales de los barrancos. Wikipedia habla de 226 hectáreas de plátano en el municipio [VERIFICAR: superficie de platanera de Barlovento en el Mapa de Cultivos]. Está en sorribas y bancales y, en su mayor parte, al aire libre [VERIFICAR: proporción de platanera bajo malla en Barlovento].
 
-Sobre esas terrazas el Agras T50 pulveriza desde encima del penacho, siguiendo el desnivel con su radar y su visión binocular y ajustando la velocidad al bancal. Las plagas documentadas en Canarias son la cochinilla algodonosa Dysmicoccus grassii, con hasta ocho generaciones al año y sin parada invernal, y el trips Hercinothrips femoralis en el fruto (guía Coplaca, Cabildo de Tenerife). El picudo negro, en La Palma desde 2001 (ICIA), va con trampas de feromona, no con pulverización.
+Sobre esas terrazas el Agras T50 pulveriza abono foliar y bioestimulante desde encima del penacho, siguiendo el desnivel con su radar y su visión binocular y ajustando la velocidad al bancal. Una platanera que recibe el alisio y el salitre de frente es la que más sentido le da a esa aplicación, siempre como finalidad del producto y no como resultado prometido.
+
+Las plagas documentadas en Canarias son la cochinilla algodonosa Dysmicoccus grassii, con hasta ocho generaciones al año y sin parada invernal, y el trips Hercinothrips femoralis en el fruto (guía Coplaca, Cabildo de Tenerife); su control lo marcan tu técnico y sanidad vegetal, no el dron. El picudo negro, en La Palma desde 2001 (ICIA), va con trampas de feromona, no con pulverización.
 
 ## ¿Qué hace falta para contratar un tratamiento?
 
-Tres cosas. Primero, los datos de la finca: ubicación, cultivo, superficie, por dónde se entra y qué obstáculos hay (cables, invernaderos, árboles altos, colmenas cercanas). Segundo, el producto que te haya indicado tu técnico, con su etiqueta. Tercero, tiempo para el papeleo, porque no se vuela el mismo día que se llama.
+Tres cosas. Primero, los datos de la finca: ubicación, cultivo, superficie, por dónde se entra y qué obstáculos hay (cables, invernaderos, árboles altos, colmenas cercanas). Segundo, el producto que quieres aplicar, abono foliar, bioestimulante o corrector, con su etiqueta, para comprobar que es de uso permitido en ese cultivo. Tercero, paciencia con el cielo, porque en Barlovento no siempre se vuela el día que se llama.
 
-El papeleo tiene nombre. El Ministerio de Agricultura considera los tratamientos con dron como tratamientos aéreos (nota informativa MAPA-AESA de 2018), y en España esos tratamientos solo se permiten en casos especiales con autorización previa del Gobierno de Canarias y un plan de aplicación aprobado, según el Real Decreto 1311/2012. Nuestro piloto, con más de diez años de experiencia, vuela en la categoría específica de AESA con los certificados PDRA-S01 y STS y es radiofonista.
+Lo que sí tiene nombre es el marco del vuelo. Nuestro piloto, con más de diez años de experiencia, vuela en la categoría específica de AESA con los certificados PDRA-S01 y STS y es radiofonista. Antes de dibujar la ruta sobre la terraza se mira el mapa de zonas geográficas de UAS de ENAIRE, aunque en el norte de la isla rara vez haya una restricción cerca. Se aplica a la dosis de la etiqueta, solo sobre cultivo descubierto, y con niebla, lluvia o viento fuerte el dron se queda en la furgoneta.
 
 ## ¿Qué cultivos de Barlovento tienen sentido con dron y cuáles no?
 
-- Platanera al aire libre: sí, para cochinilla y trips en hoja y fruto, con producto autorizado.
-- Papa: sí para tratamientos foliares; no para la polilla guatemalteca.
-- Viña residual de la subzona Norte [VERIFICAR: hectáreas de viña en Barlovento]: sí para mildiu y oídio, que en 2025 afectaron a toda la isla según El Time.
-- Aguacate, manzana y naranja de medianías: con reservas, porque el ácaro cristalino del aguacate vive en el envés de la hoja y el dron cubre peor ahí.
+- Platanera al aire libre: sí, para abonado foliar y bioestimulantes tras rachas de alisio o salitre, con producto de uso permitido en platanera.
+- Papa: sí para abono foliar y correctores en hoja; para la polilla guatemalteca, no.
+- Viña residual de la subzona Norte [VERIFICAR: hectáreas de viña en Barlovento]: sí para foliares de vigor; el mildiu y el oídio que en 2025 afectaron a toda la isla según El Time los lleva el viticultor con su técnico.
+- Aguacate, manzana y naranja de medianías: con reservas, porque una copa densa reparte peor el abono foliar hacia el interior y el envés de la hoja.
 - Platanera bajo malla o techo: no se puede tratar desde el aire.
 - Pastos y colmenas de medianías: no se tratan, y donde hay colmenas se avisa al apicultor y se elige la hora.
 
@@ -55,21 +57,21 @@ Toda la isla está en la página de [tratamientos con dron en La Palma](https://
 
 [IMAGEN: Vista de la Laguna de Barlovento con bancales de platanera y papa alrededor | alt: Laguna de Barlovento, balsa de riego del norte de La Palma, rodeada de cultivos]
 
-## Preguntas frecuentes sobre fumigar con dron en Barlovento
+## Preguntas frecuentes sobre el abonado foliar con dron en Barlovento
 
 ### ¿Puede el dron tratar las terrazas de platanera de Barlovento que tienen cortavientos?
 Sí, si el cortavientos es vertical y la planta queda descubierta por arriba. El T50 lo detecta como obstáculo y se marca en el mapa antes de volar. Si la finca tiene malla de cubierta, no se trata desde el aire.
 
-### ¿Hace falta que yo tenga algún permiso para que vuelen en mi finca de Barlovento?
-Tú aportas los datos de la parcela y el producto. La autorización del tratamiento aéreo y el plan de aplicación se tramitan ante el Gobierno de Canarias antes de volar, y esa parte la cerramos contigo antes de fijar fecha.
+### ¿Qué productos aplica el dron en Barlovento?
+Abonos foliares, bioestimulantes y correctores de carencias de uso permitido en tu cultivo, a la dosis que marca su etiqueta. Tú nos dices qué quieres aplicar, normalmente lo que te haya indicado tu técnico, y lo comprobamos antes de fijar fecha.
 
 ### ¿Qué pasa si el día del tratamiento baja la niebla?
 Se aplaza. No se despega sin ver el dron ni con la hoja empapada. En Barlovento lo normal es dejar un día de reserva en la semana del tratamiento.
 
 ### ¿El tratamiento con dron afecta a las colmenas de las medianías?
-Cualquier fitosanitario se aplica respetando la etiqueta, y donde hay colmenas cerca se avisa al apicultor y se elige la hora de menor actividad de las abejas. Si la etiqueta del producto no lo permite, no se trata.
+Cualquier producto se aplica respetando su etiqueta, y donde hay colmenas cerca se avisa al apicultor y se elige la hora de menor actividad de las abejas. Si la etiqueta del producto no lo permite, no se aplica.
 
-### ¿Cuánto cuesta fumigar con dron una finca en Barlovento?
+### ¿Cuánto cuesta pulverizar con dron una finca en Barlovento?
 Lo marcan la superficie real, el cultivo, el número de terrazas, el acceso y el producto. Con esos datos se prepara un presupuesto concreto; sin ellos no damos cifra.
 
 ## Pide presupuesto para tu finca de Barlovento
@@ -82,9 +84,9 @@ Si tienes papa en las medianías o platanera en la costa de Barlovento y quieres
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Barlovento",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Tratamientos foliares con dron DJI Agras T50 en las terrazas de papa de las medianías y en la platanera costera de Barlovento, planificados con margen para la niebla y el alisio del nordeste.",
+      "name": "Tratamientos agrícolas con dron en Barlovento",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Abonado foliar y bioestimulantes con dron DJI Agras T50 en las terrazas de papa de las medianías y en la platanera costera de Barlovento, planificados con margen para la niebla y el alisio del nordeste.",
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/barlovento/",
       "provider": {
         "@type": "LocalBusiness",
@@ -113,8 +115,8 @@ Si tienes papa en las medianías o platanera en la costa de Barlovento y quieres
         },
         {
           "@type": "Question",
-          "name": "¿Hace falta que yo tenga algún permiso para que vuelen en mi finca de Barlovento?",
-          "acceptedAnswer": { "@type": "Answer", "text": "El agricultor aporta los datos de la parcela y el producto. La autorización del tratamiento aéreo y el plan de aplicación se tramitan ante el Gobierno de Canarias antes de volar, y esa parte se cierra con el agricultor antes de fijar fecha." }
+          "name": "¿Qué productos aplica el dron en Barlovento?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Abonos foliares, bioestimulantes y correctores de carencias de uso permitido en el cultivo, a la dosis que marca su etiqueta. El agricultor indica qué quiere aplicar, normalmente lo que le haya indicado su técnico, y se comprueba antes de fijar fecha." }
         },
         {
           "@type": "Question",
@@ -124,11 +126,11 @@ Si tienes papa en las medianías o platanera en la costa de Barlovento y quieres
         {
           "@type": "Question",
           "name": "¿El tratamiento con dron afecta a las colmenas de las medianías?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Cualquier fitosanitario se aplica respetando la etiqueta, y donde hay colmenas cerca se avisa al apicultor y se elige la hora de menor actividad de las abejas. Si la etiqueta del producto no lo permite, no se trata." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Cualquier producto se aplica respetando su etiqueta, y donde hay colmenas cerca se avisa al apicultor y se elige la hora de menor actividad de las abejas. Si la etiqueta del producto no lo permite, no se aplica." }
         },
         {
           "@type": "Question",
-          "name": "¿Cuánto cuesta fumigar con dron una finca en Barlovento?",
+          "name": "¿Cuánto cuesta pulverizar con dron una finca en Barlovento?",
           "acceptedAnswer": { "@type": "Answer", "text": "Lo marcan la superficie real, el cultivo, el número de terrazas, el acceso y el producto. Con esos datos se prepara un presupuesto concreto; sin ellos no se da cifra." }
         }
       ]

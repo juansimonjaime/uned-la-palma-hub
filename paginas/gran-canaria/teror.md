@@ -3,7 +3,7 @@ title: "Dron agrícola en Teror | Agrodrón Canarias"
 slug: "teror"
 meta_description: "Dron agrícola en Teror para papa, millo y hortalizas de medianías en bancales pequeños: cuándo encaja, qué pasa con la niebla y cómo pedir presupuesto."
 keyword: "dron agrícola en Teror"
-keywords_secundarias: "fumigar con dron en Teror, tratamiento con drones en papa, dron fitosanitario Gran Canaria, pulverización aérea medianías Teror, dron para papas Gran Canaria"
+keywords_secundarias: "pulverización con dron en Teror, tratamiento con drones en papa, dron pulverizador Gran Canaria, abonado foliar con dron medianías Teror, dron para papas Gran Canaria"
 parent: "dron-agricola-gran-canaria"
 nivel: "B"
 isla: "Gran Canaria"
@@ -26,19 +26,19 @@ El depósito del T50 carga 40 litros, de sobra para tu parcela y las dos del vec
 
 Cuando levanta. El mar de nubes del alisio se asienta entre 800 y 1.500 metros según GEVIC; el casco de Teror está a unos 600 y las fincas suben hasta los 1.400 en Osorio, en una de las zonas con más niebla y lluvia de la isla [VERIFICAR: precipitación media anual de Teror]. Eso quita horas de vuelo, no días.
 
-Con niebla cerrada no se vuela: el radar sigue el relieve, pero la deriva y el mojado de la hoja con el aire saturado no son los del plan. Se mira la finca a primera hora y se espera la ventana.
+Con niebla cerrada no se vuela: el radar sigue el relieve, pero la deriva y el mojado de la hoja con el aire saturado no son los previstos. Se mira la finca a primera hora y se espera la ventana.
 
 ## ¿La polilla guatemalteca se trata con el dron?
 
-No del todo. Tecia solanivora está en Gran Canaria desde 2002 y Teror fue el municipio con más kilos de papa retirados entre abril de 2020 y marzo de 2021, con contenedores en los almacenes municipales (Pellagofio, Valencia Fruits).
+No. Tecia solanivora está en Gran Canaria desde 2002 y Teror fue el municipio con más kilos de papa retirados entre abril de 2020 y marzo de 2021, con contenedores en los almacenes municipales (Pellagofio, Valencia Fruits).
 
-La larva vive dentro del tubérculo y la lucha se gana en el almacén, en la rotación y en la retirada de papa afectada, como organiza el Cabildo con sus puntos de recogida. Al dron le toca el campo: si el plan de aplicación incluye un tratamiento foliar autorizado para uso aéreo, lo aplica a la dosis de etiqueta y queda registrado.
+La larva vive dentro del tubérculo y la lucha se gana en el almacén, en la rotación y en la retirada de papa afectada, como organiza el Cabildo con sus puntos de recogida. Al dron le toca otra cosa: el abono foliar y los bioestimulantes de la papa en hoja, de uso permitido y a dosis de etiqueta, donde el frío y la niebla frenan la planta. Se aplica y queda registrado.
 
 ## ¿Qué me hace falta para contratar un tratamiento?
 
 Tres cosas tuyas: la ubicación de la parcela (vale un punto en el mapa), el cultivo y la superficie, y qué hay alrededor: cables, árboles altos, un invernadero de flores. Con eso se planifica el vuelo.
 
-Y una nuestra, el papeleo. En España la aplicación aérea de fitosanitarios está prohibida con carácter general y solo se autoriza en casos especiales, con permiso previo del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28); solo valen productos cuya autorización incluya expresamente la aplicación aérea (anexo VI). Agrodrón tramita cada tratamiento con tus datos de parcela y producto.
+Y una nuestra, el orden del vuelo. El piloto de Agrodrón vuela en la categoría específica de AESA, en escenarios estándar STS o bajo el PDRA-S01, con certificado; antes de dibujar la ruta sobre tu bancal se comprueban las zonas geográficas de UAS de ENAIRE. En el depósito solo va producto de uso permitido en papa, millo u hortaliza, a dosis de etiqueta, sobre cultivo descubierto.
 
 ## ¿Qué cultivos de Teror encajan con el dron y cuáles no?
 
@@ -51,7 +51,7 @@ La superficie cultivada del municipio no la tenemos con fuente [VERIFICAR: hect�
 
 [IMAGEN: Almacén de papas de Teror con contenedor del Cabildo para la retirada de tubérculos afectados por polilla guatemalteca | alt: almacén de papas en Teror con contenedor de recogida de papa afectada por polilla guatemalteca]
 
-## Preguntas frecuentes sobre fumigar con dron en Teror
+## Preguntas frecuentes sobre pulverizar con dron en Teror
 
 ### ¿Se puede tratar con dron una finca de papas en bancal con muros de piedra?
 
@@ -67,11 +67,11 @@ El servicio en Gran Canaria es con desplazamiento y bajo disponibilidad, así qu
 
 ### ¿Qué pasa si el día del tratamiento hay niebla en las medianías?
 
-Se cambia la hora o el día. Con niebla cerrada no se vuela, porque la aplicación no sería la del plan. En Teror eso ocurre y se cuenta con ello al organizar la salida.
+Se cambia la hora o el día. Con niebla cerrada no se vuela, porque la pulverización no saldría como está planificada. En Teror eso ocurre y se cuenta con ello al organizar la salida.
 
 ## Pide presupuesto para tu finca de papas en Teror
 
-Entra en [agrodroncanarias.es](https://agrodroncanarias.es/) y cuéntanos dónde está la finca, qué tienes sembrado y cuántos metros son. Te decimos si el dron encaja, qué trámite hace falta y cómo organizar una salida conjunta desde La Palma con otros vecinos del pago. El presupuesto no compromete a nada.
+Entra en [agrodroncanarias.es](https://agrodroncanarias.es/) y cuéntanos dónde está la finca, qué tienes sembrado y cuántos metros son. Te decimos si el dron encaja, qué producto puede ir y cómo organizar una salida conjunta desde La Palma con otros vecinos del pago. El presupuesto no compromete a nada.
 
 ```json
 {
@@ -79,9 +79,9 @@ Entra en [agrodroncanarias.es](https://agrodroncanarias.es/) y cuéntanos dónde
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Teror",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en papa, millo y hortalizas de medianías al aire libre de Teror, en parcelas pequeñas y en pendiente, con desplazamiento desde La Palma y autorización previa para cada tratamiento.",
+      "name": "Tratamientos agrícolas con dron en Teror",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en papa, millo y hortalizas de medianías al aire libre de Teror, en parcelas pequeñas y en pendiente, con desplazamiento desde La Palma y productos de uso permitido a dosis de etiqueta.",
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/teror/",
       "provider": {
         "@type": "LocalBusiness",
@@ -121,7 +121,7 @@ Entra en [agrodroncanarias.es](https://agrodroncanarias.es/) y cuéntanos dónde
         {
           "@type": "Question",
           "name": "¿Qué pasa si el día del tratamiento hay niebla en las medianías?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Se cambia la hora o el día. Con niebla cerrada no se vuela, porque la aplicación no sería la del plan. En Teror eso ocurre y se cuenta con ello al organizar la salida." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Se cambia la hora o el día. Con niebla cerrada no se vuela, porque la pulverización no saldría como está planificada. En Teror eso ocurre y se cuenta con ello al organizar la salida." }
         }
       ]
     }

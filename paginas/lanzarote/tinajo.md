@@ -3,7 +3,7 @@ title: "Dron agrícola en Tinajo | Agrodrón Canarias"
 slug: "tinajo"
 meta_description: "Dron agrícola en Tinajo para la viña más densa de Lanzarote, en enarenado y hoyos de La Geria. Con desplazamiento desde La Palma, bajo consulta."
 keyword: "dron agrícola en Tinajo"
-keywords_secundarias: "fumigar con dron en Tinajo, tratamiento con drones en viña de La Geria, dron fitosanitario Lanzarote, pulverización aérea en Mancha Blanca, dron pulverizador para enarenados"
+keywords_secundarias: "pulverización con dron en Tinajo, tratamiento con drones en viña de La Geria, abonado foliar con dron Lanzarote, bioestimulantes con dron en Mancha Blanca, dron pulverizador para enarenados"
 parent: "dron-agricola-lanzarote"
 nivel: "B"
 isla: "Lanzarote"
@@ -24,15 +24,15 @@ Hacia el sector del espacio protegido de La Geria, 5.255 ha entre Tinajo, Yaiza,
 
 ## Qué problemas tiene documentados la viña aquí
 
-Pocos, y conviene decirlo tal cual. El Consejo Regulador de la DO Lanzarote avisó de una enfermedad fúngica en varias fincas de la isla; la fuente no identifica el hongo ni la fecha [VERIFICAR: patógeno y año del aviso]. Mildiu y oídio, referencia de la viña canaria (guía de Agrocabildo, 2020), no constan expresamente para Lanzarote en las fuentes consultadas [VERIFICAR: avisos fitosanitarios del Cabildo de Lanzarote].
+Pocos, y conviene decirlo tal cual. El Consejo Regulador de la DO Lanzarote avisó de una enfermedad fúngica en varias fincas de la isla; la fuente no identifica el hongo ni la fecha [VERIFICAR: patógeno y año del aviso]. Mildiu y oídio, referencia de la viña canaria (guía de Agrocabildo, 2020), no constan expresamente para Lanzarote en las fuentes consultadas [VERIFICAR: avisos de sanidad vegetal del Cabildo de Lanzarote].
 
 Filoxera: las prospecciones empezaron con la Orden de 20 de agosto de 2025 y Lanzarote sigue sin positivos; los 89 positivos canarios son de Tenerife, y en la isla van más de 1.300 inspecciones. Es plaga de raíz y no se trata pulverizando.
 
-Lo que sí ha hecho daño es la sed: la cosecha insular bajó de 3,3 millones de kilos en 2023 a 1,4 en 2024 y a unos 750.000 en 2025, por sequía y brotación irregular (Consejo Regulador vía RTVC). Con menos de 150 mm al año en unos 16 días de lluvia (FAO, 2025), se trata sin castigar una planta ya débil.
+Lo que sí ha hecho daño es la sed: la cosecha insular bajó de 3,3 millones de kilos en 2023 a 1,4 en 2024 y a unos 750.000 en 2025, por sequía y brotación irregular (Consejo Regulador vía RTVC). Con menos de 150 mm al año en unos 16 días de lluvia (FAO, 2025), desde el aire solo cabe un foliar o un bioestimulante para una planta ya débil.
 
 ## Por qué el dron encaja en la viña de Tinajo
 
-En el enarenado denso la pulverización aérea trabaja como en cualquier viñedo bajo: pasadas paralelas a poca altura y gota fina sobre una cubierta casi continua. El picón no se pisa, la capa que guarda la humedad queda intacta y nadie carga la mochila entre cepas a mediodía.
+En el enarenado denso la pulverización con dron trabaja como en cualquier viñedo bajo: pasadas paralelas a poca altura y gota fina sobre una cubierta casi continua. El picón no se pisa, la capa que guarda la humedad queda intacta y nadie carga la mochila entre cepas.
 
 En los hoyos la lógica es otra. El vuelo se planifica con cada hoyo como objetivo: el dron frena sobre la cepa, suelta la dosis que marca la etiqueta y pasa al siguiente. El zoco es un obstáculo bajo que el radar del T50 ve antes que el piloto.
 
@@ -44,13 +44,13 @@ Primero, los datos de la finca: ubicación, sistema de plantación, superficie, 
 
 Salimos desde Santa Cruz de La Palma; en Lanzarote agrupamos fincas por viaje y la fecha se cierra cuando hay disponibilidad.
 
-## Lo que el dron no hace: malla, viento y autorización
+## Lo que el dron no hace: malla, viento y producto
 
-Si alguna hortícola de enarenado va bajo malla, desde el aire no se trata. El viento marca el límite diario y la ley marca el resto: la aplicación aérea de fitosanitarios está prohibida en España salvo casos especiales autorizados por el órgano competente autonómico con plan de aplicación (Real Decreto 1311/2012, artículos 27 y 28), y solo con productos cuya autorización incluya expresamente el uso aéreo (anexo VI). Ningún producto vale para el aire sin mirar su etiqueta.
+Si alguna hortícola de enarenado va bajo malla, desde el aire no se trata. El viento marca el límite diario y la etiqueta el resto: en el T50 solo entra producto de uso permitido en viña o en la hortícola, a su dosis. El piloto opera en la categoría específica de AESA/EASA (STS o PDRA-S01) y sitúa la finca en el mapa de zonas geográficas de UAS de ENAIRE antes de planificar.
 
 ## Cebolla, batata y el tabaco que ya no está
 
-Fuera de la viña, Tinajo tiene cebolla y hortícolas de enarenado, batata en jable y legumbres. El tabaco, que llegó a exportar hasta un millón de kilos (La Voz de Lanzarote), desapareció. En cebolla, el problema con fuente canaria es el trips Thrips tabaci (manual fitosanitario de Agrocabildo, 2026). Cultivos bajos en llano, fáciles de volar con viento en calma.
+Fuera de la viña, Tinajo tiene cebolla y hortícolas de enarenado, batata en jable y legumbres. El tabaco, que llegó a exportar hasta un millón de kilos (La Voz de Lanzarote), desapareció. En cebolla, el problema con fuente canaria es el trips Thrips tabaci (manual de plagas de Agrocabildo, 2026). Cultivos bajos en llano, fáciles de volar con viento en calma.
 
 Más en [tratamientos con dron en Lanzarote](https://agrodroncanarias.es/dron-agricola-lanzarote/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [dron agrícola para hortícolas](https://agrodroncanarias.es/dron-agricola-horticolas/) y [dron agrícola en Yaiza](https://agrodroncanarias.es/dron-agricola-lanzarote/yaiza/).
 
@@ -70,7 +70,7 @@ Depende de la disponibilidad y de las demás fincas de la isla. El desplazamient
 
 ## Pide presupuesto para tu viña o tu enarenado en Tinajo
 
-Dinos si tu viña está en enarenado de 1,5 m o en hoyos, cuántas hectáreas tienes y qué quieres tratar. Desde [Agrodrón Canarias](https://agrodroncanarias.es/) te mandamos un presupuesto y la previsión de salida desde La Palma.
+Dinos si tu viña está en enarenado de 1,5 m o en hoyos, cuántas hectáreas tienes y qué quieres aplicar. Desde [Agrodrón Canarias](https://agrodroncanarias.es/) te mandamos un presupuesto y la previsión de salida desde La Palma.
 
 ```json
 {
@@ -78,9 +78,9 @@ Dinos si tu viña está en enarenado de 1,5 m o en hoyos, cuántas hectáreas ti
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Tinajo",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en la viña de Tinajo, Lanzarote: enarenados con marco de 1,5 m y hoyos con zoco del sector de La Geria, además de cebolla y batata. Con desplazamiento desde La Palma y bajo disponibilidad.",
+      "name": "Tratamientos agrícolas con dron en Tinajo",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en la viña de Tinajo, Lanzarote: enarenados con marco de 1,5 m y hoyos con zoco del sector de La Geria, además de cebolla y batata. Con desplazamiento desde La Palma y bajo disponibilidad.",
       "url": "https://agrodroncanarias.es/dron-agricola-lanzarote/tinajo/",
       "provider": {
         "@type": "LocalBusiness",

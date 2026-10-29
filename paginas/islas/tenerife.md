@@ -3,7 +3,7 @@ title: "Dron agrícola en Tenerife | Agrodrón Canarias"
 slug: "dron-agricola-tenerife"
 meta_description: "Dron agrícola en Tenerife para platanera, viña, papa y aguacate al aire libre, comarca a comarca. Con desplazamiento desde La Palma y bajo disponibilidad."
 keyword: "dron agrícola en Tenerife"
-keywords_secundarias: "fumigar con dron en Tenerife, tratamiento con drones en platanera de Tenerife, dron fitosanitario Tenerife, pulverización aérea en viña de Tenerife"
+keywords_secundarias: "pulverización con dron en Tenerife, tratamiento con drones en platanera de Tenerife, dron pulverizador Tenerife, abonado foliar con dron en viña de Tenerife"
 parent: ""
 nivel: "hub"
 isla: "Tenerife"
@@ -46,7 +46,9 @@ No tenemos base en Tenerife: cada salida parte de Santa Cruz de La Palma con el 
 
 El T50 carga 40 litros, pulveriza hasta 16 litros por minuto con dos boquillas centrífugas (24 con cuatro) y sigue el relieve con radar y visión binocular.
 
-La aplicación aérea de fitosanitarios está prohibida en España con carácter general; se autoriza en casos especiales, con permiso previo del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (RD 1311/2012, artículos 27 y 28). El Ministerio de Agricultura trata los drones como medio aéreo (nota MAPA–AESA, 2018) y solo valen productos cuya autorización recoja expresamente la aplicación aérea (anexo VI); el piloto vuela en categoría específica de AESA/EASA.
+Agrodrón opera en la categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el PDRA-S01, con piloto certificado, y comprueba cada finca en el mapa de zonas geográficas de UAS de ENAIRE: con dos aeropuertos y un parque nacional en la isla, eso descarta o condiciona parcelas antes de salir.
+
+Solo se pulverizan productos de uso permitido en el cultivo (abonos foliares, bioestimulantes, correctores de carencias), a dosis de etiqueta y sobre cultivo al aire libre; las plagas las lleva sanidad vegetal del Cabildo, no el dron.
 
 ## Municipios con página propia
 
@@ -101,9 +103,9 @@ Busca tu municipio en la lista y escríbenos con finca, cultivo y superficie des
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Tenerife",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en platanera al aire libre, viña, papa y aguacate de Tenerife, comarca a comarca, con desplazamiento desde La Palma y bajo disponibilidad.",
+      "name": "Tratamientos agrícolas con dron en Tenerife",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en platanera al aire libre, viña, papa y aguacate de Tenerife, comarca a comarca, con desplazamiento desde La Palma y bajo disponibilidad.",
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/",
       "provider": {
         "@type": "LocalBusiness",

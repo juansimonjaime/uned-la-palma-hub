@@ -3,7 +3,7 @@ title: "Dron agrícola en Tuineje | Agrodrón Canarias"
 slug: "tuineje"
 meta_description: "Dron agrícola en Tuineje zona a zona: tomate bajo cubierta en Gran Tarajal que no se trata, gavias de Tiscamanita, aloe y olivar. Pide presupuesto."
 keyword: "dron agrícola en Tuineje"
-keywords_secundarias: "fumigar con dron en Gran Tarajal, tratamiento con drones en gavias de Fuerteventura, dron fitosanitario Tuineje, pulverización aérea en aloe y olivar"
+keywords_secundarias: "pulverización con dron en Gran Tarajal, tratamiento con drones en gavias de Fuerteventura, dron pulverizador Tuineje, abonado foliar con dron en aloe y olivar"
 parent: "dron-agricola-fuerteventura"
 nivel: "B"
 isla: "Fuerteventura"
@@ -30,9 +30,9 @@ Se suman las 152 ha de regadío modernizado para 289 regantes de Tuineje y Pája
 
 ## El aloe y el olivar: dos cultivos al aire libre que sí se tratan
 
-En Tuineje está Aloe Vera Internacional, con aloe desde 1989 y, en 2026, 2 ha de aloe y 8 ha de olivar según el Gobierno de Canarias. Son los dos cultivos destapados con nombre propio del municipio, y se pueden tratar desde el aire si hay motivo y producto con etiqueta para aplicación aérea.
+En Tuineje está Aloe Vera Internacional, con aloe desde 1989 y, en 2026, 2 ha de aloe y 8 ha de olivar según el Gobierno de Canarias. Son los dos cultivos destapados con nombre propio del municipio, y se pueden pulverizar desde el aire con foliares o bioestimulantes permitidos en cada uno, a dosis de etiqueta.
 
-El aloe es planta baja en marco regular; el olivar, árbol que el T50 sobrevuela ajustando la altura. Sobre plagas, las notas no documentan ninguna para el aloe en Canarias [VERIFICAR] ni para el olivar majorero [VERIFICAR]. El dron es herramienta para cuando aparezca el problema, no tratamiento de calendario.
+El aloe es planta baja en marco regular; el olivar, árbol que el T50 sobrevuela ajustando la altura. Sobre plagas, las notas no documentan ninguna para el aloe en Canarias [VERIFICAR] ni para el olivar majorero [VERIFICAR]. El dron no sirve contra plagas, cosa del Cabildo; sirve para abonar por hoja o bioestimular cuando el cultivo lo pide, no por calendario.
 
 [IMAGEN: Gavia recién labrada con trastones de tierra cerca de Tiscamanita y, al fondo, una parcela de aloe vera en hileras | alt: Gavia y aloe vera al aire libre en Tiscamanita, Tuineje]
 
@@ -44,19 +44,19 @@ El sur tiene mayor insolación y mejores suelos que el norte (ULPGC), lo que ayu
 
 ## Cómo se organiza un dron agrícola en Tuineje desde La Palma
 
-Primero, los datos: dónde está la gavia o la parcela de aloe, cuántas hectáreas, por dónde entra el vehículo de apoyo y qué obstáculos hay (naves, cables, palmeras). Con eso se traza el vuelo y se tramita el permiso.
+Primero, los datos: dónde está la gavia o la parcela de aloe, cuántas hectáreas, por dónde entra el vehículo de apoyo y qué obstáculos hay (naves, cables, palmeras). Con eso se traza el vuelo y se mira la parcela en el mapa de zonas UAS de ENAIRE.
 
-La norma manda: en España la aplicación aérea de fitosanitarios está prohibida con carácter general y solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (RD 1311/2012, artículos 27 y 28). El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01. La salida se fija según disponibilidad, agrupando fincas de Tuineje, Antigua o Pájara; no prometemos plazos.
+Lo que manda: el piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01; solo se aplica producto de uso permitido en el cultivo, a la dosis que marca su etiqueta, y solo sobre parcela descubierta. La salida se fija según disponibilidad, agrupando fincas de Tuineje, Antigua o Pájara; no prometemos plazos.
 
 La visión de isla, en [dron agrícola en Fuerteventura](https://agrodroncanarias.es/dron-agricola-fuerteventura/); por cultivo, [dron agrícola para tomate](https://agrodroncanarias.es/dron-agricola-tomate/) y [tratamientos con dron en hortícolas al aire libre](https://agrodroncanarias.es/dron-agricola-horticolas/); al lado, [dron agrícola en Antigua](https://agrodroncanarias.es/dron-agricola-fuerteventura/antigua/).
 
 ## Preguntas frecuentes sobre el dron agrícola en Tuineje
 
 ### ¿Hay alguna forma de tratar con dron el tomate de Gran Tarajal?
-Solo si una parcela estuviera al aire libre, sin malla ni plástico, y con producto autorizado para aplicación aérea. En el tomate de exportación eso no es lo habitual: la respuesta práctica es no.
+Solo si una parcela estuviera al aire libre, sin malla ni plástico, y para aplicar foliares o bioestimulantes permitidos en tomate. En el tomate de exportación eso no es lo habitual: la respuesta práctica es no.
 
 ### ¿Se puede tratar el olivar de Tuineje con dron?
-Sí, es un cultivo al aire libre y el T50 ajusta la altura sobre la copa, si hay un problema concreto y un producto cuya etiqueta admita la aplicación aérea.
+Sí, es un cultivo al aire libre y el T50 ajusta la altura sobre la copa; se aplican abonos foliares o bioestimulantes de uso permitido en olivo, a la dosis de su etiqueta.
 
 ### ¿Las gavias recién rehabilitadas por el Cabildo se pueden volar?
 Sí. Son parcelas llanas y despejadas, lo más sencillo para el dron. La cuestión es si el cereal o el forraje que se siembre necesita tratamiento.
@@ -64,7 +64,7 @@ Sí. Son parcelas llanas y despejadas, lo más sencillo para el dron. La cuesti�
 ### ¿Agrodrón viene a Tuineje desde La Palma para un solo encargo?
 Puede, pero el servicio en Fuerteventura es con desplazamiento y bajo disponibilidad; lo normal es agrupar varias fincas del sur de la isla en la misma salida.
 
-### ¿Cuánto cuesta fumigar con dron en Tuineje?
+### ¿Cuánto cuesta pulverizar con dron en Tuineje?
 No hay tarifa plana: depende de la superficie al aire libre, del cultivo, de los accesos, del producto y del viaje desde La Palma; con eso te mandamos presupuesto.
 
 ## Pide presupuesto para tu gavia, tu aloe o tu olivar en Tuineje
@@ -77,9 +77,9 @@ Dinos en qué zona está la finca (Gran Tarajal, Tiscamanita, Tuineje casco, Tes
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Tuineje",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en gavias de cereal y forraje, aloe vera y olivar al aire libre del municipio de Tuineje, en el sur de Fuerteventura; el tomate bajo cubierta de Gran Tarajal queda fuera.",
+      "name": "Tratamientos agrícolas con dron en Tuineje",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en gavias de cereal y forraje, aloe vera y olivar al aire libre del municipio de Tuineje, en el sur de Fuerteventura; el tomate bajo cubierta de Gran Tarajal queda fuera.",
       "url": "https://agrodroncanarias.es/dron-agricola-fuerteventura/tuineje/",
       "provider": {
         "@type": "LocalBusiness",
@@ -104,12 +104,12 @@ Dinos en qué zona está la finca (Gran Tarajal, Tiscamanita, Tuineje casco, Tes
         {
           "@type": "Question",
           "name": "¿Hay alguna forma de tratar con dron el tomate de Gran Tarajal?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Solo si una parcela estuviera al aire libre, sin malla ni plástico, y con producto autorizado para aplicación aérea. En el tomate de exportación eso no es lo habitual: la respuesta práctica es no." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Solo si una parcela estuviera al aire libre, sin malla ni plástico, y para aplicar foliares o bioestimulantes permitidos en tomate. En el tomate de exportación eso no es lo habitual: la respuesta práctica es no." }
         },
         {
           "@type": "Question",
           "name": "¿Se puede tratar el olivar de Tuineje con dron?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, es un cultivo al aire libre y el T50 ajusta la altura sobre la copa, si hay un problema concreto y un producto cuya etiqueta admita la aplicación aérea." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, es un cultivo al aire libre y el T50 ajusta la altura sobre la copa; se aplican abonos foliares o bioestimulantes de uso permitido en olivo, a la dosis de su etiqueta." }
         },
         {
           "@type": "Question",
@@ -123,7 +123,7 @@ Dinos en qué zona está la finca (Gran Tarajal, Tiscamanita, Tuineje casco, Tes
         },
         {
           "@type": "Question",
-          "name": "¿Cuánto cuesta fumigar con dron en Tuineje?",
+          "name": "¿Cuánto cuesta pulverizar con dron en Tuineje?",
           "acceptedAnswer": { "@type": "Answer", "text": "No hay tarifa plana: depende de la superficie al aire libre, del cultivo, de los accesos, del producto y del viaje desde La Palma; con eso te mandamos presupuesto." }
         }
       ]

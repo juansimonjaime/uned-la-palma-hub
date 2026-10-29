@@ -3,7 +3,7 @@ title: "Dron agrícola en Arona | Agrodrón Canarias"
 slug: "arona"
 meta_description: "Dron agrícola en Arona para la viña y la papa de La Escalona y la platanera descubierta de la costa. Desplazamiento desde La Palma; pide presupuesto."
 keyword: "dron agrícola en Arona"
-keywords_secundarias: "fumigar con dron en Arona, tratamiento con drones en viña de La Escalona, dron fitosanitario Las Galletas y Guaza, pulverización aérea en medianías de Arona"
+keywords_secundarias: "pulverización con dron en Arona, tratamiento con drones en viña de La Escalona, dron pulverizador Las Galletas y Guaza, abonado foliar con dron en medianías de Arona"
 parent: "dron-agricola-tenerife"
 nivel: "B"
 isla: "Tenerife"
@@ -26,7 +26,7 @@ Lo que va dentro queda fuera del dron: la pulverización no atraviesa la cubiert
 
 Es el terreno del dron en Arona. La viña de la DOP Abona ocupa parcelas pequeñas en pendiente sobre jable, al aire libre, en el tramo de 600 a 1.000 m que remata en La Escalona. La DOP reúne 795 ha y 1.467 viticultores (Consejo Regulador) en siete municipios; en Arona son hectáreas sueltas y la ruta se planifica para encadenarlas.
 
-Con la viña va la papa y algo de huerta: cultivos bajos al aire libre donde la mochila castiga y el tractor no entra en bancal estrecho. El Roque del Conde marca el relieve: pendiente y lindes irregulares, el caso para el radar de seguimiento de terreno del T50.
+Con la viña va la papa y algo de huerta: cultivos bajos al aire libre donde la mochila castiga y el tractor no entra en bancal estrecho. Ahí el dron pone abonado foliar; las plagas, sanidad vegetal del Cabildo. El Roque del Conde marca el relieve: pendiente y lindes irregulares, el caso para el radar de seguimiento de terreno del T50.
 
 ## Las plagas documentadas en cada zona
 
@@ -41,7 +41,7 @@ Agrodrón Canarias tiene base en Santa Cruz de La Palma y opera en Tenerife con 
 
 El DJI Agras T50 lleva 40 litros y pulveriza a 16 L/min con dos boquillas centrífugas o a 24 L/min con cuatro (ficha de DJI). En viña y papa de medianías, con parcelas de pocos miles de metros, manda la planificación: mapa de cada parcela, cables y muros marcados, dosis de etiqueta y registro al terminar. El viento se mide antes de despegar.
 
-Para pulverizar fitosanitarios hace falta autorización previa del Gobierno de Canarias y un plan de aplicación aprobado, porque la aplicación aérea está prohibida con carácter general en España (Real Decreto 1311/2012, artículos 27 y 28). Solo caben productos cuya autorización recoja expresamente la aplicación aérea (anexo VI): se comprueba en la etiqueta, no se da por hecho.
+Los productos son los de uso permitido en viña, papa o platanera (abonos foliares, bioestimulantes, correctores), a dosis de etiqueta y solo sobre cultivo descubierto. Agrodrón opera en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01) con piloto certificado y, en la costa de Arona, mira el mapa de zonas geográficas de UAS de ENAIRE por la cercanía de Tenerife Sur.
 
 [IMAGEN: Viñedo sobre jable en La Escalona, medianías de Arona, con el Roque del Conde al fondo | alt: Viña de la DOP Abona sobre jable en La Escalona, Arona, Tenerife]
 
@@ -62,11 +62,11 @@ Sí, si entra en una salida con otras parcelas de la comarca. Sola, el desplazam
 ### ¿Con qué viento se deja de volar en Las Galletas?
 No hay umbral fijo: depende del producto y la boquilla. Se mide en la finca antes de despegar y con las brisas del suroeste hay días que se descartan; en las medianías pesa menos.
 
-### ¿El dron puede aplicar algo contra la polilla guatemalteca de la papa?
-Aplica lo que marque la etiqueta y el plan autorizado; el producto lo decide tu técnico. La polilla (Tecia solanivora) se combate también en almacén y con trampas, no solo en campo.
+### ¿Sirve el dron contra la polilla guatemalteca de la papa?
+No. La polilla (Tecia solanivora) va al tubérculo y se sigue con trampas y en almacén, como indique el Cabildo. En la papa el dron hace abonado foliar, no control de plaga.
 
-### ¿Cuánto tarda la autorización para tratar en Arona?
-No depende de nosotros: la concede el Gobierno de Canarias expediente a expediente. Nosotros reunimos contigo los datos de parcela y producto para presentarlo completo.
+### ¿Qué productos aplica el dron en las fincas de Arona?
+Abonos foliares, bioestimulantes y correctores de uso permitido en el cultivo, a dosis de etiqueta. Tú eliges el producto con tu técnico; nosotros lo llevamos arriba.
 
 ## Presupuesto para tu finca de Arona
 
@@ -78,9 +78,9 @@ Zona (costa o medianías), cultivo, hectáreas y si hay cubierta: con eso te dec
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Arona",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en la viña y la papa de las medianías de Arona (La Escalona, Vento) y en la platanera descubierta de la costa; la platanera de invernadero no se trata. Desplazamiento desde La Palma bajo consulta.",
+      "name": "Tratamientos agrícolas con dron en Arona",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en la viña y la papa de las medianías de Arona (La Escalona, Vento) y en la platanera descubierta de la costa; la platanera de invernadero no se trata. Desplazamiento desde La Palma bajo consulta.",
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/arona/",
       "provider": {
         "@type": "LocalBusiness",
@@ -119,13 +119,13 @@ Zona (costa o medianías), cultivo, hectáreas y si hay cubierta: con eso te dec
         },
         {
           "@type": "Question",
-          "name": "¿El dron puede aplicar algo contra la polilla guatemalteca de la papa?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Aplica lo que marque la etiqueta y el plan autorizado; el producto lo decide tu técnico. La polilla (Tecia solanivora) se combate también en almacén y con trampas, no solo en campo." }
+          "name": "¿Sirve el dron contra la polilla guatemalteca de la papa?",
+          "acceptedAnswer": { "@type": "Answer", "text": "No. La polilla (Tecia solanivora) va al tubérculo y se sigue con trampas y en almacén, como indique el Cabildo. En la papa el dron hace abonado foliar, no control de plaga." }
         },
         {
           "@type": "Question",
-          "name": "¿Cuánto tarda la autorización para tratar en Arona?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No depende de nosotros: la concede el Gobierno de Canarias expediente a expediente. Nosotros reunimos contigo los datos de parcela y producto para presentarlo completo." }
+          "name": "¿Qué productos aplica el dron en las fincas de Arona?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Abonos foliares, bioestimulantes y correctores de uso permitido en el cultivo, a dosis de etiqueta. Tú eliges el producto con tu técnico; nosotros lo llevamos arriba." }
         }
       ]
     }

@@ -3,7 +3,7 @@ title: "Dron agrícola en Vilaflor | Agrodrón Canarias"
 slug: "vilaflor-de-chasna"
 meta_description: "Dron agrícola en Vilaflor para papa tardía sobre jable y viña de Los Frontones hasta 1.600 m. Servicio con desplazamiento desde La Palma; pide presupuesto."
 keyword: "dron agrícola en Vilaflor"
-keywords_secundarias: "fumigar con dron en Vilaflor de Chasna, tratamiento con drones en papa de altura, dron fitosanitario DOP Abona, pulverización aérea en Los Frontones"
+keywords_secundarias: "pulverización con dron en Vilaflor de Chasna, tratamiento con drones en papa de altura, dron pulverizador DOP Abona, abonado foliar con dron en Los Frontones"
 parent: "dron-agricola-tenerife"
 nivel: "B"
 isla: "Tenerife"
@@ -26,7 +26,7 @@ Se resuelve planificando: cargas más cortas, más relevos de batería y un punt
 
 El Cabildo sitúa las zonas tradicionales de papa en las cotas altas de San Miguel, Granadilla y Vilaflor (Plan Anual 2017). Aquí se siembra entre el 15 de julio y el 15 de agosto sobre jable, según la web municipal, y el ciclo cae en otoño, con lluvias y nieblas.
 
-Un enarenado de papa es un cultivo bajo y uniforme que el dron cubre sin pisar la arena. Plagas documentadas: polilla guatemalteca (Tecia solanivora), en Tenerife desde 1999 y con pérdidas cercanas al 50 % en medianías y secano según el Cabildo y el ICIA, y mildiu, con avisos de riesgo alto del Cabildo. La polilla va al tubérculo y la pulverización no la alcanza; el mildiu sí se cubre en hoja.
+Un enarenado de papa es un cultivo bajo y uniforme que el dron cubre sin pisar la arena. Plagas documentadas: polilla guatemalteca (Tecia solanivora), en Tenerife desde 1999 y con pérdidas cercanas al 50 % en medianías y secano según el Cabildo y el ICIA, y mildiu, con avisos de riesgo alto del Cabildo. La polilla va al tubérculo y la pulverización no la alcanza; el mildiu lo siguen los avisos del Cabildo. El dron entra con abonado foliar, sin pisar el enarenado.
 
 ## ¿Y para la viña de Los Frontones, entre 1.100 y 1.600 metros?
 
@@ -48,14 +48,14 @@ Clima de montaña seco a sotavento: mucha insolación, frío nocturno, heladas o
 
 ## ¿Qué hace falta para contratar un tratamiento con dron?
 
-Fuera de La Palma trabajamos con desplazamiento y según disponibilidad, agrupando fincas de Chasna. Hacen falta los datos de la parcela y del producto, y el trámite.
+Fuera de La Palma trabajamos con desplazamiento y según disponibilidad, agrupando fincas de Chasna. Hacen falta los datos de la parcela y del producto, y tres condiciones.
 
-En España la aplicación aérea de productos fitosanitarios está prohibida con carácter general y solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). Solo pueden aplicarse productos cuya autorización incluya expresamente la aplicación aérea (anexo VI). El operador vuela en categoría específica de AESA/EASA (PDRA-S01, STS).
+Una, el vuelo: categoría específica de AESA/EASA (PDRA-S01 o escenarios estándar), piloto certificado y comprobación previa de la parcela en el mapa de zonas geográficas de UAS de ENAIRE, que por encima del pueblo ya entra en el entorno del Parque Nacional del Teide. Dos, el producto: de uso permitido en papa, viña o almendro, a dosis de etiqueta, solo al aire libre. Tres, el cielo: con helada, niebla o viento de cumbre, se espera.
 
 ## ¿Qué cultivos de Vilaflor tienen sentido con dron y cuáles no?
 
-- Papa sobre jable: sí para foliares como el mildiu; no para la polilla del tubérculo.
-- Viña de Los Frontones: sí para hongos de hoja y racimo; parcelas pequeñas agrupadas en una salida.
+- Papa sobre jable: sí para abonado foliar y bioestimulantes; las plagas, con lo que marque el Cabildo.
+- Viña de Los Frontones: sí para foliares y correctores entre brotación y envero; parcelas pequeñas agrupadas en una salida.
 - Almendro y frutales templados: árboles dispersos en secano, tratables si no hay tendidos. El tigre del almendro (Monosteira unicostata) se cita como especie extendida por Europa y Canarias (Agronews) [VERIFICAR: daños documentados en Tenerife].
 - Huerta: parcelas muy pequeñas; rara vez compensa el vuelo.
 
@@ -67,17 +67,17 @@ Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-t
 Un poco: con aire menos denso el equipo gasta más batería y se planifican cargas y relevos más frecuentes. En la jornada completa apenas se nota.
 
 ### ¿Puede tratar el dron una papa sembrada en agosto cuando llegan las nieblas de octubre?
-La papa tardía pasa el otoño en hoja, cuando el Cabildo suele avisar de mildiu. Con planta seca y sin viento se trata; con niebla cerrada o rocío se espera.
+La papa tardía pasa el otoño en hoja, que es cuando tiene sentido el abonado foliar. Con planta seca y sin viento se pulveriza; con niebla cerrada o rocío se espera.
 
 ### ¿Cuánto cuesta un tratamiento con dron en Vilaflor?
 Sin ver la finca no damos cifra: pesan superficie, cultivo, número de bancales, accesos y producto. Si varios vecinos de Chasna se juntan, el desplazamiento se reparte en el presupuesto.
 
-### ¿Hace falta que yo tramite la autorización del Gobierno de Canarias?
-Se prepara entre los dos: tú aportas los datos de la parcela y del producto, y el tratamiento no sale hasta que la autorización y el plan de aplicación están aprobados.
+### ¿Qué productos aplica el dron en Vilaflor?
+Abonos foliares, bioestimulantes y correctores de carencias de uso permitido en papa, viña o almendro, a la dosis de su etiqueta. Tú eliges el producto con tu técnico; nosotros lo llevamos al bancal desde el aire.
 
 ## Pide presupuesto para tu bancal de Vilaflor
 
-Dinos cota, número de bancales, cultivo y qué quieres tratar. Te decimos si el dron encaja a esa altura y te pasamos presupuesto con el desplazamiento desde La Palma, desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Dinos cota, número de bancales, cultivo y qué quieres aplicar. Te decimos si el dron encaja a esa altura y te pasamos presupuesto con el desplazamiento desde La Palma, desde [Agrodrón Canarias](https://agrodroncanarias.es/).
 
 ```json
 {
@@ -85,9 +85,9 @@ Dinos cota, número de bancales, cultivo y qué quieres tratar. Te decimos si el
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Vilaflor de Chasna",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en papa de siembra tardía sobre jable, viña de altura de Los Frontones y almendro de Vilaflor de Chasna, con desplazamiento desde La Palma.",
+      "name": "Tratamientos agrícolas con dron en Vilaflor de Chasna",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en papa de siembra tardía sobre jable, viña de altura de Los Frontones y almendro de Vilaflor de Chasna, con desplazamiento desde La Palma.",
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/vilaflor-de-chasna/",
       "provider": {
         "@type": "LocalBusiness",
@@ -117,7 +117,7 @@ Dinos cota, número de bancales, cultivo y qué quieres tratar. Te decimos si el
         {
           "@type": "Question",
           "name": "¿Puede tratar el dron una papa sembrada en agosto cuando llegan las nieblas de octubre?",
-          "acceptedAnswer": { "@type": "Answer", "text": "La papa tardía pasa el otoño en hoja, cuando el Cabildo suele avisar de mildiu. Con planta seca y sin viento se trata; con niebla cerrada o rocío se espera." }
+          "acceptedAnswer": { "@type": "Answer", "text": "La papa tardía pasa el otoño en hoja, que es cuando tiene sentido el abonado foliar. Con planta seca y sin viento se pulveriza; con niebla cerrada o rocío se espera." }
         },
         {
           "@type": "Question",
@@ -126,8 +126,8 @@ Dinos cota, número de bancales, cultivo y qué quieres tratar. Te decimos si el
         },
         {
           "@type": "Question",
-          "name": "¿Hace falta que yo tramite la autorización del Gobierno de Canarias?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Se prepara entre los dos: tú aportas los datos de la parcela y del producto, y el tratamiento no sale hasta que la autorización y el plan de aplicación están aprobados." }
+          "name": "¿Qué productos aplica el dron en Vilaflor?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Abonos foliares, bioestimulantes y correctores de carencias de uso permitido en papa, viña o almendro, a la dosis de su etiqueta. Tú eliges el producto con tu técnico; nosotros lo llevamos al bancal desde el aire." }
         }
       ]
     }

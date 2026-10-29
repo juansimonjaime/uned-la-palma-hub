@@ -3,7 +3,7 @@ title: "Dron agrícola en Gran Canaria | Agrodrón Canarias"
 slug: "dron-agricola-gran-canaria"
 meta_description: "Dron agrícola en Gran Canaria: platanera, papa, subtropicales y viña al aire libre, con desplazamiento desde La Palma y bajo consulta. Pide presupuesto."
 keyword: "dron agrícola en Gran Canaria"
-keywords_secundarias: "fumigar con dron en Gran Canaria, tratamiento con drones platanera Gran Canaria, dron fitosanitario Gran Canaria, pulverización aérea Gran Canaria, dron para mango y aguacate Gran Canaria"
+keywords_secundarias: "pulverización con dron en Gran Canaria, tratamiento con drones platanera Gran Canaria, dron pulverizador Gran Canaria, abonado foliar con dron Gran Canaria, dron para mango y aguacate Gran Canaria"
 parent: ""
 nivel: "hub"
 isla: "Gran Canaria"
@@ -36,7 +36,7 @@ Los subtropicales suman 3.022 hectáreas (RTVC, 2025); la viña de la DO, entre 
 
 ## Qué trata un dron agrícola en Gran Canaria y qué se queda bajo plástico
 
-Al aire libre, y tratable con producto autorizado para aplicación aérea: platanera sin malla de techo, papa y hortalizas de medianías, viña de Monte Lentiscal, Tunte y Tejeda, mango y aguacate del oeste y el sur, cítricos, olivar, almendro y manzano.
+Al aire libre, y tratable con abono foliar, bioestimulantes o correctores de carencias de uso permitido: platanera sin malla de techo, papa y hortalizas de medianías, viña de Monte Lentiscal, Tunte y Tejeda, mango y aguacate del oeste y el sur, cítricos, olivar, almendro y manzano.
 
 Bajo invernadero o malla, y fuera: tomate y pepino de La Aldea, el sureste y la costa de Gáldar y Mogán; flores de Guía y Santa Lucía; fresa de Valsequillo si va bajo túnel [VERIFICAR]; papaya cuando va cubierta. El DJI Agras T50 pulveriza desde arriba; lo que tiene techo no lo trata.
 
@@ -61,11 +61,11 @@ Santa Brígida, viña de secano en Monte Lentiscal y huerta en un término resid
 
 ## Cómo se organiza una salida desde La Palma
 
-Nos mandas ubicación, cultivo, superficie, accesos y obstáculos. Comprobamos que el cultivo está al aire libre y hay producto con autorización aérea, planificamos el vuelo y juntamos las fincas de la comarca en una salida; el día del tratamiento se mira el viento, se aplica la dosis de la etiqueta y se registra.
+Nos mandas ubicación, cultivo, superficie, accesos y obstáculos. Comprobamos que el cultivo está al aire libre y el producto es de uso permitido en él, planificamos el vuelo y juntamos las fincas de la comarca en una salida; el día del tratamiento se mira el viento, se aplica la dosis de la etiqueta y se registra.
 
-## Autorización antes de cada tratamiento
+## Piloto, espacio aéreo y producto
 
-La aplicación aérea de fitosanitarios está prohibida en España con carácter general y solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). El Ministerio de Agricultura considera los tratamientos con dron tratamientos aéreos (nota MAPA–AESA, 2018), solo caben productos autorizados expresamente para aplicación aérea (anexo VI) y el operador vuela en categoría específica de AESA/EASA (STS o PDRA-S01).
+Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el PDRA-S01, con piloto certificado. Con el aeropuerto en la costa este, cada parcela se comprueba antes en el mapa de zonas geográficas de UAS de ENAIRE, de Gáldar a Mogán. En el depósito solo va producto de uso permitido en el cultivo, a dosis de etiqueta, y no se vuela con viento fuerte, lluvia ni niebla.
 
 Páginas de cultivo: [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/), [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/), [dron para mango, papaya y subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/), [tratamientos con dron en cítricos](https://agrodroncanarias.es/dron-agricola-citricos/) y [tomate de invernadero y dron](https://agrodroncanarias.es/dron-agricola-tomate/).
 
@@ -78,7 +78,7 @@ Con base en La Palma y en toda Canarias. En Gran Canaria, con desplazamiento y b
 No: va bajo invernadero o malla, donde la pulverización aérea no entra.
 
 ### ¿Vale el dron para la platanera del norte de Gran Canaria?
-Sí, si está al aire libre, sin malla de techo, y con producto autorizado para aplicación aérea. El picudo negro, en el rizoma, no se alcanza desde el aire.
+Sí, si está al aire libre y sin malla de techo, con abono foliar o bioestimulante de uso permitido en platanera. El picudo negro, en el cormo, lo controla el Cabildo; desde el aire no se alcanza.
 
 ### ¿Cuánto cuesta traer el dron a Gran Canaria?
 No publicamos tarifas. Depende de la superficie total de la salida, cultivos, accesos, productos y desplazamiento desde La Palma.
@@ -93,9 +93,9 @@ Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y cuéntanos municip
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Gran Canaria",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en platanera, papa, viña, mango, aguacate, cítricos y olivar al aire libre de Gran Canaria, con desplazamiento desde La Palma y bajo disponibilidad. El tomate y el pepino de invernadero quedan fuera.",
+      "name": "Tratamientos agrícolas con dron en Gran Canaria",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en platanera, papa, viña, mango, aguacate, cítricos y olivar al aire libre de Gran Canaria, con desplazamiento desde La Palma y bajo disponibilidad. El tomate y el pepino de invernadero quedan fuera.",
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/",
       "provider": {
         "@type": "LocalBusiness",
@@ -130,7 +130,7 @@ Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y cuéntanos municip
         {
           "@type": "Question",
           "name": "¿Vale el dron para la platanera del norte de Gran Canaria?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si está al aire libre, sin malla de techo, y con producto autorizado para aplicación aérea. El picudo negro, en el rizoma, no se alcanza desde el aire." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si está al aire libre y sin malla de techo, con abono foliar o bioestimulante de uso permitido en platanera. El picudo negro, en el cormo, lo controla el Cabildo; desde el aire no se alcanza." }
         },
         {
           "@type": "Question",

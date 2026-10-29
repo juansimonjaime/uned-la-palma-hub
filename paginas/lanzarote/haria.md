@@ -3,7 +3,7 @@ title: "Dron agrícola en Haría | Agrodrón Canarias"
 slug: "haria"
 meta_description: "Dron agrícola en Haría: papa, cebolla y viña en enarenados pequeños al pie del risco de Famara, con viento y paredes de piedra. Pide presupuesto."
 keyword: "dron agrícola en Haría"
-keywords_secundarias: "fumigar con dron en el norte de Lanzarote, tratamiento con drones en papa de Los Valles, dron fitosanitario Haría, pulverización aérea en Máguez y Ye"
+keywords_secundarias: "pulverización con dron en el norte de Lanzarote, tratamiento con drones en papa de Los Valles, dron pulverizador Haría, abonado foliar con dron en Máguez y Ye"
 parent: "dron-agricola-lanzarote"
 nivel: "B"
 isla: "Lanzarote"
@@ -46,11 +46,11 @@ Lo que consta: papa, con un 20 % más de siembra declarado por la asociación en
 
 La polilla guatemalteca de la papa (Tecia solanivora) está citada por el MAPA en almacenes de Lanzarote, no en campo, y el almacén no se trata desde el aire. El mildiu de la papa tiene avisos de riesgo alto por comarcas del Cabildo de Tenerife (2024), ninguno leído para Lanzarote [VERIFICAR].
 
-En viña, las prospecciones de filoxera iniciadas con la Orden de 20 de agosto de 2025 no han dado positivos en Lanzarote (más de 1.300 inspecciones, según La Voz), y el Consejo Regulador avisó de un hongo en varias fincas sin que la fuente diga cuál [VERIFICAR]. El dron entra cuando hay aviso o daño en hoja.
+En viña, las prospecciones de filoxera iniciadas con la Orden de 20 de agosto de 2025 no han dado positivos en Lanzarote (más de 1.300 inspecciones, según La Voz), y el Consejo Regulador avisó de un hongo en varias fincas sin que la fuente diga cuál [VERIFICAR]. Todo eso lo lleva sanidad vegetal del Cabildo; el dron entra con foliares y bioestimulantes para el vigor de la papa o la cepa tras viento y sequía.
 
-## Autorización y viento: las dos condiciones en Haría
+## Piloto, mapa de vuelo y viento: las condiciones en Haría
 
-En España la aplicación aérea de fitosanitarios está prohibida con carácter general y solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (RD 1311/2012, artículos 27 y 28); y como el Ministerio de Agricultura considera los tratamientos con dron tratamientos aéreos (nota MAPA-AESA, 2018), cada vuelo en Haría pasa por ese trámite.
+Agrodrón vuela en la categoría específica de AESA/EASA, en escenario estándar STS o bajo el PDRA-S01, con piloto certificado. Antes de cada salida la parcela se sitúa en el mapa de zonas geográficas de UAS de ENAIRE, y sobre la papa, la cebolla o la viña de Ye solo va producto de uso permitido en ese cultivo, a dosis de etiqueta, al aire libre.
 
 El viento es la otra condición: se mide en la parcela el día del tratamiento y, si el alisio baja por el valle con fuerza, se espera.
 
@@ -62,7 +62,7 @@ Para situar Haría en la isla, [dron agrícola en Lanzarote](https://agrodroncan
 Para una sola finca de pocos celemines, rara vez. Compensa cuando se agrupan varias parcelas del valle, de Máguez o de Ye en la misma salida; por eso trabajamos bajo disponibilidad.
 
 ### ¿Sirve el dron contra la polilla guatemalteca de la papa?
-No en Lanzarote: el MAPA la cita en almacenes, no en campo. En campo el dron tiene sentido con problemas de hoja, según etiqueta y plan de aplicación.
+No. En Lanzarote el MAPA la cita en almacenes, no en campo, y su control es cosa del Cabildo. En la papa del norte el dron se usa para abonado foliar y bioestimulantes, no contra plagas.
 
 ### ¿Qué pasa si el día del tratamiento hay niebla en Famara?
 Con niebla cerrada o hoja mojada no se aplica: se espera a que levante y seque la hoja, o se cambia la fecha.
@@ -72,7 +72,7 @@ No hay tarifa fija: cuentan la superficie real, el número de parcelas, los acce
 
 ## Pide presupuesto para tu finca en Haría, Máguez o Ye
 
-Dinos dónde está la finca, qué cultivas (papa, cebolla, viña), cuántas parcelas son y qué problema quieres cubrir. Te contestamos si el dron encaja y te mandamos presupuesto con el desplazamiento contemplado: [Agrodrón Canarias](https://agrodroncanarias.es/).
+Dinos dónde está la finca, qué cultivas (papa, cebolla, viña), cuántas parcelas son y qué quieres aplicar. Te contestamos si el dron encaja y te mandamos presupuesto con el desplazamiento contemplado: [Agrodrón Canarias](https://agrodroncanarias.es/).
 
 ```json
 {
@@ -80,9 +80,9 @@ Dinos dónde está la finca, qué cultivas (papa, cebolla, viña), cuántas parc
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Haría",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en fincas pequeñas de papa, cebolla y viña en enarenado del valle de Haría, Máguez y Ye, al pie del macizo de Famara.",
+      "name": "Tratamientos agrícolas con dron en Haría",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en fincas pequeñas de papa, cebolla y viña en enarenado del valle de Haría, Máguez y Ye, al pie del macizo de Famara.",
       "url": "https://agrodroncanarias.es/dron-agricola-lanzarote/haria/",
       "provider": {
         "@type": "LocalBusiness",
@@ -112,7 +112,7 @@ Dinos dónde está la finca, qué cultivas (papa, cebolla, viña), cuántas parc
         {
           "@type": "Question",
           "name": "¿Sirve el dron contra la polilla guatemalteca de la papa?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No en Lanzarote: el MAPA la cita en almacenes, no en campo. En campo el dron tiene sentido con problemas de hoja, según etiqueta y plan de aplicación." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. En Lanzarote el MAPA la cita en almacenes, no en campo, y su control es cosa del Cabildo. En la papa del norte el dron se usa para abonado foliar y bioestimulantes, no contra plagas." }
         },
         {
           "@type": "Question",
