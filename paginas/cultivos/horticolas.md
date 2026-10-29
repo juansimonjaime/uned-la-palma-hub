@@ -20,7 +20,7 @@ Una lechuga está en el suelo unas semanas; una col o una cebolla de enarenado, 
 
 En una finca hortícola de medianías conviven siembras escalonadas: se planta una tabla mientras se cosecha la de al lado. Dos consecuencias: la cercanía del corte, que en lechuga o calabacín obliga a elegir el foliar y el día con la etiqueta delante; y la deriva hacia la tabla vecina en recolección, que obliga a volar bajo, con el viento a favor y las boquillas ajustadas.
 
-Las cifras son escasas. La lechuga ocupaba 1.182 ha según el ISTAC citado por RTVC (periodo 2010-2021); de cebolla, col y calabacín no hay hectáreas leídas [VERIFICAR: ISTAC por cultivo]. Mercasa sitúa a Canarias entre las primeras regiones productoras de pepino y calabacín y da 22,7 y 22 para el calabacín (2023 y 2024), 8,3 y 7,9 para la cebolla y 12,1 y 9,7 para la col, sin unidades [VERIFICAR: probablemente miles de toneladas].
+Las cifras son escasas. La lechuga ocupaba 1.182 ha según el ISTAC citado por RTVC (periodo 2010-2021); de cebolla, col y calabacín no hay hectáreas que podamos citar. Mercasa sitúa a Canarias entre las primeras regiones productoras de pepino y calabacín.
 
 Agrodrón Canarias sale de Santa Cruz de La Palma; en Gran Canaria, Tenerife y Lanzarote el servicio lleva desplazamiento y depende de la disponibilidad, así que una comarca hortícola rinde más si varios vecinos agrupan sus tablas.
 
@@ -36,11 +36,11 @@ En Lanzarote la hortícola es otra cosa: cebolla sobre enarenado de picón en Ti
 
 Encaja lo que crece al aire libre: cebolla, col, lechuga, zanahoria, judía, millo y el calabacín o el pepino sin cubierta. El millo, aunque sea alto, se sobrevuela sin problema. Lo que carga el dron es abono foliar, bioestimulante o corrector de carencias de uso permitido en esa hortaliza, pensado para el vigor de la planta y para que una tabla de col o cebolla se rehaga tras una racha de calor, un alisio seco en el jable o un trasplante que ha costado arraigar.
 
-No encaja lo que va bajo túnel, malla o invernadero. Parte del calabacín y del pepino se cultiva protegido, sin porcentaje con fuente [VERIFICAR: proporción bajo cubierta]; la fresa de Valsequillo va bajo túnel [VERIFICAR]; las flores de Guía, bajo invernadero. En una misma finca se trata la parte descubierta y se deja la otra.
+No encaja lo que va bajo túnel, malla o invernadero. Parte del calabacín, del pepino y de la fresa se cultiva protegido; las flores de Guía, bajo invernadero. En una misma finca se trata la parte descubierta y se deja la otra.
 
 ## Trips, araña roja, mosca blanca y lagarta: lo que recoge el manual de Agrocabildo 2026
 
-El manual de plagas de Agrocabildo de 2026 cita el trips de la cebolla (Thrips tabaci) y, como polífagas que pasan de un cultivo a otro, la araña roja, la mosca blanca y la lagarta (Chrysodeixis chalcites). De otras plagas y enfermedades de col, lechuga o calabacín en Canarias no hay fuente leída ni calendario de riesgo [VERIFICAR: avisos de hortícolas por isla].
+El manual de plagas de Agrocabildo de 2026 cita el trips de la cebolla (Thrips tabaci) y, como polífagas que pasan de un cultivo a otro, la araña roja, la mosca blanca y la lagarta (Chrysodeixis chalcites). De otras plagas y enfermedades de col, lechuga o calabacín en Canarias no tenemos un calendario de riesgo publicado que citar.
 
 Su control es asunto de sanidad vegetal de cada Cabildo y de las herramientas que ellos indican (trampas, control biológico, labores), no del dron: una pulverización con dron en la huerta lleva nutrición foliar, no va contra el bicho.
 
@@ -52,11 +52,9 @@ Los 40 litros del T50 son la medida justa: un cuarto de hectárea de col va con 
 
 Sobre la norma, lo justo. Agrodrón vuela en la categoría específica de AESA/EASA (escenarios STS o PDRA-S01) con piloto certificado y contrasta el plano de cada finca con las zonas geográficas de UAS de ENAIRE. Solo productos de uso permitido en la hortaliza que toca, a dosis de etiqueta, y solo sobre tablas descubiertas. Si el parte da viento fuerte, lluvia o niebla cerrada en Fontanales, se aplaza.
 
-[IMAGEN: Cebollas sobre enarenado de picón negro en Tinajo con un dron agrícola bajo el cielo del alisio | alt: Cebolla de Lanzarote en enarenado de picón en Tinajo con dron pulverizador]
-
 ## Islas y municipios con huerta al aire libre
 
-Gran Canaria: [tratamientos con dron en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/) y, en detalle, [dron agrícola en Moya](https://agrodroncanarias.es/dron-agricola-gran-canaria/moya/), [dron agrícola en Santa María de Guía](https://agrodroncanarias.es/dron-agricola-gran-canaria/santa-maria-de-guia/) y [dron agrícola en Vega de San Mateo](https://agrodroncanarias.es/dron-agricola-gran-canaria/vega-de-san-mateo/); Teror aparece en la página de la isla. Tenerife: [tratamientos con dron en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/). Lanzarote: [tratamientos con dron en Lanzarote](https://agrodroncanarias.es/dron-agricola-lanzarote/) y [dron agrícola en Teguise](https://agrodroncanarias.es/dron-agricola-lanzarote/teguise/), con el jable y Los Valles;
+Gran Canaria: tratamientos con dron en Gran Canaria y, en detalle, dron agrícola en Moya, dron agrícola en Santa María de Guía y dron agrícola en Vega de San Mateo; Teror aparece en la página de la isla. Tenerife: tratamientos con dron en Tenerife. Lanzarote: tratamientos con dron en Lanzarote y dron agrícola en Teguise, con el jable y Los Valles;
 
 ## Preguntas frecuentes sobre el dron en las hortalizas canarias
 

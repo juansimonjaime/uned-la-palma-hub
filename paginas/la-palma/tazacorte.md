@@ -47,7 +47,7 @@ El viento manda: se mide en la finca el mismo día, con la brisa marina y lo que
 
 ## Malla, invernadero y viento: lo que el dron no puede hacer
 
-El dron solo trata cultivo al aire libre. En Canarias unas 3.200 de las 9.100 ha de platanera están protegidas (Agroislas con datos del Gobierno de Canarias), pero el desglose de La Palma no está localizado. Si tu finca de Tazacorte lleva mallas cortaviento verticales, que no tapan por arriba, sí es tratable, con el cortavientos marcado como obstáculo en el plan de vuelo.
+El dron solo trata cultivo al aire libre. En Canarias unas 3.200 de las 9.100 ha de platanera están protegidas (Agroislas con datos del Gobierno de Canarias), pero no tenemos el desglose de La Palma. Si tu finca de Tazacorte lleva mallas cortaviento verticales, que no tapan por arriba, sí es tratable, con el cortavientos marcado como obstáculo en el plan de vuelo.
 
 Dos cosas más. El piloto vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el análisis de riesgo predefinido PDRA-S01 (Reglamento de Ejecución (UE) 2019/947), y el llano se comprueba finca a finca en el mapa de zonas geográficas de UAS de ENAIRE antes de dibujar la ruta. Al depósito solo sube producto de uso permitido en platanera, a dosis de etiqueta; con viento fuerte, se aplaza.
 

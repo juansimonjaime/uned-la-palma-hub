@@ -14,8 +14,6 @@ municipio: ""
 
 La polilla guatemalteca de la papa (Tecia solanivora) entró en Tenerife en 1999 por Icod de los Vinos y en 2002 saltó a La Palma y Gran Canaria, con medidas obligatorias de la Consejería (Infoagro, 2002). Un dron agrícola para papa no la toca: la larva vive dentro del tubérculo. Tampoco va contra el mildiu, asunto de los avisos del Cabildo; lo que cambia es cómo llega un foliar o un bioestimulante a la mata en bancales donde el tractor no entra.
 
-[IMAGEN: Bancales de papa en medianías del norte de Tenerife con niebla baja y muros de piedra seca | alt: Cultivo de papa en bancales de medianías en La Orotava, Tenerife]
-
 ## La polilla guatemalteca manda, y no se combate desde el aire
 
 La Tecia pone en campo y en almacén, la larva se mete en la papa y el daño se ve al cosechar o semanas después en el saco. Hacia 2021 un tercio de la papa de Gran Canaria estaba afectada; en las medianías del norte de Tenerife las pérdidas rondaron el 50 % en algunas campañas (Cabildo, ICIA).
@@ -24,15 +22,15 @@ Lo que las fuentes recogen como útil: feromonas y atrayentes florales para el m
 
 ## Mildiu: el aviso de riesgo alto lo marca Agrocabildo, no el dron
 
-El mildiu (Phytophthora infestans) es otra historia. Agrocabildo emite avisos de riesgo alto por comarcas (2024) y el Cabildo de Tenerife los ha lanzado para el norte de la isla (AtlánticoHoy, hacia 2024). Avanza con humedad y temperaturas suaves, lo que dan el mar de nubes y las nieblas de barlovento entre 600 y 1.500 m; la época concreta no aparece en las fuentes leídas [VERIFICAR: calendario de avisos por comarca].
+El mildiu (Phytophthora infestans) es otra historia. Agrocabildo emite avisos de riesgo alto por comarcas (2024) y el Cabildo de Tenerife los ha lanzado para el norte de la isla (AtlánticoHoy, hacia 2024). Avanza con humedad y temperaturas suaves, lo que dan el mar de nubes y las nieblas de barlovento entre 600 y 1.500 m; la época concreta la marcan los avisos de cada año.
 
-Ese aviso lo gestionas con lo que indique el Cabildo; el dron no va contra el hongo. Entra después: tras semanas de bancal mojado o tras una sequía como la que costó el 60 % de una cosecha de papa en el norte de Tenerife (ASAGA), cuando se plantea un foliar o un bioestimulante pensado para que la mata recupere vigor. Del escarabajo hay ensayos de Agrocabildo (2008); de nematodos no hay fuente canaria [VERIFICAR].
+Ese aviso lo gestionas con lo que indique el Cabildo; el dron no va contra el hongo. Entra después: tras semanas de bancal mojado o tras una sequía como la que costó el 60 % de una cosecha de papa en el norte de Tenerife (ASAGA), cuando se plantea un foliar o un bioestimulante pensado para que la mata recupere vigor. Del escarabajo hay ensayos de Agrocabildo (2008).
 
 Agrodrón Canarias sale desde Santa Cruz de La Palma: en la isla sin desplazamiento, en Tenerife y Gran Canaria con desplazamiento y bajo disponibilidad.
 
 ## Cuánta papa hay en Canarias: tres cifras para 2023
 
-Para 2023 hay tres superficies que no casan: 6.710 ha (Diario de Avisos); 3.300 ha según el consejero Narvay Quintero vía RTVC, frente a 5.400 ha en 2014; y 3.555 ha, con 2.257 ha en Tenerife, según el ISTAC citado por eldiario.es. El ISTAC da 3.303 ha para 2024. La diferencia probablemente venga de contar varias siembras sobre la misma tierra o distintos tipos de papa [VERIFICAR: metodología ISTAC].
+Para 2023 hay tres superficies distintas: 6.710 ha (Diario de Avisos); 3.300 ha según el consejero Narvay Quintero vía RTVC, frente a 5.400 ha en 2014; y 3.555 ha, con 2.257 ha en Tenerife, según el ISTAC citado por eldiario.es. El ISTAC da 3.303 ha para 2024. Cada fuente cuenta de una manera, así que las cifras no se pueden comparar sin más.
 
 La producción sí coincide: 78.304 t en 2023 (Diario de Avisos), frente a 105 millones de kilos en 2013. Gran Canaria produjo 49.238 t (ISTAC) sobre 805,8 ha (Mapa de Cultivos 2024) o unas 1.200 ha según el Cabildo, con un 90,5 % en regadío.
 
@@ -44,8 +42,6 @@ En Vilaflor de Chasna se siembra sobre enarenados de jable entre 1.000 y 1.600 m
 
 Para esos bancales el T50 aporta un depósito de 40 litros que se rellena desde el camino sin entrar en la finca, y un radar de matriz en fase con visión binocular que sigue el escalón de cada terraza y ajusta la velocidad a la pendiente. El caudal, 16 L/min con dos boquillas centrífugas o 24 con cuatro (DJI), se ajusta al volumen que pida la etiqueta.
 
-[IMAGEN: Dron agrícola DJI Agras T50 sobre un enarenado de jable con papas en Vilaflor de Chasna, con el pinar al fondo | alt: Dron pulverizador sobre papas en enarenado de jable en Vilaflor de Chasna, Tenerife]
-
 ## Varias siembras al año y una ventana para cada una
 
 El Plan Anual del Cabildo de Tenerife (2017) repartía la papa en 60 % de media estación, 25 % temprana y 15 % tardía, con las zonas tradicionales en las cotas altas de San Miguel, Granadilla y Vilaflor. Cada siembra tiene su tramo de riesgo de mildiu en los avisos y su momento para un foliar, así que el calendario se hace por siembra, no por cultivo.
@@ -54,9 +50,9 @@ Lo que no cambia de una siembra a otra: solo productos de uso permitido en papa,
 
 ## Islas y municipios donde la papa pesa
 
-Tenerife concentra la mayor superficie, 2.257 ha en 2023 (ISTAC): [tratamientos con dron en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), con el detalle de bancales y enarenados en [dron agrícola en La Orotava](https://agrodroncanarias.es/dron-agricola-tenerife/la-orotava/) y [dron agrícola en Vilaflor de Chasna](https://agrodroncanarias.es/dron-agricola-tenerife/vilaflor-de-chasna/).
+Tenerife concentra la mayor superficie, 2.257 ha en 2023 (ISTAC): tratamientos con dron en Tenerife, con el detalle de bancales y enarenados en dron agrícola en La Orotava y dron agrícola en Vilaflor de Chasna.
 
-En La Palma, [tratamientos con dron en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) y [dron agrícola en Barlovento](https://agrodroncanarias.es/dron-agricola-la-palma/barlovento/), con Garafía al lado, donde el año seco de 2017 costó 83 ha de papa a la isla (Mapa de Cultivos 2017). En Gran Canaria, [tratamientos con dron en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/) y [dron agrícola en Teror](https://agrodroncanarias.es/dron-agricola-gran-canaria/teror/), sede de la Feria Insular de la Papa;
+En La Palma, [tratamientos con dron en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) y [dron agrícola en Barlovento](https://agrodroncanarias.es/dron-agricola-la-palma/barlovento/), con Garafía al lado, donde el año seco de 2017 costó 83 ha de papa a la isla (Mapa de Cultivos 2017). En Gran Canaria, tratamientos con dron en Gran Canaria y dron agrícola en Teror, sede de la Feria Insular de la Papa;
 
 ## Preguntas frecuentes sobre el dron en la papa canaria
 

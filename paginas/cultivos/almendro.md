@@ -28,17 +28,17 @@ Agrodrón Canarias sale de Santa Cruz de La Palma: Puntagorda y Garafía sin des
 
 ## Unas 279 hectáreas, y por qué la cifra es poco fiable
 
-El Anuario de Estadística del MAPA (avance 2023, tabla 7.10.1.2) da para Canarias unas 279 ha de almendro en plantación regular y unas 244 t con cáscara, datos provisionales y con una lectura de columnas poco fiable [VERIFICAR: tabla MAPA 7.10.1.2]. El anuario de 2022 daba 239 ha; en 2004 eran 530 ha, 467 de ellas en la provincia de Santa Cruz de Tenerife y 2 en Las Palmas.
+El Anuario de Estadística del MAPA da para Canarias pocas hectáreas de almendro en plantación regular: 239 ha en 2022; en 2004 eran 530 ha, 467 de ellas en la provincia de Santa Cruz de Tenerife y 2 en Las Palmas.
 
-Ese reparto choca con lo que Gran Canaria dice de sí misma: un blog turístico habla de más de 3.000 ha de almendros en las medianías, sin respaldo oficial [VERIFICAR: superficie en ISTAC o Mapa de Cultivos]. Lo más probable es que el MAPA cuente solo plantación regular y deje fuera los árboles dispersos, que en Canarias son la mayoría. Para un tratamiento da igual: se cuentan los árboles de tu finca.
+Ese reparto choca con lo que Gran Canaria dice de sí misma: un blog turístico habla de más de 3.000 ha de almendros en las medianías, sin respaldo oficial. Lo más probable es que el MAPA cuente solo plantación regular y deje fuera los árboles dispersos, que en Canarias son la mayoría. Para un tratamiento da igual: se cuentan los árboles de tu finca.
 
 ## Floración de invierno, humedad y plagas con fuente
 
 El almendro florece en invierno, cuando Puntagorda tiene nieblas ocasionales en la parte alta, Garafía vive bajo el mar de nubes del alisio y Tejeda alterna aire seco con heladas y viento en las crestas. Flor abierta y humedad es la combinación que la bibliografía asocia con la monilia.
 
-Con fuente que nombre Canarias solo hay una plaga: el tigre del almendro (Monosteira unicostata), descrito por Agronews como especie muy invasora extendida por Europa y Canarias. La monilia (Monilia laxa), con máxima susceptibilidad en floración y maduración con humedad elevada (Vida Rural, 2004), y el gusano cabezudo (Capnodis tenebrionis), sin lucha química eficaz (Infoagro), vienen de fuentes peninsulares [VERIFICAR: relevancia en Canarias].
+Con fuente que nombre Canarias solo hay una plaga: el tigre del almendro (Monosteira unicostata), descrito por Agronews como especie muy invasora extendida por Europa y Canarias. La monilia (Monilia laxa), con máxima susceptibilidad en floración y maduración con humedad elevada (Vida Rural, 2004), y el gusano cabezudo (Capnodis tenebrionis), sin lucha química eficaz (Infoagro), vienen de fuentes peninsulares.
 
-En Puntagorda y Garafía no hay plaga de almendro documentada localmente [VERIFICAR: avisos del Cabildo de La Palma].
+En Puntagorda y Garafía no hay una carencia del almendro documentada localmente que pida por sí sola un abonado foliar.
 
 ## Dron agrícola para almendro: tratar árbol a árbol en pendiente
 
@@ -48,7 +48,7 @@ Lo que se aplica es abono foliar, bioestimulante o corrector de carencias de uso
 
 Los 40 litros del T50 dan para muchos árboles así, porque el gasto va por copa y no por superficie; el caudal de 16 L/min con dos boquillas centrífugas o 24 con cuatro (ficha de DJI) se ajusta a la etiqueta. El radar de matriz en fase y la visión binocular mantienen la altura sobre la copa cuando el bancal baja un escalón y adaptan la velocidad a la pendiente.
 
-En Tejeda y Vilaflor la altitud y el viento de cresta se valoran antes de comprometer un vuelo [VERIFICAR: comportamiento del T50 por encima de 1.000 m]. En Puntagorda manda el viento de componente norte-noroeste.
+En Tejeda y Vilaflor la altitud y el viento de cresta se valoran antes de comprometer un vuelo. En Puntagorda, igual: el viento se mide en la finca el mismo día.
 
 Lo que no se salta: el piloto de Agrodrón, con certificados AESA/EASA (PDRA-S01, operador STS), vuela en la categoría específica, y antes de subir a Las Tricias o a Timagada el plano se contrasta con las zonas geográficas de UAS de ENAIRE. Solo árboles al aire libre, y sin despegar con viento fuerte, lluvia o niebla: la ventana se decide en la finca el mismo día.
 
@@ -58,7 +58,7 @@ Lo que no se salta: el piloto de Agrodrón, con certificados AESA/EASA (PDRA-S01
 
 Desde Santa Cruz de La Palma, [dron agrícola en Puntagorda](https://agrodroncanarias.es/dron-agricola-la-palma/puntagorda/) y [dron agrícola en Garafía](https://agrodroncanarias.es/dron-agricola-la-palma/garafia/) van sin desplazamiento; el conjunto de la isla está en [tratamientos con dron en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/).
 
-Tenerife y Gran Canaria llevan desplazamiento y quedan sujetas a disponibilidad: [tratamientos con dron en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/) y [dron agrícola en Vilaflor de Chasna](https://agrodroncanarias.es/dron-agricola-tenerife/vilaflor-de-chasna/), con Santiago del Teide nombrado en la página de la isla; [tratamientos con dron en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/) y [dron agrícola en Valsequillo](https://agrodroncanarias.es/dron-agricola-gran-canaria/valsequillo/), con Tejeda en la de la isla.
+Tenerife y Gran Canaria llevan desplazamiento y quedan sujetas a disponibilidad: tratamientos con dron en Tenerife y dron agrícola en Vilaflor de Chasna, con Santiago del Teide nombrado en la página de la isla; tratamientos con dron en Gran Canaria y dron agrícola en Valsequillo, con Tejeda en la de la isla.
 
 ## Preguntas frecuentes sobre el dron en el almendro canario
 

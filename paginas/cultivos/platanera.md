@@ -18,7 +18,7 @@ Una platanera en producción te saca una cabeza o más: unos 2,25 m la Pequeña 
 
 ## Cuánta platanera hay y cuánta se puede tratar desde el aire
 
-El plátano es el cultivo con más superficie de Canarias: 8.719 ha en 2023 según el Parlamento de Canarias (BOP 272/2024) y 8.761,4 ha en 2024 según el ISTAC, un 22,1 % de todo lo cultivado en las islas. Mercasa (informe de febrero de 2026) habla de unas 9.940 ha y de 421.300 t en 2024, un 10 % menos que el año anterior; las cifras no casan [VERIFICAR: base de cálculo de Mercasa].
+El plátano es el cultivo con más superficie de Canarias: 8.719 ha en 2023 según el Parlamento de Canarias (BOP 272/2024) y 8.761,4 ha en 2024 según el ISTAC, un 22,1 % de todo lo cultivado en las islas. Mercasa (informe de febrero de 2026) habla de unas 9.940 ha y de 421.300 t en 2024, un 10 % menos que el año anterior; las cifras no coinciden con las oficiales.
 
 Para el dron importa otro número del mismo informe: algo más de 3.100 ha van bajo invernadero, casi un tercio, y esa parte no se trata desde el aire porque el producto no atraviesa la cubierta. El resto, entre muros y cortavientos, sí.
 
@@ -46,17 +46,15 @@ La platanera no tiene parada: se corta todo el año y en la misma finca conviven
 
 El verano manda en el calendario de riesgo: Agroseguro contabilizó en 2024 unas 7.400 parcelas y 1.650 ha de plátano dañadas por calor en la vertiente oeste de La Palma. El viento de tarde y la humedad baja se comprueban antes de cargar; si no acompañan, se vuela a primera hora o se deja para otro día.
 
-[IMAGEN: Piña de plátano enfundada en una finca de la Isla Baja de Tenerife, con las hojas de la platanera cerrándose por encima del pasillo | alt: Platanera en producción con piña enfundada en Buenavista del Norte, Tenerife]
-
 ## Dron agrícola para platanera: dónde trabajamos y con qué papeles
 
 Agrodrón Canarias tiene la base en Santa Cruz de La Palma, así que en la isla no cobramos desplazamiento. En Tenerife, Gran Canaria, La Gomera y El Hierro salimos con desplazamiento y según disponibilidad.
 
-Tenerife tiene el 45 % de la superficie platanera (Confederación Canaria de Empresarios sobre datos del ISTAC, 2022) y La Palma un tercio de la producción (Justicia Alimentaria, enero de 2025), con la mayor parte de su platanera descubierta [VERIFICAR: indicio en Mapa de Cultivos 2017: 742 ha de invernadero, todos los cultivos, en La Palma].
+Tenerife tiene el 45 % de la superficie platanera (Confederación Canaria de Empresarios sobre datos del ISTAC, 2022) y La Palma un tercio de la producción (Justicia Alimentaria, enero de 2025).
 
 En [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) están [Tazacorte, con 450,54 ha de plátano en el Mapa de Cultivos 2022](https://agrodroncanarias.es/dron-agricola-la-palma/tazacorte/), y [Los Llanos de Aridane, que reúne el 28,8 % de la platanera palmera](https://agrodroncanarias.es/dron-agricola-la-palma/los-llanos-de-aridane/) según un estudio de la ULL.
 
-En [Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [Guía de Isora sumaba 845,4 ha en 2021](https://agrodroncanarias.es/dron-agricola-tenerife/guia-de-isora/) según Mercatenerife. En [Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/), [Gáldar tiene 630,42 ha de platanera](https://agrodroncanarias.es/dron-agricola-gran-canaria/galdar/) según su portal de transparencia, de las 1.940,7 ha de la isla (Mapa de Cultivos 2024). En [La Gomera](https://agrodroncanarias.es/dron-agricola-la-gomera/), la platanera de Hermigua y Valle Gran Rey va en terrazas de fondo de barranco donde la maquinaria terrestre apenas entra.
+En Tenerife, Guía de Isora sumaba 845,4 ha en 2021 según Mercatenerife. En Gran Canaria, Gáldar tiene 630,42 ha de platanera según su portal de transparencia, de las 1.940,7 ha de la isla (Mapa de Cultivos 2024). En La Gomera, la platanera de Hermigua y Valle Gran Rey va en terrazas de fondo de barranco donde la maquinaria terrestre apenas entra.
 
 Sobre el papel, lo justo. Agrodrón vuela en la categoría específica de AESA/EASA (escenarios STS o PDRA-S01) con piloto certificado, y antes de dar fecha consulta el mapa de zonas geográficas de UAS de ENAIRE: el aeropuerto de La Palma linda con fincas de plátano de Breña Baja y Mazo, y ahí el mapa manda. Solo productos de uso permitido en el plátano, a dosis de etiqueta, y solo sobre finca descubierta.
 

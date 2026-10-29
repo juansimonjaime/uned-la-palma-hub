@@ -60,6 +60,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--inicio", required=True, help="fecha de la primera página, AAAA-MM-DD")
     ap.add_argument("--por-dia", type=int, default=1, help="páginas publicadas cada día")
+    ap.add_argument("--limite", type=int, default=None, help="solo se programan las N primeras; el resto queda sin fecha")
     ap.add_argument("--md", default=None)
     args = ap.parse_args()
 
@@ -78,14 +79,19 @@ def main():
         ver = len(re.findall(r"\[VERIFICAR", cuerpo))
         pend = len(re.findall(r"\[IMAGEN:", cuerpo))
         fotos = len(re.findall(r"!\[[^\]]*\]\(/imagenes/", cuerpo))
-        filas.append((n + 1, dia0 + dt.timedelta(days=n // args.por_dia), rel, fm.get("nivel", ""), url, ver, pend, fotos))
+        programada = args.limite is None or n < args.limite
+        fecha = dia0 + dt.timedelta(days=n // args.por_dia) if programada else "sin fecha (fase 2)"
+        filas.append((n + 1, fecha, rel, fm.get("nivel", ""), url, ver, pend, fotos))
 
     listas = sum(1 for f in filas if f[5] == 0 and f[6] == 0)
-    print(f"{len(filas)} páginas, del {filas[0][1]} al {filas[-1][1]}. Listas para salir (0 [VERIFICAR] y 0 [IMAGEN]): {listas}")
+    con_fecha = [f for f in filas if not isinstance(f[1], str)]
+    print(f"{len(con_fecha)} de {len(filas)} páginas programadas, del {con_fecha[0][1]} al {con_fecha[-1][1]}. Listas para salir (0 [VERIFICAR] y 0 [IMAGEN]): {listas}")
     if args.md:
         with open(args.md, "w", encoding="utf-8", newline="\n") as f:
             f.write(f"# Calendario de publicación ({args.por_dia} página(s) por día)\n\n")
-            f.write(f"Primera página: {filas[0][1]}. Última: {filas[-1][1]}. Orden: hub de isla antes que sus municipios; La Palma y cultivos primero (informe.md, sección 9).\n\n")
+            f.write(f"Programadas {len(con_fecha)} de {len(filas)} páginas, del {con_fecha[0][1]} al {con_fecha[-1][1]}. Orden: hub de isla antes que sus municipios; La Palma y cultivos primero (informe.md, sección 9).\n\n")
+            if len(con_fecha) < len(filas):
+                f.write("Fase 1: La Palma (hub y 14 municipios) y las 10 páginas de cultivo. El resto queda sin fecha hasta revisar en Google Search Console, 4-6 semanas después, qué páginas reciben visitas; entonces se decide si se publican las demás islas, despacio o solo con sus hubs.\n\n")
             f.write(f"Una página está lista cuando no le quedan marcas [VERIFICAR] ni marcadores [IMAGEN]. Ahora mismo hay {listas} de {len(filas)}.\n\n")
             f.write("| Nº | Fecha | Página | Nivel | URL final | [VERIFICAR] | [IMAGEN] sin foto | Fotos | Lista |\n|---|---|---|---|---|---|---|---|---|\n")
             for d, fecha, rel, niv, url, ver, pend, fotos in filas:

@@ -25,3 +25,6 @@ dist-ssr
 
 # Python
 __pycache__/
+
+# Vista previa local (se regenera con scripts/previsualizar.py)
+previsualizacion

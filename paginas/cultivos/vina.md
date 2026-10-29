@@ -22,13 +22,13 @@ En la viña rastrera de Fuencaliente o del Hoyo de Mazo la cepa se extiende por 
 
 El cordón trenzado del Valle de La Orotava va fila a fila, con brazos largos sobre horquetas y pasillos donde sobra todo lo que caiga. En el parral la cubierta queda arriba y el racimo cuelga debajo: el dron moja la cara superior, y lo que atraviesa depende del producto, de la gota y de lo espesa que esté la parra.
 
-En La Geria el marco ronda los 4 metros por cepa, frente a 1,5 metros en los enarenados de Tinajo (ficha antigua de la DO en Infoagro). Un hoyo con su zoco es un objetivo aislado: se trata cepa a cepa, con poco caldo por hectárea y mucho terreno recorrido. Los sistemas de conducción están descritos en la Estructura de costes del viñedo en Canarias (ITER 2023) [VERIFICAR: documento no leído].
+En La Geria el marco ronda los 4 metros por cepa, frente a 1,5 metros en los enarenados de Tinajo (ficha antigua de la DO en Infoagro). Un hoyo con su zoco es un objetivo aislado: se trata cepa a cepa, con poco caldo por hectárea y mucho terreno recorrido.
 
 ## Hectáreas de viña: tres cifras que no casan
 
-El ISTAC, citado por ASAGA, daba 6.191 ha en 2021 frente a 8.651 ha en 2010; para 2024 recoge 8.158,2 ha. RTVC hablaba en septiembre de 2025 de unas 10.000 ha, casi el 80 % de Listán Negro y Listán Blanco. Miden cosas distintas (plantada, en producción o inscrita en una DO) y no se pueden promediar [VERIFICAR: métrica de cada fuente].
+El ISTAC, citado por ASAGA, daba 6.191 ha en 2021 frente a 8.651 ha en 2010; para 2024 recoge 8.158,2 ha. RTVC hablaba en septiembre de 2025 de unas 10.000 ha, casi el 80 % de Listán Negro y Listán Blanco. Miden cosas distintas (plantada, en producción o inscrita en una DO) y no se pueden promediar.
 
-El reparto sí está claro. Las cinco DO de Tenerife suman en torno al 60 % de la uva del archipiélago (Interprofesional del Vino, 2024). La DO Lanzarote tenía 1.865 ha inscritas en 2024 y La Geria 1.368 ha, 237 de ellas abandonadas (Mapa de Cultivos vía Infoagro, 2024). La DO Vinos La Palma habla de unas 800 ha censadas (ICCA), con otras fuentes entre 441 y 736 ha [VERIFICAR: cifra vigente]. El Hierro ronda las 200 ha (Cabildo).
+El reparto sí está claro. Las cinco DO de Tenerife suman en torno al 60 % de la uva del archipiélago (Interprofesional del Vino, 2024). La DO Lanzarote tenía 1.865 ha inscritas en 2024 y La Geria 1.368 ha, 237 de ellas abandonadas (Mapa de Cultivos vía Infoagro, 2024). La DO Vinos La Palma habla de unas 800 ha censadas (ICCA), con otras fuentes entre 441 y 736 ha. El Hierro ronda las 200 ha (Cabildo).
 
 Ese reparto importa porque la base de Agrodrón Canarias está en Santa Cruz de La Palma: en la isla no hay desplazamiento; en el resto de Canarias el servicio lleva desplazamiento y queda sujeto a disponibilidad.
 
@@ -38,7 +38,7 @@ El oídio figura como enfermedad endémica en Canarias en la guía de la viña d
 
 Ejemplos: riesgo alto de oídio en zonas bajas entre el 22 y el 28 de abril de 2026; a finales de julio, oídio elevado, mildiu medio y atención a la botritis en envero (newsletter del 31 de julio, sin año).
 
-En La Palma el Consejo Regulador reconoció mildiu y oídio en la campaña 2025 (El Time). En Lanzarote el Consejo Regulador avisó de un hongo en varias fincas sin que la fuente lo identifique [VERIFICAR: indicio en La Voz de Lanzarote: mildiu detectado por el Cabildo, sin fecha].
+En La Palma el Consejo Regulador reconoció mildiu y oídio en la campaña 2025 (El Time). En Lanzarote el Consejo Regulador avisó de un hongo en varias fincas, sin precisar cuál.
 
 La filoxera se detectó en Tenerife en 2025, por primera vez en Canarias, con zona demarcada; en 2026 hubo 16 positivos en 5.429 prospecciones y restricciones al movimiento de uva (AtlánticoHoy). En Lanzarote no hubo positivos. Vive en la raíz, donde ninguna pulverización foliar llega.
 
@@ -58,9 +58,9 @@ El plano de vuelo se contrasta con las zonas geográficas de UAS de ENAIRE: una 
 
 ## Islas y municipios donde la viña pesa
 
-En Tenerife la viña ocupa el 15,6 % de la superficie cultivada (Mapa de Cultivos 2021): [tratamientos con dron en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/) y, para el cordón trenzado y las 313,1 ha que le quedan al valle (Agrocabildo, 2024), [dron agrícola en La Orotava](https://agrodroncanarias.es/dron-agricola-tenerife/la-orotava/).
+En Tenerife la viña ocupa el 15,6 % de la superficie cultivada (Mapa de Cultivos 2021): tratamientos con dron en Tenerife y, para el cordón trenzado y las 313,1 ha que le quedan al valle (Agrocabildo, 2024), dron agrícola en La Orotava.
 
-En La Palma, [dron agrícola en Fuencaliente](https://agrodroncanarias.es/dron-agricola-la-palma/fuencaliente/) recoge las 297,5 ha de viña entre 200 y 1.200 m (vinoslapalma.com) y el conjunto está en [tratamientos con dron en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/). Lanzarote: [tratamientos con dron en Lanzarote](https://agrodroncanarias.es/dron-agricola-lanzarote/) y [dron agrícola en Yaiza](https://agrodroncanarias.es/dron-agricola-lanzarote/yaiza/). El Hierro: [tratamientos con dron en El Hierro](https://agrodroncanarias.es/dron-agricola-el-hierro/) y [dron agrícola en Frontera](https://agrodroncanarias.es/dron-agricola-el-hierro/frontera/).
+En La Palma, [dron agrícola en Fuencaliente](https://agrodroncanarias.es/dron-agricola-la-palma/fuencaliente/) recoge las 297,5 ha de viña entre 200 y 1.200 m (vinoslapalma.com) y el conjunto está en [tratamientos con dron en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/). Lanzarote: tratamientos con dron en Lanzarote y dron agrícola en Yaiza. El Hierro: tratamientos con dron en El Hierro y dron agrícola en Frontera.
 
 ## Preguntas frecuentes sobre el dron en la viña canaria
 

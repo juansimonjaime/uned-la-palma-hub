@@ -26,9 +26,9 @@ Nada de eso se trata desde el aire, y no por normativa sino por física: una mal
 
 La única cifra de conjunto con fuente es de 2008: unas 750 ha de ornamentales en Canarias, 349 ha de flor cortada y 364 ha de planta ornamental, según datos del Gobierno de Canarias publicados en la revista Horticultura del Ministerio.
 
-Diario de Avisos (octubre de 2026) sigue hablando de unas 750 ha y 70 millones de euros al año, concentrados en Tenerife, Gran Canaria y La Palma, señal de que la cifra no se ha actualizado [VERIFICAR: superficie oficial reciente de flor y ornamental en el ISTAC].
+Diario de Avisos (octubre de 2026) sigue hablando de unas 750 ha y 70 millones de euros al año, concentrados en Tenerife, Gran Canaria y La Palma, señal de que la cifra no se ha actualizado.
 
-Más atrás, ASOCAN daba en el año 2000 290 ha de flor cortada con 143 ha de rosal. Ninguna de esas fuentes separa lo que va al aire libre de lo que va bajo cubierta [VERIFICAR: porcentaje de ornamentales a cielo abierto].
+Más atrás, ASOCAN daba en el año 2000 290 ha de flor cortada con 143 ha de rosal. Ninguna de esas fuentes separa lo que va al aire libre de lo que va bajo cubierta.
 
 ## Proteas: medio centenar de hectáreas que viajan a Holanda y Asia
 
@@ -40,11 +40,13 @@ En la campaña 2023-24 las proteas lideraron la exportación canaria de flor cor
 
 ## Dron agrícola para flores y ornamentales: cómo se trata una plantación de proteas
 
-La protea es un arbusto (de 1 a 5 m en los Leucospermum, en líneas pareadas a 0,8 x 1 m o simples a 2 x 1 m según la revista Granja del Cabildo de Gran Canaria) plantado sobre bancales de medianías, en laderas donde el tractor no entra y la mochila se sube a cuestas. En la vertiente este de La Palma el mar de nubes baja a esas cotas y la humedad media es la más alta de la isla (AECLIM), así que la ventana de vuelo suele ser la mañana, antes de que entre la niebla.
+La protea es un arbusto (de 1 a 5 m en los Leucospermum, en líneas pareadas a 0,8 x 1 m o simples a 2 x 1 m según la revista Granja del Cabildo de Gran Canaria) plantado sobre bancales de medianías, en laderas donde el tractor no entra y la mochila se sube a cuestas.
+
+En la vertiente este de La Palma el mar de nubes baja a esas cotas y la humedad media es la más alta de la isla (AECLIM), así que la ventana de vuelo se decide en la finca, según la niebla del día.
 
 El DJI Agras T50 sigue el escalonado de los bancales con su radar de matriz en fase y la visión binocular, ajusta la velocidad a la pendiente y pulveriza desde encima de las líneas: depósito de 40 litros, hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro. Con 25 a 32 ha repartidas entre 45 agricultores, la plantación palmera media no llega a la hectárea, y eso se hace en pocas cargas.
 
-Sobre plagas y enfermedades de proteas en Canarias no hemos encontrado fuente técnica publicada [VERIFICAR: avisos de Agrocabildo o del Cabildo de La Palma sobre proteas]; si aparece algo, el control es de tu técnico y de Sanidad Vegetal, no del dron.
+Sobre plagas y enfermedades de proteas en Canarias no hemos encontrado fuente técnica publicada; si aparece algo, el control es de tu técnico y de Sanidad Vegetal, no del dron.
 
 Para lo que hace el dron no hace falta esperarla: en protea el trabajo es el abonado foliar, los correctores de carencias y los bioestimulantes, pensados para el vigor del arbusto tras el corte de la campaña o tras un episodio como los gases de 2021. Finalidad del producto, sin prometer la cosecha siguiente. La protea no admite cualquier cosa: producto y dosis los fija tu técnico con la etiqueta delante.
 
@@ -54,9 +56,9 @@ Para lo que hace el dron no hace falta esperarla: en protea el trabajo es el abo
 
 Agrodrón Canarias tiene la base en Santa Cruz de La Palma, la isla con más proteas al aire libre, y aquí no cobramos desplazamiento.
 
-En [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) las proteas se reparten por las medianías de casi todos los municipios: [Breña Alta](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/) las tiene en sus medianías y [El Paso](https://agrodroncanarias.es/dron-agricola-la-palma/el-paso/) es la cara oeste que sufrió los gases del volcán [VERIFICAR: hectáreas de proteas por municipio].
+En [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) las proteas se reparten por las medianías de casi todos los municipios: [Breña Alta](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/) las tiene en sus medianías y [El Paso](https://agrodroncanarias.es/dron-agricola-la-palma/el-paso/) es la cara oeste que sufrió los gases del volcán.
 
-En [Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/) las 15 ha de proteas de 2017 (Infoagro) conviven con el grueso de la flor bajo invernadero del norte. En [Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/) el ejemplo es al revés: en [Santa María de Guía](https://agrodroncanarias.es/dron-agricola-gran-canaria/santa-maria-de-guia/) las 32 ha de flores van bajo invernadero y no se tratan con dron, mientras que la platanera y la papa del municipio sí. En ambas islas trabajamos con desplazamiento y según disponibilidad.
+En Tenerife las 15 ha de proteas de 2017 (Infoagro) conviven con el grueso de la flor bajo invernadero del norte. En Gran Canaria el ejemplo es al revés: en Santa María de Guía las 32 ha de flores van bajo invernadero y no se tratan con dron, mientras que la platanera y la papa del municipio sí. En ambas islas trabajamos con desplazamiento y según disponibilidad.
 
 Del papel, lo necesario. Agrodrón vuela en la categoría específica de AESA/EASA (STS o PDRA-S01) con piloto certificado, y antes de dar fecha consulta las zonas geográficas de UAS en el mapa de ENAIRE. Solo productos de uso permitido en el cultivo, a dosis de etiqueta y sobre plantación descubierta. Con el mar de nubes metido en los bancales, con lluvia o con viento, no se despega: la ventana se decide en la finca esa mañana.
 

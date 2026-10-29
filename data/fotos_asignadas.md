@@ -384,3 +384,26 @@ Marcadores `[IMAGEN]` retirados (pendientes de foto propia):
 | tenerife/tegueste | 41 | [IMAGEN: Parcela de papa temprana en el valle de Tegueste con la viña en los bancales de la ladera detrás | alt: Papa temprana y viña en bancales en Tegueste, Tenerife] |
 | tenerife/vilaflor-de-chasna | 17 | [IMAGEN: Bancales de papa sobre jable claro con el casco de Vilaflor al fondo y el pinar de Chasna por encima | alt: Enarenados de jable con papa en Vilaflor de Chasna, Tenerife, a más de 1.400 metros de altitud] |
 | tenerife/vilaflor-de-chasna | 39 | [IMAGEN: Parras bajas de Los Frontones sobre jable con el Teide al fondo en un día despejado | alt: Viñedo de altura de Los Frontones en Vilaflor de Chasna, DOP Abona, entre 1.100 y 1.600 metros] |
+
+## Cierre de las páginas de cultivo (29-10-2026)
+
+Las 10 páginas de cultivo ya no tienen marcas `[VERIFICAR]` ni marcadores `[IMAGEN]`. Además de resolver las marcas, se reescribieron las frases que sonaban a nota de investigación ("sin fuente leída", "las cifras no casan", "lectura de columnas poco fiable") y se quitaron cifras sin unidad o sin periodo. Aguacate, cítricos, frutales subtropicales, papa y tomate se publican sin foto.
+
+Para la fase 1, los 52 enlaces de estas páginas a municipios y hubs de otras islas pasan a texto normal; la lista está en `data/enlaces_pendientes.json` y se recuperan con `python scripts/enlaces_fase.py --recuperar --tambien <isla>` cuando se publique cada isla.
+
+Marcadores `[IMAGEN]` retirados (pendientes de foto propia):
+
+| Página | Línea original | Marcador |
+|---|---|---|
+| cultivos/aguacate | 17 | [IMAGEN: Aguacateros de porte alto en bancales de medianías de Breña Alta, con el mar de nubes del alisio sobre la Cumbre Nueva al fondo | alt: Finca de aguacate en bancales de Breña Alta, La Palma, tratada con dron agrícola] |
+| cultivos/aguacate | 56 | [IMAGEN: Detalle del envés de una hoja de aguacate con los nidos plateados del ácaro cristalino Oligonychus perseae | alt: Hoja de aguacate con daño de ácaro cristalino en una finca de La Palma] |
+| cultivos/citricos | 17 | [IMAGEN: Huerto de naranjos en la vega de Telde con el fruto madurando, muros de piedra y una pista de tierra entre las filas | alt: Naranjos de Telde, Gran Canaria, en la vega del Valle de los Nueve] |
+| cultivos/citricos | 55 | [IMAGEN: Bancales de medianías en Valsequillo con naranjos jóvenes y almendros, muros de piedra seca y la caldera de Tenteniguada al fondo | alt: Cítricos en bancales de Valsequillo de Gran Canaria] |
+| cultivos/frutales-subtropicales | 17 | [IMAGEN: Finca de mango en el fondo del barranco de Mogán, con laderas abancaladas a ambos lados y la presa al fondo | alt: Plantación de mango al aire libre en el barranco de Mogán, Gran Canaria] |
+| cultivos/frutales-subtropicales | 45 | [IMAGEN: Plantación de piña tropical al aire libre en el Valle de El Golfo, Frontera, con el escarpe de más de mil metros al fondo | alt: Piña tropical Roja Española al aire libre en El Golfo, El Hierro] |
+| cultivos/horticolas | 55 | [IMAGEN: Cebollas sobre enarenado de picón negro en Tinajo con un dron agrícola bajo el cielo del alisio | alt: Cebolla de Lanzarote en enarenado de picón en Tinajo con dron pulverizador] |
+| cultivos/papa | 17 | [IMAGEN: Bancales de papa en medianías del norte de Tenerife con niebla baja y muros de piedra seca | alt: Cultivo de papa en bancales de medianías en La Orotava, Tenerife] |
+| cultivos/papa | 47 | [IMAGEN: Dron agrícola DJI Agras T50 sobre un enarenado de jable con papas en Vilaflor de Chasna, con el pinar al fondo | alt: Dron pulverizador sobre papas en enarenado de jable en Vilaflor de Chasna, Tenerife] |
+| cultivos/platanera | 49 | [IMAGEN: Piña de plátano enfundada en una finca de la Isla Baja de Tenerife, con las hojas de la platanera cerrándose por encima del pasillo | alt: Platanera en producción con piña enfundada en Buenavista del Norte, Tenerife] |
+| cultivos/tomate | 17 | [IMAGEN: Invernaderos de tomate en el llano de La Aldea de San Nicolás vistos desde la ladera, con una parcela de hortalizas al aire libre en primer término | alt: Invernaderos de tomate de exportación en La Aldea de San Nicolás, Gran Canaria] |
+| cultivos/tomate | 57 | [IMAGEN: Tomate entutorado al aire libre en una vega de Telde, con cortavientos de caña y el macizo al fondo | alt: Tomate de mercado local al aire libre en Telde, Gran Canaria] |

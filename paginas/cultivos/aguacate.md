@@ -14,11 +14,9 @@ municipio: ""
 
 El ácaro o araña cristalina (Oligonychus perseae) entró en La Palma en 2005, pasó a Tenerife en 2006 y es la plaga principal del aguacate canario: el Cabildo de Tenerife la halló en el 81,5 % de las parcelas encuestadas (Agrocabildo). Se cría por toda la copa, y en un árbol de varios metros la parte alta es la que peor se moja. Un dron agrícola para aguacate pulveriza el abono foliar desde encima de la copa, justo donde la mochila se queda corta.
 
-[IMAGEN: Aguacateros de porte alto en bancales de medianías de Breña Alta, con el mar de nubes del alisio sobre la Cumbre Nueva al fondo | alt: Finca de aguacate en bancales de Breña Alta, La Palma, tratada con dron agrícola]
-
 ## Un árbol de varios metros y una copa que se cierra
 
-El aguacatero adulto es un árbol de porte alto, de cuatro a ocho metros según manejo y edad [VERIFICAR: altura con fuente técnica canaria], a marco de 7 x 7 u 8 x 8 m en el sur y de 6 x 6 o 7 x 7 m en el norte (apuntes de fruticultura de la ULPGC), con una copa densa que cierra la calle en pocos años si no se poda. En La Palma va en bancales de medianías entre 300 y 700 m; en Mogán, en el fondo de los barrancos.
+El aguacatero adulto es un árbol de porte alto, de varios metros según manejo y edad, a marco de 7 x 7 u 8 x 8 m en el sur y de 6 x 6 o 7 x 7 m en el norte (apuntes de fruticultura de la ULPGC), con una copa densa que cierra la calle en pocos años si no se poda. En La Palma va en bancales de medianías entre 300 y 700 m; en Mogán, en el fondo de los barrancos.
 
 Con mochila el caldo no sube más que la lanza; con atomizador hace falta una calle para el tractor, y en un bancal de tres terrazas no la hay.
 
@@ -26,11 +24,11 @@ El DJI Agras T50 vuela por encima de la copa y el aire de las hélices empuja la
 
 ## Más de dos mil hectáreas y subiendo
 
-El aguacate es el frutal que más ha crecido en Canarias: de 816 ha en 2007 a 2.484 ha en 2023 según la Consejería de Agricultura (vía Tropicán). Para ese mismo año RTVC habla de unas 2.000 ha y 14.000 t al presentar la IGP Aguacate de Canarias, y el ISTAC da 2.438,8 ha. Las cifras no coinciden [VERIFICAR: superficie 2023 en la tabla 7.9.15.2 del Anuario del MAPA].
+El aguacate es el frutal que más ha crecido en Canarias: de 816 ha en 2007 a 2.484 ha en 2023 según la Consejería de Agricultura (vía Tropicán). Para ese mismo año RTVC habla de unas 2.000 ha y 14.000 t al presentar la IGP Aguacate de Canarias, y el ISTAC da 2.438,8 ha. Las cifras no coinciden.
 
 La Palma lleva el peso: el 55 % de la superficie de aguacate del archipiélago en 2017 (eldiario.es) y 1.078 ha en el Mapa de Cultivos 2021-2022, un 44,1 % más que en 2017 (El Time).
 
-En Tenerife el Cabildo contaba 694 ha hacia 2021 y 790 ha en 2022, el doble que diez años antes. Para Gran Canaria no hay cifra insular reciente [VERIFICAR: indicio en RTVC, 2025: más de 1.000 ha entre papaya, mango, aguacate y pitaya]; Mogán tenía unas 40 ha en 2025 (Ayuntamiento). Y todo va al aire libre: no hay cubierta que descontar.
+En Tenerife el Cabildo contaba 694 ha hacia 2021 y 790 ha en 2022, el doble que diez años antes. Para Gran Canaria no hay cifra insular reciente; Mogán tenía unas 40 ha en 2025 (Ayuntamiento). Y todo va al aire libre: no hay cubierta que descontar.
 
 ## Ácaro, cochinilla, trips y hongos de madera: lo que está documentado
 
@@ -47,13 +45,11 @@ Nada de eso lo resuelve un dron: el control del ácaro o de la cochinilla es de 
 
 ## Dron agrícola para aguacate: cómo se organiza un tratamiento en bancales
 
-Primero recogemos los datos de la finca: municipio, hectáreas, altura de los árboles, accesos y qué hay alrededor. El día del tratamiento se mide el viento: en la vertiente este de La Palma el mar de nubes baja a las medianías y la ventana buena suele ser la mañana [VERIFICAR: horas de calma por comarca].
+Primero recogemos los datos de la finca: municipio, hectáreas, altura de los árboles, accesos y qué hay alrededor. El día del tratamiento se mide el viento: en la vertiente este de La Palma el mar de nubes baja a las medianías, así que la ventana se decide en la finca el mismo día.
 
 La dosis es la de la etiqueta y cada aplicación queda registrada; solo van productos de uso permitido en el aguacate, sobre arbolado a cielo abierto. El piloto opera en la categoría específica de AESA/EASA (STS o PDRA-S01) y al planificar comprueba las zonas geográficas de UAS en el mapa de ENAIRE: lo que se vuela en las Breñas, con el aeropuerto cerca, no es lo mismo que en Tijarafe.
 
 En producción integrada (Orden de 18 de junio de 2012 del Gobierno de Canarias), la aplicación se anota en el cuaderno de campo como una más.
-
-[IMAGEN: Detalle del envés de una hoja de aguacate con los nidos plateados del ácaro cristalino Oligonychus perseae | alt: Hoja de aguacate con daño de ácaro cristalino en una finca de La Palma]
 
 ## Dónde pesa el aguacate: islas y municipios
 
@@ -61,7 +57,7 @@ La base de Agrodrón Canarias está en Santa Cruz de La Palma, y en la isla no h
 
 En [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/), el ranking municipal de 2017 lo encabezaban Tijarafe con 132,9 ha (estudio de Mercatenerife, 2018), Los Llanos de Aridane y [El Paso, tercer municipio aguacatero de la isla](https://agrodroncanarias.es/dron-agricola-la-palma/el-paso/), seguidos de [Breña Alta con 82 ha, un 67 % más que en 2008](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/) (Mapa de Cultivos 2017).
 
-En [Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), La Orotava y [Los Realejos, segundo municipio en aguacate según el libro del Cabildo](https://agrodroncanarias.es/dron-agricola-tenerife/los-realejos/), concentran el cultivo en la vertiente norte. En [Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/), [Mogán cultiva unas 40 ha de aguacate](https://agrodroncanarias.es/dron-agricola-gran-canaria/mogan/) en el fondo de los barrancos de Mogán, Arguineguín y Veneguera, entre mango y papaya.
+En Tenerife, La Orotava y Los Realejos, segundo municipio en aguacate según el libro del Cabildo, concentran el cultivo en la vertiente norte. En Gran Canaria, Mogán cultiva unas 40 ha de aguacate en el fondo de los barrancos de Mogán, Arguineguín y Veneguera, entre mango y papaya.
 
 ## Preguntas frecuentes sobre el dron en el aguacate
 

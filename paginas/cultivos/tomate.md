@@ -14,11 +14,9 @@ municipio: ""
 
 El tomate de exportación canario crece casi todo bajo malla o invernadero, y ahí un dron agrícola para tomate no entra: el producto no atraviesa la cubierta. En La Aldea de San Nicolás, Coagrisan declaraba en 2023 unas 101 ha en producción y 110 ha de invernaderos; en Arico, 34,3 ha bajo invernadero en 2021 (SITCAN); en Antigua y Tuineje va bajo malla. Esta página es para lo demás: el tomate al aire libre y las parcelas descubiertas de alrededor.
 
-[IMAGEN: Invernaderos de tomate en el llano de La Aldea de San Nicolás vistos desde la ladera, con una parcela de hortalizas al aire libre en primer término | alt: Invernaderos de tomate de exportación en La Aldea de San Nicolás, Gran Canaria]
-
 ## Bajo cubierta no se trata, y por qué lo decimos antes de nada
 
-Gran Canaria concentra alrededor del 90 % del tomate de invernadero de Canarias según la prensa canaria de 2023 a 2025 [VERIFICAR: fuente exacta del porcentaje]. No hay porcentaje con fuente de cuánto tomate va al aire libre [VERIFICAR: FEDEX, ACETO o ISTAC], pero todo apunta a que es poco y de mercado local.
+Gran Canaria concentra la mayor parte del tomate de invernadero de Canarias, según la prensa canaria de 2023 a 2025. No tenemos un porcentaje de cuánto tomate va al aire libre, pero todo apunta a que es poco y de mercado local.
 
 Otro motivo para empezar aquí: el mildiu que arrasó La Aldea en 2021 (25 ha, 4,5 millones de kilos) y volvió en 2023 (55 de 101 ha afectadas) ocurrió dentro de los invernaderos (Coagrisan, Gobierno de Canarias). Un dron no habría cambiado nada ahí. Si tu tomate está cubierto, lo honesto es decirte que busques otra vía.
 
@@ -34,7 +32,7 @@ Lo segundo que encaja es el entorno de la finca: las parcelas descubiertas que r
 
 ## Cifras del tomate canario: pocas, viejas y con huecos
 
-La superficie de exportación pasó de 3.500 ha en 1999 a 1.700 ha en 2007 (Gobierno de Canarias vía estudio ULPGC de 2007); no hay cifra reciente para Canarias [VERIFICAR: FEDEX, ACETO o ISTAC]. En Gran Canaria conviven 350 ha (Canarias7, marzo de 2025), 641,3 ha (Consejería, hacia 2022) y más de 600 ha (ISTAC, enero de 2023); en Tenerife, 102,4 ha en 2021 (SITCAN).
+La superficie de exportación pasó de 3.500 ha en 1999 a 1.700 ha en 2007 (Gobierno de Canarias vía estudio ULPGC de 2007); no tenemos una cifra reciente para el conjunto de Canarias. En Gran Canaria conviven 350 ha (Canarias7, marzo de 2025), 641,3 ha (Consejería, hacia 2022) y más de 600 ha (ISTAC, enero de 2023); en Tenerife, 102,4 ha en 2021 (SITCAN).
 
 La campaña 2014-15 cerró con 63.000 t, un 82 % menos que las 352.000 t del año 2000 (eldiario.es), y Gran Canaria exportó 133.453 t en 2005 frente a 26.602 t en 2022 (ISTAC). Infoagro recoge en 2026, de una reunión Gobierno de Canarias-FEDEX sobre la campaña del tomate, 38.000 t producidas y comercializadas en 2024 y 32.000 t en 2025.
 
@@ -44,7 +42,7 @@ La Tuta absoluta se detectó en Canarias en diciembre de 2008 con trampas de fer
 
 El Cabildo de Gran Canaria destinó 300.000 euros a su control ecológico en la zafra 2024-25, sobre todo en tomate de mercado local. La larva mina hoja y fruto desde dentro; su control va por trampas y manejo integrado (Cabildos), no por el dron.
 
-La mosca blanca (Bemisia tabaci y Trialeurodes vaporariorum) transmite el ToCV, detectado en Tenerife y Gran Canaria desde 1997 (revista Granja, Cabildo de Gran Canaria). Del ToBRFV, FEDEX dice trabajar en variedades resistentes al virus rugoso (Infoagro, 2026); de trips no hay dato canario leído [VERIFICAR].
+La mosca blanca (Bemisia tabaci y Trialeurodes vaporariorum) transmite el ToCV, detectado en Tenerife y Gran Canaria desde 1997 (revista Granja, Cabildo de Gran Canaria). Del ToBRFV, FEDEX dice trabajar en variedades resistentes al virus rugoso (Infoagro, 2026).
 
 ## Dron agrícola para tomate: cuándo tiene sentido pedirlo
 
@@ -54,13 +52,11 @@ En Fuerteventura manda el viento: en Antigua la media fue de 21,6 km/h en el aer
 
 Dos cosas sobre la norma. El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el análisis de riesgo predefinido PDRA-S01 (AESA, Reglamento de Ejecución (UE) 2019/947), y cada plano de vuelo se contrasta con las zonas geográficas de UAS de ENAIRE (cercanía de aeropuertos, zonas restringidas). Y sobre el producto: solo de uso permitido en tomate, a dosis de etiqueta, sobre planta descubierta.
 
-[IMAGEN: Tomate entutorado al aire libre en una vega de Telde, con cortavientos de caña y el macizo al fondo | alt: Tomate de mercado local al aire libre en Telde, Gran Canaria]
-
 ## Islas y municipios con tomate
 
-[Tratamientos con dron en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/) recoge el reparto entre invernadero y aire libre; [dron agrícola en La Aldea de San Nicolás](https://agrodroncanarias.es/dron-agricola-gran-canaria/la-aldea-de-san-nicolas/) explica por qué allí el dron casi no tiene hueco y [dron agrícola en Telde](https://agrodroncanarias.es/dron-agricola-gran-canaria/telde/) dónde sí. Gáldar, con tomate de exportación en la costa, va en la página de la isla.
+Tratamientos con dron en Gran Canaria recoge el reparto entre invernadero y aire libre; dron agrícola en La Aldea de San Nicolás explica por qué allí el dron casi no tiene hueco y dron agrícola en Telde dónde sí. Gáldar, con tomate de exportación en la costa, va en la página de la isla.
 
-En Tenerife, [tratamientos con dron en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/) y [dron agrícola en Arico](https://agrodroncanarias.es/dron-agricola-tenerife/arico/), con papa y viña de medianías además del tomate cubierto. En Fuerteventura, [tratamientos con dron en Fuerteventura](https://agrodroncanarias.es/dron-agricola-fuerteventura/) y [dron agrícola en Tuineje](https://agrodroncanarias.es/dron-agricola-fuerteventura/tuineje/), donde lo tratable es el aloe, el olivar y los forrajes de las gavias; Antigua está en el mismo caso.
+En Tenerife, tratamientos con dron en Tenerife y dron agrícola en Arico, con papa y viña de medianías además del tomate cubierto. En Fuerteventura, tratamientos con dron en Fuerteventura y dron agrícola en Tuineje, donde lo tratable es el aloe, el olivar y los forrajes de las gavias; Antigua está en el mismo caso.
 
 ## Preguntas frecuentes sobre el dron en el tomate canario
 

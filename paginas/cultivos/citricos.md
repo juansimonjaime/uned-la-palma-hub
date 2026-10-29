@@ -14,13 +14,11 @@ municipio: ""
 
 El naranjo marca su propio calendario: florece en primavera, cuaja y engorda en verano y se recoge entre el otoño y la primavera siguiente según variedad, con flor y fruta a la vez durante semanas. Casi todas las aplicaciones de hoja caen entre brotación y cuajado, cuando la copa está más tierna y cerrada. Un dron agrícola para cítricos entra en ese calendario con una ventaja: trata la copa entera desde arriba sin meter ruedas entre las filas.
 
-[IMAGEN: Huerto de naranjos en la vega de Telde con el fruto madurando, muros de piedra y una pista de tierra entre las filas | alt: Naranjos de Telde, Gran Canaria, en la vega del Valle de los Nueve]
-
 ## Un cultivo pequeño y sin cifra oficial a mano
 
-Los cítricos son un cultivo menor en Canarias y las estadísticas lo reflejan: no hay cifra de hectáreas ni de toneladas localizada [VERIFICAR: indicio en Anuario del MAPA 2019: unas 128 ha de naranjo en Canarias, lectura de columnas dudosa]. Mercasa decía en 2022 que la producción se consume en las islas y va por detrás de la platanera entre los frutales, y en su informe de 2024 anota que las pequeñas producciones de cítricos tuvieron saldo positivo.
+Los cítricos son un cultivo menor en Canarias y las estadísticas lo reflejan: no hay una cifra reciente de hectáreas ni de toneladas que podamos citar. Mercasa decía en 2022 que la producción se consume en las islas y va por detrás de la platanera entre los frutales, y en su informe de 2024 anota que las pequeñas producciones de cítricos tuvieron saldo positivo.
 
-Hay datos de sitios concretos. En Telde, la naranja local mueve entre 250.000 y 258.000 kg al año hacia SPAR (FyH) y la Finca Jomera produce 80 t anuales (Telde Actualidad); la Feria de la Naranja llegó a su XIV edición en 2025. En Arafo, el Mapa de Cultivos 2016 contaba 17,2 ha de cítricos. Para el resto no hay desglose [VERIFICAR: hectáreas de cítricos por municipio].
+Hay datos de sitios concretos. En Telde, la naranja local mueve entre 250.000 y 258.000 kg al año hacia SPAR (FyH) y la Finca Jomera produce 80 t anuales (Telde Actualidad); la Feria de la Naranja llegó a su XIV edición en 2025. En Arafo, el Mapa de Cultivos 2016 contaba 17,2 ha de cítricos. Para el resto de municipios no hay desglose que podamos citar.
 
 ## Dron agrícola para cítricos en las vegas de Telde
 
@@ -28,15 +26,15 @@ Telde es la referencia de la naranja en Gran Canaria. Los huertos están en El E
 
 Para el dron son parcelas cómodas: llanas o de pendiente suave, con filas regulares y muros bajos. El DJI Agras T50 las recorre fila a fila con el depósito de 40 litros y hasta 16 L/min por dos boquillas centrífugas (24 L/min con cuatro), y su radar detecta el muro, el poste o la línea eléctrica que cruce la vega.
 
-[Telde](https://agrodroncanarias.es/dron-agricola-gran-canaria/telde/) tiene su propia página, y el resto de la isla está en [Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/): desde La Palma vamos con desplazamiento y según disponibilidad.
+Telde tiene su propia página, y el resto de la isla está en Gran Canaria: desde La Palma vamos con desplazamiento y según disponibilidad.
 
 ## Agaete y Valsequillo: fincas estrechas, bancales y arbolado
 
 El valle de Agaete es otra cosa. Fincas pequeñas y abancaladas desde la costa hasta El Hornillo y Los Berrazales, con naranjos mezclados con mango, aguacate, guayaba y café arábica bajo sombra de frutales. Todo al aire libre, pero bajo arbolado denso y en parcelas estrechas, y eso condiciona el vuelo: se planifica por tramos.
 
-En [Agaete](https://agrodroncanarias.es/dron-agricola-gran-canaria/agaete/) el dron encaja en los huertos abiertos del fondo del valle; en los cafetales bajo sombra no.
+En Agaete el dron encaja en los huertos abiertos del fondo del valle; en los cafetales bajo sombra no.
 
-[Valsequillo](https://agrodroncanarias.es/dron-agricola-gran-canaria/valsequillo/) es cítrico de medianías, entre 300 y 1.800 m, en bancales de ladera y en el barranco de San Miguel, junto a papa, almendro y hortalizas. Arafo, en Tenerife, repite el esquema en terrazas de medianías con sus 17,2 ha de 2016. Fincas donde la mochila se sube a cuestas y el dron trabaja sin pisar el muro.
+Valsequillo es cítrico de medianías, entre 300 y 1.800 m, en bancales de ladera y en el barranco de San Miguel, junto a papa, almendro y hortalizas. Arafo, en Tenerife, repite el esquema en terrazas de medianías con sus 17,2 ha de 2016. Fincas donde la mochila se sube a cuestas y el dron trabaja sin pisar el muro.
 
 ## Cítricos de La Palma: Mazo, Barlovento y la finca El Cántaro
 
@@ -46,13 +44,11 @@ Agrodrón Canarias sale de Santa Cruz de La Palma, así que en la isla no hay de
 
 ## Cotonet, minador y mosca de la fruta: lo documentado y lo que no
 
-Conviene ser claro con lo que dicen las fuentes. El cotonet de Sudáfrica (Delottococcus aberiae) tiene un plan de acción del Ministerio de Agricultura de 2024 que lo sitúa en la Comunidad Valenciana, Cataluña y Murcia, sin mencionar Canarias [VERIFICAR: estatus en Canarias con Sanidad Vegetal del Gobierno de Canarias]. No te diremos que lo tienes en Telde o Agaete sin una fuente.
+Conviene ser claro con lo que dicen las fuentes. El cotonet de Sudáfrica (Delottococcus aberiae) tiene un plan de acción del Ministerio de Agricultura de 2024 que lo sitúa en la Comunidad Valenciana, Cataluña y Murcia, sin mencionar Canarias. No te diremos que lo tienes en Telde o Agaete sin una fuente.
 
-Minador de los cítricos, piojo rojo y mosca de la fruta (Ceratitis capitata) son plagas habituales del naranjo en el resto de España, pero sin fuente canaria leída para esta página [VERIFICAR: indicio en la revista Granja del Cabildo de Gran Canaria, que estudia el minador en Canarias; faltan avisos actuales]. Si tu técnico los tiene identificados, el control va por donde él y Sanidad Vegetal indiquen, no por el dron.
+Minador de los cítricos, piojo rojo y mosca de la fruta (Ceratitis capitata) son plagas habituales del naranjo en el resto de España; para Canarias no tenemos un aviso actual que citar. Si tu técnico los tiene identificados, el control va por donde él y Sanidad Vegetal indiquen, no por el dron.
 
 Su trabajo en el naranjo es otro: abonado foliar, correctores de carencias y bioestimulantes de uso permitido en cítricos, pensados para el vigor del árbol tras un verano seco en una vega de 130 a 300 mm de lluvia al año, o tras la poda. Finalidad del producto; el resultado no se promete.
-
-[IMAGEN: Bancales de medianías en Valsequillo con naranjos jóvenes y almendros, muros de piedra seca y la caldera de Tenteniguada al fondo | alt: Cítricos en bancales de Valsequillo de Gran Canaria]
 
 ## El papel que va antes del vuelo
 
