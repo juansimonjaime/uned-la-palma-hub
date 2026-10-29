@@ -45,3 +45,8 @@ Fecha de recopilación: 2026-10-28. Método: búsquedas web (descarga directa bl
 - Valverde: superficie de viña (Echedo) y papa de medianías para decidir C/B.
 - Confirmar presencia o ausencia de plagas de viña (mildiu/oídio) y su manejo en El Golfo.
 - Búsqueda interrumpida por agotarse el presupuesto de búsquedas de la sesión: quedaron sin lanzar las consultas sobre ha de platanera herreña y cubierta actual de la piña.
+
+### Confirmado en la segunda pasada (2026-10-29)
+
+- Nada confirmado. Indicio: Público describe la finca platanera del Cabildo en El Golfo bajo invernadero y dice que hay muchos invernaderos así en El Golfo (sin fecha). https://www.publico.es/sociedad/plataneras-ecologicas-hierro-emplean-parados-larga-duracion.html
+- Piña: 123 ha en 2026 según Agronews; 98 % de la piña canaria es herreña (FreshPlaza). Cota de la piña, proporción bajo cubierta, ha de platanera y viña actual de la DO: siguen sin fuente.

@@ -51,3 +51,8 @@ Fecha de recopilación: 2026-10-28. Método: búsquedas web (descarga directa bl
 - Si la platanera gomera va al aire libre o bajo malla (relevante para el dron).
 - Niveles de Agulo, Alajeró, San Sebastián y Valle Gran Rey: decididos sin cifra; revisar con Mapa de Cultivos.
 - Búsqueda interrumpida por agotarse el presupuesto de búsquedas de la sesión: quedaron sin lanzar las consultas sobre Alajeró/San Sebastián, ha de platanera y superficie insular ISTAC.
+
+### Confirmado en la segunda pasada (2026-10-29)
+
+- Nada confirmado. Indicio: la AEAT (IRPF, índices de reducción en Canarias) recoge aguacate y mango en Valle Gran Rey. https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2020/capitulo-9-rendimientos-actividades-economicas-ii/apendice/reduccion-indices-circunstancias-excepcionales/canarias.html
+- Tres cooperativas de plátano en la isla: Hermigua y dos de La Dama (Vallehermoso) (PSOE Canarias, no oficial). Superficie insular, ha de platanera, malla, trips y mildiu/oídio: siguen sin fuente.

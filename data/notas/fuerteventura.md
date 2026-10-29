@@ -54,3 +54,9 @@ Fecha de recopilación: 2026-10-28. Método: búsquedas web (descarga directa bl
 - Confirmar superficie real del Parque Agrario (Puerto del Rosario) y reconsiderar nivel.
 - La Oliva: confirmar si existe superficie hortícola/forrajera relevante (Villaverde, Lajares).
 - Búsqueda interrumpida por agotarse el presupuesto de búsquedas de la sesión: quedaron sin lanzar las consultas sobre campaña reciente de tomate (kg, ha) y detalle de Pájara/Betancuria.
+
+### Confirmado en la segunda pasada (2026-10-29)
+
+- Nada confirmado. Indicio: 93 ha de aloe en Canarias, la mayoría en Lanzarote (La Voz de Lanzarote, 2022), sin dato majorero. https://www.lavozdelanzarote.com/en/ekonomus/economy/the-government-grants-aid-to-37-aloe-vera-and-olive-producers-valued-at-more-than-36-000-euros_212280_102.html
+- Parque agrario Gavias del Norte (La Oliva y Puerto del Rosario): 102 km² y ~17 km² agrícolas (Diario de Fuerteventura, mayo 2024); no es superficie cultivada.
+- Plagas del aloe y del olivar majorero: siguen sin fuente (la cochinilla mexicana documentada es de tunera).

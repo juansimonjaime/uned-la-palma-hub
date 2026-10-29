@@ -59,10 +59,19 @@ Fecha de recopilación: 2026-10-28. Método: búsquedas web (la red de la sesió
 ## Pendiente de verificar
 
 - Hectáreas por municipio (viña, cebolla, papa, batata): descargar el Mapa de Cultivos de Canarias (datos.gob.es, actualización 20-06-2024) o el Centro de Datos del Cabildo. https://datos.gob.es/es/aplicaciones/mapa-de-cultivos-de-canarias
-- Reconciliar "75 % viña" (La Voz 2025) con 1.865–2.000 ha DO sobre 3.872 ha (~50 %).
-- Identificar el hongo del aviso del Consejo Regulador y su fecha.
+- Identificar el hongo del aviso del Consejo Regulador (fecha ya localizada: 2011).
 - Confirmar la cifra "12.000 ha de sistemas tradicionales" (Portal Frutícola 2025).
 - Arrecife: confirmar ausencia de superficie agrícola.
 - Haría: confirmar superficie de papa y viña actuales (única fuente 2006).
 - Cifra ISTAC 2021 de superficie cultivada de Lanzarote (no localizada).
 - Búsqueda interrumpida por agotarse el presupuesto de búsquedas de la sesión: quedaron sin lanzar las consultas sobre Arrecife, cebolla (ha y kg recientes) y el hongo del Consejo Regulador.
+
+### Confirmado en la segunda pasada (2026-10-29)
+
+- **Viña 75,6 %:** de las 3.872 ha cultivadas en 2024, el 75,6 % es viña, casi 3.000 ha (Centro de Datos del Cabildo con datos ISTAC, vía La Voz de Lanzarote, 9-10-2025). La diferencia con las 1.865 ha de la DO es de definición (inscrito en la DO frente a estadística de cultivos). En diez años: +~1.000 ha de viña, papa y hortalizas −2/3, forrajes de 98 a 248 ha. https://www.lavozdelanzarote.com/en/ekonomus/economy/vineyards-already-account-for-over-75-of-all-cultivated-land-in-lanzarote_238357_102.html
+- **Aviso del hongo del Consejo Regulador:** artículo de 2011 (ligado a humedad y calor); el patógeno sigue sin nombrar en los extractos. https://www.lavozdelanzarote.com/en/ekonomus/economy/the-regulatory-council-warns-that-a-fungus-threatens-the-vines-of-several-farms-on-the-island_65014_102.html
+- **Mildiu en Lanzarote:** el Cabildo detectó síntomas en varias viñas en marzo de 2009 y señala que la infección aparece casi todos los años con las lluvias (La Voz de Lanzarote). https://www.lavozdelanzarote.com/en/news/politics/downy-mildew-disease-appears-in-the-vineyards-of-the-island_53564_102.html
+- **Vendimia:** la DO abrió la vendimia de 2024 el 4 de julio (Consejo Regulador vía Gazette Life, 13-07-2024); la de 2026 se adelantó por calor (La Voz). https://gazettelife.com/?p=47048
+- **Aloe:** 93 ha en Canarias, sobre todo en Lanzarote (La Voz de Lanzarote, mayo 2022). https://www.lavozdelanzarote.com/en/ekonomus/economy/the-government-grants-aid-to-37-aloe-vera-and-olive-producers-valued-at-more-than-36-000-euros_212280_102.html
+- **Indicios sin confirmar:** Haría (pueblo) a 270 m (Hispanopedia); Peñas del Chache 670 m (Papeles de Geografía, 2015). https://www.redalyc.org/pdf/407/40743406008.pdf
+- Siguen sin localizar: ha por municipio, altitudes de Los Valles, Uga, Tinajo y Tías, superficie de Arrecife.
