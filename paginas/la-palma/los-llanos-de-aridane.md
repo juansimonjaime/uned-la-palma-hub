@@ -3,7 +3,7 @@ title: "Dron agrícola en Los Llanos de Aridane | Agrodrón Canarias"
 slug: "los-llanos-de-aridane"
 meta_description: "Dron agrícola en Los Llanos de Aridane para platanera y aguacate: fincas sobre la colada, pistas nuevas y medianías. Pide presupuesto a Agrodrón Canarias."
 keyword: "dron agrícola en Los Llanos de Aridane"
-keywords_secundarias: "fumigar con dron en Los Llanos de Aridane, tratamiento con drones en platanera del Valle de Aridane, dron fitosanitario La Palma, pulverización aérea en Puerto Naos"
+keywords_secundarias: "pulverización con dron en Los Llanos de Aridane, tratamiento con drones en platanera del Valle de Aridane, abonado foliar con dron La Palma, bioestimulantes con dron en Puerto Naos"
 parent: "dron-agricola-la-palma"
 nivel: "A"
 isla: "La Palma"
@@ -24,7 +24,7 @@ Clima de sotavento: cielo despejado, insolación alta y capa seca sin nubosidad 
 
 ## Costa sur: Puerto Naos, El Remo y La Bombilla
 
-La platanera clásica del Valle, al aire libre con mallas cortaviento puntuales [VERIFICAR: proporción de platanera bajo malla en el municipio]. Fincas en sorriba, cadenas de riego, piñas que salen hacia Covalle, Cupalma, Europlátano o La Prosperidad. Fumigar con dron esta zona es directo: parcelas regulares, pocos obstáculos altos y relieve fácil para el radar del T50.
+La platanera clásica del Valle, al aire libre con mallas cortaviento puntuales [VERIFICAR: proporción de platanera bajo malla en el municipio]. Fincas en sorriba, cadenas de riego, piñas que salen hacia Covalle, Cupalma, Europlátano o La Prosperidad. Pulverizar con dron esta zona es directo: parcelas regulares, pocos obstáculos altos y relieve fácil para el radar del T50.
 
 Un matiz: Puerto Naos y La Bombilla arrastraron gases volcánicos residuales (CO2) hasta 2024-2025 [VERIFICAR: estado actual de las restricciones], así que ahí se comprueba el acceso finca a finca.
 
@@ -53,7 +53,7 @@ En la platanera del municipio los datos recogen cuatro problemas:
 - Trips (Hercinothrips femoralis), que platea y oscurece el fruto (guía Coplaca 2014).
 - Araña roja [VERIFICAR: fuente técnica canaria].
 
-En el aguacate la plaga principal es el ácaro cristalino (Oligonychus perseae), en La Palma desde 2005 y presente en todas las zonas productoras según el Canal Agrario La Palma. El picudo vive en el rizoma y la base del pseudotallo: ahí una pulverización aérea no llega. Para cochinilla, trips y ácaros, lo que se aplica lo marca la etiqueta y el plan de aplicación, no el dron.
+En el aguacate la plaga principal es el ácaro cristalino (Oligonychus perseae), en La Palma desde 2005 y presente en todas las zonas productoras según el Canal Agrario La Palma. El picudo vive en el rizoma y la base del pseudotallo: ahí una pulverización desde arriba no llega. Cochinilla, trips y ácaro son asunto de tu técnico y de sanidad vegetal; el dron no entra en esa lucha.
 
 ## Qué hace y qué no hace un dron agrícola en Los Llanos de Aridane
 
@@ -61,20 +61,22 @@ El DJI Agras T50 lleva depósito de 40 litros y aplica hasta 16 L/min con dos bo
 
 Lo que no puede hacer: tratar bajo malla de cubierta o invernadero, porque el producto no atraviesa la protección. En Los Llanos la platanera es mayoritariamente al aire libre con cortavientos verticales [VERIFICAR: proporción exacta], así que casi toda es tratable, pero cada finca se mira antes. Tampoco se vuela con viento fuerte ni junto a cables sin planificarlo.
 
-Sobre el papel: la aplicación aérea de fitosanitarios está prohibida en España con carácter general y solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). El Ministerio de Agricultura considera los tratamientos con dron tratamientos aéreos (nota informativa MAPA-AESA de 2018), así que cada trabajo en el Valle pasa por ese trámite ante el Gobierno de Canarias.
+Lo que sí hace: subir abono foliar, bioestimulante o corrector de carencias a una piña joven sobre sorriba nueva o a una finca que ha pasado un verano de calor, siempre como finalidad del producto y sin promesa de resultado.
+
+Las reglas: producto de uso permitido en el cultivo, a dosis de etiqueta, sobre cultivo descubierto; piloto en la categoría específica de AESA, operador STS o PDRA-S01; y cada finca del Valle comprobada antes en el mapa de zonas geográficas de UAS de ENAIRE.
 
 Más contexto en [tratamientos con dron en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/), [dron agrícola para platanera](https://agrodroncanarias.es/dron-agricola-platanera/), [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/) y en la página vecina de [dron agrícola en Tazacorte](https://agrodroncanarias.es/dron-agricola-la-palma/tazacorte/).
 
 ## Preguntas frecuentes sobre el dron agrícola en Los Llanos de Aridane
 
 ### ¿Se puede tratar con dron una platanera replantada sobre la colada de Todoque?
-Sí, si está al aire libre y el producto tiene autorización para aplicación aérea. Es el caso más claro del municipio: pistas nuevas y sorribas recientes que conviene no pisar con maquinaria.
+Sí, si está al aire libre y el producto es de uso permitido en platanera. Es el caso más claro del municipio: pistas nuevas y sorribas recientes que conviene no pisar con maquinaria.
 
 ### ¿Qué pasa con las fincas de Puerto Naos y La Bombilla que estuvieron cerradas por los gases?
 Se comprueba primero el estado de acceso de cada finca [VERIFICAR: restricciones vigentes por CO2 en Puerto Naos y La Bombilla]. Si el piloto y el equipo de apoyo pueden entrar, se trata como cualquier otra del llano.
 
 ### ¿El dron sirve contra el picudo negro de la platanera?
-No como aplicación foliar. El picudo vive en el rizoma y la base del pseudotallo, donde una pulverización desde arriba no llega; lo que los datos recogen como más eficaz son las trampas de feromonas (Phytoma, campaña de 2021). El dron encaja con cochinilla o trips, siempre según etiqueta.
+No. El picudo vive en el rizoma y la base del pseudotallo, donde una pulverización desde arriba no llega; lo que los datos recogen como más eficaz son las trampas de feromonas (Phytoma, campaña de 2021). El dron se usa para abonado foliar y bioestimulantes, no contra plagas.
 
 ### ¿Cuánto cuesta un tratamiento con dron en Los Llanos?
 Depende de la superficie, del cultivo, de los accesos y del producto. Una finca llana en Los Campitos no se planifica igual que un bancal de aguacate a 500 m. Con esos datos te preparamos un presupuesto.
@@ -89,9 +91,9 @@ Cuéntanos dónde está la finca (costa, colada, llano o medianía), cultivo, he
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Los Llanos de Aridane",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en platanera y aguacate de Los Llanos de Aridane, incluidas fincas replantadas sobre la colada de 2021 y parcelas con accesos cortados.",
+      "name": "Tratamientos agrícolas con dron en Los Llanos de Aridane",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Abonado foliar y bioestimulantes con dron DJI Agras T50 en platanera y aguacate de Los Llanos de Aridane, incluidas fincas replantadas sobre la colada de 2021 y parcelas con accesos cortados.",
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/los-llanos-de-aridane/",
       "provider": {
         "@type": "LocalBusiness",
@@ -116,7 +118,7 @@ Cuéntanos dónde está la finca (costa, colada, llano o medianía), cultivo, he
         {
           "@type": "Question",
           "name": "¿Se puede tratar con dron una platanera replantada sobre la colada de Todoque?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si está al aire libre y el producto tiene autorización para aplicación aérea. Es el caso más claro del municipio: pistas nuevas y sorribas recientes que conviene no pisar con maquinaria." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si está al aire libre y el producto es de uso permitido en platanera. Es el caso más claro del municipio: pistas nuevas y sorribas recientes que conviene no pisar con maquinaria." }
         },
         {
           "@type": "Question",
@@ -126,7 +128,7 @@ Cuéntanos dónde está la finca (costa, colada, llano o medianía), cultivo, he
         {
           "@type": "Question",
           "name": "¿El dron sirve contra el picudo negro de la platanera?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No como aplicación foliar. El picudo vive en el rizoma y la base del pseudotallo, donde una pulverización desde arriba no llega; lo que los datos recogen como más eficaz son las trampas de feromonas (Phytoma, campaña de 2021). El dron encaja con cochinilla o trips, siempre según etiqueta." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. El picudo vive en el rizoma y la base del pseudotallo, donde una pulverización desde arriba no llega; lo que los datos recogen como más eficaz son las trampas de feromonas (Phytoma, campaña de 2021). El dron se usa para abonado foliar y bioestimulantes, no contra plagas." }
         },
         {
           "@type": "Question",

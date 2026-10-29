@@ -1,16 +1,16 @@
 ---
 title: "Dron agrícola en La Palma | Agrodrón Canarias"
 slug: "dron-agricola-la-palma"
-meta_description: "Dron agrícola en La Palma: tratamientos fitosanitarios con DJI Agras T50 en platanera, viña, aguacate y papa, sin desplazamiento. Pide presupuesto."
+meta_description: "Dron agrícola en La Palma: abonado foliar y bioestimulantes con DJI Agras T50 en platanera, viña, aguacate y papa, sin desplazamiento. Pide presupuesto."
 keyword: "dron agrícola en La Palma"
-keywords_secundarias: "fumigar con dron en La Palma, tratamientos fitosanitarios con dron, dron pulverizador Canarias, pulverización aérea en platanera, dron fitosanitario La Palma"
+keywords_secundarias: "pulverización con dron en La Palma, tratamientos agrícolas con dron, dron pulverizador Canarias, abonado foliar con dron en platanera, bioestimulantes con dron La Palma"
 parent: ""
 nivel: "hub"
 isla: "La Palma"
 municipio: ""
 ---
 
-# Dron agrícola en La Palma: tratamientos fitosanitarios con base en Santa Cruz de La Palma
+# Dron agrícola en La Palma: tratamientos agrícolas con base en Santa Cruz de La Palma
 
 La Palma cultiva 6.895,5 hectáreas, el 17,6 % de la superficie agrícola de Canarias, y produjo 153.536,9 toneladas en 2025, tercera isla de Canarias según el ISTAC. Agrodrón Canarias trabaja desde Santa Cruz de La Palma, así que un dron agrícola en La Palma no lleva desplazamiento: el equipo sale de la isla para la isla.
 
@@ -59,7 +59,7 @@ El detalle está en [tratamientos con dron en la platanera](https://agrodroncana
 
 Agrodrón Canarias nació en junio de 2025 y vuela un DJI Agras T50: 40 litros de depósito, hasta 16 litros por minuto con dos boquillas centrífugas y 24 con cuatro, radar y visión binocular para seguir el relieve y detectar obstáculos. Lo lleva un piloto con más de diez años de experiencia profesional, certificados AESA/EASA PDRA-S01 y operador STS, y radiofonista.
 
-La aplicación aérea de fitosanitarios está prohibida en España con carácter general y solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28); el Ministerio de Agricultura mete los drones en ese régimen (nota MAPA-AESA, 2018) y solo caben productos autorizados para aplicación aérea (anexo VI). Para abonos foliares y bioestimulantes el régimen es distinto [VERIFICAR: qué aplicaciones no fitosanitarias ofrece Agrodrón].
+El dron carga abonos foliares, bioestimulantes y correctores de carencias de uso permitido en cada cultivo, a la dosis de su etiqueta, para el vigor de la planta tras calor, viento o ceniza; las plagas son asunto del Cabildo y del Gobierno de Canarias. El vuelo va en la categoría específica de AESA/EASA, en escenario STS o bajo el PDRA-S01, con las zonas geográficas de UAS de ENAIRE comprobadas en cada municipio, y nunca con lluvia, niebla o viento fuerte.
 
 [IMAGEN: DJI Agras T50 de Agrodrón Canarias despegando desde una pista agrícola de La Palma | alt: dron agrícola DJI Agras T50 de Agrodrón Canarias en La Palma]
 
@@ -72,7 +72,7 @@ No. La base está en Santa Cruz de La Palma y toda la isla se atiende sin despla
 No. El dron solo alcanza cultivo descubierto: esas 165 hectáreas bajo protección y cualquier finca con malla de cubierta o invernadero quedan fuera.
 
 ### ¿Sirve el dron para la viña rastrera de Fuencaliente y del Hoyo de Mazo?
-Es de los cultivos donde mejor encaja: viña baja sobre picón en lomos sin paso para el tractor. El mildiu y el oídio de 2025 son el tratamiento foliar típico con dron.
+Es de los cultivos donde mejor encaja: viña baja sobre picón en lomos sin paso para el tractor. Aplica abono foliar y bioestimulante; el mildiu y el oídio de 2025 son asunto del viticultor y de sanidad vegetal.
 
 ### ¿Trabajáis en las fincas replantadas sobre la colada del Tajogaite?
 Sí, si la platanera está al aire libre. Son sorribas nuevas sobre terreno irregular; el radar del T50 sigue ese relieve y se planifica con atención a accesos y tuberías de riego.
@@ -87,9 +87,9 @@ Cuéntanos en qué municipio está la finca, qué cultivo tienes, cuántas hect�
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en La Palma",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Agrodrón Canarias, con base en Santa Cruz de La Palma, realiza tratamientos fitosanitarios con dron DJI Agras T50 en platanera, viña, aguacate y papa de los catorce municipios de la isla, sin desplazamiento.",
+      "name": "Tratamientos agrícolas con dron en La Palma",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Agrodrón Canarias, con base en Santa Cruz de La Palma, aplica abonos foliares y bioestimulantes con dron DJI Agras T50 en platanera, viña, aguacate y papa de los catorce municipios de la isla, sin desplazamiento.",
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/",
       "provider": {
         "@type": "LocalBusiness",
@@ -124,7 +124,7 @@ Cuéntanos en qué municipio está la finca, qué cultivo tienes, cuántas hect�
         {
           "@type": "Question",
           "name": "¿Sirve el dron para la viña rastrera de Fuencaliente y del Hoyo de Mazo?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Es de los cultivos donde mejor encaja: viña baja sobre picón en lomos sin paso para el tractor. El mildiu y el oídio de 2025 son el tratamiento foliar típico con dron." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Es de los cultivos donde mejor encaja: viña baja sobre picón en lomos sin paso para el tractor. Aplica abono foliar y bioestimulante; el mildiu y el oídio de 2025 son asunto del viticultor y de sanidad vegetal." }
         },
         {
           "@type": "Question",

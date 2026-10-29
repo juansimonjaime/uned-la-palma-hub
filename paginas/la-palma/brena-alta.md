@@ -30,7 +30,9 @@ La plaga es conocida: el ácaro o araña cristalina, Oligonychus perseae, en La 
 
 Para el dron, el aguacatero es un árbol alto de copa densa plantado en bancal, muchas veces con una casa o una carretera a pocos metros. El T50 lleva radar y visión binocular para seguir el relieve y detectar obstáculos, pero el trabajo de verdad está antes: dibujar cada bancal, cada cable y cada árbol que sobresale en el plan de vuelo. El cultivo, en [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/).
 
-La viña entra en la subzona Hoyo de Mazo de la DO Vinos La Palma, rastrera sobre picón o empedrados (ICCA) [VERIFICAR: hectáreas de viña en Breña Alta]. El mildiu y el oídio que recorrieron el viñedo palmero en 2025 (El Time) los maneja cada viticultor con su técnico. Donde entra el dron es en el abonado foliar y los bioestimulantes de una viña baja en ladera sin acceso para tractor, con la finalidad de sostener el vigor de la cepa entre brotación y envero. Papas y huerta de medianías también se pulverizan al aire libre, agrupando parcelas chicas. La producción no platanera del municipio sale en parte por la Cooperativa Campo Palmero.
+La viña entra en la subzona Hoyo de Mazo de la DO Vinos La Palma, rastrera sobre picón o empedrados (ICCA) [VERIFICAR: hectáreas de viña en Breña Alta]. El mildiu y el oídio que recorrieron el viñedo palmero en 2025 (El Time) los maneja cada viticultor con su técnico.
+
+Donde entra el dron es en el abonado foliar y los bioestimulantes de una viña baja en ladera sin acceso para tractor, con la finalidad de sostener el vigor de la cepa entre brotación y envero. Papas y huerta de medianías también se pulverizan al aire libre, agrupando parcelas chicas. La producción no platanera del municipio sale en parte por la Cooperativa Campo Palmero.
 
 ## Hacia la cumbre: proteas, mar de nubes y lo que se queda en tierra
 

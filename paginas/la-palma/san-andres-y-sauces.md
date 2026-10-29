@@ -3,7 +3,7 @@ title: "Dron agrícola en San Andrés y Sauces | Agrodrón Canarias"
 slug: "san-andres-y-sauces"
 meta_description: "Dron agrícola en San Andrés y Sauces: platanera de Los Sauces, cochinilla y trips todo el año, humedad del alisio. Cuándo encaja el vuelo y presupuesto."
 keyword: "dron agrícola en San Andrés y Sauces"
-keywords_secundarias: "fumigar con dron en Los Sauces, tratamiento con drones en platanera, dron fitosanitario nordeste de La Palma, pulverización aérea en bancales de platanera"
+keywords_secundarias: "pulverización con dron en Los Sauces, tratamiento con drones en platanera, abonado foliar con dron nordeste de La Palma, bioestimulantes con dron en bancales de platanera"
 parent: "dron-agricola-la-palma"
 nivel: "A"
 isla: "La Palma"
@@ -18,7 +18,7 @@ En Los Sauces la platanera no tiene temporada: se corta piña los doce meses y e
 
 ## Zafra continua: por qué en Los Sauces no existe el fin de campaña
 
-En una finca de platanera conviven en el mismo bancal hijos recién deshijados, madres con la piña colgando y plantas recién cortadas. No hay un mes con el campo vacío para tratar a lo ancho sin pensar en la fruta. Cada tratamiento se hace con piñas en distintos estados y el plazo de seguridad de la etiqueta manda tanto como la plaga.
+En una finca de platanera conviven en el mismo bancal hijos recién deshijados, madres con la piña colgando y plantas recién cortadas. No hay un mes con el campo vacío para tratar a lo ancho sin pensar en la fruta. Cada aplicación se hace con piñas en distintos estados y la etiqueta del producto manda tanto como el calendario de corte.
 
 Para el dron esto cambia la planificación. En lugar de un vuelo único sobre toda la finca, se trabajan sectores según lo que cuelgue en cada uno, dibujados antes sobre el mapa de la parcela. Esa es la primera conversación contigo: qué hay en cada bancal y qué se corta en las próximas semanas.
 
@@ -32,7 +32,7 @@ En los meses más húmedos el dron tiene dos límites claros. Con la hoja chorre
 
 La cochinilla algodonosa (Dysmicoccus grassii) llega a ocho generaciones al año en Canarias y no hace parada invernal, según el Cabildo de Tenerife; deja melaza y negrilla en hojas y en la piña. El trips Hercinothrips femoralis ataca el fruto y el racimo y le da un aspecto plateado que luego oscurece, como describe la guía de plagas de platanera de Coplaca de 2014.
 
-Aquí el dron sí tiene papel, con una condición honesta. El Agras T50 pulveriza desde arriba, sobre el penacho, hasta 16 litros por minuto con dos boquillas y 24 con cuatro. La hoja alta recibe bien; la piña y el envés de las hojas bajas, menos. Por eso el tratamiento se acuerda con el técnico de la finca y con un producto que admita aplicación aérea, no como sustituto de todo lo demás.
+Esa lucha la lleva el técnico de la finca y sanidad vegetal; el dron no entra ahí. Su papel aquí es el abonado foliar y los bioestimulantes, con una condición honesta: el Agras T50 pulveriza desde arriba, sobre el penacho, hasta 16 litros por minuto con dos boquillas y 24 con cuatro; la hoja alta recibe bien, la piña y el envés de las hojas bajas, menos. Por eso se acuerda con el técnico qué producto permitido va y cuándo.
 
 ## El picudo negro va por otro camino
 
@@ -44,11 +44,11 @@ La platanera de Los Sauces y San Andrés ocupa el llano costero y las laderas ba
 
 El T50 sigue el relieve con radar de matriz en fase y visión binocular, y detecta obstáculos: cortavientos verticales [VERIFICAR: proporción de platanera al aire libre con cortavientos en el municipio], postes, cables de riego elevados. Todo eso se marca en el mapa antes del vuelo. Lo que esté bajo malla o invernadero queda fuera: desde el aire no se trata.
 
-## Cuándo encaja un dron agrícola en San Andrés y Sauces y qué papeles hacen falta
+## Cuándo encaja un dron agrícola en San Andrés y Sauces y con qué reglas
 
-Encaja cuando hay platanera al aire libre, una plaga de hoja o fruto diagnosticada, un producto cuya autorización recoja expresamente la aplicación aérea (anexo VI del Real Decreto 1311/2012) y una ventana de tiempo seco. Y cuando el acceso a los bancales castiga a la mochila y al tractor.
+Encaja cuando hay platanera al aire libre, un abono foliar o un bioestimulante que aplicar, de uso permitido en platanera y a la dosis de su etiqueta, y una ventana de tiempo seco. Y cuando el acceso a los bancales castiga a la mochila y al tractor.
 
-El Ministerio de Agricultura trata los vuelos con dron como tratamientos aéreos (nota informativa MAPA-AESA de 2018), así que cada aplicación necesita autorización previa del Gobierno de Canarias y un plan de aplicación aprobado. Tú aportas los datos de la finca y el producto; el plan y la autorización se tramitan antes de volar, con piloto certificado en la categoría específica de AESA.
+Las reglas, en el orden de Los Sauces: primero el cielo, porque sin ventana seca no hay vuelo; después el mapa de zonas geográficas de UAS de ENAIRE, sorriba por sorriba; y siempre el piloto, certificado por AESA en la categoría específica (STS o PDRA-S01). Tú aportas finca y producto; nada bajo malla.
 
 Para el resto de la isla está la página de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/), y para el cultivo que manda aquí, la de [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/). El aguacate de las medianías tiene la suya: [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/). El vecino [Barlovento](https://agrodroncanarias.es/dron-agricola-la-palma/barlovento/) comparte alisio y platanera de costa.
 
@@ -57,7 +57,7 @@ Para el resto de la isla está la página de [dron agrícola en La Palma](https:
 ## Preguntas frecuentes sobre tratamientos con dron en San Andrés y Sauces
 
 ### ¿En qué mes conviene tratar la platanera con dron en Los Sauces?
-No hay un mes fijo porque la cochinilla no para en invierno y la piña cuelga todo el año. Se trata cuando el técnico detecta el problema, en el sector donde esté, y el día lo elige el tiempo: hoja seca, sin niebla y viento dentro del margen del dron.
+No hay un mes fijo porque la cochinilla no para en invierno y la piña cuelga todo el año. Se aplica cuando el técnico marca un abono foliar o un bioestimulante, en el sector donde toque, y el día lo elige el tiempo: hoja seca, sin niebla y viento dentro del margen del dron.
 
 ### ¿Se puede volar con el mar de nubes encima de San Andrés?
 Si las nubes están arriba y la finca está despejada, sí. Si la niebla baja hasta la platanera o hay llovizna, no se despega. Se comprueba en la propia finca antes de montar el equipo.
@@ -69,7 +69,7 @@ No. El picudo vive en el rizoma y la pulverización sobre la hoja no lo alcanza.
 Se marcan en el mapa antes del vuelo y el T50 los detecta con su radar y su visión binocular. Lo que no se puede tratar desde el aire es la platanera bajo malla o techo.
 
 ### ¿Tratáis también el ñame o la caña de Los Sauces?
-Son cultivos pequeños y en sitios muy concretos: el ñame en el fondo de barrancos húmedos y la caña en poca superficie para la destilería de Ron Aldea. Si hay problema diagnosticado y producto con autorización aérea, se estudia; si no, no tiene sentido volar.
+Son cultivos pequeños y en sitios muy concretos: el ñame en el fondo de barrancos húmedos y la caña en poca superficie para la destilería de Ron Aldea. Si hay un abono foliar que aplicar con producto de uso permitido en ese cultivo, se estudia; si no, no tiene sentido volar.
 
 ### ¿Cómo se calcula el presupuesto de un tratamiento en San Andrés y Sauces?
 Con la superficie real de los bancales, los sectores en que haya que dividir la finca por el estado de la fruta, los accesos y el producto. No hay tarifa genérica por hectárea: dos fincas iguales en superficie pueden exigir vuelos muy distintos.
@@ -84,9 +84,9 @@ Dinos en qué parte de Los Sauces o San Andrés está la finca, cuántos bancale
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en San Andrés y Sauces",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Tratamientos con dron DJI Agras T50 en la platanera de Los Sauces y San Andrés, planificados por sectores según el estado de la fruta y las ventanas de tiempo seco que deja el alisio.",
+      "name": "Tratamientos agrícolas con dron en San Andrés y Sauces",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Abonado foliar y bioestimulantes con dron DJI Agras T50 en la platanera de Los Sauces y San Andrés, planificados por sectores según el estado de la fruta y las ventanas de tiempo seco que deja el alisio.",
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/san-andres-y-sauces/",
       "provider": {
         "@type": "LocalBusiness",
@@ -111,7 +111,7 @@ Dinos en qué parte de Los Sauces o San Andrés está la finca, cuántos bancale
         {
           "@type": "Question",
           "name": "¿En qué mes conviene tratar la platanera con dron en Los Sauces?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No hay un mes fijo porque la cochinilla no para en invierno y la piña cuelga todo el año. Se trata cuando el técnico detecta el problema, en el sector donde esté, y el día lo elige el tiempo: hoja seca, sin niebla y viento dentro del margen del dron." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No hay un mes fijo porque la cochinilla no para en invierno y la piña cuelga todo el año. Se aplica cuando el técnico marca un abono foliar o un bioestimulante, en el sector donde toque, y el día lo elige el tiempo: hoja seca, sin niebla y viento dentro del margen del dron." }
         },
         {
           "@type": "Question",
@@ -131,7 +131,7 @@ Dinos en qué parte de Los Sauces o San Andrés está la finca, cuántos bancale
         {
           "@type": "Question",
           "name": "¿Tratáis también el ñame o la caña de Los Sauces?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Son cultivos pequeños y en sitios muy concretos: el ñame en el fondo de barrancos húmedos y la caña en poca superficie para la destilería de Ron Aldea. Si hay problema diagnosticado y producto con autorización aérea, se estudia; si no, no tiene sentido volar." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Son cultivos pequeños y en sitios muy concretos: el ñame en el fondo de barrancos húmedos y la caña en poca superficie para la destilería de Ron Aldea. Si hay un abono foliar que aplicar con producto de uso permitido en ese cultivo, se estudia; si no, no tiene sentido volar." }
         },
         {
           "@type": "Question",

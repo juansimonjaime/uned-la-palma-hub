@@ -56,7 +56,9 @@ Su trabajo en el naranjo es otro: abonado foliar, correctores de carencias y bio
 
 ## El papel que va antes del vuelo
 
-Es menos de lo que parece. El piloto de Agrodrón, con más de diez años de experiencia profesional y radiofonista, vuela en la categoría específica de AESA/EASA (STS o PDRA-S01). Cada huerto se mira antes en el mapa de zonas geográficas de UAS de ENAIRE, y en Telde eso pesa: el aeropuerto de Gran Canaria está dentro del municipio y su zona condiciona qué vegas se vuelan. Solo productos de uso permitido en cítricos, a dosis de etiqueta, sobre huertos a cielo abierto; con viento, lluvia o niebla se cambia el día.
+Es menos de lo que parece. El piloto de Agrodrón, con más de diez años de experiencia profesional y radiofonista, vuela en la categoría específica de AESA/EASA (STS o PDRA-S01). Cada huerto se mira antes en el mapa de zonas geográficas de UAS de ENAIRE, y en Telde eso pesa: el aeropuerto de Gran Canaria está dentro del municipio y su zona condiciona qué vegas se vuelan.
+
+Solo productos de uso permitido en cítricos, a dosis de etiqueta, sobre huertos a cielo abierto; con viento, lluvia o niebla se cambia el día.
 
 Qué datos necesitamos: municipio, hectáreas, altura de los árboles, accesos, obstáculos y el producto que el técnico quiera aplicar. Con eso se planifica el vuelo sobre el plano de la parcela, se comprueba el viento el día señalado y se registra el tratamiento.
 

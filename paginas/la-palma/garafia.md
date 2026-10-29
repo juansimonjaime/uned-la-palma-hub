@@ -3,7 +3,7 @@ title: "Dron agrícola en Garafía | Agrodrón Canarias"
 slug: "garafia"
 meta_description: "Dron agrícola en Garafía para papa, viña y almendro en pagos separados por barrancos. Tratamiento con DJI Agras T50 sin mover maquinaria. Pide presupuesto."
 keyword: "dron agrícola en Garafía"
-keywords_secundarias: "fumigar con dron en Garafía, tratamiento con drones en papa, dron fitosanitario noroeste de La Palma, pulverización aérea Las Tricias"
+keywords_secundarias: "pulverización con dron en Garafía, tratamiento con drones en papa, abonado foliar con dron noroeste de La Palma, dron pulverizador Las Tricias"
 parent: "dron-agricola-la-palma"
 nivel: "A"
 isla: "La Palma"
@@ -20,7 +20,7 @@ Cien kilómetros cuadrados de término, el segundo más extenso de la isla, y 56
 
 La costa garafiana es acantilado casi todo el rato. La platanera es escasa aquí [VERIFICAR: superficie de platanera de Garafía en el Mapa de Cultivos]. Lo que sobra es viento: la vertiente norte-noroeste recibe el alisio de frente y en los lomos expuestos y en la costa acantilada sopla fuerte.
 
-Si hay cultivo al aire libre y una plaga diagnosticada, el T50 puede trabajar una finca de costa desde un punto de despegue junto a la parcela. Pero la ventana la pone el viento, y en la costa de Garafía se cierra más días que en otros municipios.
+Si hay cultivo al aire libre y un abono foliar o un bioestimulante que aplicar, el T50 puede trabajar una finca de costa desde un punto de despegue junto a la parcela. Pero la ventana la pone el viento, y en la costa de Garafía se cierra más días que en otros municipios.
 
 ## Medianías de 300 a 1.000 metros: papa, viña rastrera, frutales y pasto
 
@@ -32,7 +32,7 @@ El encaje del dron en estos bancales viene de los sensores. El DJI Agras T50 lle
 
 ## Las Tricias y los pagos del almendro
 
-Las Tricias es el pueblo de los almendros de Garafía, repartidos en bancales y con árboles ya grandes. En los datos locales no hay ninguna plaga del almendro documentada para el municipio [VERIFICAR: plagas del almendro en Garafía], y un técnico serio no pulveriza lo que no está diagnosticado. Si aparece un problema con un producto que admita aplicación aérea, el dron puede cubrir copas en terreno quebrado; si no, el almendro se deja estar.
+Las Tricias es el pueblo de los almendros de Garafía, repartidos en bancales y con árboles ya grandes. En los datos locales no hay ninguna plaga del almendro documentada para el municipio [VERIFICAR: plagas del almendro en Garafía], y un técnico serio no pulveriza por pulverizar. Si tu técnico ve una carencia que corregir en hoja, o quieres un bioestimulante tras la poda, el dron puede cubrir copas en terreno quebrado; si no, el almendro se deja estar.
 
 Por encima, el pinar y el Roque de los Muchachos a 2.426 metros. Ahí no hay cultivo, así que ahí el trabajo del dron termina.
 
@@ -40,13 +40,13 @@ Por encima, el pinar y el Roque de los Muchachos a 2.426 metros. Ahí no hay cul
 
 La polilla guatemalteca de la papa, Tecia solanivora, está en La Palma desde 2002 y extendida por toda la isla según la guía del ICIA. La larva vive dentro del tubérculo. Por eso la herramienta documentada no es la pulverización foliar sino las trampas de feromona, la rotación y no dejar papas en el campo tras la cosecha, como recomienda el Cabildo de Tenerife. El dron no arregla la Tecia, y preferimos decirlo antes de que nos llames.
 
-En la viña, la campaña de 2025 trajo mildiu y oídio en toda la isla, según El Time citando al Consejo Regulador, con el norte algo mejor situado. Un tratamiento fúngico foliar sobre viña rastrera es de lo que mejor se adapta al vuelo: cultivo bajo, cobertura desde arriba, parcelas que no admiten tractor. Siempre con un producto cuya autorización incluya la aplicación aérea.
+En la viña, la campaña de 2025 trajo mildiu y oídio en toda la isla, según El Time citando al Consejo Regulador, con el norte algo mejor situado. Ese frente es del viticultor y de los avisos de sanidad vegetal. Lo que sí se adapta al vuelo es el abonado foliar y el bioestimulante sobre viña rastrera: cultivo bajo, cobertura desde arriba, parcelas que no admiten tractor, producto de uso permitido en viña a su dosis de etiqueta.
 
 ## Cómo organiza Agrodrón Canarias un dron agrícola en Garafía
 
-Primero los datos: dónde está cada pago, qué cultivo, cuántos bancales, por dónde se entra y qué cables, árboles altos o construcciones hay alrededor. Con eso se dibuja el vuelo sobre el mapa de cada parcela. El día señalado se mide el viento en el propio lomo; si sopla o la niebla está abajo, no se vuela y se busca otro día. Se aplica la dosis de la etiqueta que recoge el plan de aplicación y queda registrado.
+Primero los datos: dónde está cada pago, qué cultivo, cuántos bancales, por dónde se entra y qué cables, árboles altos o construcciones hay alrededor. Con eso se dibuja el vuelo sobre el mapa de cada parcela. El día señalado se mide el viento en el propio lomo; si sopla o la niebla está abajo, no se vuela y se busca otro día. Se aplica la dosis de la etiqueta y queda registrado.
 
-Y la parte legal, en corto. En España la aplicación aérea de fitosanitarios está prohibida con carácter general y solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). El piloto vuela en la categoría específica de AESA, en escenarios estándar o bajo el PDRA-S01. Ni Agrodrón ni nadie fumiga con dron por libre en Garafía.
+Y las reglas, en corto. El piloto vuela en la categoría específica de AESA, en escenarios estándar o bajo el PDRA-S01, y con el Roque de los Muchachos en el término el mapa de zonas geográficas de UAS de ENAIRE se consulta pago por pago, no se da por sabido. Al depósito solo sube producto de uso permitido en el cultivo de ese bancal, a dosis de etiqueta, sobre cultivo descubierto. Ni Agrodrón ni nadie vuela por libre en Garafía.
 
 Para ver el resto de la isla, la página de [tratamientos con dron en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) recoge los catorce municipios. Y para los cultivos que más pesan aquí, la de [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/) y la de [dron agrícola para almendro](https://agrodroncanarias.es/dron-agricola-almendro/). El vecino del suroeste, [Puntagorda](https://agrodroncanarias.es/dron-agricola-la-palma/puntagorda/), comparte almendro y viña de la subzona Norte.
 
@@ -55,7 +55,7 @@ Para ver el resto de la isla, la página de [tratamientos con dron en La Palma](
 ## Preguntas frecuentes sobre el dron agrícola en Garafía
 
 ### ¿Se puede tratar con dron una finca de papas de Garafía partida en varios bancales?
-Sí, siempre que esté al aire libre y haya un tratamiento foliar que lo justifique. Cada bancal se dibuja en el mapa como un bloque y el dron los recorre uno tras otro siguiendo el relieve. Lo que lleva tiempo es el relleno del depósito de 40 litros, no el desplazamiento entre bancales.
+Sí, siempre que esté al aire libre y haya un abono foliar o un bioestimulante que aplicar. Cada bancal se dibuja en el mapa como un bloque y el dron los recorre uno tras otro siguiendo el relieve. Lo que lleva tiempo es el relleno del depósito de 40 litros, no el desplazamiento entre bancales.
 
 ### ¿Cuántos días se pierden por el viento en los lomos de Garafía?
 No damos un número porque cambia con la estación y con el lomo concreto. Lo que hacemos es medir el viento en la parcela el día del tratamiento, y si no está dentro del margen de trabajo del dron, se aplaza. En la costa acantilada y en los lomos expuestos al alisio los aplazamientos son más frecuentes que en las medianías abrigadas.
@@ -67,7 +67,7 @@ No. La Tecia solanivora vive dentro del tubérculo y la pulverización foliar no
 Se despega desde el punto más cercano a la parcela con acceso para el vehículo, normalmente la pista. Si el bancal está al otro lado de un barranco pequeño, el dron lo cruza; el piloto quiere tener el dron a la vista en todo momento, así que en los barrancos muy encajados se cambia de punto de despegue.
 
 ### ¿Cuánto cuesta un tratamiento con dron en Garafía?
-Depende de la superficie real de cada pago, del cultivo, de lo repartidas que estén las parcelas y del producto que marque el plan de aplicación. Con esos datos se prepara un presupuesto cerrado para tu caso.
+Depende de la superficie real de cada pago, del cultivo, de lo repartidas que estén las parcelas y del producto que quieras aplicar. Con esos datos se prepara un presupuesto cerrado para tu caso.
 
 ## Pide presupuesto para tus pagos de Garafía
 
@@ -79,9 +79,9 @@ Mándanos dónde están tus bancales, qué tienes plantado y cuántas hectáreas
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Garafía",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en fincas de papa, viña rastrera y frutales de Garafía, repartidas en pagos separados por barrancos, sin mover maquinaria pesada entre bancales.",
+      "name": "Tratamientos agrícolas con dron en Garafía",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Abonado foliar y bioestimulantes con dron DJI Agras T50 en fincas de papa, viña rastrera y frutales de Garafía, repartidas en pagos separados por barrancos, sin mover maquinaria pesada entre bancales.",
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/garafia/",
       "provider": {
         "@type": "LocalBusiness",
@@ -106,7 +106,7 @@ Mándanos dónde están tus bancales, qué tienes plantado y cuántas hectáreas
         {
           "@type": "Question",
           "name": "¿Se puede tratar con dron una finca de papas de Garafía partida en varios bancales?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, siempre que esté al aire libre y haya un tratamiento foliar que lo justifique. Cada bancal se dibuja en el mapa como un bloque y el dron los recorre uno tras otro siguiendo el relieve. Lo que lleva tiempo es el relleno del depósito de 40 litros, no el desplazamiento entre bancales." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, siempre que esté al aire libre y haya un abono foliar o un bioestimulante que aplicar. Cada bancal se dibuja en el mapa como un bloque y el dron los recorre uno tras otro siguiendo el relieve. Lo que lleva tiempo es el relleno del depósito de 40 litros, no el desplazamiento entre bancales." }
         },
         {
           "@type": "Question",
@@ -126,7 +126,7 @@ Mándanos dónde están tus bancales, qué tienes plantado y cuántas hectáreas
         {
           "@type": "Question",
           "name": "¿Cuánto cuesta un tratamiento con dron en Garafía?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la superficie real de cada pago, del cultivo, de lo repartidas que estén las parcelas y del producto que marque el plan de aplicación. Con esos datos se prepara un presupuesto cerrado para cada caso." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la superficie real de cada pago, del cultivo, de lo repartidas que estén las parcelas y del producto que quieras aplicar. Con esos datos se prepara un presupuesto cerrado para cada caso." }
         }
       ]
     }

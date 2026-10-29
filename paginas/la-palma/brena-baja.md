@@ -51,11 +51,13 @@ No es un impedimento general, es un paso más de la planificación, y lo asume e
 - Viña: mildiu y oídio en la campaña 2025 a nivel insular (El Time). Rastrera sobre picón, parcelas chicas, al aire libre.
 - Papas y frutales de huerta: parcelas pequeñas que se agrupan por zona.
 
-Ninguna de esas plagas se combate desde el dron: ese frente lo llevan tu técnico y los servicios de sanidad vegetal del Cabildo con trampas, control biológico y labores. Lo que el T50 sube a los bancales de Breña Baja es abono foliar, bioestimulante o corrector de carencias, pensado para la platanera que sale del nordeste de invierno o el aguacatero recién cosechado.
+Ninguna de esas plagas se combate desde el dron: ese frente lo llevan tu técnico y los servicios de sanidad vegetal del Cabildo. Lo que el T50 sube a los bancales de Breña Baja es abono foliar, bioestimulante o corrector de carencias, pensado para la platanera que sale del nordeste de invierno o el aguacatero recién cosechado.
 
 ## Reglas de vuelo y productos: lo que se cumple en cada aplicación
 
-Tres reglas y ninguna negociable. El piloto opera en la categoría específica de AESA/EASA, en escenario estándar STS o bajo el análisis de riesgo PDRA-S01, con su certificado al día. En el dron solo va producto de uso permitido en el cultivo que se pulveriza, a la dosis que marca su etiqueta, y solo sobre cultivo descubierto. Y si la mañana amanece con lluvia, niebla en las medianías o viento fuerte en la costa, la ventana se decide en la propia finca y, si no la hay, se aplaza. Tú aportas parcela y producto; lo demás lo pone Agrodrón Canarias.
+Tres reglas. El piloto opera en la categoría específica de AESA/EASA, en escenario estándar STS o bajo el análisis de riesgo PDRA-S01. En el dron solo va producto de uso permitido en el cultivo que se pulveriza, a la dosis que marca su etiqueta, y solo sobre cultivo descubierto.
+
+Y si la mañana amanece con lluvia, niebla en las medianías o viento fuerte en la costa, la ventana se decide en la propia finca y, si no la hay, se aplaza. Tú aportas parcela y producto; lo demás lo pone Agrodrón Canarias.
 
 ## Preguntas que nos hacen en Breña Baja antes de contratar
 

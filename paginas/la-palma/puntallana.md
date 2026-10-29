@@ -3,7 +3,7 @@ title: "Dron agrícola en Puntallana | Agrodrón Canarias"
 slug: "puntallana"
 meta_description: "Dron agrícola en Puntallana: platanera sobre el acantilado y huerta en medianías. Mochila, atomizador o dron, comparados sin adornos. Pide presupuesto."
 keyword: "dron agrícola en Puntallana"
-keywords_secundarias: "fumigar con dron en Puntallana, tratamiento con drones en platanera de costa, dron fitosanitario La Galga, pulverización aérea nordeste de La Palma"
+keywords_secundarias: "pulverización con dron en Puntallana, tratamiento con drones en platanera de costa, dron pulverizador La Galga, abonado foliar con dron nordeste de La Palma"
 parent: "dron-agricola-la-palma"
 nivel: "A"
 isla: "La Palma"
@@ -36,15 +36,15 @@ El piloto se queda fuera de la nube y el tratamiento queda registrado con su map
 
 ## Cultivos y plagas de Puntallana: lo que se trata desde arriba y lo que no
 
-En la platanera están documentadas para Canarias el picudo negro, la cochinilla algodonosa Dysmicoccus grassii y el trips Hercinothrips femoralis (guía Coplaca 2014, ICIA). Las dos últimas viven en hoja y fruto y un tratamiento foliar desde el aire las alcanza, con cobertura menor bajo el penacho; el picudo vive en el rizoma y se combate con trampas de feromona, no con el dron.
+En la platanera están documentadas para Canarias el picudo negro, la cochinilla algodonosa Dysmicoccus grassii y el trips Hercinothrips femoralis (guía Coplaca 2014, ICIA). Las tres son asunto de tu técnico y de sanidad vegetal del Cabildo: el picudo vive en el rizoma y va con trampas de feromona, y cochinilla y trips con lo que ellos indiquen. El dron entra en otra tarea: abono foliar y bioestimulante para una platanera que recibe salitre y alisio de frente, con cobertura menor bajo el penacho.
 
-En el aguacate de las medianías manda el ácaro cristalino Oligonychus perseae, en La Palma desde 2005 y presente en todas las zonas productoras de la isla, según el Canal Agrario La Palma. Se instala en el envés de la hoja, así que la cobertura desde arriba es parcial y hay que hablarlo con el técnico antes de volar.
+En el aguacate de las medianías manda el ácaro cristalino Oligonychus perseae, en La Palma desde 2005 y presente en todas las zonas productoras de la isla, según el Canal Agrario La Palma. Se instala en el envés de la hoja y su control lo marca el técnico. Para un abono foliar o un corrector en aguacate, la cobertura desde arriba es parcial en copas densas, y eso se habla antes de volar.
 
-En la papa, la polilla guatemalteca Tecia solanivora está extendida por toda la isla (ICIA) y no es asunto de pulverización. En la viña de la subzona Norte, el mildiu y el oídio de 2025 (El Time) sí son un tratamiento foliar típico para dron.
+En la papa, la polilla guatemalteca Tecia solanivora está extendida por toda la isla (ICIA) y no es asunto de pulverización. En la viña de la subzona Norte, el mildiu y el oídio de 2025 (El Time) los maneja el viticultor; el dron queda para el abonado foliar de una viña rastrera a la que el tractor no llega.
 
-## Dos frases sobre la ley antes de volar en Puntallana
+## Dos frases sobre las reglas antes de volar en Puntallana
 
-La aplicación aérea de fitosanitarios está prohibida en España con carácter general; solo se autoriza en casos especiales, con permiso previo del órgano competente de la comunidad autónoma y un plan de aplicación aprobado, y únicamente con productos cuya autorización incluya expresamente la aplicación aérea (Real Decreto 1311/2012, artículos 27 y 28 y anexo VI). El piloto de Agrodrón, con más de diez años de experiencia profesional, opera en la categoría específica de AESA, en escenarios STS o bajo el PDRA-S01.
+El piloto de Agrodrón, con más de diez años de experiencia profesional, opera en la categoría específica de AESA, en escenarios STS o bajo el PDRA-S01, y antes de bajar al acantilado comprueba en el mapa de zonas geográficas de UAS de ENAIRE en qué zona cae la sorriba. En el depósito solo va producto de uso permitido en platanera, aguacate o huerta, a la dosis de su etiqueta, solo sobre cultivo descubierto, y con el alisio fuerte, lluvia o niebla el vuelo se aplaza.
 
 Puntallana es uno de los catorce municipios de la página de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/). El detalle de cada cultivo está en las páginas de [dron para plataneras](https://agrodroncanarias.es/dron-agricola-platanera/) y de [tratamientos con dron en aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/). Hacia el norte, el vecino [San Andrés y Sauces](https://agrodroncanarias.es/dron-agricola-la-palma/san-andres-y-sauces/) repite el esquema de platanera en terrazas, con más agua.
 
@@ -59,7 +59,7 @@ Depende del acceso más que de la superficie. Si la mochila entra sin problema y
 Sí. Despega desde la pista o desde el punto más cercano con acceso para el vehículo y vuela hasta el bancal siguiendo el relieve. Solo necesita que el cultivo esté al aire libre y que el piloto tenga el dron a la vista.
 
 ### ¿Sirve el dron para el ácaro cristalino del aguacate en Puntallana?
-Con reservas. El ácaro se instala en el envés de la hoja y la pulverización desde arriba lo cubre peor que un tratamiento dirigido. Se puede plantear como parte de un manejo acordado con el técnico de la finca, nunca como única medida.
+No. El ácaro se instala en el envés de la hoja y su control lo lleva el técnico de la finca con lo que indica sanidad vegetal. En aguacate el dron se plantea para abono foliar y bioestimulantes, con la cobertura parcial de una copa densa, como parte de un manejo acordado.
 
 ### ¿Qué viento hay que esperar para volar en la costa de Puntallana?
 El alisio del nordeste es persistente en la costa y los lomos, así que se mide en la propia finca antes de volar y se aplaza si está fuera del margen del dron. No se vuela con niebla ni con la hoja mojada.
@@ -77,9 +77,9 @@ Si tienes platanera en la costa, aguacate o huerta en las medianías y te cuesta
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Puntallana",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Tratamientos con dron DJI Agras T50 en la platanera de costa, el aguacate y la huerta de Puntallana, en bancales sobre el acantilado y entre barrancos donde la mochila y el atomizador llegan mal.",
+      "name": "Tratamientos agrícolas con dron en Puntallana",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Abonado foliar y bioestimulantes con dron DJI Agras T50 en la platanera de costa, el aguacate y la huerta de Puntallana, en bancales sobre el acantilado y entre barrancos donde la mochila y el atomizador llegan mal.",
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/puntallana/",
       "provider": {
         "@type": "LocalBusiness",
@@ -114,7 +114,7 @@ Si tienes platanera en la costa, aguacate o huerta en las medianías y te cuesta
         {
           "@type": "Question",
           "name": "¿Sirve el dron para el ácaro cristalino del aguacate en Puntallana?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Con reservas. El ácaro se instala en el envés de la hoja y la pulverización desde arriba lo cubre peor que un tratamiento dirigido. Se puede plantear como parte de un manejo acordado con el técnico de la finca, nunca como única medida." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. El ácaro se instala en el envés de la hoja y su control lo lleva el técnico de la finca con lo que indica sanidad vegetal. En aguacate el dron se plantea para abono foliar y bioestimulantes, con la cobertura parcial de una copa densa, como parte de un manejo acordado." }
         },
         {
           "@type": "Question",

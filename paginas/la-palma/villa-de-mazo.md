@@ -3,7 +3,7 @@ title: "Dron agrícola en Villa de Mazo | Agrodrón Canarias"
 slug: "villa-de-mazo"
 meta_description: "Dron agrícola en Villa de Mazo: calendario de riesgos de la viña del Hoyo de Mazo y la platanera de costa, qué encaja con dron y cuándo pedir presupuesto."
 keyword: "dron agrícola en Villa de Mazo"
-keywords_secundarias: "fumigar con dron en Villa de Mazo, tratamiento con drones en viña Hoyo de Mazo, dron fitosanitario La Palma, pulverización aérea Mazo, dron pulverizador platanera"
+keywords_secundarias: "pulverización con dron en Villa de Mazo, tratamiento con drones en viña Hoyo de Mazo, abonado foliar con dron La Palma, bioestimulantes con dron Mazo, dron pulverizador platanera"
 parent: "dron-agricola-la-palma"
 nivel: "A"
 isla: "La Palma"
@@ -32,15 +32,15 @@ Con la brotación de primavera llega la humedad del alisio y la nubosidad de las
 
 El oídio es endémico en Canarias según la guía de viña de Agrocabildo (2020), y los avisos de ese servicio para finales de julio y principios de agosto (año sin indicar) hablan de riesgo elevado de oídio, medio de mildiu y atención a la botritis en envero.
 
-Trasladado a Mazo: de marzo a agosto es cuando una viña rastrera sobre picón, donde no entra el tractor, agradece un tratamiento desde el aire con el producto que fije el plan de aplicación. El detalle del cultivo está en [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/).
+Trasladado a Mazo: ese frente es del viticultor y de los avisos de Agrocabildo, no del dron. Lo que la viña rastrera sobre picón, donde no entra el tractor, recibe del dron de marzo a agosto es abono foliar y bioestimulante de uso permitido, a dosis de etiqueta. El detalle del cultivo está en [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/).
 
 Las parras del Hoyo crecen entre cenizas volcánicas (Demaracumbre), y la erupción de 2021 dejó a Mazo entre los municipios con viña cubierta de ceniza. Parcelas chicas, sueltas, sobre malpaís: el formato que le va a un depósito de 40 litros que se agota en un par de ellas y se recarga junto a la pista.
 
 ## De junio a noviembre: la platanera de la costa no para en invierno
 
-La cochinilla algodonosa encadena hasta ocho generaciones al año en Canarias sin parada invernal (Agrocabildo, ICIA). Las dos ventanas de la autorización excepcional de 2026 contra ella en platanera, del 1 de junio al 30 de julio y del 1 de octubre al 29 de noviembre (COSEPAL), marcan cuándo el sector concentra la lucha. Ojo: una autorización excepcional en platanera no implica autorización para aplicación aérea; se comprueba producto a producto.
+La cochinilla algodonosa encadena hasta ocho generaciones al año en Canarias sin parada invernal (Agrocabildo, ICIA). Las dos ventanas de la autorización excepcional de 2026 contra ella en platanera, del 1 de junio al 30 de julio y del 1 de octubre al 29 de noviembre (COSEPAL), marcan cuándo el sector concentra la lucha. Esa lucha es de sanidad vegetal, no del dron.
 
-El picudo negro, en La Palma desde 2001 (ICIA), se vigila con trampas de feromona, no con pulverización. Los trips sí entran en un plan foliar. Y aquí está la frontera de Mazo: la platanera bajo malla o invernadero de la zona del aeropuerto no se trata con dron, porque el producto no atraviesa la cubierta. Solo cuenta la que está al aire libre, explicada en [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/).
+El picudo negro, en La Palma desde 2001 (ICIA), se vigila con trampas de feromona, no con pulverización. Lo que el dron aplica en la costa es abono foliar y bioestimulante para la piña que aguanta el nordeste del aeropuerto. Y aquí está la frontera de Mazo: la platanera bajo malla o invernadero de la zona del aeropuerto no se trata con dron, porque el producto no atraviesa la cubierta. Solo cuenta la que está al aire libre, explicada en [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/).
 
 [IMAGEN: Plataneras bajo malla junto a la pista del aeropuerto de La Palma, en la costa de Villa de Mazo, con fincas al aire libre al lado | alt: platanera bajo malla y al aire libre en la costa de Villa de Mazo, junto al aeropuerto de La Palma]
 
@@ -58,15 +58,15 @@ El término se extiende por los lomos volcánicos de Cumbre Vieja, con pendiente
 
 El viento sí manda. La costa es ventosa, con nordeste constante junto al aeropuerto; la zona alta hacia el sur es más soleada y seca, y entre medias el mar de nubes deja hoja mojada muchas mañanas. Antes de cada vuelo se comprueban viento y humedad en la parcela, y si no hay ventana se aplaza.
 
-## Los papeles que lleva cada tratamiento con dron en Mazo
+## Las reglas que lleva cada tratamiento con dron en Mazo
 
-El Ministerio de Agricultura considera los tratamientos con dron como tratamientos aéreos (nota informativa MAPA-AESA de 2018), así que llevan el mismo régimen: prohibición general en España y permiso solo en casos especiales, con autorización previa del Gobierno de Canarias y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). Agrodrón Canarias prepara el expediente de cada finca; tú aportas los datos de parcela y producto.
+Con la pista del aeropuerto en el límite del municipio, lo primero en Mazo es el mapa de zonas geográficas de UAS de ENAIRE: cada parcela se sitúa en él al planificar. Lo segundo, el piloto, certificado por AESA para la categoría específica (STS o PDRA-S01). Lo tercero, el producto: de uso permitido en el cultivo, a dosis de etiqueta, sobre cultivo descubierto. Tú aportas parcela y producto.
 
-## Preguntas frecuentes sobre fumigar con dron en Villa de Mazo
+## Preguntas frecuentes sobre pulverizar con dron en Villa de Mazo
 
 ### ¿En qué meses tiene más sentido un tratamiento con dron en la viña del Hoyo de Mazo?
 
-Entre la brotación y el envero, de marzo a agosto, que es cuando la humedad del alisio dispara el mildiu y el calor de verano empuja el oídio. Fuera de ese tramo se trata solo si hay un motivo concreto en tu parcela.
+Entre la brotación y el envero, de marzo a agosto, cuando la cepa crece y un abono foliar o bioestimulante acompaña ese esfuerzo; el mildiu y el oídio los lleva tu técnico. Fuera de ese tramo se aplica solo con un motivo concreto en tu parcela.
 
 ### ¿Puede el dron tratar la platanera bajo malla de la zona del aeropuerto de Mazo?
 
@@ -80,13 +80,13 @@ No es su herramienta. Tecia solanivora ataca el tubérculo y se controla con tra
 
 El pago, el cultivo, la superficie aproximada, el acceso y qué hay alrededor: cables, árboles altos, invernaderos, casas. Con eso se mira la parcela sobre el mapa.
 
-### ¿El precio de fumigar con dron en Villa de Mazo cambia según la época del año?
+### ¿El precio de pulverizar con dron en Villa de Mazo cambia según la época del año?
 
-Depende de superficie, cultivo, accesos y producto del plan de aplicación, no del mes. Lo que cambia con la época es la urgencia: pide el presupuesto antes de que la plaga esté encima.
+Depende de superficie, cultivo, accesos y producto que se aplique, no del mes. Lo que cambia es la agenda: pide presupuesto antes de la brotación.
 
 ## Pide presupuesto para tu finca de Mazo antes de la próxima campaña
 
-Entra en [agrodroncanarias.es](https://agrodroncanarias.es/), cuéntanos el pago, el cultivo y la superficie, y te respondemos si el dron tiene sentido en tu caso y qué papeles lleva. Si tu finca cae más al sur, mira la página de [dron agrícola en Fuencaliente](https://agrodroncanarias.es/dron-agricola-la-palma/fuencaliente/), y la visión de toda la isla, en el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/).
+Entra en [agrodroncanarias.es](https://agrodroncanarias.es/), cuéntanos el pago, el cultivo y la superficie, y te respondemos si el dron tiene sentido en tu caso y qué producto permitido encaja. Si tu finca cae más al sur, mira la página de [dron agrícola en Fuencaliente](https://agrodroncanarias.es/dron-agricola-la-palma/fuencaliente/), y la visión de toda la isla, en el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/).
 
 ```json
 {
@@ -94,9 +94,9 @@ Entra en [agrodroncanarias.es](https://agrodroncanarias.es/), cuéntanos el pago
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Villa de Mazo",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Tratamientos con dron DJI Agras T50 en la viña del Hoyo de Mazo y la platanera al aire libre de la costa de Villa de Mazo, planificados según la época de riesgo de cada cultivo.",
+      "name": "Tratamientos agrícolas con dron en Villa de Mazo",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Abonado foliar y bioestimulantes con dron DJI Agras T50 en la viña del Hoyo de Mazo y la platanera al aire libre de la costa de Villa de Mazo, planificados según el calendario de cada cultivo.",
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/villa-de-mazo/",
       "provider": {
         "@type": "LocalBusiness",
@@ -121,7 +121,7 @@ Entra en [agrodroncanarias.es](https://agrodroncanarias.es/), cuéntanos el pago
         {
           "@type": "Question",
           "name": "¿En qué meses tiene más sentido un tratamiento con dron en la viña del Hoyo de Mazo?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Entre la brotación y el envero, de marzo a agosto, que es cuando la humedad del alisio dispara el mildiu y el calor de verano empuja el oídio. Fuera de ese tramo se trata solo si hay un motivo concreto en tu parcela." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Entre la brotación y el envero, de marzo a agosto, cuando la cepa crece y un abono foliar o bioestimulante acompaña ese esfuerzo; el mildiu y el oídio los lleva tu técnico. Fuera de ese tramo se aplica solo con un motivo concreto en tu parcela." }
         },
         {
           "@type": "Question",
@@ -140,8 +140,8 @@ Entra en [agrodroncanarias.es](https://agrodroncanarias.es/), cuéntanos el pago
         },
         {
           "@type": "Question",
-          "name": "¿El precio de fumigar con dron en Villa de Mazo cambia según la época del año?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Depende de superficie, cultivo, accesos y producto del plan de aplicación, no del mes. Lo que cambia con la época es la urgencia: pide el presupuesto antes de que la plaga esté encima." }
+          "name": "¿El precio de pulverizar con dron en Villa de Mazo cambia según la época del año?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Depende de superficie, cultivo, accesos y producto que se aplique, no del mes. Lo que cambia es la agenda: pide presupuesto antes de la brotación." }
         }
       ]
     }

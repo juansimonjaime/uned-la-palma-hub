@@ -12,7 +12,7 @@ municipio: ""
 
 # Dron agrícola para aguacate en Canarias: llegar arriba, donde está el ácaro cristalino
 
-El ácaro o araña cristalina (Oligonychus perseae) entró en La Palma en 2005, pasó a Tenerife en 2006 y es la plaga principal del aguacate canario: el Cabildo de Tenerife la encontró en el 81,5 % de las parcelas que encuestó (Agrocabildo). Se cría por toda la copa, y en un árbol de varios metros la parte alta es la que peor se moja. Un dron agrícola para aguacate pulveriza desde encima de la copa, justo donde la mochila se queda corta, y ahí deja el abono foliar.
+El ácaro o araña cristalina (Oligonychus perseae) entró en La Palma en 2005, pasó a Tenerife en 2006 y es la plaga principal del aguacate canario: el Cabildo de Tenerife la halló en el 81,5 % de las parcelas encuestadas (Agrocabildo). Se cría por toda la copa, y en un árbol de varios metros la parte alta es la que peor se moja. Un dron agrícola para aguacate pulveriza el abono foliar desde encima de la copa, justo donde la mochila se queda corta.
 
 [IMAGEN: Aguacateros de porte alto en bancales de medianías de Breña Alta, con el mar de nubes del alisio sobre la Cumbre Nueva al fondo | alt: Finca de aguacate en bancales de Breña Alta, La Palma, tratada con dron agrícola]
 

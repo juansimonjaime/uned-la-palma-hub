@@ -3,7 +3,7 @@ title: "Dron agrícola en El Paso | Agrodrón Canarias"
 slug: "el-paso"
 meta_description: "Dron agrícola en El Paso para viña, aguacate y almendro de medianías: respuestas sobre altura de copa, pendiente, viento y volcán. Pide presupuesto."
 keyword: "dron agrícola en El Paso"
-keywords_secundarias: "fumigar con dron en El Paso, tratamiento con drones en viña La Palma, dron fitosanitario para aguacate, pulverización aérea en Las Manchas"
+keywords_secundarias: "pulverización con dron en El Paso, tratamiento con drones en viña La Palma, bioestimulantes con dron para aguacate, abonado foliar con dron en Las Manchas"
 parent: "dron-agricola-la-palma"
 nivel: "A"
 isla: "La Palma"
@@ -18,39 +18,39 @@ El Paso es el municipio más extenso de La Palma, con 135,92 km², y el único s
 
 ## ¿Se puede tratar con dron una viña en Las Manchas o en Tacande?
 
-Sí, si está al aire libre, el producto admite aplicación aérea y la parcela deja sitio para volar. La viña de El Paso se reparte entre Las Manchas, Tacande y el entorno del casco [VERIFICAR: hectáreas de viña del municipio], dentro de la DO Vinos La Palma. Una viña baja, en vaso o rastrera, es cómoda para el dron: la altura sobre la planta se mantiene y el radar sigue el bancal.
+Sí, si está al aire libre, el producto es de uso permitido en viña y la parcela deja sitio para volar. La viña de El Paso se reparte entre Las Manchas, Tacande y el entorno del casco [VERIFICAR: hectáreas de viña del municipio], dentro de la DO Vinos La Palma. Una viña baja, en vaso o rastrera, es cómoda para el dron: la altura sobre la planta se mantiene y el radar sigue el bancal.
 
-El problema con nombre es el mildiu y el oídio: el Consejo Regulador los documentó en la campaña de 2025 en toda la isla, con el calor castigando la uva pendiente (El Time). Los tratamientos preventivos de hoja son el tipo de trabajo donde la pulverización aérea tiene sentido, siempre con un producto que la etiqueta permita en aéreo.
+El problema con nombre es el mildiu y el oídio: el Consejo Regulador los documentó en la campaña de 2025 en toda la isla, con el calor castigando la uva pendiente (El Time). Ese frente lo lleva el viticultor con su técnico y los avisos de sanidad vegetal. El dron entra en otro trabajo: el abonado foliar y el bioestimulante pensados para una cepa que ha pasado calor en agosto y ceniza en el suelo, con un producto que la etiqueta permita en viña.
 
 ## ¿Qué pasa con un aguacatero de seis metros en un bancal de El Paso?
 
 El Paso era en 2017 el tercer municipio aguacatero de la isla, tras Tijarafe y Los Llanos (eldiario.es) [VERIFICAR: hectáreas de aguacate actuales]. Un árbol de seis metros no es un obstáculo para el dron, que vuela por encima de la copa; lo que cambia es la penetración. Una copa densa recibe bien el caldo en la parte alta y exterior, y peor en el interior y en la cara baja de la hoja.
 
-Eso importa porque la plaga principal es el ácaro cristalino (Oligonychus perseae), en La Palma desde 2005 y en todas las zonas productoras, con incidencia creciente de trips y de la cochinilla Nipaecoccus nipae (Canal Agrario La Palma). No prometemos coberturas: se mira la finca, el marco y la poda, y se decide si el dron encaja o si hay que combinarlo con otra aplicación.
+La plaga principal es el ácaro cristalino (Oligonychus perseae), en La Palma desde 2005 y en todas las zonas productoras, con incidencia creciente de trips y de la cochinilla Nipaecoccus nipae (Canal Agrario La Palma); su control lo marca el técnico, no el dron. Para lo que sí se usa el dron en aguacate, un abono foliar o un corrector tras la cosecha o la poda, esa penetración parcial importa: se mira la finca, el marco y la poda, y se decide si encaja.
 
 ## ¿Tiene sentido un dron agrícola en El Paso para el almendro?
 
 Depende de para qué. El almendro es cultivo tradicional en recuperación: en 2021 el Ayuntamiento coordinó con las Agencias de Extensión Agraria y la Reserva de la Biosfera la entrega de almendreros a vecinos, también como barrera frente a incendios (Canal Agrario), y el Cabildo habilitó 7 ha para el cultivo en la isla (El Time). Son árboles en lindes y bancales, no una plantación regular.
 
-En los datos no hay plaga del almendro documentada para El Paso [VERIFICAR: problemas fitosanitarios locales del almendro]. Si hay un tratamiento autorizado que aplicar, el dron puede hacerlo sobre árboles sueltos, pero con muchas paradas y poca superficie por vuelo; en esos casos lo decimos antes de dar presupuesto.
+En los datos no hay plaga ni carencia del almendro documentada para El Paso [VERIFICAR: plagas y carencias documentadas del almendro en el municipio]. Si tu técnico marca un abono foliar o un corrector que aplicar, el dron puede hacerlo sobre árboles sueltos, pero con muchas paradas y poca superficie por vuelo; en esos casos lo decimos antes de dar presupuesto.
 
 ## ¿Cómo afecta el volcán de 2021 a los tratamientos en El Paso?
 
 El cono del Tajogaite está en el municipio y las coladas de 2021 cruzan Las Manchas y Tacande. La ceniza cubrió en la isla 128 ha de viña, 84 de aguacate y 412 de platanera (Valencia Fruits), y las proteas de la cara oeste perdieron un 40 % por los gases (Proteas de La Palma). El Paso tenía 591,6 ha en producción en 2019 según el Observatorio de Sostenibilidad 2020; parte quedó sepultada [VERIFICAR: superficie municipal tras la erupción].
 
-Para el dron, las coladas son sobre todo accesos cambiados: pistas nuevas, fincas a las que se llega por otro lado y bancales que quedaron en isla entre lava. El vuelo se planifica sobre el plano actual de la parcela y el despegue se hace desde el punto más cercano con acceso.
+Para el dron, las coladas son sobre todo accesos cambiados: pistas nuevas, fincas a las que se llega por otro lado y bancales que quedaron en isla entre lava. El vuelo se planifica sobre el plano actual de la parcela y el despegue se hace desde el punto más cercano con acceso. Y la ceniza es, para la planta, estrés acumulado: ahí un bioestimulante foliar tiene su finalidad, sin que nadie te prometa cómo responderá cada cepa.
 
 [IMAGEN: Almendros y viña junto a una colada de 2021 en Las Manchas, El Paso | alt: Almendro y viña junto a la colada del volcán Tajogaite en Las Manchas, El Paso]
 
 ## ¿Qué hace falta para contratar un tratamiento con dron en El Paso?
 
-Tres cosas: los datos de la finca (ubicación, cultivo, superficie, accesos, cables o árboles altos), el producto que quieres aplicar y tiempo para el trámite. En España, aplicar fitosanitarios desde el aire está prohibido salvo casos especiales: hace falta autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (RD 1311/2012, artículos 27 y 28), y los drones cuentan como tratamiento aéreo según la nota MAPA-AESA de 2018.
+Tres cosas: los datos de la finca (ubicación, cultivo, superficie, accesos, cables o árboles altos), el producto que quieres aplicar y un hueco en el calendario. El producto ha de ser de uso permitido en tu cultivo, abono foliar, bioestimulante o corrector, y va a la dosis de su etiqueta. El piloto vuela en la categoría específica de AESA, como operador STS o bajo el PDRA-S01, y antes de cada vuelo en El Paso revisa el mapa de zonas geográficas de UAS de ENAIRE para saber en qué zona cae el bancal y qué condiciones impone.
 
 El día del vuelo se miran las condiciones. En El Paso los vientos son de componente E-NE, canalizados por la cumbre, y el mar de nubes desborda a veces la Cumbre Nueva y mete niebla en las medianías [VERIFICAR: frecuencia del desborde del alisio sobre El Paso]. Con niebla o racha no se trata; se espera a la siguiente ventana.
 
 ## ¿Qué cultivos de El Paso tienen sentido con dron y cuáles no?
 
-- Viña de Las Manchas, Tacande y el casco: sí, en parcelas abiertas y con producto autorizado en aéreo.
+- Viña de Las Manchas, Tacande y el casco: sí, en parcelas abiertas, para abonado foliar y bioestimulantes de uso permitido.
 - Aguacate de medianías: sí, con la reserva de la penetración en copas densas.
 - Almendro disperso: posible, poco eficiente por vuelo.
 - Papas, hortalizas y frutales de huerta: parcelas pequeñas y mezcladas; se estudia caso a caso.
@@ -67,7 +67,7 @@ Las fincas del municipio están entre 400 y 1.000 m, y el casco a 600-650 m [VER
 Sí. Las parcelas pequeñas se tratan; lo que cambia es que el dron pasa poco tiempo en el aire por cada despegue. Si tienes varios bancales cercanos conviene agruparlos en la misma salida.
 
 ### ¿Qué productos se pueden aplicar con dron en la viña de El Paso?
-Solo los que tengan autorización expresa para aplicación aérea y estén dentro del plan aprobado. No podemos decirte que un fungicida concreto vale: se comprueba etiqueta por etiqueta al preparar el plan.
+Abonos foliares, bioestimulantes y correctores de carencias de uso permitido en viña, a la dosis de su etiqueta. Nada contra el mildiu ni el oídio: eso va por tu técnico y los avisos de sanidad vegetal. Dinos qué quieres aplicar y lo comprobamos etiqueta por etiqueta.
 
 ### ¿Cuánto cuesta tratar una finca de aguacate en El Paso?
 Depende de la superficie, de la altura y densidad de los árboles, del acceso y del producto. Con esos datos preparamos el presupuesto; sin verlos no damos cifra.
@@ -82,9 +82,9 @@ Mándanos desde [Agrodrón Canarias](https://agrodroncanarias.es/) la ubicación
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en El Paso",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en viña, aguacate y almendro de las medianías de El Paso, incluidas fincas con accesos cambiados por las coladas de 2021.",
+      "name": "Tratamientos agrícolas con dron en El Paso",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Abonado foliar y bioestimulantes con dron DJI Agras T50 en viña, aguacate y almendro de las medianías de El Paso, incluidas fincas con accesos cambiados por las coladas de 2021.",
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/el-paso/",
       "provider": {
         "@type": "LocalBusiness",
@@ -119,7 +119,7 @@ Mándanos desde [Agrodrón Canarias](https://agrodroncanarias.es/) la ubicación
         {
           "@type": "Question",
           "name": "¿Qué productos se pueden aplicar con dron en la viña de El Paso?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Solo los que tengan autorización expresa para aplicación aérea y estén dentro del plan aprobado. No podemos decirte que un fungicida concreto vale: se comprueba etiqueta por etiqueta al preparar el plan." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Abonos foliares, bioestimulantes y correctores de carencias de uso permitido en viña, a la dosis de su etiqueta. Nada contra el mildiu ni el oídio: eso va por tu técnico y los avisos de sanidad vegetal. Dinos qué quieres aplicar y lo comprobamos etiqueta por etiqueta." }
         },
         {
           "@type": "Question",

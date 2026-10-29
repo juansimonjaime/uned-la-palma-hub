@@ -3,7 +3,7 @@ title: "Dron agrícola en Tijarafe | Agrodrón Canarias"
 slug: "tijarafe"
 meta_description: "Dron agrícola en Tijarafe para platanera en plataformas de acantilado y aguacate en bancales: el radar del T50 sigue la pendiente. Pide presupuesto."
 keyword: "dron agrícola en Tijarafe"
-keywords_secundarias: "fumigar con dron en Tijarafe, tratamiento con drones en aguacate La Palma, dron fitosanitario en bancales, pulverización aérea en platanera de costa"
+keywords_secundarias: "pulverización con dron en Tijarafe, tratamiento con drones en aguacate La Palma, dron pulverizador en bancales, abonado foliar con dron en platanera de costa"
 parent: "dron-agricola-la-palma"
 nivel: "A"
 isla: "La Palma"
@@ -44,13 +44,17 @@ Tijarafe mira al noroeste, en la transición entre el norte húmedo y el Valle s
 
 Platanera: 239 ha en el Mapa de Cultivos 2017, con picudo negro, cochinilla algodonosa y trips como problemas documentados en Canarias. Aguacate: 132,9 ha según el estudio de Mercatenerife de 2018, la mayor superficie municipal de la isla, con ácaro cristalino (Oligonychus perseae) en todas las zonas productoras, cochinilla Nipaecoccus nipae y trips (Canal Agrario La Palma). Viña de la subzona Norte de la DO, en Tinizara [VERIFICAR: hectáreas], con mildiu y oídio en la campaña 2025 (El Time).
 
+Ninguna de esas plagas se combate con el dron; las vigila el técnico con lo que marca sanidad vegetal del Cabildo. El dron en Tijarafe aplica abono foliar, bioestimulante y corrector de carencias, con la finalidad de sostener la planta y sin prometer cómo responderá.
+
+Motivos no faltan: el viento del noroeste que castiga la hoja en las plataformas, el aguacatero que sale de la cosecha y el calor del verano de 2024, cuando la vertiente oeste de La Palma fue la zona más afectada, con 1.650 hectáreas de plátano dañadas (Agroseguro, vía RTVC).
+
 La cooperativa La Prosperidad tiene sede en el municipio: 364 socios plataneros con unas 200 ha en Tijarafe, Puntagorda, Los Llanos y Tazacorte, y unas 70 ha de aguacate (laprosperidad.es). Almendro, hortalizas y frutales de autoconsumo completan las medianías. Más detalle en [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/), [dron agrícola para platanera](https://agrodroncanarias.es/dron-agricola-platanera/) y en la página de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/). El vecino del norte: [dron agrícola en Puntagorda](https://agrodroncanarias.es/dron-agricola-la-palma/puntagorda/).
 
-## Autorización y plan de aplicación, en dos frases
+## Reglas de vuelo y productos permitidos, en dos frases
 
-La norma general en España prohíbe la aplicación aérea de fitosanitarios; la excepción exige autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el PDRA-S01, y cada tratamiento en Tijarafe se tramita antes de volar.
+El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el PDRA-S01, y cada plataforma y cada bancal de Tijarafe se comprueba antes en el mapa de zonas geográficas de UAS de ENAIRE. Al depósito solo sube producto de uso permitido en platanera, aguacate o viña, a la dosis de su etiqueta, solo sobre cultivo descubierto, y si el noroeste sopla fuerte o hay niebla en las medianías, se espera.
 
-## Preguntas frecuentes sobre fumigar con dron en Tijarafe
+## Preguntas frecuentes sobre pulverizar con dron en Tijarafe
 
 ### ¿Puede el dron tratar una platanera al pie del acantilado si la pista no admite tractor?
 Sí. Basta con que el piloto llegue a un punto con vista a la finca y sitio para despegar y cargar agua. La pista estrecha deja de ser el límite.
@@ -58,8 +62,8 @@ Sí. Basta con que el piloto llegue a un punto con vista a la finca y sitio para
 ### ¿Cómo trata el dron un bancal de aguacate con muros de dos o tres metros?
 El radar lee el escalón y mantiene la altura sobre las copas; el plan de vuelo lleva marcados muros, cables y árboles altos. El aplicador no baja al bancal.
 
-### ¿Se puede tratar la viña de Tinizara contra el mildiu con dron?
-Si el producto tiene autorización expresa para aplicación aérea y la parcela está abierta, sí. Lo comprobamos etiqueta por etiqueta al preparar el plan [VERIFICAR: hectáreas de viña en Tinizara].
+### ¿Qué aplica el dron en la viña de Tinizara?
+Abono foliar y bioestimulantes de uso permitido en viña, a la dosis de su etiqueta, si la parcela está abierta. El mildiu lo maneja el viticultor con su técnico; el dron no entra ahí. Lo comprobamos etiqueta por etiqueta al preparar el vuelo [VERIFICAR: hectáreas de viña en Tinizara].
 
 ### ¿Qué pasa si hay viento en los lomos el día del tratamiento?
 Se mide en la finca antes de volar. Con racha que pueda llevar el caldo fuera de la parcela se aplaza y se busca otra ventana.
@@ -77,9 +81,9 @@ Dinos dónde está la finca (costa o medianía), el cultivo, la superficie aprox
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Tijarafe",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en platanera de plataformas costeras y aguacate y viña de bancales en Tijarafe, con seguimiento de terreno por radar.",
+      "name": "Tratamientos agrícolas con dron en Tijarafe",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Abonado foliar y bioestimulantes con dron DJI Agras T50 en platanera de plataformas costeras y aguacate y viña de bancales en Tijarafe, con seguimiento de terreno por radar.",
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/tijarafe/",
       "provider": {
         "@type": "LocalBusiness",
@@ -113,8 +117,8 @@ Dinos dónde está la finca (costa o medianía), el cultivo, la superficie aprox
         },
         {
           "@type": "Question",
-          "name": "¿Se puede tratar la viña de Tinizara contra el mildiu con dron?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Si el producto tiene autorización expresa para aplicación aérea y la parcela está abierta, sí. Lo comprobamos etiqueta por etiqueta al preparar el plan." }
+          "name": "¿Qué aplica el dron en la viña de Tinizara?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Abono foliar y bioestimulantes de uso permitido en viña, a la dosis de su etiqueta, si la parcela está abierta. El mildiu lo maneja el viticultor con su técnico; el dron no entra ahí. Se comprueba etiqueta por etiqueta al preparar el vuelo." }
         },
         {
           "@type": "Question",

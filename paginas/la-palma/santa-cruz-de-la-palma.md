@@ -3,7 +3,7 @@ title: "Dron agrícola en Santa Cruz de La Palma | Agrodrón"
 slug: "santa-cruz-de-la-palma"
 meta_description: "Dron agrícola en Santa Cruz de La Palma, base de Agrodrón Canarias: fincas pequeñas de platanera, aguacate y huerta sin desplazamiento. Pide presupuesto."
 keyword: "dron agrícola en Santa Cruz de La Palma"
-keywords_secundarias: "fumigar con dron en Santa Cruz de La Palma, tratamiento con drones en platanera, dron fitosanitario La Palma, pulverización aérea Santa Cruz de La Palma, dron para aguacate"
+keywords_secundarias: "pulverización con dron en Santa Cruz de La Palma, tratamiento con drones en platanera, dron pulverizador La Palma, abonado foliar con dron Santa Cruz de La Palma, dron para aguacate"
 parent: "dron-agricola-la-palma"
 nivel: "A"
 isla: "La Palma"
@@ -34,9 +34,9 @@ Las plagas son las de la vertiente este:
 - Platanera: picudo negro, cochinilla algodonosa y trips (Cuaderno de plagas de Coplaca, 2014).
 - Viña: mildiu y oídio en la campaña 2025 en toda la isla (El Time citando al Consejo Regulador).
 
-El clima ayuda a los hongos: alisio del nordeste, nubosidad frecuente en medianías, humedad alta y una costa más soleada con viento constante en el litoral.
+El clima ayuda a los hongos: alisio del nordeste, nubosidad frecuente en medianías, humedad alta y una costa más soleada con viento constante en el litoral. Esas plagas son asunto de tu técnico y del Cabildo; lo que sube el dron es abono foliar, bioestimulante o corrector.
 
-## ¿Se puede fumigar con dron una platanera encajonada en un barranco de Santa Cruz?
+## ¿Se puede pulverizar con dron una platanera encajonada en un barranco de Santa Cruz?
 
 Se puede estudiar, que no es lo mismo. El T50 va leyendo el relieve con su radar de matriz en fase y la visión binocular, detecta obstáculos y adapta la velocidad a la pendiente, que es lo que pide una ladera de barranco. Lo que decide es lo que hay alrededor: cables que cruzan, viviendas pegadas, árboles más altos que la platanera, la propia pared del barranco.
 
@@ -46,9 +46,9 @@ Todo eso se dibuja en el mapa de la parcela antes de volar. Hay fincas en los ba
 
 ## ¿Qué hace falta para contratar un tratamiento con dron desde la capital?
 
-Hace falta poco por tu parte y bastante por la nuestra. Tú das la ubicación de la finca, el cultivo, la superficie aproximada, el acceso y los obstáculos que conozcas. Nosotros planificamos el vuelo sobre el mapa, miramos el viento del día, aplicamos la dosis de la etiqueta y del plan de aplicación y dejamos el tratamiento registrado.
+Hace falta poco por tu parte y bastante por la nuestra. Tú das la ubicación de la finca, el cultivo, la superficie aproximada, el acceso y los obstáculos que conozcas. Nosotros planificamos el vuelo sobre el mapa, miramos el viento del día, aplicamos la dosis de la etiqueta y dejamos la aplicación registrada.
 
-La parte de papeles va en medio. El Ministerio de Agricultura trata la pulverización con dron como un tratamiento aéreo (nota MAPA-AESA de 2018), y los tratamientos aéreos en España requieren autorización previa de la comunidad autónoma con un plan de aplicación aprobado; además solo pueden usarse productos cuya autorización incluya expresamente la aplicación aérea (Real Decreto 1311/2012, artículos 27 y 28 y anexo VI). Agrodrón Canarias monta el expediente con tus datos; nada se vuela por libre.
+Las reglas van en medio. Lo que sube al dron es abono foliar, bioestimulante o corrector de carencias de uso permitido en tu cultivo, nunca otra cosa, y solo sobre cultivo descubierto. Como el aeropuerto queda a pocos kilómetros de la capital, el mapa de zonas geográficas de UAS de ENAIRE se consulta para cada barranco antes de prometer un vuelo. Y quien pilota opera en la categoría específica de AESA, como operador STS o bajo el PDRA-S01; nada se vuela por libre.
 
 ## ¿Qué fincas de Santa Cruz tienen sentido para el dron y cuáles no?
 
@@ -76,7 +76,7 @@ La isla entera, municipio a municipio, está en el hub de [dron agrícola en La 
 
 No. La base está en el municipio y en toda La Palma se trabaja sin desplazamiento. El presupuesto sale de la superficie, el cultivo, el acceso y el producto.
 
-### ¿Se puede fumigar con dron una huerta en bancales de Velhoco o Mirca?
+### ¿Se puede pulverizar con dron una huerta en bancales de Velhoco o Mirca?
 
 Si la huerta está al aire libre y la parcela se puede mapear, sí. Como suelen ser parcelas chicas, lo práctico es tratar las de varios vecinos el mismo día, y para eso ayuda hablar entre vosotros antes de llamar.
 
@@ -86,7 +86,7 @@ Se estudian igual, con las viviendas, cables y carreteras dibujados en el plan d
 
 ### ¿Cuánto cuesta tratar con dron una platanera de un cuarto de hectárea en Santa Cruz de La Palma?
 
-No hay tarifa por tamaño. Cuentan la superficie, el acceso, los obstáculos y el producto del plan de aplicación. Con esos datos te damos un presupuesto para esa finca en concreto.
+No hay tarifa por tamaño. Cuentan la superficie, el acceso, los obstáculos y el producto que se aplique. Con esos datos te damos un presupuesto para esa finca en concreto.
 
 ### ¿Desde Santa Cruz de La Palma atendéis también otros municipios de la isla?
 
@@ -94,7 +94,7 @@ Sí, toda La Palma sin desplazamiento, de Fuencaliente a Garafía. Fuera de la i
 
 ## Pide presupuesto desde la capital
 
-Entra en [agrodroncanarias.es](https://agrodroncanarias.es/) y dinos en qué barranco o pago está la finca, qué tienes plantado y cuánto terreno es. Al estar en la misma ciudad, miramos la parcela sobre el mapa y te decimos si vale la pena volarla y qué expediente lleva. El presupuesto es sin compromiso.
+Entra en [agrodroncanarias.es](https://agrodroncanarias.es/) y dinos en qué barranco o pago está la finca, qué tienes plantado y cuánto terreno es. Al estar en la misma ciudad, miramos la parcela sobre el mapa y te decimos si vale la pena volarla y qué producto permitido encaja. El presupuesto es sin compromiso.
 
 ```json
 {
@@ -102,9 +102,9 @@ Entra en [agrodroncanarias.es](https://agrodroncanarias.es/) y dinos en qué bar
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Santa Cruz de La Palma",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en fincas pequeñas de platanera, aguacate, viña y huerta de Santa Cruz de La Palma, desde la base de Agrodrón Canarias en la propia capital y sin desplazamiento.",
+      "name": "Tratamientos agrícolas con dron en Santa Cruz de La Palma",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Abonado foliar y bioestimulantes con dron DJI Agras T50 en fincas pequeñas de platanera, aguacate, viña y huerta de Santa Cruz de La Palma, desde la base de Agrodrón Canarias en la propia capital y sin desplazamiento.",
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/santa-cruz-de-la-palma/",
       "provider": {
         "@type": "LocalBusiness",
@@ -133,7 +133,7 @@ Entra en [agrodroncanarias.es](https://agrodroncanarias.es/) y dinos en qué bar
         },
         {
           "@type": "Question",
-          "name": "¿Se puede fumigar con dron una huerta en bancales de Velhoco o Mirca?",
+          "name": "¿Se puede pulverizar con dron una huerta en bancales de Velhoco o Mirca?",
           "acceptedAnswer": { "@type": "Answer", "text": "Si la huerta está al aire libre y la parcela se puede mapear, sí. Como suelen ser parcelas chicas, lo práctico es tratar las de varios vecinos el mismo día, y para eso ayuda hablar entre vosotros antes de llamar." }
         },
         {
@@ -144,7 +144,7 @@ Entra en [agrodroncanarias.es](https://agrodroncanarias.es/) y dinos en qué bar
         {
           "@type": "Question",
           "name": "¿Cuánto cuesta tratar con dron una platanera de un cuarto de hectárea en Santa Cruz de La Palma?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No hay tarifa por tamaño. Cuentan la superficie, el acceso, los obstáculos y el producto del plan de aplicación. Con esos datos te damos un presupuesto para esa finca en concreto." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No hay tarifa por tamaño. Cuentan la superficie, el acceso, los obstáculos y el producto que se aplique. Con esos datos te damos un presupuesto para esa finca en concreto." }
         },
         {
           "@type": "Question",

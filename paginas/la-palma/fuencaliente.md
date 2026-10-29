@@ -3,7 +3,7 @@ title: "Dron agrícola en Fuencaliente | Agrodrón Canarias"
 slug: "fuencaliente"
 meta_description: "Dron agrícola en Fuencaliente para viña rastrera sobre picón y platanera de costa: qué parcelas encajan, qué límites tiene y cómo pedir presupuesto."
 keyword: "dron agrícola en Fuencaliente"
-keywords_secundarias: "fumigar con dron en Fuencaliente, tratamiento con drones en viña, dron fitosanitario La Palma, pulverización aérea viña Malvasía, dron para plataneras Las Indias"
+keywords_secundarias: "pulverización con dron en Fuencaliente, tratamiento con drones en viña, dron pulverizador La Palma, abonado foliar con dron viña Malvasía, dron para plataneras Las Indias"
 parent: "dron-agricola-la-palma"
 nivel: "A"
 isla: "La Palma"
@@ -44,15 +44,15 @@ Los muros cortavientos, bajos y regulares, se marcan antes en el mapa de la parc
 
 Primero nos pasas la ubicación de cada parcela, el cultivo, la superficie, por dónde se llega y qué hay alrededor: cables, árboles altos, casas. Con viña dispersa, lo normal es encadenar varias parcelas del mismo lomo en una salida.
 
-Después se planifica el vuelo sobre el mapa de cada parcela, se mira el viento del día, se aplica la dosis que marca la etiqueta del producto y el plan de aplicación aprobado, y se registra el tratamiento con fecha, producto y superficie.
+Después se planifica el vuelo sobre el mapa de cada parcela, se mira el viento del día, se aplica la dosis que marca la etiqueta del producto, y se registra la aplicación con fecha, producto y superficie.
 
 ## Lo que el dron no arregla en el sur de la isla
 
 El viento. Fuencaliente es sotavento seco, con menos de 250 milímetros de lluvia al año en la costa suroeste (macaronesian.org), pero con vientos fuertes de componente norte y nordeste, los mismos que obligan a levantar los muros. Hay días en que no se vuela, y se avisa.
 
-El papeleo. La aplicación aérea de fitosanitarios está prohibida en España con carácter general y solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28), y solo con productos cuya autorización incluya expresamente la aplicación aérea (anexo VI). Agrodrón Canarias tramita cada expediente; tú aportas los datos de parcela y producto.
+Las reglas. Sobre el picón de Fuencaliente solo va producto de uso permitido en viña o en platanera, a la dosis de su etiqueta, y solo sobre cultivo descubierto. El piloto vuela en la categoría específica de AESA, en escenario STS o bajo el PDRA-S01, y cada lomo se comprueba en el mapa de zonas geográficas de UAS de ENAIRE al planificar; tú aportas los datos de parcela y producto.
 
-Y el resultado. Nadie te puede prometer que el mildiu desaparezca; el control depende del momento, del producto y del año.
+Y el mildiu. El dron no lo trata: lo lleva tu técnico con lo que marque sanidad vegetal. Lo que el dron aplica es abono foliar y bioestimulante pensados para que la cepa aguante el calor y el viento del sur, sin que nadie te prometa cómo responderá cada año.
 
 ## Platanera en Las Indias y Los Quemados, y lo demás que se cultiva
 
@@ -60,7 +60,7 @@ La costa de Fuencaliente, de 0 a 200 metros, está casi toda ocupada por platane
 
 [IMAGEN: Plataneras al aire libre en la costa de Las Indias, Fuencaliente, con el mar detrás y los lomos de picón subiendo hacia los volcanes | alt: platanera al aire libre en la costa de Las Indias, Fuencaliente, La Palma]
 
-Esa platanera es mayoritariamente al aire libre [VERIFICAR: proporción bajo malla en Fuencaliente] y arrastra las plagas de toda la isla: picudo negro, cochinilla algodonosa, que en Canarias encadena hasta ocho generaciones al año, y trips. Si tienes piñas en la costa, mira la página de [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/) y, para la viña, la de [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/).
+Esa platanera es mayoritariamente al aire libre [VERIFICAR: proporción bajo malla en Fuencaliente] y arrastra las plagas de toda la isla: picudo negro, cochinilla algodonosa, que en Canarias encadena hasta ocho generaciones al año, y trips, todas asunto del técnico y de sanidad vegetal. El dron aplica en esa costa abono foliar y bioestimulante, no otra cosa. Si tienes piñas en la costa, mira la página de [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/) y, para la viña, la de [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/).
 
 Los datos de la isla están en el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/); el vecino del este, con viña del Hoyo de Mazo, tiene su propia página de [dron agrícola en Villa de Mazo](https://agrodroncanarias.es/dron-agricola-la-palma/villa-de-mazo/).
 
@@ -68,19 +68,19 @@ Los datos de la isla están en el hub de [dron agrícola en La Palma](https://ag
 
 ### ¿Se puede tratar con dron una viña rastrera de Malvasía sobre picón?
 
-Sí, siempre que esté al aire libre y la parcela se pueda mapear. La planta baja es incluso una ventaja: el dron vuela cerca de la hoja siguiendo el relieve. Lo que decide es la pendiente, los obstáculos y que el producto tenga autorización para aplicación aérea.
+Sí, siempre que esté al aire libre y la parcela se pueda mapear. La planta baja es incluso una ventaja: el dron vuela cerca de la hoja siguiendo el relieve. Lo que decide es la pendiente, los obstáculos y que el producto sea de uso permitido en viña.
 
 ### ¿Qué pasa con los muros cortavientos durante el vuelo?
 
 Se marcan en el plan de vuelo antes de despegar. El T50 lleva radar y visión binocular para detectar obstáculos, pero cada muro, cuarto de aperos o poste se dibuja además en el mapa de la parcela.
 
-### ¿Cuánto cuesta fumigar con dron una viña en Fuencaliente?
+### ¿Cuánto cuesta pulverizar con dron una viña en Fuencaliente?
 
-Depende de la superficie, de cuántas parcelas sueltas haya que juntar, del acceso a cada una y del producto que marque el plan de aplicación. Con eso se calcula un presupuesto cerrado para tus parcelas.
+Depende de la superficie, de cuántas parcelas sueltas haya que juntar, del acceso a cada una y del producto que quieras aplicar. Con eso se calcula un presupuesto cerrado para tus parcelas.
 
 ### ¿El dron también trata la platanera de Las Indias y Los Quemados?
 
-Sí, la platanera al aire libre de la costa se puede tratar desde el aire con el mismo equipo. Lo que esté bajo malla de cubierta o invernadero no, porque el producto no llega a la planta desde arriba.
+Sí, la platanera al aire libre de la costa recibe abonado foliar y bioestimulantes desde el aire con el mismo equipo. Lo que esté bajo malla de cubierta o invernadero no, porque el producto no llega a la planta desde arriba.
 
 ### ¿Hay días en que el dron no puede volar en Fuencaliente?
 
@@ -88,7 +88,7 @@ Los hay, y bastantes en época de viento fuerte del norte y nordeste. Antes de c
 
 ## Pide presupuesto para tu viña o tu platanera de Fuencaliente
 
-Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) con la zona de la finca, el cultivo, la superficie aproximada y por dónde se llega, y te contestamos si la viña o la platanera se pueden tratar desde el aire y qué expediente llevan. Pedir presupuesto no compromete a nada.
+Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) con la zona de la finca, el cultivo, la superficie aproximada y por dónde se llega, y te contestamos si la viña o la platanera se pueden pulverizar desde el aire y qué productos permitidos encajan. Pedir presupuesto no compromete a nada.
 
 ```json
 {
@@ -96,9 +96,9 @@ Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) con la zon
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Fuencaliente",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en viña rastrera sobre picón y platanera de costa de Fuencaliente de la Palma, con autorización y plan de aplicación para cada tratamiento.",
+      "name": "Tratamientos agrícolas con dron en Fuencaliente",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Abonado foliar y bioestimulantes con dron DJI Agras T50 en viña rastrera sobre picón y platanera de costa de Fuencaliente de la Palma, con producto de uso permitido y dosis de etiqueta en cada aplicación.",
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/fuencaliente/",
       "provider": {
         "@type": "LocalBusiness",
@@ -123,7 +123,7 @@ Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) con la zon
         {
           "@type": "Question",
           "name": "¿Se puede tratar con dron una viña rastrera de Malvasía sobre picón?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, siempre que esté al aire libre y la parcela se pueda mapear. La planta baja es incluso una ventaja: el dron vuela cerca de la hoja siguiendo el relieve. Lo que decide es la pendiente, los obstáculos y que el producto tenga autorización para aplicación aérea." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, siempre que esté al aire libre y la parcela se pueda mapear. La planta baja es incluso una ventaja: el dron vuela cerca de la hoja siguiendo el relieve. Lo que decide es la pendiente, los obstáculos y que el producto sea de uso permitido en viña." }
         },
         {
           "@type": "Question",
@@ -132,13 +132,13 @@ Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) con la zon
         },
         {
           "@type": "Question",
-          "name": "¿Cuánto cuesta fumigar con dron una viña en Fuencaliente?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la superficie, de cuántas parcelas sueltas haya que juntar, del acceso a cada una y del producto que marque el plan de aplicación. Con eso se calcula un presupuesto cerrado para tus parcelas." }
+          "name": "¿Cuánto cuesta pulverizar con dron una viña en Fuencaliente?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Depende de la superficie, de cuántas parcelas sueltas haya que juntar, del acceso a cada una y del producto que quieras aplicar. Con eso se calcula un presupuesto cerrado para tus parcelas." }
         },
         {
           "@type": "Question",
           "name": "¿El dron también trata la platanera de Las Indias y Los Quemados?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, la platanera al aire libre de la costa se puede tratar desde el aire con el mismo equipo. Lo que esté bajo malla de cubierta o invernadero no, porque el producto no llega a la planta desde arriba." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, la platanera al aire libre de la costa recibe abonado foliar y bioestimulantes desde el aire con el mismo equipo. Lo que esté bajo malla de cubierta o invernadero no, porque el producto no llega a la planta desde arriba." }
         },
         {
           "@type": "Question",

@@ -20,7 +20,7 @@ Barlovento es el principal municipio productor de papas de la isla, según la En
 
 Para la polilla guatemalteca, no. La Tecia solanivora llegó a La Palma en 2002 y está extendida por toda la isla según la guía de gestión integrada del ICIA. La larva come dentro del tubérculo, bajo tierra, y un caldo pulverizado sobre la hoja no la toca. Lo que funciona lo tiene documentado el Cabildo de Tenerife: trampas de feromona, rotación de parcelas y no dejar ni una papa en el campo tras la cosecha.
 
-Para el abonado foliar de la papa la respuesta cambia. El mildiu de la hoja [VERIFICAR: aviso o fuente local de mildiu de la papa en Barlovento] lo sigue tu técnico con lo que marque sanidad vegetal; el dron aplica abono foliar o un corrector de carencias para una mata que viene de sequía o de semanas de niebla. Y las terrazas de papa de las medianías son el tipo de parcela donde arrastrar un atomizador cuesta más que la propia aplicación.
+Para el abonado foliar de la papa la respuesta cambia. El mildiu de la hoja [VERIFICAR: aviso o fuente local de mildiu de la papa en Barlovento] lo sigue tu técnico con lo que marque sanidad vegetal; el dron aplica abono foliar o un corrector de carencias para una mata que viene de sequía o de semanas de niebla. Y en las terrazas de papa de las medianías arrastrar un atomizador cuesta más que la propia aplicación.
 
 Un apunte más sobre esas medianías. La Laguna de Barlovento, la gran balsa de riego comarcal del norte, estaba vacía en pleno invierno de 2020 (Diario de Avisos), con efecto sobre papas, viña y almendro. La papa de aquí sabe de niebla y también de sequía.
 
@@ -42,7 +42,9 @@ Las plagas documentadas en Canarias son la cochinilla algodonosa Dysmicoccus gra
 
 Tres cosas. Primero, los datos de la finca: ubicación, cultivo, superficie, por dónde se entra y qué obstáculos hay (cables, invernaderos, árboles altos, colmenas cercanas). Segundo, el producto que quieres aplicar, abono foliar, bioestimulante o corrector, con su etiqueta, para comprobar que es de uso permitido en ese cultivo. Tercero, paciencia con el cielo, porque en Barlovento no siempre se vuela el día que se llama.
 
-Lo que sí tiene nombre es el marco del vuelo. Nuestro piloto, con más de diez años de experiencia, vuela en la categoría específica de AESA con los certificados PDRA-S01 y STS y es radiofonista. Antes de dibujar la ruta sobre la terraza se mira el mapa de zonas geográficas de UAS de ENAIRE, aunque en el norte de la isla rara vez haya una restricción cerca. Se aplica a la dosis de la etiqueta, solo sobre cultivo descubierto, y con niebla, lluvia o viento fuerte el dron se queda en la furgoneta.
+Lo que sí tiene nombre es el marco del vuelo. Nuestro piloto, con más de diez años de experiencia, vuela en la categoría específica de AESA con los certificados PDRA-S01 y STS y es radiofonista, y antes de dibujar la ruta sobre la terraza mira el mapa de zonas geográficas de UAS de ENAIRE.
+
+Al depósito solo va producto de uso permitido en el cultivo, a la dosis de su etiqueta, y solo sobre cultivo descubierto; con niebla, lluvia o viento fuerte el dron se queda en la furgoneta.
 
 ## ¿Qué cultivos de Barlovento tienen sentido con dron y cuáles no?
 
