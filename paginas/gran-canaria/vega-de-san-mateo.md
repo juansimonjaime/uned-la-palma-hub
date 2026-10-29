@@ -40,7 +40,7 @@ Las hortalizas al aire libre sí entran; las plagas que Agrocabildo lista para l
 
 La regla no depende del mes: cultivo al aire libre, producto de uso permitido a dosis de etiqueta y una ventana sin niebla ni viento fuerte. El mar de nubes del alisio se queda entre 800 y 1.500 metros (GEVIC), justo donde están la mayoría de las fincas; en Las Lagunetas y la cumbre la niebla es frecuente.
 
-Eso obliga a trabajar por horas: parte, vistazo a la finca a primera hora y decisión. Se habla antes de cerrar la salida: un viaje desde La Palma para no volar no le interesa a nadie.
+Eso obliga a trabajar por horas: parte, vistazo a la finca a primera hora y decisión.
 
 ## Bancales de la vega y laderas del Guiniguada
 

@@ -18,7 +18,7 @@ La Orotava siembra más de 400 hectáreas de papa, más del 30 % de su superfici
 
 ## La papa manda en el municipio y la viña viene detrás
 
-La EnciclopediaGuanche, sin fecha, da 574,22 ha de papa y otras 197,32 ha de viña y papa asociadas. Papa de medianías y zona alta, en bancales entre 600 y 1.100 m según la guía de agrosistemas de la papa del Cabildo (2026).
+La EnciclopediaGuanche, sin fecha, da 574,22 ha de papa y otras 197,32 ha de viña y papa asociadas. Papa de medianías y zona alta, en bancales entre 600 y 1.100 m (guía de agrosistemas de la papa del Cabildo, 2026).
 
 La viña del Valle suma 313,1 ha según Agrocabildo (2024), un 47,8 % menos que diez años antes; en La Orotava es el 19,7 % de la superficie agrícola. Viña baja en el cordón trenzado propio del valle [VERIFICAR: proporción en cordón trenzado], el único cultivo que creció tras la DO de 1994 (Investigaciones Geográficas, 2011).
 
@@ -42,7 +42,7 @@ Lo que no encaja: polilla en el tubérculo, hongos de la madera en el tronco, fi
 
 ## Cómo se organiza un tratamiento en el Valle
 
-Recogemos pago, cultivo, superficie, accesos y obstáculos (cables, cortavientos, árboles altos). Se planifica el vuelo sobre el mapa, se comprueba el viento, se aplica el producto a la dosis de su etiqueta y se registra. Conviene juntar varias fincas del Valle en una salida.
+Recogemos pago, cultivo, superficie, accesos y obstáculos (cables, cortavientos, árboles altos). Se planifica el vuelo sobre el mapa, se comprueba el viento, se aplica el producto a la dosis de su etiqueta y se registra.
 
 ## Límites: malla, nieblas y zonas de vuelo
 

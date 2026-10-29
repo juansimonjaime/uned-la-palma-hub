@@ -20,7 +20,7 @@ Garachico tenía 204,6 hectáreas de platanera en 2011 según el boletín de Des
 
 La viña del Reparo y Genovés está entre 500 y 900 m [VERIFICAR: cotas], en bancales de medianías. El Cabildo publica avisos por comarca de mildiu, oídio y botritis (datos.tenerife.es), y hacia 2024 marcó riesgo alto de oídio en zonas bajas de la isla entre el 30 de abril y el 7 de mayo.
 
-Primera ventana del dron en viña, no por el oídio (eso va con el aviso) sino para un foliar o un bioestimulante en brotación. Cultivo bajo, bancal estrecho. El DJI Agras T50 sigue el relieve con radar y visión binocular y regula la velocidad con la pendiente; el bancal se trata desde arriba sin pisar las cepas.
+Primera ventana del dron en viña, no por el oídio (eso va con el aviso) sino para un foliar o un bioestimulante en brotación. El DJI Agras T50 sigue el relieve con radar y visión binocular y regula la velocidad con la pendiente; el bancal se trata desde arriba sin pisar las cepas.
 
 ## Verano: envero, botritis y calor en la platanera
 
@@ -52,7 +52,7 @@ La plataforma es terreno cómodo para el dron si la finca va al aire libre, que 
 
 La Isla Baja queda algo abrigada del alisio por el acantilado, pero con brisa marina constante; las medianías entran en el mar de nubes (600-1.500 m). Antes de cada vuelo se mide el viento; con racha o bruma cerrada se aplaza.
 
-De la parte reglada, lo justo: la plataforma, pegada al casco, se mira primero en el mapa de zonas geográficas de UAS de ENAIRE; el piloto, certificado, vuela en categoría específica de AESA/EASA (STS o PDRA-S01); y se pulverizan abonos foliares, bioestimulantes y correctores de uso permitido en platanera o viña, a dosis de etiqueta, sobre finca descubierta.
+La plataforma, pegada al casco, se mira primero en el mapa de zonas geográficas de UAS de ENAIRE; el piloto, certificado, vuela en categoría específica de AESA/EASA (STS o PDRA-S01); y se pulverizan abonos foliares, bioestimulantes y correctores de uso permitido en platanera o viña, a dosis de etiqueta, sobre finca descubierta.
 
 Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [dron agrícola para platanera](https://agrodroncanarias.es/dron-agricola-platanera/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/) y en el vecino [dron agrícola en Icod de los Vinos](https://agrodroncanarias.es/dron-agricola-tenerife/icod-de-los-vinos/).
 

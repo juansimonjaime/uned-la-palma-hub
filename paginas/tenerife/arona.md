@@ -20,7 +20,7 @@ Arona produce el 10 % del plátano de Tenerife con 685,7 hectáreas de platanera
 
 Entre el mar y los 100 metros se concentra la platanera, que las fuentes cifran en 685,7 ha (Mercatenerife, 2021), 750 ha (Plan Anual del Cabildo, 2017) o 540 ha (estudio ULL sin fecha). El plástico y la malla de techo son la norma.
 
-Lo que va dentro queda fuera del dron: la pulverización no atraviesa la cubierta. Las fincas descubiertas de esta franja [VERIFICAR: superficie de platanera al aire libre en Arona] sí se tratan, y son las que buscamos en una consulta de la costa. Las Galletas es además ventosa, con brisas del suroeste, y eso recorta las horas de vuelo.
+Lo que va dentro queda fuera del dron. Las fincas descubiertas de esta franja [VERIFICAR: superficie de platanera al aire libre en Arona] sí se tratan, y son las que buscamos en una consulta de la costa. Las Galletas es además ventosa, con brisas del suroeste, y eso recorta las horas de vuelo.
 
 ## Medianías: Arona casco, Vento y La Escalona, entre 600 y 1.000 metros
 

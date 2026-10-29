@@ -24,7 +24,7 @@ Hacia el sector del espacio protegido de La Geria, 5.255 ha entre Tinajo, Yaiza,
 
 ## Qué problemas tiene documentados la viña aquí
 
-Pocos, y conviene decirlo tal cual. El Consejo Regulador de la DO Lanzarote avisó de una enfermedad fúngica en varias fincas de la isla; la fuente no identifica el hongo ni la fecha [VERIFICAR: patógeno y año del aviso]. Mildiu y oídio, referencia de la viña canaria (guía de Agrocabildo, 2020), no constan expresamente para Lanzarote en las fuentes consultadas [VERIFICAR: avisos de sanidad vegetal del Cabildo de Lanzarote].
+Pocos, y conviene decirlo tal cual. El Consejo Regulador de la DO Lanzarote avisó en 2011 de una enfermedad fúngica en varias fincas de la isla, sin nombrar el hongo [VERIFICAR: patógeno]. El mildiu sí consta: el Cabildo de Lanzarote lo detectó en 2009 y lo da por casi anual (La Voz de Lanzarote); el oídio es la otra referencia de la viña canaria (guía de Agrocabildo, 2020).
 
 Filoxera: las prospecciones empezaron con la Orden de 20 de agosto de 2025 y Lanzarote sigue sin positivos; los 89 positivos canarios son de Tenerife, y en la isla van más de 1.300 inspecciones. Es plaga de raíz y no se trata pulverizando.
 
@@ -60,7 +60,7 @@ Más en [tratamientos con dron en Lanzarote](https://agrodroncanarias.es/dron-ag
 Sí. El plan de vuelo marca cada hoyo y el dron aplica la dosis sobre la cepa, no sobre el picón. Es más lento que una pasada continua, pero evita bajar a cada hoyo con la mochila.
 
 ### ¿Hay mildiu u oídio documentados en la viña de Tinajo?
-En las fuentes consultadas, no de forma expresa para Lanzarote. Solo consta un aviso del Consejo Regulador sobre un hongo sin identificar.
+Para Tinajo, no. En la isla, el Cabildo detectó mildiu en 2009 y el Consejo Regulador avisó en 2011 de un hongo sin identificar (La Voz de Lanzarote).
 
 ### ¿Qué pasa si el día del tratamiento sopla alisio fuerte en Tinajo?
 No se vuela. Se mide en la parcela y, si las rachas pueden sacar la deriva de la viña, se aplaza al siguiente hueco de calma.
@@ -110,7 +110,7 @@ Dinos si tu viña está en enarenado de 1,5 m o en hoyos, cuántas hectáreas ti
         {
           "@type": "Question",
           "name": "¿Hay mildiu u oídio documentados en la viña de Tinajo?",
-          "acceptedAnswer": { "@type": "Answer", "text": "En las fuentes consultadas, no de forma expresa para Lanzarote. Solo consta un aviso del Consejo Regulador sobre un hongo sin identificar." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Para Tinajo, no. En la isla, el Cabildo detectó mildiu en 2009 y el Consejo Regulador avisó en 2011 de un hongo sin identificar (La Voz de Lanzarote)." }
         },
         {
           "@type": "Question",

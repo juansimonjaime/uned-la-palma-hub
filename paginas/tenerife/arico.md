@@ -16,19 +16,19 @@ Arico ocupa 179 km² y baja de la cumbre a la costa de Porís de Abona y Abades 
 
 [IMAGEN: Vista del municipio de Arico desde las medianías, con los bancales de jable en primer plano y la costa de Abades al fondo | alt: Bancales de papa y viña en las medianías de Arico, Tenerife, con la costa del sureste al fondo]
 
-## Costa de Porís de Abona y Abades: tomate bajo plástico, pitaya al sol
+## Costa de Porís de Abona y Abades: tomate bajo plástico, pitaya casi siempre cubierta
 
 El tomate de Arico pasó de 125,7 hectáreas en 2008 a 34,3 en 2021 según SITCAN (dato de 2022 recogido en una tesis de la ULL), la más baja de los municipios que estudia ese trabajo. Lo que queda va bajo invernadero y eso lo saca del alcance del dron: desde el aire no se trata nada con techo de plástico o malla.
 
-En la misma franja de 0 a 100 metros ha crecido la pitaya, que el Cabildo describe como cultivo comercial consolidado con ensayos iniciales en Arico. Es un cactus bajo sobre tutores que en Arico va sobre todo cubierto: el ensayo del Cabildo se hizo bajo malla y un productor local declara 4 ha en invernadero y solo una parcela de prueba al aire libre (RTVC). Esa parcela abierta admite dron, con una pega: la costa sureste recibe el alisio canalizado y hay días que no se vuela.
+En la misma franja de 0 a 100 metros ha crecido la pitaya, que el Cabildo describe como cultivo comercial consolidado con ensayos iniciales en Arico. Es un cactus bajo sobre tutores que en Arico va sobre todo cubierto: el ensayo del Cabildo se hizo bajo malla y un productor local declara 4 ha en invernadero y solo una parcela de prueba al aire libre (RTVC).
+
+Esa parcela abierta admite dron, con una pega: la costa sureste recibe el alisio canalizado y hay días que no se vuela.
 
 ## Medianías de Arico Viejo, El Río y Villa de Arico: papa y viña en bancal y jable
 
 Entre 500 y 1.000 metros está el Arico agrícola de siempre: bancales de piedra, enarenados de jable y parcelas pequeñas. La papa manda, y la viña entra en la DOP Abona, que agrupa 795 hectáreas y 1.467 viticultores de Adeje a Fasnia según su Consejo Regulador (el Cabildo habla de 1.567 hectáreas).
 
 Estas fincas justifican el dron: un bancal de tres o cuatro metros no admite tractor con atomizador, y con la mochila toca subir y bajar muros con veinte kilos a la espalda. El T50 lee cada escalón con su radar de seguimiento de terreno, mantiene la altura sobre la planta y adapta la velocidad a la pendiente, con 40 litros por carga y hasta 24 litros por minuto con cuatro boquillas.
-
-Vertiente a sotavento, seca y soleada, con menos viento que el norte salvo rachas locales: las medianías son más tranquilas que la costa y la humedad baja frena los hongos.
 
 [IMAGEN: Parral bajo de viña DOP Abona sobre jable en Villa de Arico, con muros de piedra seca entre bancales | alt: Viña de la DOP Abona en bancales de jable en las medianías de Arico, Tenerife]
 
@@ -55,7 +55,7 @@ Más información en [dron agrícola en Tenerife](https://agrodroncanarias.es/dr
 ## Preguntas frecuentes sobre tratamientos con dron en Arico
 
 ### ¿Se puede pulverizar con dron el tomate de los invernaderos de la costa de Arico?
-No. Las 34,3 hectáreas que quedaban en 2021 van bajo plástico y el caldo no atraviesa la cubierta. El dron queda para lo descubierto: la pitaya de la costa y las medianías.
+No. Las 34,3 hectáreas que quedaban en 2021 van bajo plástico y el caldo no atraviesa la cubierta. El dron queda para lo descubierto: la pitaya al aire libre de la costa y las medianías.
 
 ### ¿Qué zona de Arico es la más favorable para el dron?
 Las medianías de Arico Viejo, El Río y Villa de Arico: bancales de papa y viña entre 500 y 1.000 metros, menos viento que la costa y accesos que complican el tractor.
@@ -103,7 +103,7 @@ Cuéntanos en qué zona está la finca (costa, medianías o secano alto), cultiv
         {
           "@type": "Question",
           "name": "¿Se puede pulverizar con dron el tomate de los invernaderos de la costa de Arico?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No. Las 34,3 hectáreas que quedaban en 2021 van bajo plástico y el caldo no atraviesa la cubierta. El dron queda para lo descubierto: la pitaya de la costa y las medianías." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. Las 34,3 hectáreas que quedaban en 2021 van bajo plástico y el caldo no atraviesa la cubierta. El dron queda para lo descubierto: la pitaya al aire libre de la costa y las medianías." }
         },
         {
           "@type": "Question",

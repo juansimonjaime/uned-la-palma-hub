@@ -40,7 +40,7 @@ El norte es malpaís y conos volcánicos, y la costa no figura en los datos agra
 
 ## Lo que está documentado: plagas, un hongo y la sequía
 
-En viña, el Consejo Regulador avisó de un hongo en varias fincas de la isla sin identificar el patógeno [VERIFICAR: hongo y fecha del aviso]. La filoxera se rastrea desde la Orden de agosto de 2025 y Lanzarote sigue sin positivos tras más de 1.300 inspecciones. En papa, el MAPA sitúa la polilla guatemalteca en almacenes, no en campo. En cebolla, el manual de plagas de Agrocabildo de 2026 recoge el trips Thrips tabaci.
+En viña, el Consejo Regulador avisó en 2011 de un hongo en varias fincas de la isla sin identificar el patógeno [VERIFICAR: hongo]. La filoxera se rastrea desde la Orden de agosto de 2025 y Lanzarote sigue sin positivos tras más de 1.300 inspecciones. En papa, el MAPA sitúa la polilla guatemalteca en almacenes, no en campo. En cebolla, el manual de plagas de Agrocabildo de 2026 recoge el trips Thrips tabaci.
 
 La sequía ha pesado más que cualquier plaga: la uva de la isla pasó de 3,3 millones de kilos en 2023 a 1,4 en 2024 y a unos 750.000 en 2025, la tercera peor cosecha con registros, por estrés hídrico y brotación irregular (Consejo Regulador vía RTVC). Las plagas, a sanidad vegetal; el dron, al foliar de la cepa castigada por la sed.
 

@@ -18,9 +18,9 @@ En Granadilla de Abona el calendario lo marcan dos cultivos al aire libre: la pa
 
 ## De julio a noviembre: siembra de papa y vendimia
 
-En la vecina Vilaflor la siembra de papa va del 15 de julio al 15 de agosto según su web municipal, y la guía del Cabildo sobre la papa de Chasna, que incluye las cotas altas de Granadilla, da las mismas fechas (2026). En la provincia el 60 % de la papa es de media estación, el 25 % temprana y el 15 % tardía (Plan Anual del Cabildo, 2017): las siembras se escalonan.
+En la vecina Vilaflor la siembra de papa va del 15 de julio al 15 de agosto según su web municipal, y la guía del Cabildo sobre la papa de Chasna, con las cotas altas de Granadilla, da las mismas (2026). En la provincia el 60 % de la papa es de media estación, el 25 % temprana y el 15 % tardía (Plan Anual del Cabildo, 2017): las siembras se escalonan.
 
-Para la viña, el final de julio trae riesgo elevado de oídio, riesgo medio de mildiu en algunas comarcas y atención a la botritis en envero (boletín Agrocabildo del 31 de julio, año sin indicar). Luego la vendimia, con bioseguridad y límites al movimiento de uva desde la filoxera detectada en Tenerife en 2025 (AtlánticoHoy, 2026), aunque la zona demarcada abarca la DO Tacoronte-Acentejo, no Granadilla (Vinetur, 2026).
+Para la viña, el final de julio trae riesgo elevado de oídio, riesgo medio de mildiu en algunas comarcas y atención a la botritis en envero (boletín Agrocabildo del 31 de julio, año sin indicar). Luego la vendimia, con bioseguridad y límites al movimiento de uva desde la filoxera detectada en Tenerife en 2025 (AtlánticoHoy, 2026), aunque la zona demarcada abarca la DO Tacoronte-Acentejo (Vinetur, 2026).
 
 ## De diciembre a marzo: papa en pie y mildiu
 

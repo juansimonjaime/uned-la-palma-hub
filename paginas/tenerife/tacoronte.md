@@ -12,7 +12,7 @@ municipio: "Tacoronte"
 
 # Dron agrícola en Tacoronte: las preguntas que hace el viticultor de Acentejo
 
-Tacoronte da nombre a la DO Tacoronte-Acentejo y su viña sube en terrazas desde la costa acantilada de El Pris hasta Agua García, a unos 800 metros. Quien pregunta por un dron agrícola en Tacoronte suele tener viña en pendiente, algo de papa y algún aguacatero. Aquí van las respuestas, con un aviso: en Tenerife el servicio es con desplazamiento desde La Palma y bajo consulta de disponibilidad.
+Tacoronte da nombre a la DO Tacoronte-Acentejo y su viña sube en terrazas desde la costa acantilada de El Pris hasta Agua García, a unos 800 metros. Quien pregunta por un dron agrícola en Tacoronte suele tener viña en pendiente, algo de papa y algún aguacatero. En Tenerife el servicio es con desplazamiento desde La Palma y bajo consulta de disponibilidad.
 
 [IMAGEN: Terrazas de viña de Tacoronte en pendiente hacia el mar, con el casco del municipio y la costa de El Pris al fondo | alt: Viñedo en terrazas de la DO Tacoronte-Acentejo en Tacoronte, Tenerife]
 

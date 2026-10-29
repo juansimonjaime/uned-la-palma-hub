@@ -24,7 +24,7 @@ El depósito del T50 carga 40 litros, de sobra para tu parcela y las dos del vec
 
 ## ¿Y con la niebla de Teror, cuándo se vuela?
 
-Cuando levanta. El mar de nubes del alisio se asienta entre 800 y 1.500 metros según GEVIC; el casco de Teror está a unos 600 y las fincas suben hasta los 1.400 en Osorio, en una de las zonas con más niebla y lluvia de la isla [VERIFICAR: indicio en el IGN: 700–1.000 mm en las medianías del norte, sin dato municipal]. Eso quita horas de vuelo, no días.
+Cuando levanta. El mar de nubes del alisio se asienta entre 800 y 1.500 metros según GEVIC; el casco de Teror está a unos 600 y las fincas suben hasta los 1.400 en Osorio, en una de las zonas con más niebla y lluvia de la isla [VERIFICAR: indicio en el IGN: 700–1.000 mm en medianías del norte]. Eso quita horas de vuelo, no días.
 
 Con niebla cerrada no se vuela: el radar sigue el relieve, pero la deriva y el mojado de la hoja con el aire saturado no son los previstos. Se mira la finca a primera hora y se espera la ventana.
 
@@ -32,7 +32,7 @@ Con niebla cerrada no se vuela: el radar sigue el relieve, pero la deriva y el m
 
 No. Tecia solanivora está en Gran Canaria desde 2002 y Teror fue el municipio con más kilos de papa retirados entre abril de 2020 y marzo de 2021, con contenedores en los almacenes municipales (Pellagofio, Valencia Fruits).
 
-La larva vive dentro del tubérculo y la lucha se gana en el almacén, en la rotación y en la retirada de papa afectada, como organiza el Cabildo con sus puntos de recogida. Al dron le toca otra cosa: el abono foliar y los bioestimulantes de la papa en hoja, de uso permitido y a dosis de etiqueta, donde el frío y la niebla frenan la planta. Se aplica y queda registrado.
+La larva vive dentro del tubérculo y la lucha se gana en el almacén, en la rotación y en la retirada de papa afectada, como organiza el Cabildo con sus puntos de recogida. Al dron le toca otra cosa: el abono foliar y los bioestimulantes de la papa en hoja, de uso permitido y a dosis de etiqueta, donde el frío y la niebla frenan la planta.
 
 ## ¿Qué me hace falta para contratar un tratamiento?
 

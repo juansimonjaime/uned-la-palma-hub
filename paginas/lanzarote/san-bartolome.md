@@ -32,7 +32,7 @@ Si ese día el jable no da tregua, se busca otra ventana. El DJI Agras T50 regul
 
 El municipio es zona vitícola principal junto a Masdache, Tías y Tinajo, y forma parte del espacio protegido de La Geria, 5.255 ha en cinco municipios (Infoagro, 2024). Las 1.368 ha de viña de La Geria no tienen desglose municipal [VERIFICAR: hectáreas de viña en San Bartolomé].
 
-En hoyos y zocos sobre picón, el dron trata cada cepa como un punto en el mapa. Encaja cuando toca un foliar o un bioestimulante tras la sequía y la mochila obliga a bajar a cada hoyo. De enfermedades hay poco: el Consejo Regulador avisó de un hongo en varias fincas [VERIFICAR: patógeno y fecha], y las prospecciones de filoxera de 2025-2026 no han dado positivos.
+En hoyos y zocos sobre picón, el dron trata cada cepa como un punto en el mapa. Encaja cuando toca un foliar o un bioestimulante tras la sequía y la mochila obliga a bajar a cada hoyo. De enfermedades hay poco: el Consejo Regulador avisó en 2011 de un hongo en varias fincas [VERIFICAR: patógeno], y las prospecciones de filoxera de 2025-2026 no han dado positivos.
 
 ## ¿La batata del jable se trata desde el aire?
 

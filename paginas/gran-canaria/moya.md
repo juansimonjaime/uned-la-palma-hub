@@ -28,7 +28,7 @@ El ritmo lo marca el agua: las medianías del norte reciben entre 500 y 1.000 mm
 
 La polilla guatemalteca (Tecia solanivora) está en Gran Canaria desde 2002 y Moya fue, con Teror y Firgas, uno de los tres municipios con más kilos de papa retirados entre abril de 2020 y marzo de 2021; el Cabildo tiene punto de recogida en el municipio y retiró 1,5 millones de kilos en la isla en dos años (Pellagofio, Valencia Fruits). Los inviernos secos la agravan y la larva vive dentro del tubérculo: ningún tratamiento foliar la alcanza.
 
-El mildiu (Phytophthora infestans) es la otra cara: enfermedad de hoja que avanza con humedad. Los avisos de riesgo alto de 2024 los dio el Cabildo de Tenerife (Agrocabildo) para el norte de esa isla; para Moya no hemos encontrado aviso publicado [VERIFICAR: avisos de mildiu del Cabildo de Gran Canaria]. Qué hacer con él lo dice el técnico; el dron no entra en el mildiu. Donde entra es en el abonado foliar de la papa en hoja y en los bioestimulantes para después de una semana de lluvia y frío.
+El mildiu (Phytophthora infestans) es la otra cara: enfermedad de hoja que avanza con humedad. Los avisos de riesgo alto de 2024 fueron del Cabildo de Tenerife (Agrocabildo), para el norte de esa isla [VERIFICAR: avisos de mildiu en Gran Canaria]. Qué hacer con él lo dice el técnico; el dron no entra en el mildiu. Donde entra es en el abonado foliar de la papa en hoja y en los bioestimulantes para después de una semana de lluvia y frío.
 
 ## Cuándo encaja el dron agrícola en Moya y cuándo no
 
@@ -45,7 +45,7 @@ Para ese relieve, el DJI Agras T50 sigue el terreno con su radar de matriz en fa
 
 ## Viento, niebla y humedad: las ventanas de vuelo
 
-Fontanales está entre los puntos más lluviosos y neblinosos de la isla [VERIFICAR: indicio en el IGN: 700–1.000 mm en las medianías del norte, sin dato de Fontanales]; la laurisilva de Los Tilos lo confirma sin cifras. Alisio y mar de nubes son frecuentes en las medianías y la costa de San Felipe tiene viento propio. Antes de cada vuelo se mide y, si no hay visibilidad o la racha pasa de límite, se espera.
+Fontanales está entre los puntos más lluviosos y neblinosos de la isla [VERIFICAR: dato climático de Fontanales]; la laurisilva de Los Tilos lo confirma sin cifras. La costa de San Felipe tiene viento propio. Antes de cada vuelo se mide y, si no hay visibilidad o la racha pasa de límite, se espera.
 
 Normativa en corto: Agrodrón vuela en la categoría específica de AESA, en escenarios STS o bajo el PDRA-S01, con piloto certificado; las zonas geográficas de UAS de ENAIRE se consultan para cada bancal de Moya, y solo se pulverizan productos de uso permitido en papa, cebolla o frutal, a dosis de etiqueta.
 

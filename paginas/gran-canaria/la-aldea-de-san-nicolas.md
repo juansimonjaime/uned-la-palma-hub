@@ -12,7 +12,7 @@ municipio: "La Aldea de San Nicolás"
 
 # Dron agrícola en La Aldea de San Nicolás: qué se vuela si el tomate va bajo plástico
 
-La Aldea de San Nicolás encabeza el Mapa de Cultivos de Gran Canaria 2024 con un 38,9 según COAG y Canarias7 [VERIFICAR: indicio en COAG Canarias, enero de 2025: da 38,9 «hectáreas», unidad imposible] y es la primera zona tomatera de la isla: entre 100 y 110 hectáreas de tomate según el alcalde (2021) y Coagrisan (2023), casi todas bajo invernadero. La pregunta sobre un dron agrícola en La Aldea de San Nicolás es directa, y la respuesta tiene que serlo también.
+La Aldea de San Nicolás encabeza el Mapa de Cultivos de Gran Canaria 2024 con un 38,9 según COAG y Canarias7 [VERIFICAR: indicio en COAG, enero de 2025: lo da en «hectáreas», unidad dudosa] y es la primera zona tomatera de la isla: entre 100 y 110 hectáreas de tomate según el alcalde (2021) y Coagrisan (2023), casi todas bajo invernadero. La pregunta sobre un dron agrícola en La Aldea de San Nicolás es directa, y la respuesta tiene que serlo también.
 
 [IMAGEN: Llano aluvial de La Aldea cubierto de invernaderos de tomate, con las laderas de Tamadaba e Inagua al fondo | alt: Invernaderos de tomate en el valle de La Aldea de San Nicolás, Gran Canaria]
 
@@ -26,7 +26,7 @@ Agrodrón Canarias tiene la base en Santa Cruz de La Palma. En Gran Canaria trab
 
 No. El mildiu (Phytophthora infestans) golpeó el tomate del valle en febrero de 2021, con 25 hectáreas y unos 50 productores afectados y 4,5 millones de kilos perdidos (Gobierno de Canarias; Canarias7), y volvió en marzo de 2023: 55 de las 101 hectáreas afectadas y entre 22 y 25 arrancadas, con 2,5 millones de kilos menos (Coagrisan). La humedad marina del invierno favoreció los dos brotes.
 
-Todo eso ocurrió bajo cubierta, donde el dron no llega; mildiu y Tuta absoluta, extendida por toda la isla, son asunto de sanidad vegetal. El tomatero tiene sus medios dentro del invernadero; el dron no es uno de ellos.
+Todo eso ocurrió bajo cubierta, donde el dron no llega; mildiu y Tuta absoluta, extendida por toda la isla, son asunto de sanidad vegetal.
 
 ## ¿Qué fincas de La Aldea sí puede tratar el dron?
 
@@ -38,9 +38,9 @@ La papaya suele ir bajo malla o invernadero en Canarias [VERIFICAR: porcentaje a
 
 ## ¿Cómo se vuela en un valle cerrado entre Tamadaba e Inagua?
 
-El llano aluvial de La Aldea, entre 0 y 200 metros, es un fondo de barranco ancho rodeado de laderas abruptas, en un término de 139 kilómetros cuadrados casi todo escarpado. El oeste queda a sotavento del alisio: calmas, mucha insolación y aridez [VERIFICAR: indicio en la estación AEMET vía embalses.net: 129,6 mm en 2024-2025 y 251 mm en 2025-2026; falta la media].
+El llano aluvial de La Aldea, entre 0 y 200 metros, es un fondo de barranco ancho rodeado de laderas abruptas, en un término de 139 kilómetros cuadrados casi todo escarpado. El oeste queda a sotavento del alisio: calmas, mucha insolación y aridez [VERIFICAR: indicio en AEMET vía embalses.net: 129,6 mm en 2024-2025; falta la media].
 
-Las calmas de la mañana son horas buenas para pulverizar sin deriva. Los invernaderos vecinos, con sus estructuras y cables, van marcados en el plan de vuelo: el radar de matriz en fase y la visión binocular del T50 los detectan, pero no sustituyen a un plano bien hecho.
+Los invernaderos vecinos, con sus estructuras y cables, van marcados en el plan de vuelo: el radar de matriz en fase y la visión binocular del T50 los detectan, pero no sustituyen a un plano bien hecho.
 
 ## ¿Qué hace falta para contratar un tratamiento con desplazamiento desde La Palma?
 

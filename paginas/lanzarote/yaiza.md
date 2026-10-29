@@ -40,7 +40,7 @@ Un límite claro: con alisio fuerte no se vuela. En Yaiza se mide el viento en l
 
 ## Viña, higuera y lo que está documentado en Yaiza
 
-La viña es casi todo; hay higueras en hoyos y hortícolas marginales. En plagas y enfermedades el registro es corto: el Consejo Regulador de la DO avisó de un hongo en viñas de varias fincas sin identificarlo [VERIFICAR: identificación y fecha del hongo]; la filoxera no tiene positivos en Lanzarote tras las prospecciones de 2025-2026; y la sequía de 2025 dejó brotación irregular y una cosecha insular de unos 750.000 kilos, frente a 3,3 millones en 2023 (Consejo Regulador vía RTVC).
+La viña es casi todo; hay higueras en hoyos y hortícolas marginales. En plagas y enfermedades el registro es corto: el Consejo Regulador de la DO avisó en 2011 de un hongo en viñas de varias fincas sin identificarlo [VERIFICAR: identificación del hongo]; la filoxera no tiene positivos en Lanzarote tras las prospecciones de 2025-2026; y la sequía de 2025 dejó brotación irregular y una cosecha insular de unos 750.000 kilos, frente a 3,3 millones en 2023 (Consejo Regulador vía RTVC).
 
 Con menos de 150 mm de lluvia al año y calor, la cepa de Yaiza vive del rocío que capta el picón. Lo que tiene sentido aplicar desde el aire es un abono foliar o un bioestimulante pensado para esa cepa con sed, a la dosis de la etiqueta y en el momento que marque el estado de la viña; las plagas son cosa del Cabildo.
 

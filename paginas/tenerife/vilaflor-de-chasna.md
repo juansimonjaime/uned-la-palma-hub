@@ -26,7 +26,7 @@ Se resuelve planificando: cargas más cortas, más relevos de batería y un punt
 
 El Cabildo sitúa las zonas tradicionales de papa en las cotas altas de San Miguel, Granadilla y Vilaflor (Plan Anual 2017). Aquí se siembra entre el 15 de julio y el 15 de agosto sobre jable, según la web municipal, y el ciclo cae en otoño, con lluvias y nieblas.
 
-Un enarenado de papa es un cultivo bajo y uniforme que el dron cubre sin pisar la arena. Plagas documentadas: polilla guatemalteca (Tecia solanivora), en Tenerife desde 1999 y con pérdidas cercanas al 50 % en medianías y secano según el Cabildo y el ICIA, y mildiu, con avisos de riesgo alto del Cabildo. La polilla va al tubérculo y la pulverización no la alcanza; el mildiu lo siguen los avisos del Cabildo. El dron entra con abonado foliar, sin pisar el enarenado.
+Un enarenado de papa es un cultivo bajo y uniforme que el dron cubre sin pisar la arena. Plagas documentadas: polilla guatemalteca (Tecia solanivora), en Tenerife desde 1999 y con pérdidas cercanas al 50 % en medianías y secano según el Cabildo y el ICIA, y mildiu, con avisos de riesgo alto del Cabildo. La polilla va al tubérculo y la pulverización no la alcanza; el mildiu lo siguen los avisos del Cabildo. El dron entra con abonado foliar.
 
 ## ¿Y para la viña de Los Frontones, entre 1.100 y 1.600 metros?
 
@@ -34,7 +34,7 @@ Los Frontones es el viñedo más alto de Europa según AtlánticoHoy, dentro de 
 
 El Cabildo publica avisos semanales de mildiu, oídio y botritis por comarca (datos.tenerife.es); a 1.400 metros el ciclo va más tarde que en las zonas bajas, donde dio riesgo alto de oídio entre el 30 de abril y el 7 de mayo de un año reciente. El dron trata el bancal de arriba sin subir la mochila.
 
-Y la filoxera, detectada en Tenerife en 2025 con zona demarcada y 16 positivos en 5.429 prospecciones en 2026 (AtlánticoHoy), con zona demarcada en la DO Tacoronte-Acentejo, no en Vilaflor (Vinetur, 2026): el dron no la elimina, pero evita mover maquinaria entre viñas.
+Y la filoxera, detectada en Tenerife en 2025, con 16 positivos en 5.429 prospecciones en 2026 (AtlánticoHoy) y zona demarcada en la DO Tacoronte-Acentejo, no en Vilaflor (Vinetur, 2026): el dron no la elimina, pero evita mover maquinaria entre viñas.
 
 [IMAGEN: Parras bajas de Los Frontones sobre jable con el Teide al fondo en un día despejado | alt: Viñedo de altura de Los Frontones en Vilaflor de Chasna, DOP Abona, entre 1.100 y 1.600 metros]
 

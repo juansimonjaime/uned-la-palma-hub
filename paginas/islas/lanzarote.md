@@ -52,7 +52,7 @@ Arrecife no tiene página: es la capital y ninguna fuente agraria la cita como z
 
 Todo lo documentado en la isla va al aire libre: viña, hortícolas de enarenado, papa, batata y aloe. Las páginas de [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [dron agrícola para hortícolas](https://agrodroncanarias.es/dron-agricola-horticolas/) y [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/) amplían cada cultivo. El aloe vera, 93 ha en Canarias y la mayoría aquí (La Voz, 2022), no tiene página propia [VERIFICAR: plagas del aloe].
 
-En plagas hay poco documentado: filoxera sin positivos tras más de 1.300 inspecciones; un hongo en viña avisado por el Consejo Regulador sin identificar [VERIFICAR: patógeno y fecha]; mildiu y oídio sin constancia expresa para la isla; polilla guatemalteca solo en almacenes (MAPA); trips de la cebolla (Agrocabildo, 2026). Plagas: cosa de sanidad vegetal, no del dron.
+En plagas hay poco documentado: filoxera sin positivos tras más de 1.300 inspecciones; un hongo en viña avisado por el Consejo Regulador en 2011 [VERIFICAR: patógeno]; mildiu detectado por el Cabildo en 2009, casi anual (La Voz); polilla guatemalteca solo en almacenes (MAPA); trips de la cebolla (Agrocabildo, 2026). Plagas: cosa de sanidad vegetal, no del dron.
 
 ## Cómo se organiza una salida a Lanzarote desde La Palma
 

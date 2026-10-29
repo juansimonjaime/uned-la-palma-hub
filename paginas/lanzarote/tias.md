@@ -26,7 +26,7 @@ Con un marco de unos 4 metros (ficha de la DO Lanzarote recogida por Infoagro), 
 
 La brotación de 2025 fue irregular por la sequía, según el balance del Consejo Regulador que recogió RTVC el 23 de agosto de 2025.
 
-De enfermedades hay poco escrito: el Consejo Regulador avisó de un hongo en varias fincas [VERIFICAR: patógeno y fecha]. El oídio es endémico en Canarias según la guía de la viña del Cabildo de Tenerife (2020), pero ni oídio ni mildiu constan expresamente para Lanzarote [VERIFICAR]. Si la cepa arranca débil tras un invierno sin lluvia, el dron puede aplicar un bioestimulante o un foliar permitido en viña, a dosis de etiqueta, hoyo por hoyo.
+De enfermedades hay poco escrito: el Consejo Regulador avisó en 2011 de un hongo en varias fincas [VERIFICAR: patógeno], y el Cabildo de Lanzarote detectó mildiu en 2009, infección casi anual en la isla (La Voz de Lanzarote). El oídio es endémico en Canarias según la guía de la viña del Cabildo de Tenerife (2020). Si la cepa arranca débil tras un invierno sin lluvia, el dron puede aplicar un bioestimulante o un foliar permitido en viña, a dosis de etiqueta, hoyo por hoyo.
 
 ## Verano: envero, vendimia temprana y tres cosechas cortas
 

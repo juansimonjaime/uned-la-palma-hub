@@ -46,7 +46,7 @@ Lo que consta: papa, con un 20 % más de siembra declarado por la asociación en
 
 La polilla guatemalteca de la papa (Tecia solanivora) está citada por el MAPA en almacenes de Lanzarote, no en campo, y el almacén no se trata desde el aire. El mildiu de la papa tiene avisos de riesgo alto por comarcas del Cabildo de Tenerife (2024), ninguno leído para Lanzarote [VERIFICAR].
 
-En viña, las prospecciones de filoxera iniciadas con la Orden de 20 de agosto de 2025 no han dado positivos en Lanzarote (más de 1.300 inspecciones, según La Voz), y el Consejo Regulador avisó de un hongo en varias fincas sin que la fuente diga cuál [VERIFICAR]. Todo eso lo lleva sanidad vegetal del Cabildo; el dron entra con foliares y bioestimulantes para el vigor de la papa o la cepa tras viento y sequía.
+En viña, las prospecciones de filoxera iniciadas con la Orden de 20 de agosto de 2025 no han dado positivos en Lanzarote (más de 1.300 inspecciones, según La Voz), y el Consejo Regulador avisó en 2011 de un hongo en varias fincas sin que la fuente diga cuál [VERIFICAR]. Todo eso lo lleva sanidad vegetal del Cabildo; el dron entra con foliares y bioestimulantes para el vigor de la papa o la cepa tras viento y sequía.
 
 ## Piloto, mapa de vuelo y viento: las condiciones en Haría
 
