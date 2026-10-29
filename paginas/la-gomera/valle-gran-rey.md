@@ -1,9 +1,9 @@
 ---
 title: "Dron agrícola en Valle Gran Rey | Agrodrón Canarias"
 slug: "valle-gran-rey"
-meta_description: "Dron agrícola en Valle Gran Rey: el año de la platanera y los frutales del valle, cuándo encaja un tratamiento aéreo y cómo venimos desde La Palma."
+meta_description: "Dron agrícola en Valle Gran Rey: el año de la platanera y los frutales del valle, cuándo encaja un tratamiento con dron y cómo venimos desde La Palma."
 keyword: "dron agrícola en Valle Gran Rey"
-keywords_secundarias: "fumigar con dron en Valle Gran Rey, tratamiento con drones en platanera de La Gomera, dron fitosanitario Valle Gran Rey, pulverización aérea en terrazas del valle"
+keywords_secundarias: "pulverización con dron en Valle Gran Rey, tratamiento con drones en platanera de La Gomera, dron pulverizador Valle Gran Rey, abonado foliar con dron en terrazas del valle"
 parent: "dron-agricola-la-gomera"
 nivel: "B"
 isla: "La Gomera"
@@ -26,11 +26,11 @@ Clima de sotavento: por debajo de 800–1.000 m el valle queda fuera del alisio,
 
 La humedad relativa en San Sebastián va del 71 % en enero al 82 % en septiembre (climate-data); del valle no hay registro en nuestros datos [VERIFICAR]. Invierno y arranque de primavera son los meses más secos, y las lluvias de abril dan un respiro al agricultor gomero (RTVC).
 
-La platanera no para: hay piñas y plantas de todas las edades todo el año. El picudo negro (Cosmopolites sordidus), en La Gomera desde 1990 (Agrocabildo), se controla con trampas de feromona y no es objetivo de una pulverización aérea porque vive en el cormo. En mango, el oídio se vigila en primavera según referencias peninsulares [VERIFICAR: Canarias].
+La platanera no para: hay piñas y plantas de todas las edades todo el año. El picudo negro (Cosmopolites sordidus), en La Gomera desde 1990 (Agrocabildo), se controla con trampas de feromona y no es objetivo de una pulverización con dron porque vive en el cormo. En mango, el oídio se vigila en primavera según referencias peninsulares [VERIFICAR: Canarias].
 
 ## Verano: calor de sotavento y plagas sin calendario
 
-De cochinilla algodonosa (Dysmicoccus grassii) y trips (Hercinothrips femoralis) no hay calendario con fuente [VERIFICAR: épocas de riesgo en La Gomera]; son los problemas de hoja y fruto de la platanera canaria, con resistencias de la cochinilla al control químico (ULPGC).
+De cochinilla algodonosa (Dysmicoccus grassii) y trips (Hercinothrips femoralis) no hay calendario con fuente [VERIFICAR: épocas de riesgo en La Gomera]; son los problemas de hoja y fruto de la platanera canaria, con resistencias de la cochinilla al control químico (ULPGC). Eso lo lleva sanidad vegetal; para el dron, el verano es época de foliares para la planta castigada por el calor.
 
 [IMAGEN: Dron agrícola DJI Agras T50 despegando desde un camino de tierra junto a una terraza de platanera en Valle Gran Rey a primera hora de la mañana | alt: Dron agrícola DJI Agras T50 en una terraza de platanera de Valle Gran Rey, La Gomera]
 
@@ -42,10 +42,10 @@ Otoño e invierno dan menos calor a quien aplica, y la brisa de valle, térmica,
 
 ## Qué encaja con el dron agrícola en Valle Gran Rey en cada época
 
-- Todo el año, platanera al aire libre: foliares contra cochinilla y trips con producto autorizado para aplicación aérea y plan aprobado. El picudo, no.
-- Primavera, mango al aire libre: lo que la etiqueta permita contra oídio; la referencia es peninsular [VERIFICAR].
+- Todo el año, platanera al aire libre: foliares y bioestimulantes permitidos en platanera, a dosis de etiqueta. Contra el picudo, nada: eso lo lleva el Cabildo.
+- Primavera, mango al aire libre: correctores o foliares que la etiqueta permita en mango; de plagas, la referencia es peninsular [VERIFICAR].
 - Papaya y cualquier frutal bajo malla o invernadero: nunca; el producto no atraviesa la cubierta, y la papaya canaria va habitualmente bajo malla [VERIFICAR: Valle Gran Rey].
-- Papa en bancal: solo en campo, con producto y plan; el almacén queda fuera.
+- Papa en bancal: solo en campo y con producto permitido en papa; el almacén queda fuera.
 
 El DJI Agras T50 lleva 40 litros de depósito y hasta 16 L/min con dos boquillas centrífugas o 24 con cuatro (ficha de DJI): en terrazas cortas, cargas pequeñas y varios despegues desde el mismo camino.
 
@@ -53,15 +53,15 @@ El DJI Agras T50 lleva 40 litros de depósito y hasta 16 L/min con dos boquillas
 
 Al valle se entra por una sola carretera y las fincas están en terrazas a ambos lados del barranco. El T50 sigue el relieve con radar de matriz en fase y visión binocular y ajusta la velocidad a la pendiente; las palmeras, altas y repartidas entre bancales, son el obstáculo típico del plan de vuelo. Con brisa fuerte no se vuela.
 
-Sobre el papel: la norma española prohíbe la aplicación aérea de fitosanitarios salvo casos especiales autorizados por la comunidad autónoma con plan de aplicación (Real Decreto 1311/2012, artículos 27 y 28, y anexo VI, que exige producto autorizado para uso aéreo); el dron cuenta como tratamiento aéreo para el Ministerio (nota MAPA–AESA de 2018). Más en [dron agrícola en La Gomera](https://agrodroncanarias.es/dron-agricola-la-gomera/), [dron para plataneras](https://agrodroncanarias.es/dron-agricola-platanera/) y [dron agrícola para frutales subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/).
+Sobre el papel: Agrodrón opera en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01) con piloto certificado; la terraza se sitúa en el mapa de zonas geográficas de UAS de ENAIRE; y solo se pulverizan productos de uso permitido en el cultivo, a dosis de etiqueta, sobre parcela descubierta. Más en [dron agrícola en La Gomera](https://agrodroncanarias.es/dron-agricola-la-gomera/), [dron para plataneras](https://agrodroncanarias.es/dron-agricola-platanera/) y [dron agrícola para frutales subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/).
 
 ## Preguntas frecuentes sobre el dron en Valle Gran Rey
 
 ### ¿Hay una época mejor para tratar la platanera de Valle Gran Rey con dron?
-Se trata cuando la plaga lo pide y la etiqueta lo permite, no por calendario fijo. Para volar, otoño e invierno suelen dar brisas más tranquilas y menos calor.
+Se aplica cuando la planta pide un foliar y la etiqueta lo permite, no por calendario fijo. Para volar, otoño e invierno suelen dar brisas más tranquilas y menos calor.
 
 ### ¿El dron puede tratar los frutales del valle, mango o papaya?
-El mango al aire libre, sí, con producto autorizado para aplicación aérea. La papaya suele ir bajo malla en Canarias y entonces no: el producto no pasa la cubierta.
+El mango al aire libre, sí, con foliares o correctores de uso permitido en mango. La papaya suele ir bajo malla en Canarias y entonces no: el producto no pasa la cubierta.
 
 ### ¿Qué pasa con las palmeras del valle durante el vuelo?
 Se cartografían en el plan de vuelo y el T50 las detecta con la visión binocular y el radar. Una terraza rodeada de palmeras altas puede exigir pasadas más cortas o descartarse.
@@ -79,9 +79,9 @@ Dinos qué tienes en el valle (platanera, frutales, huerta), en qué cota, cuán
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Valle Gran Rey",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en la platanera de las terrazas de Valle Gran Rey y en frutales al aire libre, organizada según el calendario del valle y con desplazamiento desde La Palma.",
+      "name": "Tratamientos agrícolas con dron en Valle Gran Rey",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en la platanera de las terrazas de Valle Gran Rey y en frutales al aire libre, organizada según el calendario del valle y con desplazamiento desde La Palma.",
       "url": "https://agrodroncanarias.es/dron-agricola-la-gomera/valle-gran-rey/",
       "provider": {
         "@type": "LocalBusiness",
@@ -106,12 +106,12 @@ Dinos qué tienes en el valle (platanera, frutales, huerta), en qué cota, cuán
         {
           "@type": "Question",
           "name": "¿Hay una época mejor para tratar la platanera de Valle Gran Rey con dron?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Se trata cuando la plaga lo pide y la etiqueta lo permite, no por calendario fijo. Para volar, otoño e invierno suelen dar brisas más tranquilas y menos calor." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Se aplica cuando la planta pide un foliar y la etiqueta lo permite, no por calendario fijo. Para volar, otoño e invierno suelen dar brisas más tranquilas y menos calor." }
         },
         {
           "@type": "Question",
           "name": "¿El dron puede tratar los frutales del valle, mango o papaya?",
-          "acceptedAnswer": { "@type": "Answer", "text": "El mango al aire libre, sí, con producto autorizado para aplicación aérea. La papaya suele ir bajo malla en Canarias y entonces no: el producto no pasa la cubierta." }
+          "acceptedAnswer": { "@type": "Answer", "text": "El mango al aire libre, sí, con foliares o correctores de uso permitido en mango. La papaya suele ir bajo malla en Canarias y entonces no: el producto no pasa la cubierta." }
         },
         {
           "@type": "Question",

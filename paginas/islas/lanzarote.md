@@ -3,7 +3,7 @@ title: "Dron agrícola en Lanzarote | Agrodrón Canarias"
 slug: "dron-agricola-lanzarote"
 meta_description: "Dron agrícola en Lanzarote: viña de la DO en enarenados y hoyos, cebolla y batata del jable. Con desplazamiento desde La Palma, bajo consulta."
 keyword: "dron agrícola en Lanzarote"
-keywords_secundarias: "fumigar con dron en Lanzarote, tratamiento con drones en La Geria, dron fitosanitario Lanzarote, pulverización aérea en viña de Lanzarote, dron para enarenados y jable"
+keywords_secundarias: "pulverización con dron en Lanzarote, tratamiento con drones en La Geria, dron pulverizador Lanzarote, abonado foliar con dron en viña de Lanzarote, dron para enarenados y jable"
 parent: ""
 nivel: "hub"
 isla: "Lanzarote"
@@ -33,7 +33,7 @@ Por comarcas: el norte (Haría, Máguez, Ye y Los Valles, bajo Famara) es zona d
 
 El alisio del noreste sopla casi a diario. Se mide en la parcela y, con rachas que muevan la deriva, se cambia el día. El DJI Agras T50, con depósito de 40 litros y hasta 24 L/min con cuatro boquillas (ficha de DJI), sigue el relieve con radar y visión binocular, pero no vence al viento.
 
-La sequía es el segundo: media insular de 146,3 mm (ULPGC) y unos 16 días de lluvia al año (FAO, 2025). La planta llega estresada a muchas campañas y el tratamiento se ajusta: dosis de etiqueta y ninguna pasada de más.
+La sequía es el segundo: media insular de 146,3 mm (ULPGC) y unos 16 días de lluvia al año (FAO, 2025). La planta llega estresada a muchas campañas: ahí entran los foliares y bioestimulantes del dron, a dosis de etiqueta.
 
 ## Municipios de Lanzarote con página propia
 
@@ -52,13 +52,13 @@ Arrecife no tiene página: es la capital y ninguna fuente agraria la cita como z
 
 Todo lo documentado en la isla va al aire libre: viña, hortícolas de enarenado, papa, batata y aloe. Las páginas de [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [dron agrícola para hortícolas](https://agrodroncanarias.es/dron-agricola-horticolas/) y [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/) amplían cada cultivo. El aloe vera, 93 ha en Canarias y la mayoría aquí (ayudas regionales vía La Voz, sin año), no tiene página propia [VERIFICAR: plagas del aloe]. Lo que vaya bajo malla no se trata desde el aire.
 
-En plagas hay poco documentado: filoxera sin positivos tras más de 1.300 inspecciones; un hongo en viña avisado por el Consejo Regulador sin identificar [VERIFICAR: patógeno y fecha]; mildiu y oídio sin constancia expresa para la isla; polilla guatemalteca solo en almacenes (MAPA); trips de la cebolla (Agrocabildo, 2026).
+En plagas hay poco documentado: filoxera sin positivos tras más de 1.300 inspecciones; un hongo en viña avisado por el Consejo Regulador sin identificar [VERIFICAR: patógeno y fecha]; mildiu y oídio sin constancia expresa para la isla; polilla guatemalteca solo en almacenes (MAPA); trips de la cebolla (Agrocabildo, 2026). Plagas: cosa de sanidad vegetal, no del dron.
 
 ## Cómo se organiza una salida a Lanzarote desde La Palma
 
 Agrodrón Canarias tiene su base en Santa Cruz de La Palma; fuera de la isla el servicio es con desplazamiento y bajo disponibilidad. Recogemos los datos de cada finca (cultivo, sistema de plantación, superficie, accesos), agrupamos las parcelas de una comarca en una salida y fijamos fecha cuando calendario y previsión de viento lo permiten. Sin plazos prometidos.
 
-Cada aplicación lleva su trámite: la aplicación aérea de fitosanitarios está prohibida en España con carácter general y solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28), y solo con productos autorizados expresamente para uso aéreo (anexo VI).
+Antes de cada aplicación, tres comprobaciones: piloto en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01; parcela situada en el mapa de zonas geográficas de UAS de ENAIRE; y producto de uso permitido en el cultivo, a la dosis de su etiqueta, solo al aire libre.
 
 ## Preguntas frecuentes sobre el dron agrícola en Lanzarote
 
@@ -69,7 +69,7 @@ Sí, con desplazamiento y bajo disponibilidad: agrupamos fincas por salida y con
 Sí, planta a planta: cada hoyo se marca en el plan de vuelo y el dron aplica sobre la cepa, no sobre el picón.
 
 ### ¿Puede el dron tratar el aloe vera o la cebolla del jable?
-Son cultivos bajos al aire libre, así que sí, con producto autorizado para aplicación aérea. Del aloe no hay plagas documentadas.
+Son cultivos bajos al aire libre, así que sí, con foliares o bioestimulantes permitidos en cada uno. Del aloe no hay plagas documentadas.
 
 ### ¿Cuánto cuesta un tratamiento con dron en Lanzarote?
 Depende de superficie, sistema de plantación (enarenado denso o hoyos), accesos, producto y desplazamiento. Con esos datos preparamos un presupuesto.
@@ -84,9 +84,9 @@ Dinos municipio, cultivo, sistema de plantación y hectáreas. Desde [Agrodrón 
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Lanzarote",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en Lanzarote: viña de la DO en enarenados y hoyos de La Geria, cebolla y batata del jable y papa del norte. Servicio con desplazamiento desde La Palma y bajo disponibilidad.",
+      "name": "Tratamientos agrícolas con dron en Lanzarote",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en Lanzarote: viña de la DO en enarenados y hoyos de La Geria, cebolla y batata del jable y papa del norte. Servicio con desplazamiento desde La Palma y bajo disponibilidad.",
       "url": "https://agrodroncanarias.es/dron-agricola-lanzarote/",
       "provider": {
         "@type": "LocalBusiness",
@@ -121,7 +121,7 @@ Dinos municipio, cultivo, sistema de plantación y hectáreas. Desde [Agrodrón 
         {
           "@type": "Question",
           "name": "¿Puede el dron tratar el aloe vera o la cebolla del jable?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Son cultivos bajos al aire libre, así que sí, con producto autorizado para aplicación aérea. Del aloe no hay plagas documentadas." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Son cultivos bajos al aire libre, así que sí, con foliares o bioestimulantes permitidos en cada uno. Del aloe no hay plagas documentadas." }
         },
         {
           "@type": "Question",

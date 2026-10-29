@@ -16,7 +16,7 @@ Puntagorda está a unos 600 m de altitud media (turismorural.com), en el noroest
 
 [IMAGEN: Almendros en flor en bancales de Puntagorda con los barrancos del noroeste al fondo | alt: Almendros en flor en las medianías de Puntagorda, La Palma]
 
-## Invierno: almendro en flor, viña parada y papeles sobre la mesa
+## Invierno: almendro en flor, viña parada y planos sobre la mesa
 
 El almendro florece en pleno invierno y Puntagorda lo celebra con la Fiesta del Almendro en Flor. En esa época no hay aplicación foliar que hacer en la viña, que está en reposo, y en los datos no figura ninguna plaga del almendro documentada en el municipio [VERIFICAR: plagas y carencias documentadas del almendro en Puntagorda].
 

@@ -3,7 +3,7 @@ title: "Dron agrícola en Hermigua | Agrodrón Canarias"
 slug: "hermigua"
 meta_description: "Dron agrícola en Hermigua para platanera en terrazas estrechas y viña en laderas: pendientes fuertes, picudo y humedad del norte. Pide presupuesto."
 keyword: "dron agrícola en Hermigua"
-keywords_secundarias: "fumigar con dron en Hermigua, tratamiento con drones en platanera de La Gomera, dron fitosanitario La Gomera, pulverización aérea en bancales de Hermigua"
+keywords_secundarias: "pulverización con dron en Hermigua, tratamiento con drones en platanera de La Gomera, dron pulverizador La Gomera, abonado foliar con dron en bancales de Hermigua"
 parent: "dron-agricola-la-gomera"
 nivel: "B"
 isla: "La Gomera"
@@ -26,7 +26,7 @@ No hay cifra municipal de superficie; la referencia insular de viña es de 120�
 
 Con mochila, el tratamiento es subir y bajar muros con el depósito a la espalda, pulverizar hacia arriba una planta que te saca varios metros y repetirlo en cada terraza. En un bancal de pocos pies es lo lógico. El problema llega con diez o quince terrazas seguidas en la misma ladera y un suelo del norte que no acaba de secarse.
 
-Tractor con atomizador: en Hermigua hay poco donde meterlo; el bancal no tiene ancho, el muro no admite rueda y el giro al final no existe. La mochila, en cambio, llega a cualquier rincón, no depende del viento y no necesita autorización de aplicación aérea. El dron compensa cuando hay superficie seguida y cada mochila cuesta una tarde.
+Tractor con atomizador: en Hermigua hay poco donde meterlo; el bancal no tiene ancho, el muro no admite rueda y el giro al final no existe. La mochila, en cambio, llega a cualquier rincón y no depende del viento. El dron compensa cuando hay superficie seguida y cada mochila cuesta una tarde.
 
 ## Qué cambia con el dron agrícola en Hermigua despegando desde el camino
 
@@ -40,15 +40,15 @@ Con 40 litros de depósito y 16 o 24 L/min según el número de boquillas centr�
 
 El picudo negro (Cosmopolites sordidus) está en La Gomera desde 1990, según Agrocabildo. Lo documentado como control son trampas de feromona de agregación, Beauveria bassiana (Serenisim registrado), inyección de oxamilo al tocón y un ensayo de azufre en bordes de 2025. Vive en el cormo: una pulverización foliar no es la herramienta contra él.
 
-Con hoja y fruto a la vista sí: la cochinilla algodonosa (Dysmicoccus grassii), con resistencias al control químico (ULPGC), y los trips (Hercinothrips femoralis, Agrocabildo), sin dato local de trips en Hermigua [VERIFICAR].
+En hoja y fruto, lo documentado para la platanera canaria es la cochinilla algodonosa (Dysmicoccus grassii), con resistencias al control químico (ULPGC), y los trips (Hercinothrips femoralis, Agrocabildo), sin dato local en Hermigua [VERIFICAR]. Eso lo lleva el Cabildo; el dron pone sobre esa hoja foliares y bioestimulantes, otra cosa.
 
 En viña, el oídio es endémico en Canarias (Agrocabildo, 2020), sin documentación gomera [VERIFICAR: mildiu y oídio en Hermigua]. La polilla guatemalteca de la papa está en la isla y en almacenes (MAPA); el almacén no lo trata un dron.
 
-## Humedad del norte, malla y autorización
+## Humedad del norte, malla y producto
 
 Hermigua mira al alisio del noreste: nieblas frecuentes bajo Garajonay, humedad que por debajo de 600 m no compensa el déficit hídrico (Arozena) y lluvias de primavera que dan respiro al campo gomero (RTVC, abril). El viento va canalizado por el barranco; se mide en la finca antes de volar y con racha fuerte o llovizna se vuelve otro día. La platanera va al aire libre [VERIFICAR: platanera bajo malla]; lo cubierto no se trata.
 
-Dos frases sobre el papel: en España la aplicación aérea de fitosanitarios está prohibida con carácter general y solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28). Como el Ministerio considera los tratamientos con dron tratamientos aéreos (nota MAPA–AESA, 2018), cada trabajo pasa por ese trámite ante el Gobierno de Canarias con productos cuya autorización incluya la aplicación aérea.
+Dos frases sobre el papel: el piloto vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01, y cada terraza del valle se comprueba en el mapa de zonas geográficas de UAS de ENAIRE antes de planificar. Lo que va en el depósito lo eliges tú entre productos de uso permitido en platanera o viña, a la dosis de su etiqueta; nada más.
 
 Más detalle en [dron agrícola en La Gomera](https://agrodroncanarias.es/dron-agricola-la-gomera/), [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/) y, valle vecino, [dron agrícola en Vallehermoso](https://agrodroncanarias.es/dron-agricola-la-gomera/vallehermoso/).
 
@@ -58,17 +58,17 @@ Más detalle en [dron agrícola en La Gomera](https://agrodroncanarias.es/dron-a
 Para un bancal de pocos pies, no: la mochila sigue siendo lo práctico. Compensa con varias terrazas seguidas en la misma ladera o un suelo húmedo que no quieres pisar.
 
 ### ¿Puede el dron tratar el picudo negro de la platanera en Hermigua?
-No como pulverización foliar: el picudo está en el cormo y lo documentado son trampas de feromona, Beauveria bassiana e inyección al tocón. El dron encaja con problemas de hoja y fruto, según etiqueta.
+No: el picudo está en el cormo y lo documentado son trampas de feromona, Beauveria bassiana e inyección al tocón, con el Cabildo detrás. El dron encaja para abonado foliar y bioestimulantes en la platanera, según etiqueta.
 
 ### ¿Cómo llega Agrodrón a Hermigua desde La Palma?
 Con desplazamiento del equipo desde Santa Cruz de La Palma, bajo disponibilidad. Se agrupan fincas del valle y se elige fecha con margen por el viento y la niebla.
 
-### ¿Se puede fumigar con dron la viña de Forastera en las laderas?
-Sí, si está al aire libre y el producto tiene autorización para aplicación aérea. En bancal de pendiente fuerte es donde más aporta el seguimiento de terreno del T50.
+### ¿Se puede pulverizar con dron la viña de Forastera en las laderas?
+Sí, si está al aire libre y lo que se aplica es un foliar o un bioestimulante de uso permitido en viña. En bancal de pendiente fuerte es donde más aporta el seguimiento de terreno del T50.
 
 ## Pide presupuesto para tus bancales de Hermigua
 
-Mándanos dónde está la finca (fondo del valle, ladera, altitud), cultivo, número de terrazas y qué quieres tratar. Te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento desde La Palma. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Mándanos dónde está la finca (fondo del valle, ladera, altitud), cultivo, número de terrazas y qué quieres aplicar. Te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento desde La Palma. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/).
 
 ```json
 {
@@ -76,9 +76,9 @@ Mándanos dónde está la finca (fondo del valle, ladera, altitud), cultivo, nú
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Hermigua",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en la platanera en terrazas del valle de Hermigua y en la viña de Forastera de las laderas, con desplazamiento desde La Palma y bajo disponibilidad.",
+      "name": "Tratamientos agrícolas con dron en Hermigua",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en la platanera en terrazas del valle de Hermigua y en la viña de Forastera de las laderas, con desplazamiento desde La Palma y bajo disponibilidad.",
       "url": "https://agrodroncanarias.es/dron-agricola-la-gomera/hermigua/",
       "provider": {
         "@type": "LocalBusiness",
@@ -108,7 +108,7 @@ Mándanos dónde está la finca (fondo del valle, ladera, altitud), cultivo, nú
         {
           "@type": "Question",
           "name": "¿Puede el dron tratar el picudo negro de la platanera en Hermigua?",
-          "acceptedAnswer": { "@type": "Answer", "text": "No como pulverización foliar: el picudo está en el cormo y lo documentado son trampas de feromona, Beauveria bassiana e inyección al tocón. El dron encaja con problemas de hoja y fruto, según etiqueta." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No: el picudo está en el cormo y lo documentado son trampas de feromona, Beauveria bassiana e inyección al tocón, con el Cabildo detrás. El dron encaja para abonado foliar y bioestimulantes en la platanera, según etiqueta." }
         },
         {
           "@type": "Question",
@@ -117,8 +117,8 @@ Mándanos dónde está la finca (fondo del valle, ladera, altitud), cultivo, nú
         },
         {
           "@type": "Question",
-          "name": "¿Se puede fumigar con dron la viña de Forastera en las laderas?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si está al aire libre y el producto tiene autorización para aplicación aérea. En bancal de pendiente fuerte es donde más aporta el seguimiento de terreno del T50." }
+          "name": "¿Se puede pulverizar con dron la viña de Forastera en las laderas?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si está al aire libre y lo que se aplica es un foliar o un bioestimulante de uso permitido en viña. En bancal de pendiente fuerte es donde más aporta el seguimiento de terreno del T50." }
         }
       ]
     }

@@ -3,7 +3,7 @@ title: "Dron agrícola en El Hierro | Agrodrón Canarias"
 slug: "dron-agricola-el-hierro"
 meta_description: "Dron agrícola en El Hierro: viña, piña tropical y platanera de El Golfo, 1.835 ha cultivadas en 2021, viento y secano. Desplazamiento desde La Palma."
 keyword: "dron agrícola en El Hierro"
-keywords_secundarias: "fumigar con dron en El Hierro, tratamiento con drones en piña tropical, dron fitosanitario El Hierro, pulverización aérea en viña de El Hierro"
+keywords_secundarias: "pulverización con dron en El Hierro, tratamiento con drones en piña tropical, dron pulverizador El Hierro, abonado foliar con dron en viña de El Hierro"
 parent: ""
 nivel: "hub"
 isla: "El Hierro"
@@ -40,11 +40,11 @@ El Pinar de El Hierro: agricultura de secano a pequeña escala (higos pasados, a
 
 ## Picudo desde 2023, cochinilla de la piña y viña sin avisos locales
 
-- Piña: cochinilla Dysmicoccus brevipes y complejo viral asociado; autorización excepcional del MAPA para spirotetramat en 2023 (dos aplicaciones, julio–octubre) y metam sodio en suelo. Autorizar un producto para el cultivo no es autorizarlo desde el aire.
+- Piña: cochinilla Dysmicoccus brevipes y complejo viral asociado, con medidas excepcionales del MAPA para el cultivo en 2023 (Infoagro, RTVC); esa pelea la llevan los productores con sanidad vegetal, no el dron.
 - Platanera: picudo negro (Cosmopolites sordidus) detectado en El Hierro en 2023 (Perera et al. 2024, vía Agrocabildo); vive en el cormo y el dron no es la herramienta.
 - Viña: sin avisos específicos de mildiu u oídio [VERIFICAR]; las prospecciones de filoxera 2025–2026 solo han dado positivos en Tenerife (Gobierno de Canarias).
 
-Lo que sí trata un dron: lo que está al aire libre y a la vista, hoja y fruto en piña descubierta, platanera y viña, con producto autorizado para uso aéreo. Páginas de cultivo: [dron agrícola para frutales subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/) y [tratamientos con dron en platanera](https://agrodroncanarias.es/dron-agricola-platanera/).
+Lo que sí hace un dron: aplicar foliares y bioestimulantes de uso permitido sobre lo que está al aire libre y a la vista, piña descubierta, platanera y viña, a dosis de etiqueta. Páginas de cultivo: [dron agrícola para frutales subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/) y [tratamientos con dron en platanera](https://agrodroncanarias.es/dron-agricola-platanera/).
 
 [IMAGEN: Viñas rastreras sobre picón en Echedo con el mar al fondo y nubes del alisio sobre la meseta | alt: Viñedo de la DO El Hierro en Echedo, Valverde, sobre suelo de picón]
 
@@ -52,7 +52,7 @@ Lo que sí trata un dron: lo que está al aire libre y a la vista, hoja y fruto 
 
 Agrodrón Canarias tiene base en Santa Cruz de La Palma y trabaja con un DJI Agras T50 de 40 litros que sigue el relieve con radar y visión binocular. Venir a El Hierro es mover equipo, baterías y piloto: la salida se organiza con fincas agrupadas, datos de cada parcela recibidos antes (mapa, cultivo, superficie, accesos, malla, cables) y una ventana de viento aceptable, bajo disponibilidad y sin plazos prometidos.
 
-Marco legal en un párrafo: la aplicación aérea de fitosanitarios en España es excepcional y requiere autorización previa del órgano autonómico competente y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28); solo cabe con productos autorizados expresamente para aplicación aérea (anexo VI); el Ministerio trata el dron como tratamiento aéreo (nota MAPA–AESA de 2018); y el piloto opera en la categoría específica de AESA/EASA como operador STS y bajo PDRA-S01.
+Marco en un párrafo: el piloto opera en la categoría específica de AESA/EASA como operador STS y bajo PDRA-S01; la parcela de El Golfo o de Echedo se comprueba en el mapa de zonas geográficas de UAS de ENAIRE antes de planificar; se pulveriza solo producto de uso permitido en el cultivo, a la dosis de su etiqueta, sobre cultivo descubierto; y con brisa fuerte, lluvia o niebla no se vuela.
 
 ## Preguntas frecuentes sobre el dron agrícola en El Hierro
 
@@ -60,10 +60,10 @@ Marco legal en un párrafo: la aplicación aérea de fitosanitarios en España e
 En toda Canarias, pero fuera de La Palma con desplazamiento y bajo disponibilidad. En El Hierro una salida tiene sentido con varias parcelas, normalmente en El Golfo, en el mismo viaje.
 
 ### ¿Se puede tratar la piña tropical de El Golfo con dron?
-Solo la que esté al aire libre, con producto autorizado para uso aéreo. La que va bajo malla o invernadero no se trata, y no hay cifra actual de qué proporción es cada cosa.
+Solo la que esté al aire libre, con foliares o bioestimulantes permitidos en piña. La que va bajo malla o invernadero no se trata, y no hay cifra actual de qué proporción es cada cosa.
 
 ### ¿Y la viña de Echedo, El Pinar o Sabinosa?
-Va al aire libre y es tratable si el producto y el plan lo permiten. En Echedo y El Pinar no hay página propia porque falta superficie confirmada; se atiende igual, bajo consulta.
+Va al aire libre y se puede pulverizar con foliares o bioestimulantes permitidos en viña. En Echedo y El Pinar no hay página propia porque falta superficie confirmada; se atiende igual, bajo consulta.
 
 ### ¿El viento de El Hierro impide volar?
 A veces: alisio en cumbre, noreste en medianías, brisa en El Golfo. Se mide en la finca el mismo día y con racha fuerte no se trata; por eso se viaja con margen.
@@ -78,9 +78,9 @@ Cuéntanos qué tienes en El Golfo, en las medianías o en el sur, cuánta super
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en El Hierro",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en piña tropical al aire libre, platanera y viña de El Hierro, con El Golfo como comarca principal, desplazamiento desde La Palma y bajo disponibilidad.",
+      "name": "Tratamientos agrícolas con dron en El Hierro",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en piña tropical al aire libre, platanera y viña de El Hierro, con El Golfo como comarca principal, desplazamiento desde La Palma y bajo disponibilidad.",
       "url": "https://agrodroncanarias.es/dron-agricola-el-hierro/",
       "provider": {
         "@type": "LocalBusiness",
@@ -110,12 +110,12 @@ Cuéntanos qué tienes en El Golfo, en las medianías o en el sur, cuánta super
         {
           "@type": "Question",
           "name": "¿Se puede tratar la piña tropical de El Golfo con dron?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Solo la que esté al aire libre, con producto autorizado para uso aéreo. La que va bajo malla o invernadero no se trata, y no hay cifra actual de qué proporción es cada cosa." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Solo la que esté al aire libre, con foliares o bioestimulantes permitidos en piña. La que va bajo malla o invernadero no se trata, y no hay cifra actual de qué proporción es cada cosa." }
         },
         {
           "@type": "Question",
           "name": "¿Y la viña de Echedo, El Pinar o Sabinosa?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Va al aire libre y es tratable si el producto y el plan lo permiten. En Echedo y El Pinar no hay página propia porque falta superficie confirmada; se atiende igual, bajo consulta." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Va al aire libre y se puede pulverizar con foliares o bioestimulantes permitidos en viña. En Echedo y El Pinar no hay página propia porque falta superficie confirmada; se atiende igual, bajo consulta." }
         },
         {
           "@type": "Question",

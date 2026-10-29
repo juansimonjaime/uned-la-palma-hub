@@ -3,7 +3,7 @@ title: "Dron agrícola en Vallehermoso | Agrodrón Canarias"
 slug: "vallehermoso"
 meta_description: "Dron agrícola en Vallehermoso: platanera en la playa, viña DO La Gomera en bancales de 300 a 1.000 m y huerta de medianías, zona a zona. Pide presupuesto."
 keyword: "dron agrícola en Vallehermoso"
-keywords_secundarias: "fumigar con dron en Vallehermoso, tratamiento con drones en viña de La Gomera, dron fitosanitario La Gomera, pulverización aérea en bancales de Vallehermoso"
+keywords_secundarias: "pulverización con dron en Vallehermoso, tratamiento con drones en viña de La Gomera, dron pulverizador La Gomera, abonado foliar con dron en bancales de Vallehermoso"
 parent: "dron-agricola-la-gomera"
 nivel: "B"
 isla: "La Gomera"
@@ -24,9 +24,9 @@ Lo del viaje, antes de bajar a las zonas: Agrodrón Canarias trabaja desde Santa
 
 ## Zona 1. La playa de Vallehermoso: platanera de costa
 
-En la boca del barranco, junto a la playa, está la platanera, en terrazas de regadío: la zona más llana y de acceso más directo. El picudo negro (Cosmopolites sordidus) está en la isla desde 1990 (Agrocabildo); contra él lo documentado son trampas de feromona, Beauveria bassiana e inyección al tocón, no la pulverización aérea.
+En la boca del barranco, junto a la playa, está la platanera, en terrazas de regadío: la zona más llana y de acceso más directo. El picudo negro (Cosmopolites sordidus) está en la isla desde 1990 (Agrocabildo); contra él lo documentado son trampas de feromona, Beauveria bassiana e inyección al tocón, no una pulverización con dron.
 
-El dron sí entra en hoja y fruto: cochinilla algodonosa y trips, los dos problemas que Agrocabildo y la ULPGC recogen para la platanera canaria, con producto autorizado para aplicación aérea. La platanera va al aire libre [VERIFICAR: malla en la platanera de Vallehermoso]; lo cubierto queda fuera.
+En hoja y fruto, Agrocabildo y la ULPGC recogen cochinilla algodonosa y trips en la platanera canaria, cosa del Cabildo. El dron pone sobre esa hoja foliares y bioestimulantes permitidos en platanera. La platanera va al aire libre [VERIFICAR: malla en la platanera de Vallehermoso]; lo cubierto queda fuera.
 
 ## Zona 2. Bajo el Roque Cano: viña en bancales de 300 a 1.000 metros
 
@@ -46,22 +46,22 @@ A sotavento, pagos como Alojera o Arguamul quedan fuera del alisio por debajo de
 
 ## Cómo se organiza un dron agrícola en Vallehermoso desde La Palma
 
-Nos mandas ubicación, cultivo, superficie, accesos y obstáculos (cables, palmeras, invernaderos). Planificamos el vuelo sobre el mapa de la parcela, medimos viento el día del tratamiento, aplicamos la dosis de la etiqueta dentro del plan de aplicación y lo registramos. Las lluvias de abril, que dan un respiro al campo gomero (RTVC), marcan también el calendario de salidas.
+Nos mandas ubicación, cultivo, superficie, accesos y obstáculos (cables, palmeras, invernaderos). Planificamos el vuelo sobre el mapa de la parcela, medimos viento el día del tratamiento, aplicamos el producto que elijas, a la dosis de la etiqueta, y lo registramos. Las lluvias de abril, que dan un respiro al campo gomero (RTVC), marcan también el calendario de salidas.
 
-Marco legal en corto: la aplicación aérea de fitosanitarios es excepcional en España y necesita autorización previa del Gobierno de Canarias y un plan de aplicación aprobado (Real Decreto 1311/2012, arts. 27–28); el Ministerio equipara el dron a un tratamiento aéreo (nota MAPA–AESA de 2018) y el operador vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo PDRA-S01.
+Marco en corto: el operador vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo PDRA-S01; la parcela se comprueba en el mapa de zonas geográficas de UAS de ENAIRE antes de planificar; solo se pulveriza cultivo al aire libre; y con lluvia, niebla o viento fuerte no se despega.
 
 Páginas relacionadas: [dron agrícola en La Gomera](https://agrodroncanarias.es/dron-agricola-la-gomera/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [tratamientos con dron en platanera](https://agrodroncanarias.es/dron-agricola-platanera/) y el valle de al lado, [dron agrícola en Hermigua](https://agrodroncanarias.es/dron-agricola-la-gomera/hermigua/).
 
 ## Preguntas frecuentes sobre tratamientos con dron en Vallehermoso
 
 ### ¿Se puede tratar con dron un bancal de viña a 800 metros en Vallehermoso?
-Sí, si el equipo llega al borde de la parcela y el producto tiene autorización de aplicación aérea. La altitud no es el límite; lo son el viento del lomo y los obstáculos del bancal.
+Sí, si el equipo llega al borde de la parcela y se aplica un foliar o un bioestimulante permitido en viña. La altitud no es el límite; lo son el viento del lomo y los obstáculos del bancal.
 
 ### ¿Merece la pena el dron para la platanera de la playa de Vallehermoso?
-Para cochinilla o trips en hoja y fruto, con producto autorizado y superficie seguida, sí. Para el picudo, no: va al cormo y lo documentado son trampas e inyección al tocón.
+Para abonado foliar o bioestimulantes con superficie seguida, sí. Contra cochinilla, trips o picudo, no: las plagas las lleva el Cabildo y el picudo va al cormo.
 
 ### ¿La polilla guatemalteca de la papa se trata con dron?
-En campo, solo con producto que la etiqueta permita aplicar desde el aire y dentro del plan aprobado. En el almacén, donde el MAPA también la cita, el dron no pinta nada.
+No. En campo la lleva sanidad vegetal y en el almacén, donde el MAPA también la cita, el dron no pinta nada; en la papa de medianías sirve para abonado foliar.
 
 ### ¿Cuándo viene Agrodrón a La Gomera?
 Cuando hay fincas suficientes y fecha con buen viento. Se viaja desde La Palma con desplazamiento y bajo disponibilidad; cuanto antes nos cuentes la finca, antes encaja.
@@ -76,9 +76,9 @@ Cuéntanos en qué zona está tu viña, tu platanera o tu huerta y cuánta super
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Vallehermoso",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en la platanera de la playa de Vallehermoso, la viña de la DO La Gomera en bancales de 300 a 1.000 m y la huerta de medianías, con desplazamiento desde La Palma.",
+      "name": "Tratamientos agrícolas con dron en Vallehermoso",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en la platanera de la playa de Vallehermoso, la viña de la DO La Gomera en bancales de 300 a 1.000 m y la huerta de medianías, con desplazamiento desde La Palma.",
       "url": "https://agrodroncanarias.es/dron-agricola-la-gomera/vallehermoso/",
       "provider": {
         "@type": "LocalBusiness",
@@ -103,17 +103,17 @@ Cuéntanos en qué zona está tu viña, tu platanera o tu huerta y cuánta super
         {
           "@type": "Question",
           "name": "¿Se puede tratar con dron un bancal de viña a 800 metros en Vallehermoso?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si el equipo llega al borde de la parcela y el producto tiene autorización de aplicación aérea. La altitud no es el límite; lo son el viento del lomo y los obstáculos del bancal." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si el equipo llega al borde de la parcela y se aplica un foliar o un bioestimulante permitido en viña. La altitud no es el límite; lo son el viento del lomo y los obstáculos del bancal." }
         },
         {
           "@type": "Question",
           "name": "¿Merece la pena el dron para la platanera de la playa de Vallehermoso?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Para cochinilla o trips en hoja y fruto, con producto autorizado y superficie seguida, sí. Para el picudo, no: va al cormo y lo documentado son trampas e inyección al tocón." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Para abonado foliar o bioestimulantes con superficie seguida, sí. Contra cochinilla, trips o picudo, no: las plagas las lleva el Cabildo y el picudo va al cormo." }
         },
         {
           "@type": "Question",
           "name": "¿La polilla guatemalteca de la papa se trata con dron?",
-          "acceptedAnswer": { "@type": "Answer", "text": "En campo, solo con producto que la etiqueta permita aplicar desde el aire y dentro del plan aprobado. En el almacén, donde el MAPA también la cita, el dron no pinta nada." }
+          "acceptedAnswer": { "@type": "Answer", "text": "No. En campo la lleva sanidad vegetal y en el almacén, donde el MAPA también la cita, el dron no pinta nada; en la papa de medianías sirve para abonado foliar." }
         },
         {
           "@type": "Question",

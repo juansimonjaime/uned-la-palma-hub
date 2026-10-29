@@ -48,7 +48,7 @@ Para volar son ideales: suelo plano, sin árboles, con el trastón como único b
 
 ## ¿Cómo se contrata desde La Palma y qué hace falta?
 
-Mandas ubicación, cultivo, superficie, accesos y obstáculos (cables, naves, molinos) y el producto que quieres aplicar, que debe ser de uso permitido en ese cultivo y va a la dosis de su etiqueta. Se planifica el vuelo sobre el mapa de la parcela y se comprueba su posición en el mapa de zonas geográficas de UAS de ENAIRE; el piloto vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01. Después se fija la salida según disponibilidad.
+Mandas ubicación, cultivo, superficie, accesos y obstáculos (cables, naves, molinos) y el producto que quieres aplicar, de uso permitido en ese cultivo y a la dosis de su etiqueta. Se planifica el vuelo sobre el mapa de la parcela, se comprueba en el mapa de zonas geográficas de UAS de ENAIRE y el piloto vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01. Después se fija la salida según disponibilidad.
 
 El cuadro de la isla, en [dron agrícola en Fuerteventura](https://agrodroncanarias.es/dron-agricola-fuerteventura/); por cultivo, [tratamientos con dron en tomate](https://agrodroncanarias.es/dron-agricola-tomate/) y [dron agrícola para hortícolas](https://agrodroncanarias.es/dron-agricola-horticolas/); el vecino del sur, [dron agrícola en Tuineje](https://agrodroncanarias.es/dron-agricola-fuerteventura/tuineje/).
 

@@ -3,7 +3,7 @@ title: "Dron agrícola en Fuerteventura | Agrodrón Canarias"
 slug: "dron-agricola-fuerteventura"
 meta_description: "Dron agrícola en Fuerteventura: unas 760 ha cultivadas, tomate bajo cubierta que no se trata y un hueco real en aloe, forrajes y gavias. Pide presupuesto."
 keyword: "dron agrícola en Fuerteventura"
-keywords_secundarias: "fumigar con dron en Fuerteventura, tratamiento con drones en gavias, dron fitosanitario Antigua y Tuineje, pulverización aérea en aloe vera majorero"
+keywords_secundarias: "pulverización con dron en Fuerteventura, tratamiento con drones en gavias, dron pulverizador Antigua y Tuineje, abonado foliar con dron en aloe vera majorero"
 parent: ""
 nivel: "hub"
 isla: "Fuerteventura"
@@ -32,9 +32,9 @@ El aloe vera se cultiva sobre todo en Lanzarote, Gran Canaria y Fuerteventura (G
 
 ## Dónde encaja un dron agrícola en Fuerteventura y dónde no
 
-No encaja en el tomate: va bajo malla o invernadero y la gota no atraviesa la cubierta; la Tuta absoluta, en la isla desde diciembre de 2008 (EPPO), se combate dentro de la nave. Tampoco en cereal de secano sin plaga.
+No encaja en el tomate: va bajo malla o invernadero y la gota no atraviesa la cubierta; la Tuta absoluta, en la isla desde diciembre de 2008 (EPPO), se combate dentro de la nave y es asunto de sanidad vegetal, no del dron. Tampoco en cereal de secano sin plaga.
 
-Encaja en lo destapado: aloe y olivar, alfalfa y forrajes, hortícola al aire libre y gavias con un problema concreto. Son parcelas llanas donde el DJI Agras T50 sigue el suelo con su radar y detecta el trastón o el molino, y el depósito de 40 litros (ficha de DJI) se recarga al borde. Manda el viento, medido en la finca el día del vuelo.
+Encaja en lo destapado: aloe y olivar, alfalfa y forrajes, hortícola al aire libre y gavias de forraje que pidan un abonado foliar. Son parcelas llanas donde el DJI Agras T50 sigue el suelo con su radar y detecta el trastón o el molino, y el depósito de 40 litros (ficha de DJI) se recarga al borde. Manda el viento, medido en la finca el día del vuelo.
 
 [IMAGEN: Dron agrícola DJI Agras T50 en el borde de una gavia llana de Fuerteventura, con el piloto comprobando el viento antes del vuelo | alt: Dron agrícola preparado junto a una gavia en Fuerteventura]
 
@@ -51,20 +51,20 @@ Los otros cuatro no tienen página. Betancuria: montaña y huertas de autoconsum
 
 No hay base en la isla: cada salida se monta desde Santa Cruz de La Palma, con desplazamiento y bajo disponibilidad. Para que compense se agrupan fincas de varios municipios en el mismo viaje.
 
-Nos mandas ubicación, cultivo, superficie, accesos y obstáculos; planificamos el vuelo sobre el mapa; se tramita la autorización; se fija una ventana de fechas según disponibilidad y viento; se aplica la dosis de etiqueta y se registra. No damos plazos.
+Nos mandas ubicación, cultivo, superficie, accesos, obstáculos y el producto que quieres aplicar; planificamos el vuelo sobre el mapa y comprobamos la parcela en el mapa de zonas geográficas de UAS de ENAIRE; se fija una ventana de fechas según disponibilidad y viento; se aplica la dosis de etiqueta y se registra. No damos plazos.
 
-## La norma para fumigar con dron en la isla
+## Las condiciones para pulverizar con dron en la isla
 
-En España la aplicación aérea de fitosanitarios está prohibida con carácter general y solo se permite en casos especiales, con autorización previa del órgano competente de la comunidad autónoma y un plan de aplicación aprobado (RD 1311/2012, artículos 27 y 28). El Ministerio de Agricultura considera los tratamientos con dron tratamientos aéreos (nota MAPA-AESA de 2018), y solo pueden aplicarse productos cuya autorización incluya expresamente la aplicación aérea (anexo VI).
+El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01, con piloto certificado. Lo que se pulveriza son abonos foliares, bioestimulantes y correctores de carencias de uso permitido en el cultivo, a la dosis de la etiqueta, solo sobre parcela descubierta.
 
-Para abonos foliares, bioestimulantes y otros productos que no son fitosanitarios el régimen es distinto [VERIFICAR: confirmar con Agrodrón qué aplicaciones no fitosanitarias ofrece].
+Y en una isla sin relieve que frene el alisio, el viento se mide en la gavia el mismo día y decide si se vuela; con lluvia o niebla tampoco se despega.
 
 Por cultivo: [dron agrícola para tomate](https://agrodroncanarias.es/dron-agricola-tomate/) y [tratamientos con dron en hortícolas al aire libre](https://agrodroncanarias.es/dron-agricola-horticolas/).
 
 ## Preguntas frecuentes sobre el dron agrícola en Fuerteventura
 
 ### ¿Tiene sentido un dron agrícola en una isla con 760 hectáreas cultivadas?
-Para una parte pequeña, sí: aloe, olivar, forrajes y hortícola al aire libre con un problema concreto; para el tomate bajo cubierta y el cereal sin plaga, no.
+Para una parte pequeña, sí: aloe, olivar, forrajes y hortícola al aire libre que pidan abonado foliar o bioestimulantes; para el tomate bajo cubierta y el cereal sin plaga, no.
 
 ### ¿Se puede tratar con dron el tomate de Fuerteventura?
 No mientras esté bajo malla o invernadero, lo habitual en el tomate de exportación de Tuineje, Pájara y Antigua: el producto no atraviesa la cubierta.
@@ -85,9 +85,9 @@ Si cultivas aloe, olivar, forraje u hortícola al aire libre, mándanos dónde e
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Fuerteventura",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en aloe vera, olivar, forrajes, hortícola y gavias al aire libre de Fuerteventura, con desplazamiento desde La Palma y bajo disponibilidad; el tomate bajo cubierta queda fuera.",
+      "name": "Tratamientos agrícolas con dron en Fuerteventura",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en aloe vera, olivar, forrajes, hortícola y gavias al aire libre de Fuerteventura, con desplazamiento desde La Palma y bajo disponibilidad; el tomate bajo cubierta queda fuera.",
       "url": "https://agrodroncanarias.es/dron-agricola-fuerteventura/",
       "provider": {
         "@type": "LocalBusiness",
@@ -112,7 +112,7 @@ Si cultivas aloe, olivar, forraje u hortícola al aire libre, mándanos dónde e
         {
           "@type": "Question",
           "name": "¿Tiene sentido un dron agrícola en una isla con 760 hectáreas cultivadas?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Para una parte pequeña, sí: aloe, olivar, forrajes y hortícola al aire libre con un problema concreto; para el tomate bajo cubierta y el cereal sin plaga, no." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Para una parte pequeña, sí: aloe, olivar, forrajes y hortícola al aire libre que pidan abonado foliar o bioestimulantes; para el tomate bajo cubierta y el cereal sin plaga, no." }
         },
         {
           "@type": "Question",

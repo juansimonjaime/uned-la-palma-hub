@@ -3,7 +3,7 @@ title: "Dron agrícola en La Gomera | Agrodrón Canarias"
 slug: "dron-agricola-la-gomera"
 meta_description: "Dron agrícola en La Gomera: platanera y viña en bancales de Hermigua, Vallehermoso y Valle Gran Rey, picudo desde 1990 y desplazamiento desde La Palma."
 keyword: "dron agrícola en La Gomera"
-keywords_secundarias: "fumigar con dron en La Gomera, tratamiento con drones en platanera gomera, dron fitosanitario La Gomera, pulverización aérea en bancales"
+keywords_secundarias: "pulverización con dron en La Gomera, tratamiento con drones en platanera gomera, dron pulverizador La Gomera, abonado foliar con dron en bancales"
 parent: ""
 nivel: "hub"
 isla: "La Gomera"
@@ -42,7 +42,7 @@ Agulo, muy pequeño, tiene platanera en terrazas sin superficie confirmada; Alaj
 
 El picudo negro de la platanera (Cosmopolites sordidus) se detectó en La Gomera en 1990, según Agrocabildo. Las herramientas documentadas son trampas de feromona de agregación, Beauveria bassiana, inyección de oxamilo al tocón y un ensayo con azufre en bordes (2025); como va al cormo, el dron no es su herramienta. La polilla guatemalteca (Tecia solanivora) está extendida parcialmente por la isla y en almacenes (MAPA).
 
-De trips en platanera gomera y de mildiu u oídio en la viña insular no hay registro local [VERIFICAR]. El dron trata lo que está al aire libre y a la vista, hoja y fruto, con producto autorizado para uso aéreo: [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/) y [dron agrícola para frutales subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/). La platanera bajo malla, si la hay, queda fuera [VERIFICAR].
+De trips en platanera gomera y de mildiu u oídio en la viña insular no hay registro local [VERIFICAR]. Las plagas las lleva el Cabildo; el dron pulveriza sobre lo que está al aire libre y a la vista foliares y bioestimulantes permitidos: [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/) y [dron agrícola para frutales subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/). La platanera bajo malla, si la hay, queda fuera [VERIFICAR].
 
 [IMAGEN: Dron agrícola DJI Agras T50 posado en un camino de tierra junto a bancales de viña con el mar de La Gomera al fondo | alt: Dron agrícola DJI Agras T50 preparado para tratar viña en bancales de La Gomera]
 
@@ -50,18 +50,18 @@ De trips en platanera gomera y de mildiu u oídio en la viña insular no hay reg
 
 Agrodrón Canarias tiene base en Santa Cruz de La Palma. Una salida a La Gomera se monta con varias fincas agrupadas, datos de cada parcela recibidos antes (ubicación, cultivo, superficie, accesos, cables, palmeras, malla) y días de margen por el viento canalizado de los barrancos y la niebla del norte. El DJI Agras T50, de 40 litros y con seguimiento del relieve por radar y visión binocular, se adapta al bancal; el calendario va bajo disponibilidad, sin plazos prometidos.
 
-El marco legal, en pocas líneas: en España aplicar fitosanitarios desde el aire está prohibido como regla; la excepción exige autorización previa del Gobierno de Canarias y un plan de aplicación aprobado (Real Decreto 1311/2012, artículos 27 y 28); el dron cuenta como tratamiento aéreo para el Ministerio (nota MAPA–AESA, 2018); y el operador vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo PDRA-S01.
+El marco: el operador vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo PDRA-S01, con piloto certificado; cada bancal se sitúa antes en el mapa de zonas geográficas de UAS de ENAIRE; en el depósito solo va producto de uso permitido en el cultivo, a su dosis de etiqueta; y lo que esté bajo malla, o un día de niebla cerrada en el norte, queda fuera.
 
 ## Preguntas frecuentes sobre el dron agrícola en La Gomera
 
 ### ¿Agrodrón trabaja en La Gomera o solo en La Palma?
 Con desplazamiento desde Santa Cruz de La Palma y bajo disponibilidad. La isla vecina está cerca, pero mover equipo y piloto exige agrupar fincas y elegir fecha.
 
-### ¿Se puede fumigar con dron una platanera en bancales de La Gomera?
-Si está al aire libre y el producto tiene autorización de aplicación aérea, sí; el bancal estrecho en pendiente es donde más aporta el seguimiento de terreno del T50. Contra el picudo, no.
+### ¿Se puede pulverizar con dron una platanera en bancales de La Gomera?
+Si está al aire libre, sí, con foliares o bioestimulantes permitidos en platanera; el bancal estrecho en pendiente es donde más aporta el seguimiento de terreno del T50. Contra el picudo, no.
 
 ### ¿El dron trata la viña de la DO La Gomera?
-Va al aire libre y en bancales de pendiente fuerte, así que encaja, con producto y plan autorizados. Sin avisos locales de oídio o mildiu, se trabaja con los avisos generales de Canarias.
+Va al aire libre y en bancales de pendiente fuerte, así que encaja, con foliares o bioestimulantes permitidos en viña. Oídio y mildiu, sin avisos locales, son cosa de sanidad vegetal, no del dron.
 
 ### ¿Qué hace falta para que una salida a La Gomera compense?
 Varias fincas en la misma zona o en municipios cercanos, datos enviados antes y una ventana de viento razonable. Un bancal aislado de pocos pies rara vez justifica el viaje.
@@ -76,9 +76,9 @@ Dinos municipio, cultivo, superficie, acceso y si hay malla, cables o palmeras. 
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en La Gomera",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
-      "description": "Pulverización con dron DJI Agras T50 en platanera, viña y frutales al aire libre en los bancales de La Gomera, con desplazamiento desde La Palma y bajo disponibilidad.",
+      "name": "Tratamientos agrícolas con dron en La Gomera",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
+      "description": "Pulverización de abonos foliares y bioestimulantes con dron DJI Agras T50 en platanera, viña y frutales al aire libre en los bancales de La Gomera, con desplazamiento desde La Palma y bajo disponibilidad.",
       "url": "https://agrodroncanarias.es/dron-agricola-la-gomera/",
       "provider": {
         "@type": "LocalBusiness",
@@ -107,13 +107,13 @@ Dinos municipio, cultivo, superficie, acceso y si hay malla, cables o palmeras. 
         },
         {
           "@type": "Question",
-          "name": "¿Se puede fumigar con dron una platanera en bancales de La Gomera?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Si está al aire libre y el producto tiene autorización de aplicación aérea, sí; el bancal estrecho en pendiente es donde más aporta el seguimiento de terreno del T50. Contra el picudo, no." }
+          "name": "¿Se puede pulverizar con dron una platanera en bancales de La Gomera?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Si está al aire libre, sí, con foliares o bioestimulantes permitidos en platanera; el bancal estrecho en pendiente es donde más aporta el seguimiento de terreno del T50. Contra el picudo, no." }
         },
         {
           "@type": "Question",
           "name": "¿El dron trata la viña de la DO La Gomera?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Va al aire libre y en bancales de pendiente fuerte, así que encaja, con producto y plan autorizados. Sin avisos locales de oídio o mildiu, se trabaja con los avisos generales de Canarias." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Va al aire libre y en bancales de pendiente fuerte, así que encaja, con foliares o bioestimulantes permitidos en viña. Oídio y mildiu, sin avisos locales, son cosa de sanidad vegetal, no del dron." }
         },
         {
           "@type": "Question",
