@@ -232,15 +232,15 @@ Fuentes: https://www.gevic.net/info/contenidos/mostrar_contenidos.php?idcat=62&i
 
 ## 4. Pendiente de verificar
 
-1. **Superficie cultivada por municipio (los 21):** descargar la serie ISTAC E01135A_000003 (datos.canarias.es) y/o leer el ranking completo del Mapa de Cultivos 2024 en Canarias7/COAG. Solo Artenara (53,5 ha, 2019), Gáldar (960,2 ha ~2019 / 1.694 ha agrícolas), Guía (1.035 ha regadío, 2009) y Telde (~1.000 ha, sin año) tienen cifra.
-2. **Unidad de los valores 38,9 / 36,8 / 29,0** (La Aldea, Telde, Mogán) del Mapa de Cultivos 2024: ¿% de suelo agrícola cultivado?
+1. **Superficie cultivada por municipio (los 21):** descargar la serie ISTAC E01135A_000003 (datos.canarias.es) y/o leer el ranking completo del Mapa de Cultivos 2024 en Canarias7/COAG. Solo Artenara (53,5 ha, 2019), Gáldar (960,2 ha ~2019 / 1.694 ha agrícolas), Guía (1.035 ha regadío, 2009) y Telde tienen cifra; la segunda pasada añadió datos ISTAC hasta 2017 de Agaete, Arucas, Telde, Teror y San Mateo (ver abajo). Sigue pendiente la serie actual (la descarga de datos.canarias.es está bloqueada desde el entorno).
+2. **Unidad de los valores 38,9 / 36,8 / 29,0** (La Aldea, Telde, Mogán) del Mapa de Cultivos 2024: el boletín de COAG Canarias (enero de 2025, https://coagcanarias.com/wp-content/uploads/2025/03/NOTICIAS-25-01-25.pdf) los da como «hectáreas», lo que es imposible; tampoco es % del término (La Aldea: 4,37 % en ISTAC 2017). Sigue sin unidad.
 3. **Tomate −32,6 vs 2019:** ¿% o ha?
 4. **Platanera bajo malla/invernadero en GC (%)** frente a aire libre; el dato 3.200/9.100 ha es del archipiélago y de fuente no confirmada.
 5. **Papa:** conciliar 805,8 ha (Mapa 2024) con ~1.200 ha (Cabildo 2025-26).
 6. **Viña DO Gran Canaria:** 176 (inscritas 2026) vs 190 (productivas 2025) vs 218/231 (antiguas).
 7. **Café Agaete:** 10-15 ha (cafetal puro) vs 206-300 ha (fincas mixtas).
 8. **Almendro:** ">3.000 ha" solo en blog turístico; buscar dato oficial (Cabildo/ISTAC) y desglose Tejeda/Valsequillo.
-9. **Fresa de Valsequillo:** confirmar si va bajo macrotúnel/invernadero (condiciona el dron) y hectáreas.
+9. **Fresa de Valsequillo:** confirmar si va bajo macrotúnel/invernadero (condiciona el dron). Hectáreas: ver «Confirmado en la segunda pasada».
 10. **Aloe vera en Santa Lucía/sureste:** no encontrado.
 11. **Las Palmas de GC:** superficie de platanera en Tenoya/Tamaraceite y viña en Tafira; decidir B/C según ISTAC y volumen SEO.
 12. **Firgas, Ingenio, Tejeda:** nivel provisional; confirmar con ISTAC.
@@ -249,3 +249,11 @@ Fuentes: https://www.gevic.net/info/contenidos/mostrar_contenidos.php?idcat=62&i
 15. **Viento en Pozo Izquierdo/Arinaga:** afirmación de conocimiento general; añadir fuente (AEMET o Cabildo).
 16. **Catálogo Plátano de Canarias 2024 (francés):** aparece "Gran Canaria 3.894 ha", pero la tabla extraída está desalineada; no usar sin comprobar.
 17. **"Telde, primer municipio agrícola de Canarias por valor de producción":** afirmación de Wikiwand sin fuente primaria.
+18. **Avisos de mildiu en papa para Gran Canaria:** los avisos de riesgo alto de 2024 que se citaban como «Agrocabildo» son del Cabildo de Tenerife y para el norte de Tenerife (https://www.argenpapa.com.ar/noticia/14489-espana-aviso-ante-el-riesgo-alto-de-hongo-mildiu-para-los-cultivos-de-papa-en-el-norte-de-tenerife). Falta fuente de avisos del Cabildo de Gran Canaria. Corregido en Moya y Vega de San Mateo.
+
+### Confirmado en la segunda pasada
+
+- **Superficie cultivada municipal, ISTAC (datos hasta 2017), recogida por Canarias7** (https://www.canarias7.es/canarias/gran-canaria/galdar-es-el-municipio-que-dedica-mas-superficie-al-cultivo-agricola-EF5799116): Gáldar 960,2 ha (la mayor); Telde 716,6 ha; Agaete 89 ha; Artenara 52,3 ha. En proporción del término: Arucas 16,53 % (la mayor), Santa Brígida 16,50 %, San Mateo >14 %, Teror y Firgas >13 %, Valsequillo 12,41 %, La Aldea 4,37 % de sus 12.358 ha. Usado en Agaete, Arucas, Telde y Teror. Ojo: Artenara figura aquí con 52,3 ha, no 53,5.
+- **Mapa de Cultivos 2024 de Gran Canaria (COAG, enero de 2025):** 9.211,02 ha cultivadas de 27.690,59 ha de superficie agrícola (66,74 % sin cultivar); −769 ha (−8,1 %) frente a 2019. https://coagcanarias.com/wp-content/uploads/2025/03/NOTICIAS-25-01-25.pdf (no confundir con las 8.102,8 ha del ISTAC 2024, otra metodología).
+- **Fresa de Valsequillo:** más de 50 hectáreas y algo más de 2 millones de kilos al año (Canarias7, abril de 2023). https://www.canarias7.es/canarias/gran-canaria/valsequillo-presume-fresa-20230423132728-nt.html
+- **Indicios no usados como dato:** La Aldea, estación AEMET 129,6 mm (2024-25) y 251 mm (2025-26) (https://www.embalses.net/estacion-meteorologica-661.html); IGN, 700–1.000 mm en medianías frescas del norte (https://www.ign.es/espmap/graficos_ma_eso/pdf/Graf_07Ltexto.pdf); almendro >3.000 ha en la isla (RTVC, 2024, prensa).
