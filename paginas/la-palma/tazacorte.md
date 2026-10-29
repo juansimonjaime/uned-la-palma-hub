@@ -12,7 +12,7 @@ municipio: "Tazacorte"
 
 # Dron agrícola en Tazacorte: la platanera del llano más soleado de La Palma
 
-El Mapa de Cultivos de La Palma de 2022 (Gobierno de Canarias) da para Tazacorte 450,54 hectáreas de platanera frente a 3,40 de aguacate y 0,18 de viña: un término de 11,37 km² [VERIFICAR: superficie exacta del municipio] donde casi todo lo que se cultiva es plátano. Un dron agrícola en Tazacorte se juzga por una sola cosa: cómo trata una finca de piña al aire libre en el llano.
+El Mapa de Cultivos de La Palma de 2022 (Gobierno de Canarias) da para Tazacorte 450,54 hectáreas de platanera frente a 3,40 de aguacate y 0,18 de viña: un término de 12,04 km² desde las fajanas de 2021 (RTVC) donde casi todo lo que se cultiva es plátano. Un dron agrícola en Tazacorte se juzga por una sola cosa: cómo trata una finca de piña al aire libre en el llano.
 
 [IMAGEN: Fincas de platanera de Tazacorte vistas desde el aire, con los muros de las sorribas y las cadenas de riego marcando las parcelas | alt: Platanera al aire libre en el llano costero de Tazacorte, La Palma]
 
@@ -26,7 +26,7 @@ El parcelario es regular y buena parte de la propiedad está en manos de no resi
 
 El picudo negro está en La Palma desde 2001 (ICIA) y en 2021 el Gobierno de Canarias lanzó una campaña con feromonas de agregación para frenarlo. La cochinilla algodonosa (Dysmicoccus grassii) no para en invierno y llega a ocho generaciones al año en Canarias; su melaza trae negrilla a hoja y fruto. El trips Hercinothrips femoralis platea la piña y después la oscurece (guía Coplaca 2014).
 
-La cochinilla pesa tanto en la platanera canaria que para 2026 hubo una autorización excepcional de piriproxifen en el cultivo (COSEPAL). Esa lucha es de sanidad vegetal y del técnico de cada finca, no del dron. La araña roja figura en los datos sin fuente técnica [VERIFICAR: fuente canaria sobre araña roja en platanera].
+La cochinilla pesa tanto en la platanera canaria que para 2026 hubo una autorización excepcional de piriproxifen en el cultivo (COSEPAL). Esa lucha es de sanidad vegetal y del técnico de cada finca, no del dron. La araña roja figura entre las plagas de la platanera en el manual de gestión integrada de la cochinilla del ICIA (2018).
 
 Lo que el dron pulveriza en Tazacorte es abono foliar, bioestimulante o corrector de uso permitido en platanera, a dosis de etiqueta, para la piña que ha pasado el calor de un verano como el de 2024 o la ceniza de 2021. Sin promesa de resultado.
 

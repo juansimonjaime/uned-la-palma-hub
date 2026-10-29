@@ -18,7 +18,7 @@ El Paso es el municipio más extenso de La Palma, con 135,92 km², y el único s
 
 ## ¿Se puede tratar con dron una viña en Las Manchas o en Tacande?
 
-Sí, si está al aire libre, el producto es de uso permitido en viña y la parcela deja sitio para volar. La viña de El Paso se reparte entre Las Manchas, Tacande y el entorno del casco [VERIFICAR: hectáreas de viña del municipio], dentro de la DO Vinos La Palma. Una viña baja, en vaso o rastrera, es cómoda para el dron: la altura sobre la planta se mantiene y el radar sigue el bancal.
+Sí, si está al aire libre, el producto es de uso permitido en viña y la parcela deja sitio para volar. La viña de El Paso se reparte entre Las Manchas, Tacande y el entorno del casco, con 45 hectáreas inscritas en la DO Vinos La Palma según su Consejo Regulador en 2021 (RTVC). Una viña baja, en vaso o rastrera, es cómoda para el dron: la altura sobre la planta se mantiene y el radar sigue el bancal.
 
 El problema con nombre es el mildiu y el oídio: el Consejo Regulador los documentó en la campaña de 2025 en toda la isla, con el calor castigando la uva pendiente (El Time). Ese frente lo lleva el viticultor con su técnico y los avisos de sanidad vegetal. El dron entra en otro trabajo: el abonado foliar y el bioestimulante pensados para una cepa que ha pasado calor en agosto y ceniza en el suelo, con un producto que la etiqueta permita en viña.
 
@@ -32,7 +32,7 @@ La plaga principal es el ácaro cristalino (Oligonychus perseae), en La Palma de
 
 Depende de para qué. El almendro es cultivo tradicional en recuperación: en 2021 el Ayuntamiento coordinó con las Agencias de Extensión Agraria y la Reserva de la Biosfera la entrega de almendreros a vecinos, también como barrera frente a incendios (Canal Agrario), y el Cabildo habilitó 7 ha para el cultivo en la isla (El Time). Son árboles en lindes y bancales, no una plantación regular.
 
-En los datos no hay plaga ni carencia del almendro documentada para El Paso [VERIFICAR: plagas y carencias documentadas del almendro en el municipio]. Si tu técnico marca un abono foliar o un corrector que aplicar, el dron puede hacerlo sobre árboles sueltos, pero con muchas paradas y poca superficie por vuelo; en esos casos lo decimos antes de dar presupuesto.
+En los datos no hay plaga ni carencia del almendro documentada para El Paso [VERIFICAR: indicio en RTVC: pulgón negro en almendros de la isla]. Si tu técnico marca un abono foliar o un corrector que aplicar, el dron puede hacerlo sobre árboles sueltos, pero con muchas paradas y poca superficie por vuelo; en esos casos lo decimos antes de dar presupuesto.
 
 ## ¿Cómo afecta el volcán de 2021 a los tratamientos en El Paso?
 
@@ -48,7 +48,7 @@ Tres cosas: los datos de la finca (ubicación, cultivo, superficie, accesos, cab
 
 El piloto vuela en la categoría específica de AESA, como operador STS o bajo el PDRA-S01, y antes de cada vuelo en El Paso revisa el mapa de zonas geográficas de UAS de ENAIRE para saber en qué zona cae el bancal.
 
-El día del vuelo se miran las condiciones. En El Paso los vientos son de componente E-NE, canalizados por la cumbre, y el mar de nubes desborda a veces la Cumbre Nueva y mete niebla en las medianías [VERIFICAR: frecuencia del desborde del alisio sobre El Paso]. Con niebla o racha no se trata; se espera a la siguiente ventana.
+El día del vuelo se miran las condiciones. En El Paso los vientos son de componente E-NE, canalizados por la cumbre, y el mar de nubes desborda a veces la Cumbre Nueva y mete niebla en las medianías [VERIFICAR: frecuencia; visitlapalma.es solo dice «a veces»]. Con niebla o racha no se trata; se espera a la siguiente ventana.
 
 ## ¿Qué cultivos de El Paso tienen sentido con dron y cuáles no?
 
@@ -63,7 +63,7 @@ Para ver el conjunto, consulta [dron agrícola en La Palma](https://agrodroncana
 ## Preguntas frecuentes sobre el dron agrícola en El Paso
 
 ### ¿A qué altitud puede trabajar el dron en El Paso?
-Las fincas del municipio están entre 400 y 1.000 m, y el casco a 600-650 m [VERIFICAR: altitud del casco]. El T50 trabaja en ese rango; lo que manda no es la altitud sino el viento y la niebla del día.
+Las fincas del municipio están entre 400 y 1.000 m, y el casco a 600-650 m [VERIFICAR: indicio en Wikipedia: 644 m]. El T50 trabaja en ese rango; lo que manda no es la altitud sino el viento y la niebla del día.
 
 ### ¿Se puede tratar un bancal de viña de media hectárea en Tacande?
 Sí. Las parcelas pequeñas se tratan; lo que cambia es que el dron pasa poco tiempo en el aire por cada despegue. Si tienes varios bancales cercanos conviene agruparlos en la misma salida.

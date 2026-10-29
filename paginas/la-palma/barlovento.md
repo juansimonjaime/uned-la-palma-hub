@@ -20,7 +20,7 @@ Barlovento es el principal municipio productor de papas de la isla, según la En
 
 Para la polilla guatemalteca, no. La Tecia solanivora llegó a La Palma en 2002 y está extendida por toda la isla según la guía de gestión integrada del ICIA. La larva come dentro del tubérculo, bajo tierra, y un caldo pulverizado sobre la hoja no la toca. Lo que funciona lo tiene documentado el Cabildo de Tenerife: trampas de feromona, rotación de parcelas y no dejar ni una papa en el campo tras la cosecha.
 
-Para el abonado foliar de la papa la respuesta cambia. El mildiu de la hoja [VERIFICAR: aviso o fuente local de mildiu de la papa en Barlovento] lo sigue tu técnico con lo que marque sanidad vegetal; el dron aplica abono foliar o un corrector de carencias para una mata que viene de sequía o de semanas de niebla. Y en las terrazas de papa de las medianías arrastrar un atomizador cuesta más que la propia aplicación.
+Para el abonado foliar de la papa la respuesta cambia. El mildiu de la hoja [VERIFICAR: indicio en Agrocabildo (Cabildo de Tenerife): enfermedad más grave de la papa en Canarias; sin aviso local de La Palma] lo sigue tu técnico con lo que marque sanidad vegetal; el dron aplica abono foliar o un corrector de carencias para una mata que viene de sequía o de semanas de niebla. Y en las terrazas de papa de las medianías arrastrar un atomizador cuesta más que la propia aplicación.
 
 Un apunte más sobre esas medianías. La Laguna de Barlovento, la gran balsa de riego comarcal del norte, estaba vacía en pleno invierno de 2020 (Diario de Avisos), con efecto sobre papas, viña y almendro. La papa de aquí sabe de niebla y también de sequía.
 

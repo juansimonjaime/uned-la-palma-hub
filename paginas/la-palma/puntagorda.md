@@ -18,7 +18,7 @@ Puntagorda está a unos 600 m de altitud media (turismorural.com), en el noroest
 
 ## Invierno: almendro en flor, viña parada y planos sobre la mesa
 
-El almendro florece en pleno invierno y Puntagorda lo celebra con la Fiesta del Almendro en Flor. En esa época no hay aplicación foliar que hacer en la viña, que está en reposo, y en los datos no figura ninguna plaga del almendro documentada en el municipio [VERIFICAR: plagas y carencias documentadas del almendro en Puntagorda].
+El almendro florece en pleno invierno y Puntagorda lo celebra con la Fiesta del Almendro en Flor. En esa época no hay aplicación foliar que hacer en la viña, que está en reposo, y en los datos no figura ninguna plaga del almendro documentada en el municipio [VERIFICAR: indicio en RTVC: pulgón negro en almendros de la isla].
 
 Es el momento de levantar el plano de las fincas, listar obstáculos y mirar en el mapa de ENAIRE en qué zona cae cada parcela, para llegar a la primavera con los vuelos ya dibujados.
 
@@ -46,7 +46,7 @@ Tras la vendimia la viña baja el ritmo; un foliar de poscosecha, si tu técnico
 
 ## Terreno y accesos: dónde vuela un dron agrícola en Puntagorda
 
-El municipio ocupa unos 31 km² [VERIFICAR: superficie exacta] de lomos suaves entre barrancos profundos, Garome e Izcagua entre ellos [VERIFICAR: barrancos del término], con bancales de almendro y viña, y una costa acantilada con platanera en pequeños llanos. Las pistas van en pendiente y la agricultura es minifundista y dispersa [VERIFICAR: estructura de la propiedad]. Para el dron eso significa fincas pequeñas tratadas en poco tiempo y desplazamientos entre fincas que pesan en la jornada.
+El municipio ocupa unos 31 km² [VERIFICAR: indicio en Wikipedia: 31,10 km²] de lomos suaves entre barrancos profundos, Garome e Izcagua entre ellos [VERIFICAR: indicio en Wikipedia: son sus límites norte y sur], con bancales de almendro y viña, y una costa acantilada con platanera en pequeños llanos. Las pistas van en pendiente y la agricultura es minifundista y dispersa [VERIFICAR: estructura de la propiedad]. Para el dron eso significa fincas pequeñas tratadas en poco tiempo y desplazamientos entre fincas que pesan en la jornada.
 
 El T50 lleva 40 litros y aplica hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (DJI): en un bancal de almendro o viña una carga puede dar para toda la parcela, y el radar de matriz en fase mantiene la altura sobre el cultivo cuando el lomo baja al barranco. Agrupar parcelas vecinas en la misma salida es la forma de que salga a cuenta.
 

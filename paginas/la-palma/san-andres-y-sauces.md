@@ -24,7 +24,7 @@ Para el dron esto cambia la planificación. En lugar de un vuelo único sobre to
 
 ## Meses de lluvia y niebla: la humedad trabaja para los hongos
 
-El nordeste de La Palma supera los 1.000 mm de lluvia al año (macaronesian.org), con mar de nubes frecuente y humedad relativa alta casi siempre. En ese ambiente los hongos foliares encuentran hoja mojada a diario [VERIFICAR: fuente local sobre hongos foliares en platanera; la Sigatoka no estaba presente en Canarias según el ICIA en 2002].
+El nordeste de La Palma supera los 1.000 mm de lluvia al año (macaronesian.org), con mar de nubes frecuente y humedad relativa alta casi siempre. En ese ambiente los hongos foliares encuentran hoja mojada a diario [VERIFICAR: fuente local sobre hongos foliares en platanera; indicio en El Independiente (2019): Canarias sigue libre de Sigatoka].
 
 En los meses más húmedos el dron tiene dos límites claros. Con la hoja chorreando, el producto resbala y se pierde, así que se espera a que seque. Y con la niebla pegada a la ladera o la llovizna entrando por el Barranco del Agua no se despega. Las ventanas existen, pero son cortas y hay que mirar el parte y la propia ladera.
 

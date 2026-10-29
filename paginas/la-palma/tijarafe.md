@@ -18,9 +18,9 @@ Tijarafe tiene 11,5 km de costa y el casco a 640 m (Gobierno de Canarias): entre
 
 ## Del acantilado a los 900 metros: así es el terreno
 
-El término mide 53,76 km² y tenía 614,9 ha en producción en 2019 según el Observatorio de Sostenibilidad 2020, la tercera superficie agrícola de la isla. La platanera ocupa las plataformas costeras de 0 a 250 m, en zonas como Candelaria y El Jesús [VERIFICAR: pagos plataneros de la costa], a las que se baja por pistas abiertas en el acantilado. Aguacate y viña van en los bancales de medianías entre 400 y 900 m; arriba, pinar.
+El término mide 53,76 km² y tenía 614,9 ha en producción en 2019 según el Observatorio de Sostenibilidad 2020, la tercera superficie agrícola de la isla. La platanera ocupa las plataformas costeras de 0 a 250 m, en zonas como Candelaria y El Jesús [VERIFICAR: indicio en las rutas de senderos del Ayuntamiento de Tijarafe: plataneras en el camino El Jesús–El Time y Porís de Candelaria al pie del Jurado], a las que se baja por pistas abiertas en el acantilado. Aguacate y viña van en los bancales de medianías entre 400 y 900 m; arriba, pinar.
 
-Los barrancos están muy encajados: Garome, Jurado, Tinizara [VERIFICAR: barrancos citados]. Eso parte el municipio en lomos con fincas pequeñas, bancales estrechos y muros altos, con pistas que entran a una finca y no a la de al lado. La mayoría trabaja el plátano en la costa por ser el más rentable, mientras las medianías tienen cultivos de subsistencia (EnciclopediaGuanche).
+Los barrancos están muy encajados: Garome y Jurado (web turística del Ayuntamiento de Tijarafe), y Tinizara [VERIFICAR: Tinizara figura como pago con ermita; confirmar si hay barranco con ese nombre]. Eso parte el municipio en lomos con fincas pequeñas, bancales estrechos y muros altos, con pistas que entran a una finca y no a la de al lado. La mayoría trabaja el plátano en la costa por ser el más rentable, mientras las medianías tienen cultivos de subsistencia (EnciclopediaGuanche).
 
 ## Lo que cuesta hoy tratar una finca de Tijarafe a mano
 

@@ -18,7 +18,7 @@ La tabla municipal del Mapa de Cultivos de 2017 da a Puntallana 177,58 hectárea
 
 ## Barrancos que parten el municipio y bancales sobre el mar
 
-El casco está a 420 metros. Por debajo, la platanera ocupa la franja costera baja en bancales y sorribas, en pagos como El Granel, Bajamar o Tenagua [VERIFICAR: topónimos agrícolas orientativos]. Entre los 300 y los 700 metros vienen el aguacate y la huerta, y más arriba la laurisilva. Todo ello lo cruzan barrancos profundos que obligan a dar la vuelta por la carretera para pasar de una finca a la de al lado.
+El casco está a 420 metros. Por debajo, la platanera ocupa la franja costera baja en bancales y sorribas, en pagos como El Granel, Bajamar o Tenagua [VERIFICAR: indicio en Wikipedia: El Granel y Tenagua son barrios del municipio; Bajamar–Martín Luis es llano costero con platanera]. Entre los 300 y los 700 metros vienen el aguacate y la huerta, y más arriba la laurisilva. Todo ello lo cruzan barrancos profundos que obligan a dar la vuelta por la carretera para pasar de una finca a la de al lado.
 
 Las 427 hectáreas en producción que recoge el Observatorio de Sostenibilidad 2020 (datos de 2019) están, por tanto, muy troceadas. Y las de costa, además, colgadas: sorribas ganadas al acantilado con un camino de bajada que a veces es poco más que un sendero con muro.
 

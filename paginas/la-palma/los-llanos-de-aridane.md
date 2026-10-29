@@ -26,7 +26,7 @@ Clima de sotavento: cielo despejado, insolación alta y capa seca sin nubosidad 
 
 La platanera clásica del Valle, al aire libre con mallas cortaviento puntuales [VERIFICAR: proporción de platanera bajo malla en el municipio]. Fincas en sorriba, cadenas de riego, piñas que salen hacia Covalle, Cupalma, Europlátano o La Prosperidad. Pulverizar con dron esta zona es directo: parcelas regulares, pocos obstáculos altos y relieve fácil para el radar del T50.
 
-Un matiz: Puerto Naos y La Bombilla arrastraron gases volcánicos residuales (CO2) hasta 2024-2025 [VERIFICAR: estado actual de las restricciones], así que ahí se comprueba el acceso finca a finca.
+Un matiz: Puerto Naos y La Bombilla siguen con CO2 volcánico residual y en 2026 el Cabildo aún autorizaba la vuelta por fases (RTVC), así que ahí se comprueba el acceso finca a finca.
 
 ## Todoque y La Laguna: fincas sobre la colada y fincas aisladas
 
@@ -42,7 +42,7 @@ Esas fincas tienen dos pegas para el tratamiento clásico: pistas nuevas que no 
 
 Fuera de la huella de la lava, Los Campitos y el resto del llano siguen como antes de 2021: piña al aire libre, sorribas con muros y su cadena de riego. El dron para plataneras gana aquí cuando hay que tratar sin pisar la finca: suelo encharcado, hierba alta entre pies o semanas de mucha carga en el empaquetado.
 
-En las medianías de 300 a 600 m manda el aguacate; Los Llanos era en 2017 el segundo municipio aguacatero tras Tijarafe (eldiario.es) [VERIFICAR: hectáreas de aguacate 2022]. Hay mango, papaya y hortalizas a menor escala según la web municipal, y viña residual en Las Manchas y Todoque [VERIFICAR: superficie]. En un bancal de aguacateros altos la mochila castiga; el dron trata desde arriba.
+En las medianías de 300 a 600 m manda el aguacate; Los Llanos era en 2017 el segundo municipio aguacatero tras Tijarafe (eldiario.es) [VERIFICAR: hectáreas de aguacate 2022]. Hay mango, papaya y hortalizas a menor escala según la web municipal, y viña residual en Las Manchas y Todoque: 20 hectáreas inscritas en la DO según su Consejo Regulador en 2021 (RTVC). En un bancal de aguacateros altos la mochila castiga; el dron trata desde arriba.
 
 ## Picudo, cochinilla, trips y ácaro cristalino: lo que está documentado
 
@@ -51,9 +51,9 @@ En la platanera del municipio los datos recogen cuatro problemas:
 - Picudo negro (Cosmopolites sordidus), en La Palma desde 2001 según el ICIA; la prensa local habla de hasta un 40 % de merma y el Gobierno de Canarias repartió 30.000 feromonas en la campaña de 2021.
 - Cochinilla algodonosa (Dysmicoccus grassii), hasta ocho generaciones al año en Canarias, con ensayos de control biológico con Cryptolaemus en La Palma (ICIA).
 - Trips (Hercinothrips femoralis), que platea y oscurece el fruto (guía Coplaca 2014).
-- Araña roja [VERIFICAR: fuente técnica canaria].
+- Araña roja, citada entre las plagas de la platanera en el manual de gestión integrada de la cochinilla del ICIA (2018).
 
-En el aguacate la plaga principal es el ácaro cristalino (Oligonychus perseae), en La Palma desde 2005 y presente en todas las zonas productoras según el Canal Agrario La Palma. El picudo vive en el rizoma y la base del pseudotallo: ahí una pulverización desde arriba no llega. Cochinilla, trips y ácaro son asunto de tu técnico y de sanidad vegetal; el dron no entra en esa lucha.
+En el aguacate la plaga principal es el ácaro cristalino (Oligonychus perseae), en La Palma desde 2005 y presente en todas las zonas productoras según el Canal Agrario La Palma. Cochinilla, trips y ácaro son asunto de tu técnico y de sanidad vegetal; el dron no entra en esa lucha.
 
 ## Qué hace y qué no hace un dron agrícola en Los Llanos de Aridane
 
@@ -73,7 +73,7 @@ Más contexto en [tratamientos con dron en La Palma](https://agrodroncanarias.es
 Sí, si está al aire libre y el producto es de uso permitido en platanera. Es el caso más claro del municipio: pistas nuevas y sorribas recientes que conviene no pisar con maquinaria.
 
 ### ¿Qué pasa con las fincas de Puerto Naos y La Bombilla que estuvieron cerradas por los gases?
-Se comprueba primero el estado de acceso de cada finca [VERIFICAR: restricciones vigentes por CO2 en Puerto Naos y La Bombilla]. Si el piloto y el equipo de apoyo pueden entrar, se trata como cualquier otra del llano.
+Se comprueba primero el acceso de cada finca, aún sujeto en 2026 a las mediciones de CO2 (RTVC). Si el piloto y el equipo de apoyo pueden entrar, se trata como cualquier otra del llano.
 
 ### ¿El dron sirve contra el picudo negro de la platanera?
 No. El picudo vive en el rizoma y la base del pseudotallo, donde una pulverización desde arriba no llega; lo que los datos recogen como más eficaz son las trampas de feromonas (Phytoma, campaña de 2021). El dron se usa para abonado foliar y bioestimulantes, no contra plagas.

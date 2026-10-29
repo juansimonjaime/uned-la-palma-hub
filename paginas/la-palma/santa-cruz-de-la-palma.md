@@ -18,7 +18,7 @@ Santa Cruz de La Palma es el municipio con menos agricultura de la isla: 210,2 h
 
 ## ¿Merece la pena un dron agrícola en Santa Cruz de La Palma para media hectárea?
 
-Aquí la finca típica es chica y está en cuesta. El término, de unos 43 kilómetros cuadrados [VERIFICAR: superficie municipal exacta], está encajado entre acantilados y los barrancos de las Nieves, del Río y de Dolores, y los cultivos se reparten por laderas de fuerte pendiente y bancales en las medianías de Velhoco, Mirca y Las Nieves, entre 100 y 800 metros. Agricultura minifundista y periurbana, con la casa al lado de la platanera.
+Aquí la finca típica es chica y está en cuesta. El término, de 43,38 kilómetros cuadrados (INE, recogido por la ULPGC), está encajado entre acantilados y los barrancos de las Nieves, del Río y de Dolores, y los cultivos se reparten por laderas de fuerte pendiente y bancales en las medianías de Velhoco, Mirca y Las Nieves, entre 100 y 800 metros. Agricultura minifundista y periurbana, con la casa al lado de la platanera.
 
 La respuesta corta: depende de la cuesta y del acceso, no del tamaño. Media hectárea en bancales que se trata con mochila cuesta medio día y las rodillas; con el dron, el depósito de 40 litros del DJI Agras T50 casa con esa escala y se rellena una o dos veces. Y como la base está en la misma ciudad, no hay desplazamiento. Si la finca es llana y se trata en una hora con mochila, te lo diremos también.
 
@@ -26,7 +26,7 @@ La respuesta corta: depende de la cuesta y del acceso, no del tamaño. Media hec
 
 El aguacate es lo que crece: 49 hectáreas en 2017, un 68,97 % más que en 2008 (Mapa de Cultivos de La Palma 2017, vía Canarias Agrícola). La platanera va al revés: 29 hectáreas en 2017, un 14,71 % menos que en 2008 (misma fuente), en fincas pequeñas de la costa que a menudo tienen agua propia [VERIFICAR: fincas plataneras de Mirca con agua propia].
 
-La viña entra en la subzona Hoyo de Mazo de la DO [VERIFICAR: viña en Velhoco y Mirca], y el resto es huerta y frutales de medianías.
+La viña entra en la subzona Hoyo de Mazo de la DO [VERIFICAR: indicio en Guía Peñín: bodega Agrícola Velhoco; sin superficie de viña], y el resto es huerta y frutales de medianías.
 
 Las plagas son las de la vertiente este:
 

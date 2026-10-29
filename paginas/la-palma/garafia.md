@@ -32,7 +32,7 @@ El encaje del dron en estos bancales viene de los sensores. El DJI Agras T50 lle
 
 ## Las Tricias y los pagos del almendro
 
-Las Tricias es el pueblo de los almendros de Garafía, repartidos en bancales y con árboles ya grandes. En los datos locales no hay ninguna plaga del almendro documentada para el municipio [VERIFICAR: plagas del almendro en Garafía], y un técnico serio no pulveriza por pulverizar. Si tu técnico ve una carencia que corregir en hoja, o quieres un bioestimulante tras la poda, el dron puede cubrir copas en terreno quebrado; si no, el almendro se deja estar.
+Las Tricias es el pueblo de los almendros de Garafía, repartidos en bancales y con árboles ya grandes. En los datos locales no hay ninguna plaga del almendro documentada para el municipio [VERIFICAR: indicio en RTVC: pulgón negro en almendros de la isla], y un técnico serio no pulveriza por pulverizar. Si tu técnico ve una carencia que corregir en hoja, o quieres un bioestimulante tras la poda, el dron puede cubrir copas en terreno quebrado; si no, el almendro se deja estar.
 
 Por encima, el pinar y el Roque de los Muchachos a 2.426 metros. Ahí no hay cultivo, así que ahí el trabajo del dron termina.
 

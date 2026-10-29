@@ -162,7 +162,6 @@ Cifras de isla:
 - Proporción de platanera bajo malla/invernadero en La Palma (solo dato canario: ~35 %).
 - Número de explotaciones agrarias (Censo Agrario INE 2020, REGEPA).
 - Estado actual de Sigatoka/Mycosphaerella en Canarias (último dato ICIA 2002: ausente).
-- Araña roja en platanera: falta fuente técnica canaria.
 - Mildiu de la papa y botritis en viña: sin fuente local.
 
 Cifras municipales:
@@ -173,9 +172,19 @@ Cifras municipales:
 - Villa de Mazo: año de las cifras de tierrasagroecologicas.es (165 ha platanera protegida, 167 ha viña).
 - Hectáreas de viña por municipio en las subzonas Norte y Hoyo de Mazo.
 - Hectáreas de aguacate 2022 por municipio (solo ranking/valores 2017).
-- Superficie municipal post-erupción de Los Llanos, El Paso y Tazacorte.
+- Superficie municipal post-erupción de Los Llanos y El Paso (Tazacorte, ver abajo).
 - Rangos altitudinales exactos de las zonas agrícolas por municipio (se han estimado a partir de la altitud del casco y descripciones cualitativas).
 - Topónimos de barrancos y pagos agrícolas citados como orientación (Amargavinos, Izcagua, Garome, Jurado, Tinizara, El Granel, Bajamar, Las Caletas, Montes de Luna, Mirca, Velhoco, Candelaria, El Jesús, Tacande, Las Manchas).
 - Balsas y comunidades de regantes del Valle de Aridane (Dos Pinos, Vicario) y del norte.
 - Tradición tabaquera de Breña Alta.
 - Exposición al viento por municipio: solo hay fuentes de régimen general de alisios, no mediciones por zona agrícola.
+
+### Confirmado en la segunda pasada (2026-10-29)
+- Viña inscrita en la DO por municipio (Consejo Regulador, 2021): 485 ha en total, 45 ha en El Paso (Cabeza de Vaca, Tacande, Montaña Rajada) y 20 ha en Los Llanos de Aridane. https://rtvc.es/preocupacion-por-la-afeccion-del-volcan-sobre-los-vinedos-con-do/
+- Araña roja en platanera: citada entre las plagas de la platanera en el manual del ICIA de gestión integrada de Dysmicoccus grassii (2018). https://mdc.ulpgc.es/files/original/f43e8b5550429c99db03ad586fdfe162ac86ab51.pdf
+- Puerto Naos y La Bombilla: las restricciones por CO2 siguen en 2026, con reapertura por fases (más de 1.200 aperturas autorizadas en mayo de 2026). https://rtvc.es/puerto-naos-y-la-bombilla-superan-las-1-200-aperturas-autorizadas-en-su-recuperacion-tras-el-volcan-12-mayo-2026/
+- Tazacorte: superficie oficial 12,04 km² tras ganar 47 ha de fajanas en 2021 (antes 11,37 km²). https://rtvc.es/la-superficie-de-tazacorte-aumenta-47-hectareas-tras-la-erupcion
+- Santa Cruz de La Palma: 43,38 km² (INE, recogido por la ULPGC). https://accedacris.ulpgc.es/bitstream/10553/16592/1/Paisajes%20mixtos%20Revitalizarte.pdf
+- Tijarafe: barrancos de Garome y Jurado (web turística del Ayuntamiento); Tinizara figura como pago con ermita. https://visit.tijarafe.com/en/?p=1737
+
+Indicios (no confirmados, para orientar): pulgón negro en almendros de La Palma (RTVC, https://rtvc.es/pulgon-negro-almendros-la-palma/); Puntagorda 31,10 km² con Izcagua y Garome como límites (Wikipedia); casco de El Paso a 644 m (Wikipedia); Canarias libre de Sigatoka (El Independiente, 2019); informe de vendimia 2016 de la DO con parcelas inscritas por municipio, pendiente de leer (https://www.vinoslapalma.com/ficheros/vendimia-2016.pdf); el estudio de suelos de Fuencaliente toma 297,5 ha del Mapa de Cultivos del Gobierno de Canarias (25,5 % de la viña insular) sin indicar año.
