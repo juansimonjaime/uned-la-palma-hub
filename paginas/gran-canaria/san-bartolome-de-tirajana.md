@@ -12,7 +12,7 @@ municipio: "San Bartolomé de Tirajana"
 
 # Dron agrícola en San Bartolomé de Tirajana: el año del albaricoque y la viña
 
-San Bartolomé de Tirajana es el mayor productor de albaricoque de Canarias, con entre 15 y 20 hectáreas en Hoya Grande, Tunte, Fataga, Cercados de Araña y Manzanilla, y en 2021 recogió 55.000 kilos, el doble que en 2020 (Canarias7). Suma unas 20 hectáreas de viña y tres bodegas (maspalomas.com). Un dron agrícola en San Bartolomé de Tirajana se piensa por meses: cuándo florece el albaricoque, cuándo brota la viña y cuándo vale volar.
+San Bartolomé de Tirajana es el mayor productor de albaricoque de Canarias, con entre 15 y 20 hectáreas en Hoya Grande, Tunte, Fataga, Cercados de Araña y Manzanilla, y en 2021 recogió 55.000 kilos, el doble que en 2020 (Canarias7). Suma unas 20 hectáreas de viña y tres bodegas (maspalomas.com). Un dron agrícola en San Bartolomé de Tirajana se piensa por meses: cuándo florece el albaricoque, cuándo brota la viña y cuándo conviene volar.
 
 [IMAGEN: Bancales de albaricoqueros en flor en Tunte, con la caldera de Tirajana al fondo | alt: Albaricoqueros en flor en bancales de Tunte, San Bartolomé de Tirajana]
 

@@ -12,61 +12,63 @@ municipio: "Vallehermoso"
 
 # Dron agrícola en Vallehermoso: zona a zona, de la playa a los bancales de viña
 
-Vallehermoso es el municipio más extenso de La Gomera, 114 km² que cruzan la isla de la costa norte a la vertiente de sotavento, y está "dedicado básicamente a la agricultura, con regadío en terrazas" (Clubrural): viña, plátano, papa, frutales y maíz. Es el centro de la DO La Gomera. Un dron agrícola en Vallehermoso no se plantea igual en la playa que en un bancal de Forastera a 900 m, así que lo contamos por zonas.
+Vallehermoso es el municipio más extenso de La Gomera, 114 km² de la costa norte a la vertiente de sotavento, y está "dedicado básicamente a la agricultura, con regadío en terrazas" (Clubrural): viña, plátano, papa, frutales y maíz. Es el centro de la DO La Gomera. Un dron agrícola en Vallehermoso no se plantea igual en la playa que en un bancal de Forastera a 900 m, así que lo contamos por zonas.
 
 [IMAGEN: Bancales de viña y huerta escalonados en el barranco de Vallehermoso con el Roque Cano al fondo | alt: Bancales de viña en el barranco de Vallehermoso bajo el Roque Cano, La Gomera]
 
 ## Un municipio que es media isla y una DO entera
 
-La DO La Gomera suma 120–125 ha de viña, unos 230 viticultores y 20–22 bodegas (cosecha 2021, datos de la DO), con viñedos entre 50 y 1.450 m y la Forastera blanca en tres cuartas partes de la superficie. El vino calificado de 2022/23 fue de 414 hl, el más bajo de las DO canarias (MAPA, Informe DOPs 2023–2024). No hay desglose municipal [VERIFICAR: hectáreas de viña y platanera en Vallehermoso].
+La DO La Gomera suma 120–125 ha, unos 230 viticultores y 20–22 bodegas (cosecha 2021, datos de la DO), con viñedos entre 50 y 1.450 m y la Forastera blanca en tres cuartas partes de la superficie. El vino calificado de 2022/23 fue de 414 hl, el más bajo de las DO canarias (MAPA, Informe DOPs 2023–2024). Sin desglose municipal [VERIFICAR: hectáreas de viña y platanera en Vallehermoso].
 
-Lo del viaje, antes de bajar a las zonas: Agrodrón Canarias trabaja desde Santa Cruz de La Palma y viene a La Gomera con desplazamiento, bajo consulta y según disponibilidad. En un municipio tan largo, el orden de las fincas en el día importa tanto como el viento.
+Lo del viaje, antes de bajar a las zonas: Agrodrón Canarias trabaja desde Santa Cruz de La Palma y viene a La Gomera con desplazamiento, bajo consulta y según disponibilidad.
 
 ## Zona 1. La playa de Vallehermoso: platanera de costa
 
-En la boca del barranco, junto a la playa, está la platanera, en terrazas de regadío sobre el fondo del valle: la zona más llana y de acceso más directo. El picudo negro (Cosmopolites sordidus) está en la isla desde 1990 (Agrocabildo); contra él lo que hay documentado son trampas de feromona, Beauveria bassiana e inyección al tocón, no la pulverización desde el aire.
+En la boca del barranco, junto a la playa, está la platanera, en terrazas de regadío: la zona más llana y de acceso más directo. El picudo negro (Cosmopolites sordidus) está en la isla desde 1990 (Agrocabildo); contra él lo documentado son trampas de feromona, Beauveria bassiana e inyección al tocón, no la pulverización aérea.
 
-Donde el dron sí entra es en hoja y fruto: cochinilla algodonosa y trips, los dos problemas que Agrocabildo y la ULPGC recogen para la platanera canaria, con producto autorizado para aplicación aérea. La platanera de la costa va al aire libre [VERIFICAR: malla en la platanera de Vallehermoso]; lo cubierto queda fuera.
+El dron sí entra en hoja y fruto: cochinilla algodonosa y trips, los dos problemas que Agrocabildo y la ULPGC recogen para la platanera canaria, con producto autorizado para aplicación aérea. La platanera va al aire libre [VERIFICAR: malla en la platanera de Vallehermoso]; lo cubierto queda fuera.
 
-## Zona 2. El barranco bajo el Roque Cano: viña en bancales de 300 a 1.000 metros
+## Zona 2. Bajo el Roque Cano: viña en bancales de 300 a 1.000 metros
 
-Es la zona que mejor explica por qué un dron en Vallehermoso. El viñedo va en bancales de piedra sobre laderas fuertes, entre unos 300 y 1.000 m, con la Forastera como variedad principal: parcelas donde no entra tractor y donde el tratamiento de toda la vida es la mochila cuesta arriba, muro a muro.
+Es la zona que mejor explica el dron en Vallehermoso. El viñedo va en bancales de piedra sobre laderas fuertes, entre unos 300 y 1.000 m, con la Forastera como variedad principal: parcelas donde no entra tractor y donde el tratamiento de toda la vida es la mochila cuesta arriba, muro a muro.
 
-El T50 sigue el relieve con radar de matriz en fase y visión binocular, baja la velocidad en la pendiente y esquiva muros y postes (ficha técnica de DJI). Con 40 litros de depósito y de 16 a 24 L/min según las boquillas, un bancal se trata en pasadas cortas desde el camino. El oídio es endémico en Canarias y el mildiu entra en los avisos de Agrocabildo (2020); para la viña gomera no hay registro local [VERIFICAR: mildiu y oídio en Vallehermoso].
+El T50 sigue el relieve con radar de matriz en fase y visión binocular, baja la velocidad en la pendiente y esquiva muros y postes (ficha técnica de DJI). Con 40 litros de depósito y de 16 a 24 L/min según las boquillas, un bancal se trata en pasadas cortas desde el camino.
+
+El oídio es endémico en Canarias y el mildiu entra en los avisos de Agrocabildo (2020); para la viña gomera no hay registro local [VERIFICAR: mildiu y oídio en Vallehermoso].
 
 [IMAGEN: Dron agrícola DJI Agras T50 sobre un bancal de viña en pendiente en las medianías de Vallehermoso, con muros de piedra seca | alt: Dron agrícola tratando viña en bancales de Vallehermoso, La Gomera]
 
-## Zona 3. Medianías de regadío y la cara de sotavento: papa, frutales y los pagos secos
+## Zona 3. Medianías y sotavento: papa, frutales y pagos secos
 
-Entre la viña, las terrazas de regadío llevan papa, frutales y maíz, en gran parte para autoconsumo. La polilla guatemalteca (Tecia solanivora) está extendida parcialmente por La Gomera y en almacenes (MAPA); en campo el control es continuo y en el almacén no hay dron que valga. Una huerta de unos cuantos surcos no justifica traer el equipo desde La Palma; una ladera de terrazas sumada a la viña del vecino sí puede entrar en la misma salida.
+Entre la viña, las terrazas de regadío llevan papa, frutales y maíz, en gran parte para autoconsumo. La polilla guatemalteca (Tecia solanivora) está extendida parcialmente por La Gomera y en almacenes (MAPA); en campo el control es continuo y en el almacén no hay dron que valga. Una huerta de unos surcos no justifica el viaje desde La Palma; una ladera de terrazas sumada a la viña del vecino, sí.
 
-En la vertiente de sotavento, pagos como Alojera o Arguamul quedan fuera del alisio por debajo de 800–1.000 m, con pocos días de nubes y lluvia (Arozena): menos hongos, más sol y más viento en los lomos. Qué se cultiva hoy en cada pago es dato pendiente [VERIFICAR: cultivos y superficie en Alojera y Arguamul]. El reto aquí no es la planta sino el camino: carreteras largas y fincas dispersas, que se agrupan con otras del municipio.
+A sotavento, pagos como Alojera o Arguamul quedan fuera del alisio por debajo de 800–1.000 m, con pocos días de nubes y lluvia (Arozena): menos hongos, más sol y más viento en los lomos. Qué se cultiva hoy en cada pago es dato pendiente [VERIFICAR: cultivos y superficie en Alojera y Arguamul]. El reto aquí es el camino: carreteras largas y fincas dispersas que se agrupan con otras del municipio.
 
 ## Cómo se organiza un dron agrícola en Vallehermoso desde La Palma
 
-Nos mandas ubicación, cultivo, superficie, accesos y obstáculos (cables, palmeras, invernaderos). Planificamos el vuelo sobre el mapa de la parcela, el día del tratamiento medimos viento, aplicamos la dosis de la etiqueta dentro del plan de aplicación y lo dejamos registrado. Las lluvias de abril, que dan un respiro al campo gomero (RTVC), también marcan el calendario de salidas.
+Nos mandas ubicación, cultivo, superficie, accesos y obstáculos (cables, palmeras, invernaderos). Planificamos el vuelo sobre el mapa de la parcela, medimos viento el día del tratamiento, aplicamos la dosis de la etiqueta dentro del plan de aplicación y lo registramos. Las lluvias de abril, que dan un respiro al campo gomero (RTVC), marcan también el calendario de salidas.
 
-Marco legal en corto: la aplicación aérea de fitosanitarios es excepcional en España y necesita autorización previa del Gobierno de Canarias y un plan de aplicación aprobado (Real Decreto 1311/2012, arts. 27–28); el Ministerio equipara el dron a un tratamiento aéreo (nota MAPA–AESA de 2018), y el operador vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo PDRA-S01.
+Marco legal en corto: la aplicación aérea de fitosanitarios es excepcional en España y necesita autorización previa del Gobierno de Canarias y un plan de aplicación aprobado (Real Decreto 1311/2012, arts. 27–28); el Ministerio equipara el dron a un tratamiento aéreo (nota MAPA–AESA de 2018) y el operador vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo PDRA-S01.
 
 Páginas relacionadas: [dron agrícola en La Gomera](https://agrodroncanarias.es/dron-agricola-la-gomera/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [tratamientos con dron en platanera](https://agrodroncanarias.es/dron-agricola-platanera/) y el valle de al lado, [dron agrícola en Hermigua](https://agrodroncanarias.es/dron-agricola-la-gomera/hermigua/).
 
 ## Preguntas frecuentes sobre tratamientos con dron en Vallehermoso
 
 ### ¿Se puede tratar con dron un bancal de viña a 800 metros en Vallehermoso?
-Sí, si el equipo llega al borde de la parcela y el producto tiene autorización de aplicación aérea. La altitud no es el límite; lo son el viento del lomo ese día y los obstáculos del bancal.
+Sí, si el equipo llega al borde de la parcela y el producto tiene autorización de aplicación aérea. La altitud no es el límite; lo son el viento del lomo y los obstáculos del bancal.
 
 ### ¿Merece la pena el dron para la platanera de la playa de Vallehermoso?
-Para cochinilla o trips en hoja y fruto, con producto autorizado, si hay superficie seguida. Para el picudo, no: va al cormo y lo que funciona documentado son las trampas y la inyección al tocón.
+Para cochinilla o trips en hoja y fruto, con producto autorizado y superficie seguida, sí. Para el picudo, no: va al cormo y lo documentado son trampas e inyección al tocón.
 
 ### ¿La polilla guatemalteca de la papa se trata con dron?
-En campo, solo con producto que la etiqueta permita aplicar desde el aire y dentro del plan aprobado. En el almacén, donde el MAPA también la cita en La Gomera, el dron no pinta nada.
+En campo, solo con producto que la etiqueta permita aplicar desde el aire y dentro del plan aprobado. En el almacén, donde el MAPA también la cita, el dron no pinta nada.
 
 ### ¿Cuándo viene Agrodrón a La Gomera?
-Cuando hay fincas suficientes y fecha con buen viento. Se viaja desde La Palma con desplazamiento y bajo disponibilidad; cuanto antes nos cuentes la finca, antes encaja en una salida.
+Cuando hay fincas suficientes y fecha con buen viento. Se viaja desde La Palma con desplazamiento y bajo disponibilidad; cuanto antes nos cuentes la finca, antes encaja.
 
 ## Presupuesto para tu finca en Vallehermoso, zona por zona
 
-Cuéntanos en qué zona está tu viña, tu platanera o tu huerta y cuánta superficie quieres tratar. Te respondemos con un presupuesto que cuenta el desplazamiento desde La Palma y te decimos si entra en una próxima salida. Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y escríbenos.
+Cuéntanos en qué zona está tu viña, tu platanera o tu huerta y cuánta superficie quieres tratar. Te respondemos con un presupuesto que cuenta el desplazamiento desde La Palma y te decimos si entra en una próxima salida. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/).
 
 ```json
 {
@@ -101,22 +103,22 @@ Cuéntanos en qué zona está tu viña, tu platanera o tu huerta y cuánta super
         {
           "@type": "Question",
           "name": "¿Se puede tratar con dron un bancal de viña a 800 metros en Vallehermoso?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si el equipo llega al borde de la parcela y el producto tiene autorización de aplicación aérea. La altitud no es el límite; lo son el viento del lomo ese día y los obstáculos del bancal." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Sí, si el equipo llega al borde de la parcela y el producto tiene autorización de aplicación aérea. La altitud no es el límite; lo son el viento del lomo y los obstáculos del bancal." }
         },
         {
           "@type": "Question",
           "name": "¿Merece la pena el dron para la platanera de la playa de Vallehermoso?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Para cochinilla o trips en hoja y fruto, con producto autorizado, si hay superficie seguida. Para el picudo, no: va al cormo y lo que funciona documentado son las trampas y la inyección al tocón." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Para cochinilla o trips en hoja y fruto, con producto autorizado y superficie seguida, sí. Para el picudo, no: va al cormo y lo documentado son trampas e inyección al tocón." }
         },
         {
           "@type": "Question",
           "name": "¿La polilla guatemalteca de la papa se trata con dron?",
-          "acceptedAnswer": { "@type": "Answer", "text": "En campo, solo con producto que la etiqueta permita aplicar desde el aire y dentro del plan aprobado. En el almacén, donde el MAPA también la cita en La Gomera, el dron no pinta nada." }
+          "acceptedAnswer": { "@type": "Answer", "text": "En campo, solo con producto que la etiqueta permita aplicar desde el aire y dentro del plan aprobado. En el almacén, donde el MAPA también la cita, el dron no pinta nada." }
         },
         {
           "@type": "Question",
           "name": "¿Cuándo viene Agrodrón a La Gomera?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Cuando hay fincas suficientes y fecha con buen viento. Se viaja desde La Palma con desplazamiento y bajo disponibilidad; cuanto antes nos cuentes la finca, antes encaja en una salida." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Cuando hay fincas suficientes y fecha con buen viento. Se viaja desde La Palma con desplazamiento y bajo disponibilidad; cuanto antes nos cuentes la finca, antes encaja." }
         }
       ]
     }

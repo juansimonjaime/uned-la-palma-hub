@@ -12,7 +12,7 @@ municipio: ""
 
 # Dron agrícola en Tenerife: tratamientos al aire libre comarca a comarca
 
-Tenerife cultivaba 17.143 hectáreas en 2024, el 43,3 % de la superficie cultivada de Canarias, según el ISTAC. Es la primera isla platanera y la que más uva y papa produce; buena parte de la platanera del sur va bajo invernadero. Un dron agrícola en Tenerife tiene mucho campo y un límite claro: solo trata lo que crece al aire libre. Agrodrón Canarias, con base en Santa Cruz de La Palma, atiende la isla con desplazamiento, bajo consulta y según disponibilidad.
+Tenerife cultivaba 17.143 hectáreas en 2024, el 43,3 % de la superficie cultivada de Canarias, según el ISTAC. Es la primera isla platanera y la que más uva y papa cultiva; buena parte de la platanera del sur va bajo invernadero. Un dron agrícola en Tenerife tiene mucho campo y un límite claro: solo trata lo que crece al aire libre. Agrodrón Canarias, con base en Santa Cruz de La Palma, atiende la isla con desplazamiento, bajo consulta y según disponibilidad.
 
 [IMAGEN: Panorámica de medianías del norte de Tenerife con bancales de viña y papa bajo el mar de nubes y la costa platanera al fondo | alt: Bancales de viña y papa en las medianías de Tenerife con platanera al aire libre en la costa]
 
@@ -20,7 +20,7 @@ Tenerife cultivaba 17.143 hectáreas en 2024, el 43,3 % de la superficie cultiva
 
 El Mapa de Cultivos de la campaña 2021 contó 18.738 hectáreas, 1.119 más que el anterior: huerta (con barbecho) 43 %, platanera 20 %, viña 15,6 % y frutales 12,7 %. Viña y tomate retrocedieron; el aguacate creció.
 
-- Platanera: 45 % de la superficie platanera canaria en 2022 (CCE a partir del ISTAC), unas 4.000 hectáreas [VERIFICAR: cifra actual]. En Canarias unas 3.200 de 9.100 hectáreas van bajo cubierta (eldiario.es, 2023); en Tenerife, sobre todo en el sur y en Arona (Guía Repsol).
+- Platanera: 45 % de la superficie platanera canaria en 2022 (CCE a partir del ISTAC), unas 4.000 hectáreas [VERIFICAR: cifra actual]. En Canarias unas 3.200 de 9.100 hectáreas van bajo cubierta (eldiario.es, 2023); en Tenerife, sobre todo en el sur, con Arona en cabeza (Guía Repsol).
 - Viña: 2.763,5 hectáreas (ISTAC vía Diagnóstico de la viticultura, 2020) [VERIFICAR: año del dato], cinco denominaciones de origen, toda descubierta.
 - Papa: tercer cultivo; 2.869 hectáreas (Cabildo, 2019) o 1.745 (Mapa de Cultivos 2021) [VERIFICAR: conciliar cifras].
 - Aguacate: de 694 a 790 hectáreas entre 2021 y 2022 (Cabildo), el doble en diez años.
@@ -75,7 +75,7 @@ La aplicación aérea de fitosanitarios está prohibida en España con carácter
 
 ## Municipios sin página propia
 
-Nueve municipios no tienen página por poca superficie, cultivo bajo cubierta o carácter urbano: Arafo (unas 100 ha estimadas, 2016), El Rosario (residencial, sin cifra), El Tanque (papa y viña, poca superficie), Fasnia (sin dato, tomate bajo invernadero), La Guancha (unas 300 ha labradas, sin fecha), Puerto de la Cruz (urbano, 8,7 km²), San Juan de la Rambla (pequeño, sin cifra), Santa Cruz de Tenerife (219 ha en 2013, Anaga) y Santiago del Teide (unas 44 ha de viña y almendro).
+Nueve municipios no tienen página por poca superficie, cultivo bajo cubierta o carácter urbano: Arafo (unas 100 ha estimadas, 2016), El Rosario (residencial, sin cifra), El Tanque (papa y viña, poca superficie), Fasnia (viña y papa sin cifra, tomate bajo invernadero), La Guancha (unas 300 ha labradas, sin fecha), Puerto de la Cruz (urbano, 8,7 km²), San Juan de la Rambla (pequeño, sin cifra), Santa Cruz de Tenerife (219 ha en 2013, Anaga) y Santiago del Teide (unas 44 ha de viña y almendro).
 
 ## Preguntas frecuentes sobre el dron agrícola en Tenerife
 

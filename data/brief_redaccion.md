@@ -127,7 +127,7 @@ Español de España (coger, vosotros/tú, ordenador). Tildes y mayúsculas corre
 
 - Nivel A (municipios de La Palma): 900–1.300 palabras.
 - Nivel B (municipios de otras islas) y hubs de isla: 700–1.000 palabras.
-- Cultivos: 800–1.200 palabras.
+- Cultivos: 800–1.300 palabras.
 
 ## 12. Plantilla del bloque JSON-LD (adaptar nombres, URL, areaServed y FAQ; debe ser JSON válido)
 

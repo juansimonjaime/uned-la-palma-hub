@@ -64,7 +64,7 @@ Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-t
 ## Preguntas frecuentes sobre el dron agrícola en Vilaflor de Chasna
 
 ### ¿La altitud de Vilaflor reduce la superficie que trata el dron en cada carga?
-Algo: con aire menos denso el equipo gasta más batería y se planifican cargas y relevos más frecuentes. En la jornada completa apenas se nota.
+Un poco: con aire menos denso el equipo gasta más batería y se planifican cargas y relevos más frecuentes. En la jornada completa apenas se nota.
 
 ### ¿Puede tratar el dron una papa sembrada en agosto cuando llegan las nieblas de octubre?
 La papa tardía pasa el otoño en hoja, cuando el Cabildo suele avisar de mildiu. Con planta seca y sin viento se trata; con niebla cerrada o rocío se espera.
@@ -112,7 +112,7 @@ Dinos cota, número de bancales, cultivo y qué quieres tratar. Te decimos si el
         {
           "@type": "Question",
           "name": "¿La altitud de Vilaflor reduce la superficie que trata el dron en cada carga?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Algo: con aire menos denso el equipo gasta más batería y se planifican cargas y relevos más frecuentes. En la jornada completa apenas se nota." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Un poco: con aire menos denso el equipo gasta más batería y se planifican cargas y relevos más frecuentes. En la jornada completa apenas se nota." }
         },
         {
           "@type": "Question",

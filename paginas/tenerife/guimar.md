@@ -12,7 +12,7 @@ municipio: "Güímar"
 
 # Dron agrícola en Güímar: de la viña del valle a la platanera de la costa
 
-La ficha del Mapa de Cultivos de Canarias de Güímar (campaña 2021) da 151,03 hectáreas de viña, 90,37 de platanera y 0,32 de tomate, sobre una SAU de 2.561,77 hectáreas que incluye lo no cultivado. Un dron agrícola en Güímar se explica cultivo por cultivo: primero la parra de bancal, después la piña de El Puertito y Chimisay. Trabajamos aquí con desplazamiento desde La Palma, previa consulta y según disponibilidad.
+La ficha del Mapa de Cultivos de Canarias de Güímar (campaña 2021) da 151,03 hectáreas de viña, 90,37 de platanera y 0,32 de tomate, sobre una superficie agraria útil de 2.561,77 hectáreas que incluye lo no cultivado. Un dron agrícola en Güímar se explica cultivo por cultivo: primero la parra de bancal, después la piña de El Puertito y Chimisay. Trabajamos aquí con desplazamiento desde La Palma, previa consulta y según disponibilidad.
 
 [IMAGEN: Bancales de viña con muros de piedra en las medianías de Güímar, con el valle abierto al este y el mar al fondo | alt: Viña en bancales de la DO Valle de Güímar, Tenerife, con la costa platanera al fondo]
 
