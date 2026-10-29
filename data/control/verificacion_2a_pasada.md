@@ -107,3 +107,47 @@
 | paginas/cultivos/vina.md | métrica de cada fuente | no confirmada | se mantiene la marca | — |
 | paginas/cultivos/vina.md | cifra vigente | no confirmada | se mantiene la marca | — |
 | paginas/cultivos/vina.md | patógeno y fecha del aviso | no confirmada (indicio) | indicio: el Cabildo de Lanzarote detectó mildiu en viñedos de la isla (sin fecha) | https://www.lavozdelanzarote.com/en/news/politics/downy-mildew-disease-appears-in-the-vineyards-of-the-island_53564_102.html |
+| gran-canaria/agaete | superficie cultivada total de Agaete según el ISTAC | confirmada | 89 ha cultivadas en el municipio (ISTAC, datos hasta 2017, vía Canarias7) | https://www.canarias7.es/canarias/gran-canaria/galdar-es-el-municipio-que-dedica-mas-superficie-al-cultivo-agricola-EF5799116 |
+| gran-canaria/agaete | altitudes | no confirmada | sin cota de El Hornillo / Los Berrazales en fuente fiable | — |
+| gran-canaria/agaete | avisos de sanidad vegetal del Gobierno de Canarias sobre cítricos | no confirmada | el plan MAPA 2024 cita Francia, Italia y Madeira, ninguna detección canaria; sin aviso del Gobierno de Canarias | https://servicio.mapa.gob.es/en/agricultura/temas/sanidad-vegetal/plan_accion_d_aberiae_mayo2024_tcm38-684109.pdf |
+| gran-canaria/agaete | hectáreas por cultivo | no confirmada | — | — |
+| gran-canaria/agaete | datos de viento y precipitación | no confirmada | — | — |
+| gran-canaria/arucas | hectáreas cultivadas de Arucas en el ISTAC | confirmada (en %) | 16,53 % del territorio cultivado, el mayor de la isla (ISTAC hasta 2017, vía Canarias7); sin cifra en ha | https://www.canarias7.es/canarias/gran-canaria/galdar-es-el-municipio-que-dedica-mas-superficie-al-cultivo-agricola-EF5799116 |
+| gran-canaria/arucas | porcentaje de platanera bajo malla en Arucas | no confirmada | solo dato regional (3.200 de 9.100 ha protegidas, sin año) | https://agroislas.com |
+| gran-canaria/arucas | hectáreas por cultivo en Arucas | no confirmada | — | — |
+| gran-canaria/galdar | porcentaje de platanera bajo malla en Gáldar | no confirmada | transparencia municipal: 630,42 ha de platanera de 1.694 agrícolas, sin desglose malla/aire libre | https://transparencia.galdar.es/p/44-informacion-general-del-municipio |
+| gran-canaria/galdar | hectáreas de viña en Gáldar | no confirmada | solo cifras DO insulares (183 ha inscritas; 111,66 ha controladas en 2023) | https://www.eldiario.es/canariasahora/agricola/agricultura/vendimia-gran-canaria-crecio-40-2022-cosechar-457-739-kilos-uva_1_10190549.html |
+| gran-canaria/la-aldea-de-san-nicolas | unidad, probablemente porcentaje de suelo agrícola cultivado | no confirmada (indicio) | COAG escribe «38,9 hectáreas», imposible; tampoco es % del término (ISTAC 2017: 4,37 %) | https://coagcanarias.com/wp-content/uploads/2025/03/NOTICIAS-25-01-25.pdf |
+| gran-canaria/la-aldea-de-san-nicolas | hectáreas por cultivo | no confirmada | — | — |
+| gran-canaria/la-aldea-de-san-nicolas | porcentaje al aire libre (papaya) | no confirmada | MercaTenerife: papaya en costa cálida, invernadero fuera de ella; sin % | https://mercatenerife.com/wp-content/uploads/2018/03/Papaya-2018.pdf |
+| gran-canaria/la-aldea-de-san-nicolas | precipitación media | no confirmada (indicio) | estación AEMET: 129,6 mm (2024-25) y 251 mm (2025-26); sin media oficial | https://www.embalses.net/estacion-meteorologica-661.html |
+| gran-canaria/mogan | avisos de sanidad vegetal del Gobierno de Canarias para mango | no confirmada | — | — |
+| gran-canaria/mogan | superficie de papaya y tomate | no confirmada | — | — |
+| gran-canaria/moya | épocas de siembra y arranque de la papa en Moya y Fontanales | no confirmada | — | — |
+| gran-canaria/moya | época de los avisos y comarca de Moya | corregida | los avisos de riesgo alto de 2024 eran del Cabildo de Tenerife para el norte de Tenerife, no de Gran Canaria; marca residual [VERIFICAR: avisos de mildiu en Gran Canaria] | https://www.argenpapa.com.ar/noticia/14489-espana-aviso-ante-el-riesgo-alto-de-hongo-mildiu-para-los-cultivos-de-papa-en-el-norte-de-tenerife |
+| gran-canaria/moya | superficie de platanera en la costa de Moya | no confirmada | — | — |
+| gran-canaria/moya | dato climático de Fontanales | no confirmada | IGN da 700–1.000 mm para medianías del norte (genérico); la página ya cita 500–1.000 mm de GEVIC | https://www.ign.es/espmap/graficos_ma_eso/pdf/Graf_07Ltexto.pdf |
+| gran-canaria/san-bartolome-de-tirajana | fechas locales de floración | no confirmada | — | — |
+| gran-canaria/san-bartolome-de-tirajana | especie (mosca de la fruta) | no confirmada | — | — |
+| gran-canaria/san-bartolome-de-tirajana | especies (olivo) | no confirmada | — | — |
+| gran-canaria/san-bartolome-de-tirajana | hectáreas actuales (tomate) | no confirmada | solo el dato histórico (>500 ha, mediados s. XX) | https://centroetnograficodelfarodemaspalomas.org/qr/los-cultivos-de-tomates-espanol/ |
+| gran-canaria/santa-maria-de-guia | porcentaje de platanera bajo malla en Guía | no confirmada | — | — |
+| gran-canaria/santa-maria-de-guia | sistema de cultivo de la papaya en Guía | no confirmada | — | — |
+| gran-canaria/telde | superficie cultivada actual en el ISTAC | corregida | antes «en torno a un millar de hectáreas (Wikipedia, sin año)»; ahora 716,6 ha (ISTAC, datos hasta 2017, vía Canarias7) | https://www.canarias7.es/canarias/gran-canaria/galdar-es-el-municipio-que-dedica-mas-superficie-al-cultivo-agricola-EF5799116 |
+| gran-canaria/telde | unidad del valor 36,8 | no confirmada (indicio) | COAG lo da en «hectáreas», unidad imposible | https://coagcanarias.com/wp-content/uploads/2025/03/NOTICIAS-25-01-25.pdf |
+| gran-canaria/telde | fuente del porcentaje (90 % tomate invernadero) | no confirmada | solo las ~350 ha (FEDEX); el 90 % sin fuente | https://rtvc.es/gran-canaria-140-aniversario-de-la-exportacion-del-tomate-canario/ |
+| gran-canaria/telde | plagas de los cítricos de Telde | no confirmada | — | — |
+| gran-canaria/telde | sistema de cultivo de la papaya en Telde | no confirmada | — | — |
+| gran-canaria/teror | precipitación media anual de Teror | no confirmada (indicio) | IGN: 700–1.000 mm en las medianías frescas del norte, sin dato municipal | https://www.ign.es/espmap/graficos_ma_eso/pdf/Graf_07Ltexto.pdf |
+| gran-canaria/teror | sistema de cultivo de las flores de Teror | no confirmada | — | — |
+| gran-canaria/teror | superficie de frutales en Teror | no confirmada | — | — |
+| gran-canaria/teror | hectáreas cultivadas de Teror, serie municipal del ISTAC | confirmada (en %) | más del 13 % del término cultivado (ISTAC hasta 2017, vía Canarias7); sin cifra en ha | https://www.canarias7.es/canarias/gran-canaria/galdar-es-el-municipio-que-dedica-mas-superficie-al-cultivo-agricola-EF5799116 |
+| gran-canaria/valsequillo | sistema de cultivo y hectáreas de la fresa de Valsequillo | confirmada en parte | más de 50 ha (Canarias7, abril de 2023); el sistema (túnel/invernadero) sigue con marca | https://www.canarias7.es/canarias/gran-canaria/valsequillo-presume-fresa-20230423132728-nt.html |
+| gran-canaria/valsequillo | plagas de la fresa en Gran Canaria | no confirmada | — | — |
+| gran-canaria/valsequillo | hectáreas de almendro, cítricos y frutales en Valsequillo | no confirmada | solo cifra insular de prensa (>3.000 ha de almendro, RTVC 2024) | https://rtvc.es/fiestas-del-almendro-gran-canaria-2024/ |
+| gran-canaria/valsequillo | incidencia en el municipio (polilla) | no confirmada | — | — |
+| gran-canaria/valsequillo | monilia en los almendros de Gran Canaria | no confirmada | — | — |
+| gran-canaria/vega-de-san-mateo | calendario de avisos de mildiu ... e incidencia en San Mateo | corregida | los avisos de 2024 eran del Cabildo de Tenerife para el norte de Tenerife; marca residual para Gran Canaria | https://www.argenpapa.com.ar/noticia/14489-espana-aviso-ante-el-riesgo-alto-de-hongo-mildiu-para-los-cultivos-de-papa-en-el-norte-de-tenerife |
+| gran-canaria/vega-de-san-mateo | hectáreas de frutales en San Mateo y plagas de manzano y peral | no confirmada | ISTAC 2017: más del 14 % del término cultivado (no usado: no es lo que pide la marca) | https://www.canarias7.es/canarias/gran-canaria/galdar-es-el-municipio-que-dedica-mas-superficie-al-cultivo-agricola-EF5799116 |
+| islas/gran-canaria | porcentaje bajo cubierta (platanera norte) | no confirmada | — | — |
+| islas/gran-canaria | [VERIFICAR] (fresa bajo túnel) | no confirmada | — | — |
