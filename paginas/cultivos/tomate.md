@@ -81,7 +81,9 @@ Sí, con desplazamiento y según disponibilidad. Conviene agrupar varias parcela
 
 ## Pide presupuesto si tu tomate va al aire libre
 
-Si tienes tomate descubierto o parcelas al aire libre junto a los invernaderos, dinos municipio, superficie, acceso y qué quieres aplicar. Pide presupuesto en [Agrodrón Canarias](https://agrodroncanarias.es/); si el tomate está bajo cubierta te lo diremos a la primera para no hacerte perder tiempo.
+Si tienes tomate descubierto o parcelas al aire libre junto a los invernaderos, dinos municipio, superficie, acceso y qué quieres aplicar. Pide presupuesto en [Agrodrón Canarias](https://agrodroncanarias.es/contacto); si el tomate está bajo cubierta te lo diremos a la primera para no hacerte perder tiempo.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

@@ -78,7 +78,9 @@ Lo marcan la superficie real, el cultivo, el número de terrazas, el acceso y el
 
 ## Pide presupuesto para tu finca de Barlovento
 
-Si tienes papa en las medianías o platanera en la costa de Barlovento y quieres saber si el dron encaja, manda finca, cultivo y hectáreas a [Agrodrón Canarias](https://agrodroncanarias.es/). Te respondemos con un presupuesto y sin prometer lo que el dron no puede hacer.
+Si tienes papa en las medianías o platanera en la costa de Barlovento y quieres saber si el dron encaja, manda finca, cultivo y hectáreas a [Agrodrón Canarias](https://agrodroncanarias.es/contacto). Te respondemos con un presupuesto y sin prometer lo que el dron no puede hacer.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

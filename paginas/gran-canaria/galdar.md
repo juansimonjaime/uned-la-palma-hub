@@ -73,7 +73,9 @@ Ubicación, cultivo, superficie aproximada, accesos y qué hay alrededor: cables
 
 ## Pide presupuesto para tu platanera en Gáldar
 
-Cuéntanos la zona de la finca, si va al aire libre o con malla, las hectáreas y qué producto quieres aplicar. Te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento desde La Palma. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Cuéntanos la zona de la finca, si va al aire libre o con malla, las hectáreas y qué producto quieres aplicar. Te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento desde La Palma. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

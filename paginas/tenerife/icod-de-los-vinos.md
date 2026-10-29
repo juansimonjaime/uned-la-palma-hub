@@ -68,7 +68,9 @@ Depende de la superficie, el cultivo, los accesos, el producto y el desplazamien
 
 ## Pide presupuesto para tu finca de Icod de los Vinos
 
-Mándanos el pago (costa, medianías o zona de La Vega), cultivo, hectáreas y producto a aplicar. Te confirmamos si el dron encaja y te enviamos un presupuesto con desplazamiento desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Mándanos el pago (costa, medianías o zona de La Vega), cultivo, hectáreas y producto a aplicar. Te confirmamos si el dron encaja y te enviamos un presupuesto con desplazamiento desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

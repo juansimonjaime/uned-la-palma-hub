@@ -81,7 +81,9 @@ Depende de la superficie, del sistema de conducción (un hoyo de La Geria no es 
 
 ## Pide presupuesto para tu viña
 
-Dinos municipio, cómo va conducida la viña, hectáreas o número de cepas, acceso y qué producto quieres aplicar. Te decimos si el dron encaja y te mandamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/). En La Palma sin desplazamiento; en el resto de islas, con desplazamiento y bajo disponibilidad.
+Dinos municipio, cómo va conducida la viña, hectáreas o número de cepas, acceso y qué producto quieres aplicar. Te decimos si el dron encaja y te mandamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto). En La Palma sin desplazamiento; en el resto de islas, con desplazamiento y bajo disponibilidad.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

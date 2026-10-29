@@ -73,7 +73,9 @@ Depende de superficie, cultivo, acceso, producto y desplazamiento desde La Palma
 
 ## Pide presupuesto si tu finca de La Aldea está al aire libre
 
-Si cultivas mango, aguacate o platanera sin cubierta en el valle de La Aldea, en Tasarte o en Tasartico, escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/) con ubicación, hectáreas y producto. Te decimos si el dron encaja y te pasamos presupuesto.
+Si cultivas mango, aguacate o platanera sin cubierta en el valle de La Aldea, en Tasarte o en Tasartico, escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) con ubicación, hectáreas y producto. Te decimos si el dron encaja y te pasamos presupuesto.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

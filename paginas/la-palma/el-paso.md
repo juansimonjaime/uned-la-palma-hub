@@ -76,7 +76,9 @@ Depende de la superficie, de la altura y densidad de los árboles, del acceso y 
 
 ## Pide presupuesto para tu finca de El Paso
 
-Mándanos desde [Agrodrón Canarias](https://agrodroncanarias.es/) la ubicación de la finca, el cultivo (viña, aguacate, almendro), la superficie y el problema. Te decimos con franqueza si el dron encaja en tu bancal de medianías y te pasamos un presupuesto; la base está en Santa Cruz de La Palma y El Paso se atiende sin desplazamiento.
+Mándanos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) la ubicación de la finca, el cultivo (viña, aguacate, almendro), la superficie y el problema. Te decimos con franqueza si el dron encaja en tu bancal de medianías y te pasamos un presupuesto; la base está en Santa Cruz de La Palma y El Paso se atiende sin desplazamiento.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

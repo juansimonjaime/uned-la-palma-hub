@@ -68,7 +68,9 @@ No hay plazo fijo. La salida a Tenerife se cuadra con la disponibilidad del equi
 
 ## Pide presupuesto para tu platanera en Los Silos
 
-Si tienes platanera, huerta o frutales al aire libre en Los Silos, escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/) con ubicación, hectáreas, accesos y producto a aplicar; te preparamos un presupuesto y cuadramos la salida desde La Palma.
+Si tienes platanera, huerta o frutales al aire libre en Los Silos, escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) con ubicación, hectáreas, accesos y producto a aplicar; te preparamos un presupuesto y cuadramos la salida desde La Palma.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

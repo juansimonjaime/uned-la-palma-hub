@@ -78,7 +78,9 @@ Ubicación de la finca, superficie, si hay malla o invernadero, obstáculos cerc
 
 ## Pide presupuesto para tu platanera en Tazacorte
 
-Si tienes una finca de piña al aire libre en el llano de Tazacorte, escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/) con la ubicación, las hectáreas y lo que quieres aplicar. Te decimos si el dron encaja y te pasamos un presupuesto sin desplazamiento, porque salimos desde la propia isla.
+Si tienes una finca de piña al aire libre en el llano de Tazacorte, escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) con la ubicación, las hectáreas y lo que quieres aplicar. Te decimos si el dron encaja y te pasamos un presupuesto sin desplazamiento, porque salimos desde la propia isla.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

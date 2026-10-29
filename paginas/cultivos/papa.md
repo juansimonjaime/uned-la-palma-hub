@@ -77,7 +77,9 @@ En La Palma sin desplazamiento. En Tenerife, Gran Canaria y el resto de islas, c
 
 ## Pide presupuesto para tus papas
 
-Cuéntanos municipio, cota, cuántas fanegadas siembras y en cuántas siembras, cómo se llega a los bancales y qué quieres aplicar. Te decimos si el dron encaja y te mandamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/). Fuera de La Palma, el desplazamiento va dentro del presupuesto y según la agenda.
+Cuéntanos municipio, cota, cuántas fanegadas siembras y en cuántas siembras, cómo se llega a los bancales y qué quieres aplicar. Te decimos si el dron encaja y te mandamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto). Fuera de La Palma, el desplazamiento va dentro del presupuesto y según la agenda.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

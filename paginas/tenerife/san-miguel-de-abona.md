@@ -68,7 +68,9 @@ Con semanas de margen. La salida desde La Palma se cuadra con otras fincas del s
 
 ## Pide presupuesto para tu finca de San Miguel de Abona
 
-Dinos dónde están los bancales (casco, El Frontón, Aldea Blanca o costa), qué cultivas y cuántas parcelas. Miramos el mapa de ENAIRE, te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento incluido. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Dinos dónde están los bancales (casco, El Frontón, Aldea Blanca o costa), qué cultivas y cuántas parcelas. Miramos el mapa de ENAIRE, te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento incluido. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

@@ -77,7 +77,9 @@ Abonos foliares, bioestimulantes y correctores de carencias de uso permitido en 
 
 ## Pide presupuesto para tu bancal de Vilaflor
 
-Dinos cota, número de bancales, cultivo y qué quieres aplicar. Te decimos si el dron encaja a esa altura y te pasamos presupuesto con el desplazamiento desde La Palma, desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Dinos cota, número de bancales, cultivo y qué quieres aplicar. Te decimos si el dron encaja a esa altura y te pasamos presupuesto con el desplazamiento desde La Palma, desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

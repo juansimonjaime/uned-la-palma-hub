@@ -76,7 +76,9 @@ No hay un mínimo fijo. Lo que compensa es agrupar: varias terrazas de la vega, 
 
 ## Pide presupuesto y entra en el calendario de salidas a Gran Canaria
 
-Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) con la zona de la finca, el cultivo y su fase; te decimos si el dron encaja y en qué ventana del año tendría sentido. El presupuesto no compromete a nada y apunta tu finca en la próxima salida.
+Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/contacto) con la zona de la finca, el cultivo y su fase; te decimos si el dron encaja y en qué ventana del año tendría sentido. El presupuesto no compromete a nada y apunta tu finca en la próxima salida.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

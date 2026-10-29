@@ -68,7 +68,9 @@ Sin ver la parcela no hay cifra: cuentan superficie, número de bancales, acceso
 
 ## Presupuesto para tu finca de Arico, zona por zona
 
-Cuéntanos en qué zona está la finca (costa, medianías o secano alto), cultivo y superficie, y si hay cables o invernaderos alrededor. Te decimos si entra en la próxima salida con desplazamiento desde La Palma y te mandamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Cuéntanos en qué zona está la finca (costa, medianías o secano alto), cultivo y superficie, y si hay cables o invernaderos alrededor. Te decimos si entra en la próxima salida con desplazamiento desde La Palma y te mandamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

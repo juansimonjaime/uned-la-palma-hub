@@ -74,7 +74,9 @@ Abonos foliares, bioestimulantes y correctores de uso permitido en viña, papa o
 
 ## Pide presupuesto para tus terrazas en La Matanza de Acentejo
 
-Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/) con tus parcelas de viña, papa o frutales, dónde están y cuánto suman. Te decimos qué zona encaja y te pasamos un presupuesto que cuente con el desplazamiento desde La Palma.
+Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) con tus parcelas de viña, papa o frutales, dónde están y cuánto suman. Te decimos qué zona encaja y te pasamos un presupuesto que cuente con el desplazamiento desde La Palma.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

@@ -72,7 +72,9 @@ Cuanto antes: se agrupan fincas de la Isla Baja y de Icod en la misma salida y l
 
 ## Pide presupuesto para tu finca de Garachico
 
-Dinos si la finca está en la plataforma o en el Reparo, cultivo, hectáreas y época; te confirmamos si el dron encaja y te mandamos presupuesto con el desplazamiento desde La Palma en [Agrodrón Canarias](https://agrodroncanarias.es/).
+Dinos si la finca está en la plataforma o en el Reparo, cultivo, hectáreas y época; te confirmamos si el dron encaja y te mandamos presupuesto con el desplazamiento desde La Palma en [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

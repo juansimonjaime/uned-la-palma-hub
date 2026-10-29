@@ -68,7 +68,9 @@ Sí, si está al aire libre y lo que se aplica es un foliar o un bioestimulante 
 
 ## Pide presupuesto para tus bancales de Hermigua
 
-Mándanos dónde está la finca (fondo del valle, ladera, altitud), cultivo, número de terrazas y qué quieres aplicar. Te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento desde La Palma. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Mándanos dónde está la finca (fondo del valle, ladera, altitud), cultivo, número de terrazas y qué quieres aplicar. Te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento desde La Palma. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

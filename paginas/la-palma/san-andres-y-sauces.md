@@ -76,7 +76,9 @@ Con la superficie real de los bancales, los sectores en que haya que dividir la 
 
 ## Cuéntanos qué cuelga en tus bancales y te pasamos presupuesto
 
-Dinos en qué parte de Los Sauces o San Andrés está la finca, cuántos bancales tiene, qué sectores están con piña y si hay cortavientos o cables. Con eso, en [Agrodrón Canarias](https://agrodroncanarias.es/) te decimos si el dron encaja y te preparamos el presupuesto.
+Dinos en qué parte de Los Sauces o San Andrés está la finca, cuántos bancales tiene, qué sectores están con piña y si hay cortavientos o cables. Con eso, en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) te decimos si el dron encaja y te preparamos el presupuesto.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

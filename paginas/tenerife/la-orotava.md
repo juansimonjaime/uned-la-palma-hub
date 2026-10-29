@@ -74,7 +74,9 @@ Fuera de La Palma el servicio es con desplazamiento y depende de la disponibilid
 
 ## Pide presupuesto para tu finca de La Orotava
 
-Dinos el pago, el cultivo, las hectáreas y el producto que quieres aplicar. Te confirmamos si el dron encaja y te mandamos presupuesto con el desplazamiento incluido desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Dinos el pago, el cultivo, las hectáreas y el producto que quieres aplicar. Te confirmamos si el dron encaja y te mandamos presupuesto con el desplazamiento incluido desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

@@ -71,7 +71,9 @@ Depende de la disponibilidad y de la superficie. Lo habitual es agrupar varias f
 
 ## Pide presupuesto para tu finca en Buenavista del Norte
 
-Mándanos desde [Agrodrón Canarias](https://agrodroncanarias.es/) ubicación, cultivo, hectáreas y accesos de tu finca, en el llano o en los valles de Teno. Te decimos si el dron encaja y te pasamos un presupuesto que tenga en cuenta el desplazamiento desde La Palma.
+Mándanos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) ubicación, cultivo, hectáreas y accesos de tu finca, en el llano o en los valles de Teno. Te decimos si el dron encaja y te pasamos un presupuesto que tenga en cuenta el desplazamiento desde La Palma.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

@@ -72,7 +72,9 @@ Depende de las hectáreas plantadas, del número de hoyos, de los accesos y del 
 
 ## Pide presupuesto para la viña de Tías antes de la brotación
 
-Si tienes viña en La Geria o Masdache, mándanos ubicación, hectáreas plantadas, número aproximado de hoyos y el producto que quieres aplicar. Te decimos si el dron encaja y te pasamos un presupuesto que contempla el desplazamiento desde La Palma: [Agrodrón Canarias](https://agrodroncanarias.es/).
+Si tienes viña en La Geria o Masdache, mándanos ubicación, hectáreas plantadas, número aproximado de hoyos y el producto que quieres aplicar. Te decimos si el dron encaja y te pasamos un presupuesto que contempla el desplazamiento desde La Palma: [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

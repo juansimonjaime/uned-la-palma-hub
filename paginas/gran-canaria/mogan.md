@@ -73,7 +73,9 @@ Con desplazamiento desde La Palma y según disponibilidad. Las salidas se organi
 
 ## Pide presupuesto para tu finca de mango o aguacate en Mogán
 
-Si tu finca está en Veneguera, Arguineguín, Tauro o Mogán y los árboles crecen al aire libre, entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y mándanos ubicación, hectáreas y cultivo. Te decimos si el dron encaja en ese bancal y te preparamos presupuesto con el desplazamiento.
+Si tu finca está en Veneguera, Arguineguín, Tauro o Mogán y los árboles crecen al aire libre, entra en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) y mándanos ubicación, hectáreas y cultivo. Te decimos si el dron encaja en ese bancal y te preparamos presupuesto con el desplazamiento.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

@@ -76,7 +76,9 @@ Se espera. No se vuela sin visibilidad ni con viento fuerte; se busca otra franj
 
 ## Pide presupuesto antes de que llegue la campaña en El Sauzal
 
-Cuéntanos en [Agrodrón Canarias](https://agrodroncanarias.es/) cuánta viña tienes, cómo está conducida, dónde está y qué quieres aplicar; te mandamos presupuesto y acordamos fechas probables, con el desplazamiento desde La Palma según disponibilidad.
+Cuéntanos en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) cuánta viña tienes, cómo está conducida, dónde está y qué quieres aplicar; te mandamos presupuesto y acordamos fechas probables, con el desplazamiento desde La Palma según disponibilidad.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

@@ -66,7 +66,9 @@ Reunimos las fincas de La Geria y Uga que lo pidan, miramos la previsión de vie
 
 ## Pide presupuesto para tu viña en Yaiza
 
-Cuéntanos cuántos hoyos tienes en producción, dónde están (La Geria o Uga) y qué quieres aplicar. Desde [Agrodrón Canarias](https://agrodroncanarias.es/) te preparamos un presupuesto y te decimos cuándo podemos salir desde La Palma.
+Cuéntanos cuántos hoyos tienes en producción, dónde están (La Geria o Uga) y qué quieres aplicar. Desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) te preparamos un presupuesto y te decimos cuándo podemos salir desde La Palma.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

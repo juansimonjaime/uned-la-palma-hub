@@ -70,7 +70,9 @@ Abonos foliares, bioestimulantes y correctores de uso permitido en el cultivo, a
 
 ## Presupuesto para tu finca de Arona
 
-Zona (costa o medianías), cultivo, hectáreas y si hay cubierta: con eso te decimos si el dron encaja y preparamos un presupuesto con el desplazamiento desde La Palma incluido. Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y cuéntanoslo.
+Zona (costa o medianías), cultivo, hectáreas y si hay cubierta: con eso te decimos si el dron encaja y preparamos un presupuesto con el desplazamiento desde La Palma incluido. Entra en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) y cuéntanoslo.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

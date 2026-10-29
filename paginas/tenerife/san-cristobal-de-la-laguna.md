@@ -69,7 +69,9 @@ Agrupando fincas: varias parcelas de la costa norte o de la Vega en la misma sal
 
 ## Presupuesto para tu finca en La Laguna
 
-Desde [Agrodrón Canarias](https://agrodroncanarias.es/) cuéntanos en qué zona está la finca (costa, Vega o Anaga), el cultivo, las hectáreas y el producto que quieres aplicar. Te confirmamos si el dron encaja, aeropuerto incluido, y te mandamos un presupuesto con el desplazamiento desde La Palma.
+Desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) cuéntanos en qué zona está la finca (costa, Vega o Anaga), el cultivo, las hectáreas y el producto que quieres aplicar. Te confirmamos si el dron encaja, aeropuerto incluido, y te mandamos un presupuesto con el desplazamiento desde La Palma.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

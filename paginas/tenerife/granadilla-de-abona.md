@@ -69,7 +69,9 @@ Sí, es lo habitual: la salida desde La Palma se organiza por comarca y bajo dis
 
 ## Pide presupuesto con el calendario en la mano
 
-Dinos cultivo, pago, número de parcelas y en qué mes quieres la aplicación; te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento desde La Palma. Escríbenos en [Agrodrón Canarias](https://agrodroncanarias.es/).
+Dinos cultivo, pago, número de parcelas y en qué mes quieres la aplicación; te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento desde La Palma. Escríbenos en [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

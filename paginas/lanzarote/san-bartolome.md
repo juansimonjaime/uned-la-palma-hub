@@ -72,7 +72,9 @@ Sin frecuencia fija. El servicio fuera de La Palma es con desplazamiento y bajo 
 
 ## Pide presupuesto para tu finca de San Bartolomé
 
-Cuéntanos si es cebolla en enarenado, batata en el jable o viña en Montaña Blanca, cuántas hectáreas y qué quieres aplicar, y te decimos si el dron encaja. El presupuesto tiene en cuenta el desplazamiento desde La Palma: [Agrodrón Canarias](https://agrodroncanarias.es/).
+Cuéntanos si es cebolla en enarenado, batata en el jable o viña en Montaña Blanca, cuántas hectáreas y qué quieres aplicar, y te decimos si el dron encaja. El presupuesto tiene en cuenta el desplazamiento desde La Palma: [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

@@ -71,7 +71,9 @@ Se avisa con margen y se agrupan fincas del valle o del municipio vecino. Venimo
 
 ## Pide presupuesto y cuadramos la fecha
 
-Dinos qué tienes en el valle (platanera, frutales, huerta), en qué cota, cuánta superficie y en qué momento del año te preocupa. Te decimos si el dron encaja, con qué reservas, y te mandamos un presupuesto que cuenta el desplazamiento desde La Palma. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Dinos qué tienes en el valle (platanera, frutales, huerta), en qué cota, cuánta superficie y en qué momento del año te preocupa. Te decimos si el dron encaja, con qué reservas, y te mandamos un presupuesto que cuenta el desplazamiento desde La Palma. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

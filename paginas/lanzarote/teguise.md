@@ -70,7 +70,9 @@ No damos plazos. En Lanzarote el servicio es con desplazamiento y bajo disponibi
 
 ## Pide presupuesto para tu finca en Teguise
 
-Dinos si tu parcela está en el jable, en Los Valles o en el borde de La Geria, qué cultivas y cuántas hectáreas son. Te preparamos un presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/) y confirmamos la salida desde La Palma cuando haya fecha.
+Dinos si tu parcela está en el jable, en Los Valles o en el borde de La Geria, qué cultivas y cuántas hectáreas son. Te preparamos un presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) y confirmamos la salida desde La Palma cuando haya fecha.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

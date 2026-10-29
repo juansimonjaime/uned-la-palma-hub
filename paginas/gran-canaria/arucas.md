@@ -69,7 +69,9 @@ Depende de la superficie, el cultivo, los accesos, el producto y el desplazamien
 
 ## Presupuesto para tu finca en Arucas
 
-Mándanos la zona (Bañaderos, Cardones, Trasmontaña, Santidad...), el cultivo, las hectáreas y lo que quieres aplicar, y te decimos si el dron encaja. El presupuesto llega con el desplazamiento desde La Palma desglosado. Escribe a [Agrodrón Canarias](https://agrodroncanarias.es/).
+Mándanos la zona (Bañaderos, Cardones, Trasmontaña, Santidad...), el cultivo, las hectáreas y lo que quieres aplicar, y te decimos si el dron encaja. El presupuesto llega con el desplazamiento desde La Palma desglosado. Escribe a [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

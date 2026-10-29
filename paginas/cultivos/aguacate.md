@@ -82,7 +82,9 @@ Municipio, hectáreas, altura de los árboles, accesos, cables y producto a apli
 
 ## Cuéntanos tu finca de aguacate y pide presupuesto
 
-Dinos en qué municipio está, cuántas hectáreas, qué altura tienen los árboles y qué quieres aplicar; el precio depende de eso y del producto. Te respondemos si el dron encaja, con presupuesto para esa finca. Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y escríbenos; en La Palma sin desplazamiento, en Tenerife y Gran Canaria con desplazamiento y según disponibilidad.
+Dinos en qué municipio está, cuántas hectáreas, qué altura tienen los árboles y qué quieres aplicar; el precio depende de eso y del producto. Te respondemos si el dron encaja, con presupuesto para esa finca. Entra en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) y escríbenos; en La Palma sin desplazamiento, en Tenerife y Gran Canaria con desplazamiento y según disponibilidad.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

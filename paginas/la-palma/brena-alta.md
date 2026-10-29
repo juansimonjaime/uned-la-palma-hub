@@ -83,7 +83,9 @@ Con niebla cerrada o lluvia, no. Con nubosidad alta y poco viento, sí. Se decid
 
 ## Pide presupuesto para tu finca de Breña Alta
 
-Dinos en [agrodroncanarias.es](https://agrodroncanarias.es/) en qué zona del municipio está la finca, qué tienes plantado y cuántos bancales son, y te decimos para cuáles vale el dron y qué productos permitidos encajan. Para el conjunto de la isla, mira el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/); si tu finca cae hacia el aeropuerto, está la página de [dron agrícola en Breña Baja](https://agrodroncanarias.es/dron-agricola-la-palma/brena-baja/).
+Dinos en [agrodroncanarias.es](https://agrodroncanarias.es/contacto) en qué zona del municipio está la finca, qué tienes plantado y cuántos bancales son, y te decimos para cuáles vale el dron y qué productos permitidos encajan. Para el conjunto de la isla, mira el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/); si tu finca cae hacia el aeropuerto, está la página de [dron agrícola en Breña Baja](https://agrodroncanarias.es/dron-agricola-la-palma/brena-baja/).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

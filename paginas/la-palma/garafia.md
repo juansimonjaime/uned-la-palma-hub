@@ -71,7 +71,9 @@ Depende de la superficie real de cada pago, del cultivo, de lo repartidas que es
 
 ## Pide presupuesto para tus pagos de Garafía
 
-Mándanos dónde están tus bancales, qué tienes plantado y cuántas hectáreas suman, aunque estén repartidas entre Las Tricias, el casco y la costa. En [Agrodrón Canarias](https://agrodroncanarias.es/) te decimos si el dron encaja en tu caso y te preparamos un presupuesto sin cifras redondas ni promesas de cosecha.
+Mándanos dónde están tus bancales, qué tienes plantado y cuántas hectáreas suman, aunque estén repartidas entre Las Tricias, el casco y la costa. En [Agrodrón Canarias](https://agrodroncanarias.es/contacto) te decimos si el dron encaja en tu caso y te preparamos un presupuesto sin cifras redondas ni promesas de cosecha.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

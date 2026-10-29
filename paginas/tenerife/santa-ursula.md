@@ -71,7 +71,9 @@ Venimos desde La Palma según disponibilidad, mejor con varias fincas agrupadas.
 
 ## Presupuesto para tu finca en Santa Úrsula
 
-Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/) con la ubicación de la finca, el cultivo y las hectáreas. Te decimos si el dron encaja en tu ladera y te preparamos un presupuesto que incluye el desplazamiento desde La Palma.
+Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) con la ubicación de la finca, el cultivo y las hectáreas. Te decimos si el dron encaja en tu ladera y te preparamos un presupuesto que incluye el desplazamiento desde La Palma.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

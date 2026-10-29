@@ -72,7 +72,9 @@ No hay tarifa fija. Depende de la superficie, el cultivo, el acceso al bancal, e
 
 ## Pide presupuesto para tu finca de Tunte, Fataga o los barrancos del sur
 
-Si tienes albaricoqueros, viña, mangos o aguacates al aire libre en San Bartolomé de Tirajana, escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/) con ubicación, hectáreas, cultivo y la época en la que quieres tratar. Te decimos si el dron encaja en tu calendario y te pasamos presupuesto.
+Si tienes albaricoqueros, viña, mangos o aguacates al aire libre en San Bartolomé de Tirajana, escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) con ubicación, hectáreas, cultivo y la época en la que quieres tratar. Te decimos si el dron encaja en tu calendario y te pasamos presupuesto.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

@@ -69,7 +69,9 @@ No hay calendario fijo. Las salidas desde La Palma van según disponibilidad y s
 
 ## Pide presupuesto para tu finca del Valle de Agaete
 
-Si tienes naranjos, mangos, aguacates o papayos al aire libre en Agaete, entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y cuéntanos dónde está la finca, cuántas hectáreas tiene y qué producto quieres aplicar. Te respondemos con un presupuesto y la fecha más cercana para cruzar desde La Palma.
+Si tienes naranjos, mangos, aguacates o papayos al aire libre en Agaete, entra en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) y cuéntanos dónde está la finca, cuántas hectáreas tiene y qué producto quieres aplicar. Te respondemos con un presupuesto y la fecha más cercana para cruzar desde La Palma.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

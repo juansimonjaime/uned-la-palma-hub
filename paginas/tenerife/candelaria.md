@@ -74,7 +74,9 @@ Con los datos de la finca (zona, cultivo, hectáreas, accesos) planificamos la s
 
 ## Pide presupuesto para tu viña o tu huerta en Candelaria
 
-En [Agrodrón Canarias](https://agrodroncanarias.es/) nos cuentas la zona, el cultivo, las hectáreas y el producto que quieres aplicar. Te decimos en qué punto del calendario encaja el dron y te pasamos un presupuesto con el desplazamiento desde La Palma.
+En [Agrodrón Canarias](https://agrodroncanarias.es/contacto) nos cuentas la zona, el cultivo, las hectáreas y el producto que quieres aplicar. Te decimos en qué punto del calendario encaja el dron y te pasamos un presupuesto con el desplazamiento desde La Palma.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

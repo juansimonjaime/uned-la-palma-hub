@@ -72,7 +72,9 @@ No hay tarifa fija: cuentan la superficie real, el número de parcelas, los acce
 
 ## Pide presupuesto para tu finca en Haría, Máguez o Ye
 
-Dinos dónde está la finca, qué cultivas (papa, cebolla, viña), cuántas parcelas son y qué quieres aplicar. Te contestamos si el dron encaja y te mandamos presupuesto con el desplazamiento contemplado: [Agrodrón Canarias](https://agrodroncanarias.es/).
+Dinos dónde está la finca, qué cultivas (papa, cebolla, viña), cuántas parcelas son y qué quieres aplicar. Te contestamos si el dron encaja y te mandamos presupuesto con el desplazamiento contemplado: [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

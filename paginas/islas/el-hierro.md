@@ -70,7 +70,9 @@ A veces: alisio en cumbre, noreste en medianías, brisa en El Golfo. Se mide en 
 
 ## Presupuesto para tu finca en El Hierro
 
-Cuéntanos qué tienes en El Golfo, en las medianías o en el sur, cuánta superficie y si va descubierto o bajo malla. Te respondemos con lo que se puede tratar desde el aire y un presupuesto con el desplazamiento desde La Palma incluido. Escríbenos en [Agrodrón Canarias](https://agrodroncanarias.es/).
+Cuéntanos qué tienes en El Golfo, en las medianías o en el sur, cuánta superficie y si va descubierto o bajo malla. Te respondemos con lo que se puede tratar desde el aire y un presupuesto con el desplazamiento desde La Palma incluido. Escríbenos en [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

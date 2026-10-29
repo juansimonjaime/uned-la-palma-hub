@@ -94,7 +94,9 @@ Sí, toda La Palma sin desplazamiento, de Fuencaliente a Garafía. Fuera de la i
 
 ## Pide presupuesto desde la capital
 
-Entra en [agrodroncanarias.es](https://agrodroncanarias.es/) y dinos en qué barranco o pago está la finca, qué tienes plantado y cuánto terreno es. Al estar en la misma ciudad, miramos la parcela sobre el mapa y te decimos si vale la pena volarla y qué producto permitido encaja. El presupuesto es sin compromiso.
+Entra en [agrodroncanarias.es](https://agrodroncanarias.es/contacto) y dinos en qué barranco o pago está la finca, qué tienes plantado y cuánto terreno es. Al estar en la misma ciudad, miramos la parcela sobre el mapa y te decimos si vale la pena volarla y qué producto permitido encaja. El presupuesto es sin compromiso.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

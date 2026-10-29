@@ -70,7 +70,9 @@ Depende de la disponibilidad y de las demás fincas de la isla. El desplazamient
 
 ## Pide presupuesto para tu viña o tu enarenado en Tinajo
 
-Dinos si tu viña está en enarenado de 1,5 m o en hoyos, cuántas hectáreas tienes y qué quieres aplicar. Desde [Agrodrón Canarias](https://agrodroncanarias.es/) te mandamos un presupuesto y la previsión de salida desde La Palma.
+Dinos si tu viña está en enarenado de 1,5 m o en hoyos, cuántas hectáreas tienes y qué quieres aplicar. Desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) te mandamos un presupuesto y la previsión de salida desde La Palma.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

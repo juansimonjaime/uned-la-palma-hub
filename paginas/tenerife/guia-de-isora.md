@@ -66,7 +66,9 @@ Sí, la viña va al aire libre y admite abonado foliar y bioestimulantes con el 
 
 ## Pide presupuesto para tu finca de Guía de Isora
 
-Dinos zona, qué parte de la platanera va descubierta, hectáreas y qué quieres aplicar; te decimos si el dron encaja y te mandamos un presupuesto con el desplazamiento desde La Palma incluido. Escríbenos en [Agrodrón Canarias](https://agrodroncanarias.es/).
+Dinos zona, qué parte de la platanera va descubierta, hectáreas y qué quieres aplicar; te decimos si el dron encaja y te mandamos un presupuesto con el desplazamiento desde La Palma incluido. Escríbenos en [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

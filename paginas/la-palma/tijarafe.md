@@ -73,7 +73,9 @@ Lo marcan cuatro cosas: superficie, cultivo, acceso al punto de despegue y produ
 
 ## Pide presupuesto para tu finca en Tijarafe
 
-Dinos dónde está la finca (costa o medianía), el cultivo, la superficie aproximada y por dónde se llega. Con eso vemos si el dron encaja y te enviamos un presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/). Trabajamos en toda La Palma sin coste de desplazamiento.
+Dinos dónde está la finca (costa o medianía), el cultivo, la superficie aproximada y por dónde se llega. Con eso vemos si el dron encaja y te enviamos un presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto). Trabajamos en toda La Palma sin coste de desplazamiento.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

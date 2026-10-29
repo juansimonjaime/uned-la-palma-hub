@@ -77,7 +77,9 @@ Sí, con desplazamiento y según disponibilidad. En zonas como Moya-Guía o el j
 
 ## Pide presupuesto para tu huerta
 
-Mándanos municipio, qué tienes sembrado y en qué tabla, superficie, acceso y qué quieres aplicar; vemos si el dron encaja y te preparamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/). En La Palma sin desplazamiento; en Gran Canaria, Tenerife y Lanzarote, con desplazamiento y según la agenda.
+Mándanos municipio, qué tienes sembrado y en qué tabla, superficie, acceso y qué quieres aplicar; vemos si el dron encaja y te preparamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto). En La Palma sin desplazamiento; en Gran Canaria, Tenerife y Lanzarote, con desplazamiento y según la agenda.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

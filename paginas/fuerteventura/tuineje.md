@@ -69,7 +69,9 @@ No hay tarifa plana: depende de la superficie al aire libre, del cultivo, de los
 
 ## Pide presupuesto para tu gavia, tu aloe o tu olivar en Tuineje
 
-Dinos en qué zona está la finca (Gran Tarajal, Tiscamanita, Tuineje casco, Tesejerague), qué cultivas al aire libre y cuántas hectáreas. Si el dron encaja te lo decimos y te pasamos presupuesto con el desplazamiento contemplado: [Agrodrón Canarias](https://agrodroncanarias.es/).
+Dinos en qué zona está la finca (Gran Tarajal, Tiscamanita, Tuineje casco, Tesejerague), qué cultivas al aire libre y cuántas hectáreas. Si el dron encaja te lo decimos y te pasamos presupuesto con el desplazamiento contemplado: [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

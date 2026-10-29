@@ -79,7 +79,9 @@ Sí, es justo lo que hace: abonos foliares, correctores de carencias y bioestimu
 
 ## Pide presupuesto para tu plantación de proteas u ornamentales
 
-Dinos el municipio, las hectáreas al aire libre, la altura de las plantas y qué quieres aplicar. Desde [Agrodrón Canarias](https://agrodroncanarias.es/) te confirmamos si el dron encaja y te preparamos el presupuesto; en La Palma sin desplazamiento, en Tenerife y Gran Canaria con desplazamiento y según disponibilidad.
+Dinos el municipio, las hectáreas al aire libre, la altura de las plantas y qué quieres aplicar. Desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) te confirmamos si el dron encaja y te preparamos el presupuesto; en La Palma sin desplazamiento, en Tenerife y Gran Canaria con desplazamiento y según disponibilidad.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

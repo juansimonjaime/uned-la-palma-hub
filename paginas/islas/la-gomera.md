@@ -68,7 +68,9 @@ Varias fincas en la misma zona o en municipios cercanos, datos enviados antes y 
 
 ## Pide presupuesto para tu finca en La Gomera
 
-Dinos municipio, cultivo, superficie, acceso y si hay malla, cables o palmeras. Te decimos si el dron encaja y te mandamos un presupuesto con el desplazamiento desde La Palma incluido. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Dinos municipio, cultivo, superficie, acceso y si hay malla, cables o palmeras. Te decimos si el dron encaja y te mandamos un presupuesto con el desplazamiento desde La Palma incluido. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

@@ -69,7 +69,9 @@ Dónde está la finca, qué cultivo tiene, cuántas hectáreas suma, cómo se en
 
 ## Pide presupuesto para tus bancales de Puntallana
 
-Si tienes platanera en la costa, aguacate o huerta en las medianías y te cuesta más llegar al bancal que tratarlo, cuéntanoslo en [Agrodrón Canarias](https://agrodroncanarias.es/). Te decimos con franqueza si el dron encaja en tu finca de Puntallana y te pasamos presupuesto.
+Si tienes platanera en la costa, aguacate o huerta en las medianías y te cuesta más llegar al bancal que tratarlo, cuéntanoslo en [Agrodrón Canarias](https://agrodroncanarias.es/contacto). Te decimos con franqueza si el dron encaja en tu finca de Puntallana y te pasamos presupuesto.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

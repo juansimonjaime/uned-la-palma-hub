@@ -79,7 +79,9 @@ Depende del número de árboles, de lo dispersos que estén, del acceso y del pr
 
 ## Pide presupuesto para tus almendros
 
-Dinos municipio, cuántos árboles tienes y cómo están repartidos, cómo se sube a la finca y qué quieres aplicar. Te decimos si el dron encaja y te preparamos presupuesto en [Agrodrón Canarias](https://agrodroncanarias.es/). Puntagorda y Garafía sin desplazamiento; Tenerife y Gran Canaria con él y según agenda.
+Dinos municipio, cuántos árboles tienes y cómo están repartidos, cómo se sube a la finca y qué quieres aplicar. Te decimos si el dron encaja y te preparamos presupuesto en [Agrodrón Canarias](https://agrodroncanarias.es/contacto). Puntagorda y Garafía sin desplazamiento; Tenerife y Gran Canaria con él y según agenda.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

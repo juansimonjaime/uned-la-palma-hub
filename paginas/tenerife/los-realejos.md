@@ -74,7 +74,9 @@ Depende de la disponibilidad y de cuántas fincas haya en la zona: te decimos cu
 
 ## Pide presupuesto para tu finca de Los Realejos
 
-Indícanos zona (costa, medianías o alta), cultivo, hectáreas y producto a aplicar. Te decimos si el dron encaja y te preparamos presupuesto con el desplazamiento desde La Palma en [Agrodrón Canarias](https://agrodroncanarias.es/).
+Indícanos zona (costa, medianías o alta), cultivo, hectáreas y producto a aplicar. Te decimos si el dron encaja y te preparamos presupuesto con el desplazamiento desde La Palma en [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

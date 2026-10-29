@@ -71,7 +71,9 @@ No damos plazos: fuera de La Palma el servicio es con desplazamiento y bajo cons
 
 ## Pide presupuesto para tu finca en Santa María de Guía
 
-Dinos si tu parcela está en la costa, en las medianías o arriba, qué cultivas, cuántas hectáreas y qué quieres aplicar. Valoramos si el dron encaja y te mandamos presupuesto con el desplazamiento incluido. Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y escríbenos.
+Dinos si tu parcela está en la costa, en las medianías o arriba, qué cultivas, cuántas hectáreas y qué quieres aplicar. Valoramos si el dron encaja y te mandamos presupuesto con el desplazamiento incluido. Entra en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) y escríbenos.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

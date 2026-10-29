@@ -84,7 +84,9 @@ Depende de la superficie, del porte de los árboles, de los accesos y del produc
 
 ## Pide presupuesto para tus naranjos
 
-Dinos dónde está el huerto, cuántos árboles o hectáreas tienes y qué quieres aplicar. En [Agrodrón Canarias](https://agrodroncanarias.es/) te decimos si el dron encaja y te mandamos presupuesto: sin desplazamiento en La Palma, con desplazamiento y según disponibilidad en Gran Canaria y Tenerife.
+Dinos dónde está el huerto, cuántos árboles o hectáreas tienes y qué quieres aplicar. En [Agrodrón Canarias](https://agrodroncanarias.es/contacto) te decimos si el dron encaja y te mandamos presupuesto: sin desplazamiento en La Palma, con desplazamiento y según disponibilidad en Gran Canaria y Tenerife.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

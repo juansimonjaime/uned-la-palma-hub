@@ -67,7 +67,9 @@ Agrodrón sale de Santa Cruz de La Palma bajo consulta y según disponibilidad; 
 
 ## Pide presupuesto para la próxima campaña en Moya
 
-Dinos qué siembras, en qué pago (San Felipe, El Pagador, Fontanales...), cuántas hectáreas y en qué fechas sueles tratar. Te decimos si el dron encaja en tu calendario y te mandamos presupuesto con el desplazamiento desde La Palma. Escríbenos en [Agrodrón Canarias](https://agrodroncanarias.es/).
+Dinos qué siembras, en qué pago (San Felipe, El Pagador, Fontanales...), cuántas hectáreas y en qué fechas sueles tratar. Te decimos si el dron encaja en tu calendario y te mandamos presupuesto con el desplazamiento desde La Palma. Escríbenos en [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

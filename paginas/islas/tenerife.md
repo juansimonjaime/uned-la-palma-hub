@@ -95,7 +95,9 @@ No hay cifra sin ver las fincas: depende de superficie agrupada, cultivos, acces
 
 ## Pide presupuesto para tu finca en Tenerife
 
-Busca tu municipio en la lista y escríbenos con finca, cultivo y superficie desde [Agrodrón Canarias](https://agrodroncanarias.es/). Te decimos si el dron encaja y te pasamos presupuesto con el desplazamiento desde La Palma.
+Busca tu municipio en la lista y escríbenos con finca, cultivo y superficie desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto). Te decimos si el dron encaja y te pasamos presupuesto con el desplazamiento desde La Palma.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

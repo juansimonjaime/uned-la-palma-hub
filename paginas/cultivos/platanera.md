@@ -79,7 +79,9 @@ Solo en la parcela que se trata y mientras dura el vuelo; si la etiqueta del pro
 
 ## Pide presupuesto para tu finca de platanera
 
-Mándanos el municipio, las hectáreas, si la finca va a cielo abierto o tiene parte bajo malla de cubierta, y qué quieres aplicar. Con eso te decimos si el dron encaja y te preparamos el presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/): en La Palma sin desplazamiento, en el resto de islas con desplazamiento y según disponibilidad.
+Mándanos el municipio, las hectáreas, si la finca va a cielo abierto o tiene parte bajo malla de cubierta, y qué quieres aplicar. Con eso te decimos si el dron encaja y te preparamos el presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto): en La Palma sin desplazamiento, en el resto de islas con desplazamiento y según disponibilidad.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

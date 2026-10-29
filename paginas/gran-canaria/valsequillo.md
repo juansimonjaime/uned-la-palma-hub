@@ -74,7 +74,9 @@ No hay calendario fijo: el servicio en Gran Canaria es bajo consulta y disponibi
 
 ## Pide presupuesto para tus papas, almendros o cítricos de Valsequillo
 
-Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) y dinos qué tienes al aire libre, dónde y cuántos metros. Te respondemos qué se puede tratar, qué no, qué producto puede ir y un presupuesto sin compromiso para la próxima salida a la isla.
+Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/contacto) y dinos qué tienes al aire libre, dónde y cuántos metros. Te respondemos qué se puede tratar, qué no, qué producto puede ir y un presupuesto sin compromiso para la próxima salida a la isla.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

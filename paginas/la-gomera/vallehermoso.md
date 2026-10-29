@@ -68,7 +68,9 @@ Cuando hay fincas suficientes y fecha con buen viento. Se viaja desde La Palma c
 
 ## Presupuesto para tu finca en Vallehermoso, zona por zona
 
-Cuéntanos en qué zona está tu viña, tu platanera o tu huerta y cuánta superficie quieres tratar. Te respondemos con un presupuesto que cuenta el desplazamiento desde La Palma y te decimos si entra en una próxima salida. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Cuéntanos en qué zona está tu viña, tu platanera o tu huerta y cuánta superficie quieres tratar. Te respondemos con un presupuesto que cuenta el desplazamiento desde La Palma y te decimos si entra en una próxima salida. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

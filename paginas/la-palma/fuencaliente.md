@@ -88,7 +88,9 @@ Los hay, y bastantes en época de viento fuerte del norte y nordeste. Antes de c
 
 ## Pide presupuesto para tu viña o tu platanera de Fuencaliente
 
-Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/) con la zona de la finca, el cultivo, la superficie aproximada y por dónde se llega, y te contestamos si la viña o la platanera se pueden pulverizar desde el aire y qué productos permitidos encajan. Pedir presupuesto no compromete a nada.
+Escríbenos desde [agrodroncanarias.es](https://agrodroncanarias.es/contacto) con la zona de la finca, el cultivo, la superficie aproximada y por dónde se llega, y te contestamos si la viña o la platanera se pueden pulverizar desde el aire y qué productos permitidos encajan. Pedir presupuesto no compromete a nada.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

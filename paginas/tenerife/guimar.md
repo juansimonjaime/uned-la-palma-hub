@@ -70,7 +70,9 @@ El equipo sale de Santa Cruz de La Palma y agrupa fincas del valle en una visita
 
 ## Pide presupuesto para tu viña o tu platanera de Güímar
 
-Mándanos ubicación, cultivo, hectáreas y el producto que quieres aplicar. Te decimos si el dron encaja y preparamos presupuesto con el desplazamiento desde La Palma, desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Mándanos ubicación, cultivo, hectáreas y el producto que quieres aplicar. Te decimos si el dron encaja y preparamos presupuesto con el desplazamiento desde La Palma, desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

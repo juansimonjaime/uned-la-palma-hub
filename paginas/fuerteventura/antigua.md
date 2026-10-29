@@ -70,7 +70,9 @@ Depende de la superficie al aire libre, del cultivo, de los accesos, del product
 
 ## Pide presupuesto para tu finca al aire libre en Antigua
 
-Si tienes aloe, forraje, cereal en gavia o huerta descubierta en Antigua, Valles de Ortega o Triquivijate, cuéntanos qué, cuánto y qué quieres aplicar; te decimos si el dron encaja y te mandamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Si tienes aloe, forraje, cereal en gavia o huerta descubierta en Antigua, Valles de Ortega o Triquivijate, cuéntanos qué, cuánto y qué quieres aplicar; te decimos si el dron encaja y te mandamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

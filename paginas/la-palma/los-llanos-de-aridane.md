@@ -83,7 +83,9 @@ Depende de la superficie, del cultivo, de los accesos y del producto. Una finca 
 
 ## Pide presupuesto para tu finca en Los Llanos de Aridane
 
-Cuéntanos dónde está la finca (costa, colada, llano o medianía), cultivo, hectáreas y qué problema quieres tratar; te decimos si el dron encaja y te mandamos un presupuesto. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/); salimos de Santa Cruz de La Palma sin coste de desplazamiento dentro de la isla.
+Cuéntanos dónde está la finca (costa, colada, llano o medianía), cultivo, hectáreas y qué problema quieres tratar; te decimos si el dron encaja y te mandamos un presupuesto. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto); salimos de Santa Cruz de La Palma sin coste de desplazamiento dentro de la isla.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

@@ -6,12 +6,13 @@ Este documento es la única referencia de estilo, estructura y límites para tod
 
 - Nombre: **Agrodrón Canarias**. Web: https://agrodroncanarias.es/. Base en **Santa Cruz de La Palma**. Fundada en **junio de 2025**.
 - Servicio: **tratamientos agrícolas con dron**: pulverización de productos líquidos de uso permitido en el cultivo (abonos foliares, bioestimulantes, correctores de carencias y otros productos permitidos), aplicados con el **DJI Agras T50** (sistema líquido). En las páginas se habla de "tratamientos agrícolas con dron", "pulverización con dron", "abonado foliar con dron", "aplicaciones con dron" o "dron pulverizador". La lista exacta de productos que aplica Agrodrón está pendiente de confirmar con el responsable (consta en el informe, no en las páginas).
+- Equipo adicional: **tolva para productos sólidos** (p. ej. abonos granulados). Se menciona una vez en la sección final de cada página, sin cifras, sin productos concretos y sin prometer resultados; nunca para plaguicidas ni nada vetado en el punto 2.
 - Datos del T50 que se pueden citar (fuente: ficha técnica de DJI y distribuidores oficiales): depósito de pulverización de **40 litros**; caudal de hasta **16 L/min** con dos boquillas centrífugas y **24 L/min** con cuatro; radar de matriz en fase y visión binocular para **seguir el relieve y detectar obstáculos**; ajusta la velocidad de vuelo a la pendiente. NO citar anchura de pulverización ni hectáreas/hora (no confirmadas).
 - Responsable: **piloto con más de 10 años de experiencia profesional**, con **certificados AESA/EASA (PDRA-S01, operador STS)** y **radiofonista**. No añadir otros títulos.
 - Ámbito: **La Palma, sin desplazamiento**. **Resto de Canarias: servicio con desplazamiento y bajo consulta/disponibilidad.** Toda página fuera de La Palma lo dice de forma clara en el primer tercio de la página y otra vez en la FAQ o la llamada a la acción.
 - Cómo se trabaja (descripción sobria, sin prometer resultados): se recogen los datos de la finca (ubicación, cultivo, superficie, accesos, obstáculos como cables, invernaderos o árboles altos); se planifica el vuelo sobre el mapa de la parcela y se comprueban las zonas geográficas de UAS (ENAIRE); se comprueban viento y condiciones antes de volar; se aplica el producto a la dosis que marca su etiqueta; se registra la aplicación. El dron solo trata **cultivo al aire libre**: lo que esté bajo malla o invernadero no se puede tratar desde el aire.
 - Plagas y enfermedades: las páginas pueden describir los problemas documentados del municipio o del cultivo (con fuente) como contexto del agricultor, pero **el dron no se presenta como herramienta contra plagas**. Su papel es la nutrición foliar y la bioestimulación del cultivo (vigor, recuperación tras estrés por calor, viento, ceniza o sequía), siempre como finalidad del producto y nunca como resultado garantizado. El control de la plaga es asunto de los servicios de sanidad vegetal del Cabildo o del Gobierno de Canarias y de las herramientas que ellos indican (trampas, control biológico, labores), y así puede decirse.
-- Llamada a la acción: pedir presupuesto en https://agrodroncanarias.es/ (enlace obligatorio). Si se quiere un texto como "cuéntanos finca, cultivo y superficie y te decimos si el dron encaja", bien; nada de plazos ni precios.
+- Llamada a la acción: pedir presupuesto en https://agrodroncanarias.es/contacto (enlace obligatorio). Si se quiere un texto como "cuéntanos finca, cultivo y superficie y te decimos si el dron encaja", bien; nada de plazos ni precios.
 
 ## 2. Lo que NO se puede afirmar nunca
 
@@ -127,7 +128,7 @@ Español de España (coger, vosotros/tú, ordenador). Tildes y mayúsculas corre
 ## 11. Longitud (sin frontmatter ni JSON-LD)
 
 - Nivel A (municipios de La Palma): 900–1.300 palabras.
-- Nivel B (municipios de otras islas) y hubs de isla: 700–1.000 palabras.
+- Nivel B (municipios de otras islas) y hubs de isla: 700–1.000 palabras (tolerancia hasta 1.040 por la frase de la tolva en la llamada a la acción).
 - Cultivos: 800–1.300 palabras.
 
 ## 12. Plantilla del bloque JSON-LD (adaptar nombres, URL, areaServed y FAQ; debe ser JSON válido)

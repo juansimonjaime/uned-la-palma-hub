@@ -81,7 +81,9 @@ Sí, con desplazamiento y según disponibilidad. Agrupar fincas de la misma coma
 
 ## Pide presupuesto para tu finca de mango, papaya o piña
 
-Mándanos municipio, cultivo, hectáreas al aire libre y bajo malla por separado, altura de los árboles y qué producto quieres aplicar desde [Agrodrón Canarias](https://agrodroncanarias.es/), y te decimos si el dron encaja y con qué presupuesto. Desde Santa Cruz de La Palma salimos sin desplazamiento en la isla; a Gran Canaria, El Hierro y Tenerife con desplazamiento y según disponibilidad.
+Mándanos municipio, cultivo, hectáreas al aire libre y bajo malla por separado, altura de los árboles y qué producto quieres aplicar desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto), y te decimos si el dron encaja y con qué presupuesto. Desde Santa Cruz de La Palma salimos sin desplazamiento en la isla; a Gran Canaria, El Hierro y Tenerife con desplazamiento y según disponibilidad.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

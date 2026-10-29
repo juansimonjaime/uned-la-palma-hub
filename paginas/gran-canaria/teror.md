@@ -71,7 +71,9 @@ Se cambia la hora o el día. Con niebla cerrada no se vuela, porque la pulveriza
 
 ## Pide presupuesto para tu finca de papas en Teror
 
-Entra en [agrodroncanarias.es](https://agrodroncanarias.es/) y cuéntanos dónde está la finca, qué tienes sembrado y cuántos metros son. Te decimos si el dron encaja, qué producto puede ir y cómo organizar una salida conjunta desde La Palma con otros vecinos del pago. El presupuesto no compromete a nada.
+Entra en [agrodroncanarias.es](https://agrodroncanarias.es/contacto) y cuéntanos dónde está la finca, qué tienes sembrado y cuántos metros son. Te decimos si el dron encaja, qué producto puede ir y cómo organizar una salida conjunta desde La Palma con otros vecinos del pago. El presupuesto no compromete a nada.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

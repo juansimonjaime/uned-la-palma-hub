@@ -70,7 +70,9 @@ Sí, es cultivo al aire libre y admite abonado foliar con dron. La polilla guate
 
 ## Pide presupuesto y te decimos si el dron encaja en Adeje
 
-Cuéntanos finca, cultivo, superficie y qué quieres aplicar; te respondemos si merece el desplazamiento desde La Palma y con qué disponibilidad. El presupuesto se pide en [Agrodrón Canarias](https://agrodroncanarias.es/).
+Cuéntanos finca, cultivo, superficie y qué quieres aplicar; te respondemos si merece el desplazamiento desde La Palma y con qué disponibilidad. El presupuesto se pide en [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

@@ -66,7 +66,9 @@ Sí, con desplazamiento desde Santa Cruz de La Palma y bajo disponibilidad; comp
 
 ## Pide presupuesto para tu piña, tu platanera o tu viña en Frontera
 
-Mándanos la parcela en un mapa, cultivo, superficie y, en la piña, si va descubierta o bajo malla. Te decimos qué se trata desde el aire y te preparamos un presupuesto que cuenta el viaje desde La Palma. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/).
+Mándanos la parcela en un mapa, cultivo, superficie y, en la piña, si va descubierta o bajo malla. Te decimos qué se trata desde el aire y te preparamos un presupuesto que cuenta el viaje desde La Palma. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

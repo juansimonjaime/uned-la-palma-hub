@@ -76,7 +76,9 @@ Depende de superficie, sistema de plantación (enarenado denso o hoyos), accesos
 
 ## Pide presupuesto para tu finca en Lanzarote
 
-Dinos municipio, cultivo, sistema de plantación y hectáreas. Desde [Agrodrón Canarias](https://agrodroncanarias.es/) te mandamos un presupuesto y te decimos cuándo puede salir el dron desde La Palma.
+Dinos municipio, cultivo, sistema de plantación y hectáreas. Desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) te mandamos un presupuesto y te decimos cuándo puede salir el dron desde La Palma.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

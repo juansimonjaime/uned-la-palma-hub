@@ -74,7 +74,9 @@ No hay tarifa cerrada: depende de pendiente, número de terrazas, producto y des
 
 ## Pide presupuesto para tu viña o tu finca en Tacoronte
 
-Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y cuéntanos qué tienes (viña en parral o en vaso, papa, aguacate, platanera), dónde y cuánto. Te decimos si encaja y te mandamos presupuesto; la salida desde La Palma va según disponibilidad.
+Entra en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) y cuéntanos qué tienes (viña en parral o en vaso, papa, aguacate, platanera), dónde y cuánto. Te decimos si encaja y te mandamos presupuesto; la salida desde La Palma va según disponibilidad.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

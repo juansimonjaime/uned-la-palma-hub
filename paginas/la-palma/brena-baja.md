@@ -83,7 +83,9 @@ Lo marcan la superficie, el cultivo, el acceso y el producto que se aplique; en 
 
 ## Pide presupuesto para tu finca de Breña Baja
 
-Manda desde [agrodroncanarias.es](https://agrodroncanarias.es/) la ubicación de los bancales, el cultivo, la superficie y el acceso, y te contestamos con la parcela ya mirada sobre el mapa de ENAIRE: si se puede volar, qué condiciones pone esa zona y el presupuesto. El resto de la isla está en el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/); el vecino de arriba, en [dron agrícola en Breña Alta](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/).
+Manda desde [agrodroncanarias.es](https://agrodroncanarias.es/contacto) la ubicación de los bancales, el cultivo, la superficie y el acceso, y te contestamos con la parcela ya mirada sobre el mapa de ENAIRE: si se puede volar, qué condiciones pone esa zona y el presupuesto. El resto de la isla está en el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/); el vecino de arriba, en [dron agrícola en Breña Alta](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

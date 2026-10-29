@@ -85,7 +85,9 @@ No publicamos tarifas. Depende de la superficie total de la salida, cultivos, ac
 
 ## Pide presupuesto para tu finca en Gran Canaria
 
-Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y cuéntanos municipio, cultivo, hectáreas y si hay malla o invernadero. Te decimos si el dron encaja y te pasamos presupuesto para la próxima salida a Gran Canaria.
+Entra en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) y cuéntanos municipio, cultivo, hectáreas y si hay malla o invernadero. Te decimos si el dron encaja y te pasamos presupuesto para la próxima salida a Gran Canaria.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

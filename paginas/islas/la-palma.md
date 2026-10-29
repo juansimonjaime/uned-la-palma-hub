@@ -79,7 +79,9 @@ Sí, si la platanera está al aire libre. Son sorribas nuevas sobre terreno irre
 
 ## Pide presupuesto para tu finca en La Palma
 
-Cuéntanos en qué municipio está la finca, qué cultivo tienes, cuántas hectáreas suma y cómo se entra. En [Agrodrón Canarias](https://agrodroncanarias.es/) te decimos si el dron encaja y te preparamos presupuesto, sin desplazamiento.
+Cuéntanos en qué municipio está la finca, qué cultivo tienes, cuántas hectáreas suma y cómo se entra. En [Agrodrón Canarias](https://agrodroncanarias.es/contacto) te decimos si el dron encaja y te preparamos presupuesto, sin desplazamiento.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

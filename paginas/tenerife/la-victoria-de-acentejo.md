@@ -72,7 +72,9 @@ Depende de la superficie, del número de terrazas, de los accesos y del producto
 
 ## Pide presupuesto para tu viña en La Victoria de Acentejo
 
-Mándanos desde [Agrodrón Canarias](https://agrodroncanarias.es/) la ubicación de la finca, las hectáreas, el cultivo y el producto que quieres aplicar. Te decimos si el dron encaja en tus terrazas y te pasamos un presupuesto con el desplazamiento desde La Palma, según disponibilidad y mejor agrupando varias fincas de Acentejo.
+Mándanos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) la ubicación de la finca, las hectáreas, el cultivo y el producto que quieres aplicar. Te decimos si el dron encaja en tus terrazas y te pasamos un presupuesto con el desplazamiento desde La Palma, según disponibilidad y mejor agrupando varias fincas de Acentejo.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

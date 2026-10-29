@@ -74,7 +74,9 @@ El servicio en Gran Canaria es con desplazamiento y bajo disponibilidad. Una sol
 
 ## Pide presupuesto para tu finca de Telde
 
-Cuéntanos en [agrodroncanarias.es](https://agrodroncanarias.es/) en qué zona está la finca, qué cultivo tienes al aire libre y cuánta superficie es. Te decimos si el dron encaja, qué marca el mapa de ENAIRE para esa parcela y qué producto puede ir, con un presupuesto sin compromiso para la próxima salida.
+Cuéntanos en [agrodroncanarias.es](https://agrodroncanarias.es/contacto) en qué zona está la finca, qué cultivo tienes al aire libre y cuánta superficie es. Te decimos si el dron encaja, qué marca el mapa de ENAIRE para esa parcela y qué producto puede ir, con un presupuesto sin compromiso para la próxima salida.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

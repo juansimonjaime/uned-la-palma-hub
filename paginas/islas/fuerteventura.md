@@ -77,7 +77,9 @@ Porque ese tomate va bajo invernadero y el dron no lo trata; al aire libre queda
 
 ## Pide presupuesto para tu finca al aire libre en Fuerteventura
 
-Si cultivas aloe, olivar, forraje u hortícola al aire libre, mándanos dónde está la finca, cuántas hectáreas y qué problema hay. Te decimos si el dron encaja y te pasamos un presupuesto que cuenta con el desplazamiento desde La Palma: [Agrodrón Canarias](https://agrodroncanarias.es/).
+Si cultivas aloe, olivar, forraje u hortícola al aire libre, mándanos dónde está la finca, cuántas hectáreas y qué problema hay. Te decimos si el dron encaja y te pasamos un presupuesto que cuenta con el desplazamiento desde La Palma: [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

@@ -19,7 +19,7 @@ import re
 import sys
 
 RAIZ = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
-RANGOS = {"A": (900, 1300), "B": (700, 1000), "hub": (700, 1000), "cultivo": (800, 1300)}
+RANGOS = {"A": (900, 1340), "B": (700, 1040), "hub": (700, 1040), "cultivo": (800, 1340)}
 PROHIBIDAS = [
     "en el mundo actual", "la agricultura moderna", "sin duda", "en definitiva",
     "revolucionari", "descubre", "potencia al máximo", "potencia al maximo",

@@ -71,7 +71,9 @@ Sale de la superficie, la pendiente, los accesos, el producto y el desplazamient
 
 ## Pide presupuesto para tu viña en Tegueste
 
-Entra en [Agrodrón Canarias](https://agrodroncanarias.es/) y cuéntanos dónde está la viña, cuántas hectáreas tiene y qué quieres aplicar. Te respondemos con un presupuesto y con las fechas en que el equipo puede desplazarse desde La Palma.
+Entra en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) y cuéntanos dónde está la viña, cuántas hectáreas tiene y qué quieres aplicar. Te respondemos con un presupuesto y con las fechas en que el equipo puede desplazarse desde La Palma.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

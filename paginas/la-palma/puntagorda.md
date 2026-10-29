@@ -77,7 +77,9 @@ Pesa la superficie, el cultivo y, sobre todo aquí, lo repartidas que estén las
 
 ## Pide presupuesto para tus fincas de Puntagorda
 
-Cuéntanos qué tienes (almendro, viña, aguacate o platanera), en qué pagos están las parcelas y qué quieres tratar y cuándo. Te decimos si encaja en el calendario y te mandamos un presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/). Sin desplazamiento: salimos desde Santa Cruz de La Palma.
+Cuéntanos qué tienes (almendro, viña, aguacate o platanera), en qué pagos están las parcelas y qué quieres tratar y cuándo. Te decimos si encaja en el calendario y te mandamos un presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto). Sin desplazamiento: salimos desde Santa Cruz de La Palma.
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {

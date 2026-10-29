@@ -88,7 +88,9 @@ Depende de superficie, cultivo, accesos y producto que se aplique, no del mes. L
 
 ## Pide presupuesto para tu finca de Mazo antes de la próxima campaña
 
-Entra en [agrodroncanarias.es](https://agrodroncanarias.es/), cuéntanos el pago, el cultivo y la superficie, y te respondemos si el dron tiene sentido en tu caso y qué producto permitido encaja. Si tu finca cae más al sur, mira la página de [dron agrícola en Fuencaliente](https://agrodroncanarias.es/dron-agricola-la-palma/fuencaliente/), y la visión de toda la isla, en el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/).
+Entra en [agrodroncanarias.es](https://agrodroncanarias.es/contacto), cuéntanos el pago, el cultivo y la superficie, y te respondemos si el dron tiene sentido en tu caso y qué producto permitido encaja. Si tu finca cae más al sur, mira la página de [dron agrícola en Fuencaliente](https://agrodroncanarias.es/dron-agricola-la-palma/fuencaliente/), y la visión de toda la isla, en el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/).
+
+Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
 ```json
 {
