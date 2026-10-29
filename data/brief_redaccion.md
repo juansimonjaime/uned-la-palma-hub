@@ -5,33 +5,34 @@ Este documento es la única referencia de estilo, estructura y límites para tod
 ## 1. Hechos de la empresa que SÍ se pueden afirmar
 
 - Nombre: **Agrodrón Canarias**. Web: https://agrodroncanarias.es/. Base en **Santa Cruz de La Palma**. Fundada en **junio de 2025**.
-- Servicio: **tratamientos fitosanitarios con dron** (pulverización líquida). Equipo: **DJI Agras T50**, sistema líquido.
-- Datos del T50 que se pueden citar (fuente: ficha técnica de DJI y distribuidores oficiales): depósito de pulverización de **40 litros**; caudal de hasta **16 L/min** con dos boquillas centrífugas y **24 L/min** con cuatro; radar de matriz en fase y visión binocular para **seguir el relieve y detectar obstáculos**; ajusta la velocidad de vuelo a la pendiente. NO citar anchura de pulverización ni hectáreas/hora (no confirmadas). Si se quiere mencionar una cifra más, va con [VERIFICAR].
+- Servicio: **tratamientos agrícolas con dron**: pulverización de productos líquidos de uso permitido en el cultivo (abonos foliares, bioestimulantes, correctores de carencias y otros productos permitidos), aplicados con el **DJI Agras T50** (sistema líquido). En las páginas se habla de "tratamientos agrícolas con dron", "pulverización con dron", "abonado foliar con dron", "aplicaciones con dron" o "dron pulverizador". La lista exacta de productos que aplica Agrodrón está pendiente de confirmar con el responsable (consta en el informe, no en las páginas).
+- Datos del T50 que se pueden citar (fuente: ficha técnica de DJI y distribuidores oficiales): depósito de pulverización de **40 litros**; caudal de hasta **16 L/min** con dos boquillas centrífugas y **24 L/min** con cuatro; radar de matriz en fase y visión binocular para **seguir el relieve y detectar obstáculos**; ajusta la velocidad de vuelo a la pendiente. NO citar anchura de pulverización ni hectáreas/hora (no confirmadas).
 - Responsable: **piloto con más de 10 años de experiencia profesional**, con **certificados AESA/EASA (PDRA-S01, operador STS)** y **radiofonista**. No añadir otros títulos.
 - Ámbito: **La Palma, sin desplazamiento**. **Resto de Canarias: servicio con desplazamiento y bajo consulta/disponibilidad.** Toda página fuera de La Palma lo dice de forma clara en el primer tercio de la página y otra vez en la FAQ o la llamada a la acción.
-- Cómo se trabaja (descripción sobria, sin prometer resultados): se recogen los datos de la finca (ubicación, cultivo, superficie, accesos, obstáculos como cables, invernaderos o árboles altos); se planifica el vuelo sobre el mapa de la parcela; se comprueban viento y condiciones antes de volar; se aplica la dosis que marca la etiqueta del producto y el plan de aplicación; se registra el tratamiento. El dron solo trata **cultivo al aire libre**: lo que esté bajo malla o invernadero no se puede tratar desde el aire.
+- Cómo se trabaja (descripción sobria, sin prometer resultados): se recogen los datos de la finca (ubicación, cultivo, superficie, accesos, obstáculos como cables, invernaderos o árboles altos); se planifica el vuelo sobre el mapa de la parcela y se comprueban las zonas geográficas de UAS (ENAIRE); se comprueban viento y condiciones antes de volar; se aplica el producto a la dosis que marca su etiqueta; se registra la aplicación. El dron solo trata **cultivo al aire libre**: lo que esté bajo malla o invernadero no se puede tratar desde el aire.
+- Plagas y enfermedades: las páginas pueden describir los problemas documentados del municipio o del cultivo (con fuente) como contexto del agricultor, pero **el dron no se presenta como herramienta contra plagas**. Su papel es la nutrición foliar y la bioestimulación del cultivo (vigor, recuperación tras estrés por calor, viento, ceniza o sequía), siempre como finalidad del producto y nunca como resultado garantizado. El control de la plaga es asunto de los servicios de sanidad vegetal del Cabildo o del Gobierno de Canarias y de las herramientas que ellos indican (trampas, control biológico, labores), y así puede decirse.
 - Llamada a la acción: pedir presupuesto en https://agrodroncanarias.es/ (enlace obligatorio). Si se quiere un texto como "cuéntanos finca, cultivo y superficie y te decimos si el dron encaja", bien; nada de plazos ni precios.
 
 ## 2. Lo que NO se puede afirmar nunca
 
+- La palabra **fitosanitario** en cualquiera de sus formas, ni "fitos", ni plaguicida, pesticida, fungicida, insecticida, acaricida o herbicida, ni "fumigar" o "fumigación". Agrodrón no ofrece ese servicio en Canarias y el responsable no quiere que aparezca en ninguna página. Tampoco se cita el Real Decreto 1311/2012, el "plan de aplicación", la "aplicación aérea de productos", el "anexo VI", la nota MAPA–AESA ni la "autorización previa del órgano competente": todo eso pertenece al régimen de esos productos y no a este servicio.
+- Que el dron combate, controla, elimina o previene una plaga o enfermedad; que un producto "trata" el picudo, la cochinilla, el mildiu, etc.
 - Precios, tarifas, "desde X €", descuentos.
 - Clientes, fincas tratadas, testimonios, casos de éxito, cifras de ahorro, "hemos tratado X hectáreas".
-- Resultados agronómicos garantizados ("elimina la plaga", "aumenta la cosecha").
-- Que un producto concreto esté autorizado para aplicación aérea en un cultivo concreto.
-- Nada sobre normativa sin fuente oficial (ver punto 3). Nada de "AESA nos autoriza a fumigar": lo que hay son certificados de piloto/operador y un marco legal que hay que cumplir en cada tratamiento.
+- Resultados agronómicos garantizados ("aumenta la cosecha", "la planta se recupera").
+- Nada sobre normativa sin fuente oficial (ver punto 3).
 - Datos locales que no estén en `/data/`. Si hace falta un dato que no está, se escribe cualitativo o se marca [VERIFICAR: qué hay que comprobar].
 
-## 3. Marco legal: frases permitidas (con su fuente) y cómo usarlas
+## 3. Normativa y condiciones: frases permitidas (con su fuente) y cómo usarlas
 
-Usar como máximo un párrafo corto de normativa por página, redactado distinto cada vez, con la fuente entre paréntesis o en una frase. Solo estas afirmaciones:
+Como máximo un párrafo corto por página, redactado distinto cada vez. Solo estas afirmaciones:
 
-1. "En España la aplicación aérea de productos fitosanitarios está prohibida con carácter general y solo se permite en casos especiales, con **autorización previa del órgano competente de la comunidad autónoma** y un **plan de aplicación** aprobado." Fuente: Real Decreto 1311/2012, de 14 de septiembre, artículos 27 y 28 (BOE núm. 223, de 15/09/2012; https://www.boe.es/eli/es/rd/2012/09/14/1311/con).
-2. "El Ministerio de Agricultura considera los tratamientos con dron como **tratamientos aéreos**, así que se les aplica ese mismo régimen de autorización." Fuente: nota informativa MAPA–AESA sobre tratamientos aéreos con drones (2018), https://servicio.mapa.gob.es/es/agricultura/temas/sanidad-vegetal/180816notainformativatratamientosaereoscondrones--aesa_tcm30-57933.PDF.
-3. "Solo pueden aplicarse productos cuya autorización incluya expresamente la **aplicación aérea**." Fuente: Real Decreto 1311/2012, anexo VI.
-4. "El operador vuela en la **categoría específica** de AESA/EASA, en escenarios estándar (STS) o bajo el análisis de riesgo predefinido **PDRA-S01**." Fuente: AESA, ámbito drones (https://www.seguridadaerea.gob.es/es/ambitos/drones) y Reglamento de Ejecución (UE) 2019/947.
-5. Opcional (máximo en hubs de isla y páginas de cultivo, siempre con la marca): "Para abonos foliares, bioestimulantes y otros productos que no son fitosanitarios el régimen es distinto [VERIFICAR: confirmar con Agrodrón qué aplicaciones no fitosanitarias ofrece]."
+1. "Agrodrón vuela en la **categoría específica** de AESA/EASA, en escenarios estándar (STS) o bajo el análisis de riesgo predefinido **PDRA-S01**, con piloto certificado." Fuente: AESA, ámbito drones (https://www.seguridadaerea.gob.es/es/ambitos/drones) y Reglamento de Ejecución (UE) 2019/947.
+2. "Cada vuelo se planifica sobre el mapa de la parcela y se comprueban las **zonas geográficas de UAS** (cercanía de aeropuertos, zonas restringidas)." Fuente: mapa de zonas geográficas de UAS de ENAIRE (https://drones.enaire.es/).
+3. "Solo se aplican **productos de uso permitido en el cultivo**, a la dosis que marca su etiqueta, y solo sobre cultivo al aire libre." Sin cita normativa: es la práctica de la empresa.
+4. "Con viento fuerte, lluvia o niebla no se vuela; la ventana se decide en la finca el mismo día." Práctica operativa, sin cifra de viento (no confirmada).
 
-Cómo se traduce para el agricultor: Agrodrón no vuela "por libre"; cada tratamiento fitosanitario con dron necesita su autorización y su plan de aplicación ante el Gobierno de Canarias, y el agricultor aporta los datos de la parcela y el producto. Decirlo así, sin dramatizar y sin convertir la página en un texto jurídico.
+Cómo se traduce para el agricultor: el dron pulveriza abonos foliares, bioestimulantes y otros productos permitidos sobre cultivos al aire libre; el agricultor aporta los datos de la parcela y el producto que quiere aplicar. Decirlo así, sin convertir la página en un texto jurídico.
 
 ## 4. Arquitectura, slugs y enlaces internos
 
@@ -57,7 +58,7 @@ title: "Dron agrícola en Tazacorte | Agrodrón Canarias"
 slug: "tazacorte"
 meta_description: "Entre 120 y 155 caracteres, con la palabra clave y una razón concreta para pedir presupuesto."
 keyword: "dron agrícola en Tazacorte"
-keywords_secundarias: "fumigar con dron en Tazacorte, tratamiento con drones en platanera, dron fitosanitario La Palma, pulverización aérea Tazacorte"
+keywords_secundarias: "pulverización con dron en Tazacorte, tratamiento con drones en platanera, abonado foliar con dron La Palma, dron pulverizador Tazacorte"
 parent: "dron-agricola-la-palma"
 nivel: "A"
 isla: "La Palma"
@@ -74,7 +75,7 @@ municipio: "Tazacorte"
 ## 6. Reglas SEO que el script comprueba
 
 - La keyword principal aparece **tal cual** (mayúsculas y tildes no importan) en: `title`, H1, primer párrafo tras el H1, al menos un H2 y `meta_description`. Una vez en cada sitio basta; no repetirla más de 5–6 veces en toda la página.
-- Usar variantes reales en el cuerpo: "fumigar con dron", "tratamiento con drones", "dron fitosanitario", "pulverización aérea", "tratamientos fitosanitarios con dron", "dron para plataneras", "dron pulverizador".
+- Usar variantes reales en el cuerpo: "tratamiento con drones", "pulverización con dron", "dron pulverizador", "abonado foliar con dron", "bioestimulantes con dron", "tratamientos agrícolas con dron", "dron para plataneras".
 - Un solo H1. Entre 5 y 8 H2. H3 solo para las preguntas de la FAQ y, si hace falta, para subapartados.
 - Párrafos de 2–4 líneas (máximo ~70 palabras). Listas cuando haya tres o más elementos paralelos.
 - Marcadores de imagen con alt: `[IMAGEN: descripción de la foto que debería ir aquí | alt: texto alternativo descriptivo con el lugar y el cultivo]`. Entre 2 y 4 por página; la primera justo después del primer párrafo.
@@ -86,15 +87,15 @@ Toda página tiene: H1 → primer párrafo con la keyword y una razón local con
 
 Para que ninguna página se parezca a otra, cada una usa UNO de estos esqueletos (se asigna en el encargo de cada redactor) y además ordena y titula sus H2 a su manera:
 
-- **E1 – Del cultivo al dron**: cultivo dominante y cómo está plantado → problema fitosanitario documentado → por qué el dron encaja en esas parcelas → cómo se organiza un tratamiento → límites (malla, viento, autorización) → otros cultivos del municipio → FAQ → CTA.
-- **E2 – Del terreno al dron**: orografía y accesos (bancales, barrancos, pendientes) → qué cuesta tratar hoy esas fincas (mochila, tractor, atomizador) → qué cambia con el dron → cultivos y plagas del municipio → marco legal en dos frases → FAQ → CTA.
+- **E1 – Del cultivo al dron**: cultivo dominante y cómo está plantado → problema fitosanitario documentado → por qué el dron encaja en esas parcelas → cómo se organiza un tratamiento → límites (malla, viento, productos permitidos) → otros cultivos del municipio → FAQ → CTA.
+- **E2 – Del terreno al dron**: orografía y accesos (bancales, barrancos, pendientes) → qué cuesta tratar hoy esas fincas (mochila, tractor, atomizador) → qué cambia con el dron → cultivos y plagas del municipio → normativa aérea y productos permitidos en dos frases → FAQ → CTA.
 - **E3 – Pregunta del agricultor**: H2 que son las preguntas reales ("¿Se puede fumigar con dron una finca de X?") → respuestas con datos del municipio → qué hace falta para contratar → qué cultivos tienen sentido y cuáles no → FAQ → CTA.
 - **E4 – Por zonas**: el municipio dividido en zonas agrícolas (costa / medianías / cumbre, o barrios y pagos reales) con cultivo, pendiente y encaje del dron en cada una → plagas documentadas → cómo se trabaja → FAQ → CTA.
-- **E5 – Calendario**: el año agrícola del municipio (épocas de riesgo documentadas de sus cultivos) → qué tratamientos encajan con dron en cada época → terreno y accesos → condiciones (viento, humedad) → marco legal → FAQ → CTA.
+- **E5 – Calendario**: el año agrícola del municipio (épocas de riesgo documentadas de sus cultivos) → qué tratamientos encajan con dron en cada época → terreno y accesos → condiciones (viento, humedad) → normativa aérea y productos permitidos → FAQ → CTA.
 
-Hubs de isla: visión de la agricultura de la isla con datos (ha, cultivos, % del archipiélago), mapa por comarcas, lista enlazada de municipios con página y mención de los que no la tienen, cultivos enlazados, condiciones de servicio (desplazamiento si no es La Palma), FAQ, CTA.
+Hubs de isla: visión de la agricultura de la isla con datos (ha, cultivos, % del archipiélago), mapa por comarcas, lista enlazada de municipios con página y mención de los que no la tienen, cultivos enlazados, condiciones de servicio (desplazamiento si no es La Palma), normativa aérea y productos permitidos, FAQ, CTA.
 
-Páginas de cultivo: el cultivo en Canarias con datos (ha, islas, al aire libre vs cubierta), altura y marco de plantación y qué implica para el dron, plagas y enfermedades documentadas con épocas de riesgo, qué se puede y qué no se puede tratar desde el aire, enlaces a islas y municipios donde pesa el cultivo, FAQ, CTA.
+Páginas de cultivo: el cultivo en Canarias con datos (ha, islas, al aire libre vs cubierta), altura y marco de plantación y qué implica para el dron, plagas y enfermedades documentadas como contexto (épocas de riesgo), qué aplicaciones foliares tienen sentido con dron y qué queda fuera (malla, invernadero), enlaces a islas y municipios donde pesa el cultivo, FAQ, CTA.
 
 ## 8. Estilo
 
@@ -104,7 +105,7 @@ Vocabulario del campo canario cuando encaje y sea correcto: finca, bancal, plata
 
 Frases de longitud variada. Alguna muy corta. Cada párrafo aporta un dato, un ejemplo o una razón; si no aporta nada, se borra.
 
-PROHIBIDO (el script lo detecta y la página se rechaza): "En el mundo actual", "La agricultura moderna", "hoy en día", "en la actualidad", "sin duda", "en definitiva", "en resumen", "en conclusión", "cabe destacar", "es importante destacar", "revolucionario/a", "innovador/a", "vanguardia", "descubre", "sumérgete", "potencia al máximo", "la solución perfecta", "de última generación", "el futuro de la agricultura", exclamaciones, listas de tres adjetivos seguidos, conclusiones que repiten lo ya dicho, y cualquier párrafo que valga igual para otro municipio cambiando el nombre.
+PROHIBIDO (el script lo detecta y la página se rechaza): "fitosanitario/a/os/as", "fitos", "plaguicida", "pesticida", "fungicida", "insecticida", "acaricida", "herbicida", "fumigar", "fumigación", "Real Decreto 1311/2012", "plan de aplicación", "aplicación aérea", "anexo VI", "MAPA–AESA", "órgano competente", "autorización previa", "En el mundo actual", "La agricultura moderna", "hoy en día", "en la actualidad", "sin duda", "en definitiva", "en resumen", "en conclusión", "cabe destacar", "es importante destacar", "revolucionario/a", "innovador/a", "vanguardia", "descubre", "sumérgete", "potencia al máximo", "la solución perfecta", "de última generación", "el futuro de la agricultura", exclamaciones, listas de tres adjetivos seguidos, conclusiones que repiten lo ya dicho, y cualquier párrafo que valga igual para otro municipio cambiando el nombre.
 
 Tampoco: metáforas grandilocuentes, preguntas retóricas encadenadas, "imagina que…", "no te preocupes", "estamos aquí para ayudarte", "nuestro equipo de expertos", "soluciones integrales", "a medida" como coletilla.
 
@@ -112,7 +113,7 @@ Español de España (coger, vosotros/tú, ordenador). Tildes y mayúsculas corre
 
 ## 9. Anti-plantilla (regla dura)
 
-- Ningún párrafo, frase de servicio, párrafo legal, pregunta de FAQ ni CTA se repite entre páginas. Cada página redacta lo suyo desde cero con sus propios ejemplos.
+- Ningún párrafo, frase de servicio, párrafo de normativa aérea, pregunta de FAQ ni CTA se repite entre páginas. Cada página redacta lo suyo desde cero con sus propios ejemplos.
 - La descripción del T50 y de cómo se trabaja se cuenta en cada página desde el ángulo local (por qué el seguimiento de terreno importa en los bancales de Tijarafe; por qué el depósito de 40 L casa con fincas de platanera de 1 ha en Tazacorte; por qué el viento manda en Garafía). Nunca como ficha repetida.
 - Las FAQ son locales: nombran el municipio, su cultivo o su problema. Una pregunta de precio se responde sin cifras: depende de superficie, cultivo, accesos y producto, y se cierra con el presupuesto.
 - Al terminar, el redactor relee la página y reescribe cualquier frase que suene a texto genérico de IA. El script de similitud rechaza pares de páginas con más del 30 % de secuencias de 5 palabras compartidas.
@@ -137,8 +138,8 @@ Español de España (coger, vosotros/tú, ordenador). Tildes y mayúsculas corre
   "@graph": [
     {
       "@type": "Service",
-      "name": "Tratamientos fitosanitarios con dron agrícola en Tazacorte",
-      "serviceType": "Tratamiento fitosanitario con dron agrícola",
+      "name": "Tratamientos agrícolas con dron en Tazacorte",
+      "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
       "description": "Una o dos frases propias de la página.",
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/tazacorte/",
       "provider": {

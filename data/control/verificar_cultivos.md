@@ -1,0 +1,96 @@
+# Marcas [VERIFICAR] pendientes: cultivos
+
+Total: 46 marcas en 10 páginas.
+
+- `paginas/cultivos/aguacate.md` | [VERIFICAR: altura y marco de plantación con fuente técnica]
+  - Contexto: El aguacatero adulto es un árbol de porte alto, de cuatro a ocho metros según manejo y edad [VERIFICAR: altura y marco de plantación con fuente técnica], con una copa densa que cierra la calle en pocos años si no se poda. En La Palma va en bancales de medianías entre 300 y 700 m; en Mogán, en el fon
+- `paginas/cultivos/aguacate.md` | [VERIFICAR: superficie 2023 en la tabla 7.9.15.2 del Anuario del MAPA]
+  - Contexto: El aguacate es el frutal que más ha crecido en Canarias: de 816 ha en 2007 a 2.484 ha en 2023 según la Consejería de Agricultura (vía Tropicán). Para ese mismo año RTVC habla de unas 2.000 ha y 14.000 t al presentar la IGP Aguacate de Canarias, y el ISTAC da 2.438,8 ha. Las cifras no coinciden [VERI
+- `paginas/cultivos/aguacate.md` | [VERIFICAR: hectáreas de aguacate en Gran Canaria]
+  - Contexto: En Tenerife el Cabildo contaba 694 ha hacia 2021 y 790 ha en 2022, el doble que diez años antes. Para Gran Canaria no hay cifra insular reciente [VERIFICAR: hectáreas de aguacate en Gran Canaria]; Mogán tenía unas 40 ha en 2025 (Ayuntamiento). Y todo va al aire libre: no hay cubierta que descontar.
+- `paginas/cultivos/aguacate.md` | [VERIFICAR: estatus oficial con Sanidad Vegetal]
+  - Contexto: Una fuente discrepa: una noticia de Vozpopuli afirma que Canarias está libre del ácaro del aguacate, frente al ICIA y al Canal Agrario de La Palma, que lo dan por presente en todas las zonas productoras [VERIFICAR: estatus oficial con Sanidad Vegetal].
+- `paginas/cultivos/aguacate.md` | [VERIFICAR: horas de calma por comarca]
+  - Contexto: Primero recogemos los datos de la finca: municipio, hectáreas, altura de los árboles, accesos y qué hay alrededor. Con eso se planifica el vuelo sobre el plano. El día del tratamiento se mide el viento: en la vertiente este de La Palma el mar de nubes baja a las medianías y la ventana buena suele se
+- `paginas/cultivos/almendro.md` | [VERIFICAR: tabla MAPA 7.10.1.2]
+  - Contexto: El Anuario de Estadística del MAPA (avance 2023, tabla 7.10.1.2) da para Canarias unas 279 ha de almendro en plantación regular y unas 244 t con cáscara, datos provisionales y con una lectura de columnas poco fiable [VERIFICAR: tabla MAPA 7.10.1.2]. El anuario de 2022 daba 239 ha; en 2004 eran 530 h
+- `paginas/cultivos/almendro.md` | [VERIFICAR: superficie en ISTAC o Mapa de Cultivos]
+  - Contexto: Ese reparto choca con lo que Gran Canaria dice de sí misma: un blog turístico habla de más de 3.000 ha de almendros en las medianías, sin respaldo oficial [VERIFICAR: superficie en ISTAC o Mapa de Cultivos]. Lo más probable es que el MAPA cuente solo plantación regular y deje fuera los árboles dispe
+- `paginas/cultivos/almendro.md` | [VERIFICAR: relevancia en Canarias]
+  - Contexto: Con fuente que nombre Canarias solo hay una plaga: el tigre del almendro (Monosteira unicostata), descrito por Agronews como especie muy invasora extendida por Europa y Canarias. La monilia (Monilia laxa), con máxima susceptibilidad en floración y maduración con humedad elevada (Vida Rural, 2004), y
+- `paginas/cultivos/almendro.md` | [VERIFICAR: avisos del Cabildo de La Palma]
+  - Contexto: En Puntagorda y Garafía no hay plaga de almendro documentada localmente [VERIFICAR: avisos del Cabildo de La Palma].
+- `paginas/cultivos/almendro.md` | [VERIFICAR: comportamiento del T50 por encima de 1.000 m]
+  - Contexto: En Tejeda y Vilaflor la altitud y el viento de cresta se valoran antes de comprometer un vuelo [VERIFICAR: comportamiento del T50 por encima de 1.000 m]. En Puntagorda manda el viento de componente norte-noroeste.
+- `paginas/cultivos/citricos.md` | [VERIFICAR: tablas 7.8.2.x del Anuario del MAPA e ISTAC]
+  - Contexto: Los cítricos son un cultivo menor en Canarias y las estadísticas lo reflejan: no hay cifra de hectáreas ni de toneladas localizada [VERIFICAR: tablas 7.8.2.x del Anuario del MAPA e ISTAC]. Mercasa decía en 2022 que la producción se consume en las islas y va por detrás de la platanera entre los fruta
+- `paginas/cultivos/citricos.md` | [VERIFICAR: hectáreas de cítricos por municipio]
+  - Contexto: Hay datos de sitios concretos. En Telde, la naranja local mueve entre 250.000 y 258.000 kg al año hacia SPAR (FyH) y la Finca Jomera produce 80 t anuales (Telde Actualidad); la Feria de la Naranja llegó a su XIV edición en 2025. En Arafo, el Mapa de Cultivos 2016 contaba 17,2 ha de cítricos. Para el
+- `paginas/cultivos/citricos.md` | [VERIFICAR: estatus en Canarias con Sanidad Vegetal del Gobierno de Canarias]
+  - Contexto: Conviene ser claro con lo que dicen las fuentes. El cotonet de Sudáfrica (Delottococcus aberiae) tiene un plan de acción del Ministerio de Agricultura de 2024 que lo sitúa en la Comunidad Valenciana, Cataluña y Murcia, sin mencionar Canarias [VERIFICAR: estatus en Canarias con Sanidad Vegetal del Go
+- `paginas/cultivos/citricos.md` | [VERIFICAR: avisos fitosanitarios de los Cabildos y del Gobierno de Canarias]
+  - Contexto: Minador de los cítricos, piojo rojo y mosca de la fruta (Ceratitis capitata) son plagas habituales del naranjo en el resto de España, pero sin fuente canaria leída para esta página [VERIFICAR: avisos fitosanitarios de los Cabildos y del Gobierno de Canarias]. Si tu técnico los tiene identificados, c
+- `paginas/cultivos/flores-ornamentales.md` | [VERIFICAR: superficie oficial reciente de flor y ornamental en el ISTAC]
+  - Contexto: Diario de Avisos (octubre de 2026) sigue hablando de unas 750 ha y 70 millones de euros al año, concentrados en Tenerife, Gran Canaria y La Palma, señal de que la cifra no se ha actualizado [VERIFICAR: superficie oficial reciente de flor y ornamental en el ISTAC].
+- `paginas/cultivos/flores-ornamentales.md` | [VERIFICAR: porcentaje de ornamentales a cielo abierto]
+  - Contexto: Más atrás, ASOCAN daba en el año 2000 290 ha de flor cortada con 143 ha de rosal. Ninguna de esas fuentes separa lo que va al aire libre de lo que va bajo cubierta [VERIFICAR: porcentaje de ornamentales a cielo abierto].
+- `paginas/cultivos/flores-ornamentales.md` | [VERIFICAR: altura y marco de plantación con fuente técnica]
+  - Contexto: La protea es un arbusto [VERIFICAR: altura y marco de plantación con fuente técnica] plantado en líneas sobre bancales de medianías, en laderas donde el tractor no entra y la mochila se sube a cuestas. En la vertiente este de La Palma el mar de nubes baja a esas cotas y la humedad media es la más al
+- `paginas/cultivos/flores-ornamentales.md` | [VERIFICAR: avisos de Agrocabildo o del Cabildo de La Palma sobre proteas]
+  - Contexto: Sobre plagas y enfermedades de proteas en Canarias no hemos encontrado fuente técnica publicada [VERIFICAR: avisos de Agrocabildo o del Cabildo de La Palma sobre proteas]. Lo que se aplique sale del diagnóstico de tu técnico y de la etiqueta del producto.
+- `paginas/cultivos/flores-ornamentales.md` | [VERIFICAR: hectáreas de proteas por municipio]
+  - Contexto: En [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) las proteas se reparten por las medianías de casi todos los municipios: [Breña Alta](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/) las tiene en sus medianías y [El Paso](https://agrodroncanarias.es/dron-agricola-la-
+- `paginas/cultivos/flores-ornamentales.md` | [VERIFICAR: confirmar con Agrodrón qué aplicaciones no fitosanitarias ofrece]
+  - Contexto: Cada tratamiento fitosanitario con dron, también en flor, necesita autorización previa del Gobierno de Canarias como órgano competente y un plan de aplicación aprobado, porque en España la aplicación aérea de fitosanitarios solo se permite en casos especiales (Real Decreto 1311/2012, artículos 27 y 
+- `paginas/cultivos/frutales-subtropicales.md` | [VERIFICAR: porcentaje a cielo abierto]
+  - Contexto: El mango va al aire libre. La papaya va habitualmente bajo malla o invernadero (norma técnica de Agrocabildo, monografía de Cajamar) [VERIFICAR: porcentaje a cielo abierto]: poco recorrido para el dron. La piña de El Hierro es mixta: en 1988 la mayoría de las parcelas de Frontera iban al aire libre 
+- `paginas/cultivos/frutales-subtropicales.md` | [VERIFICAR: cubierta actual de la piña en El Golfo]
+  - Contexto: El mango va al aire libre. La papaya va habitualmente bajo malla o invernadero (norma técnica de Agrocabildo, monografía de Cajamar) [VERIFICAR: porcentaje a cielo abierto]: poco recorrido para el dron. La piña de El Hierro es mixta: en 1988 la mayoría de las parcelas de Frontera iban al aire libre 
+- `paginas/cultivos/frutales-subtropicales.md` | [VERIFICAR: ISTAC y tablas del Anuario del MAPA]
+  - Contexto: No existe una cifra oficial reciente de hectáreas de mango ni de piña en Canarias [VERIFICAR: ISTAC y tablas del Anuario del MAPA]. Las organizaciones de productores de Tropicán movieron 19.169 t en 2023: 14.408 t de papaya, 2.770 t de aguacate, 1.165 t de piña tropical y 826 t de mango (Forbes; sol
+- `paginas/cultivos/frutales-subtropicales.md` | [VERIFICAR: periodo de esa comparación]
+  - Contexto: No existe una cifra oficial reciente de hectáreas de mango ni de piña en Canarias [VERIFICAR: ISTAC y tablas del Anuario del MAPA]. Las organizaciones de productores de Tropicán movieron 19.169 t en 2023: 14.408 t de papaya, 2.770 t de aguacate, 1.165 t de piña tropical y 826 t de mango (Forbes; sol
+- `paginas/cultivos/frutales-subtropicales.md` | [VERIFICAR: presencia en Canarias]
+  - Contexto: - Mango: antracnosis, oídio (Oidium mangiferae) y mosca de la fruta (Ceratitis capitata) aparecen en referencias peninsulares del IHSM-UMA [VERIFICAR: presencia en Canarias].
+- `paginas/cultivos/frutales-subtropicales.md` | [VERIFICAR: fuente canaria]
+  - Contexto: - Papaya: ácaros, oídio, virus y cochinilla en bibliografía general [VERIFICAR: fuente canaria].
+- `paginas/cultivos/horticolas.md` | [VERIFICAR: ISTAC por cultivo]
+  - Contexto: Las cifras son escasas. La lechuga ocupaba 1.182 ha según el ISTAC citado por RTVC (periodo 2010-2021); de cebolla, col y calabacín no hay hectáreas leídas [VERIFICAR: ISTAC por cultivo]. Mercasa sitúa a Canarias entre las primeras regiones productoras de pepino y calabacín y da 22,7 y 22 para el ca
+- `paginas/cultivos/horticolas.md` | [VERIFICAR: probablemente miles de toneladas]
+  - Contexto: Las cifras son escasas. La lechuga ocupaba 1.182 ha según el ISTAC citado por RTVC (periodo 2010-2021); de cebolla, col y calabacín no hay hectáreas leídas [VERIFICAR: ISTAC por cultivo]. Mercasa sitúa a Canarias entre las primeras regiones productoras de pepino y calabacín y da 22,7 y 22 para el ca
+- `paginas/cultivos/horticolas.md` | [VERIFICAR: proporción bajo cubierta]
+  - Contexto: No encaja lo que va bajo túnel, malla o invernadero. Parte del calabacín y del pepino se cultiva protegido, sin porcentaje con fuente [VERIFICAR: proporción bajo cubierta]; la fresa de Valsequillo va bajo túnel [VERIFICAR]; las flores de Guía, bajo invernadero. En una misma finca se trata la parte d
+- `paginas/cultivos/horticolas.md` | [VERIFICAR]
+  - Contexto: No encaja lo que va bajo túnel, malla o invernadero. Parte del calabacín y del pepino se cultiva protegido, sin porcentaje con fuente [VERIFICAR: proporción bajo cubierta]; la fresa de Valsequillo va bajo túnel [VERIFICAR]; las flores de Guía, bajo invernadero. En una misma finca se trata la parte d
+- `paginas/cultivos/horticolas.md` | [VERIFICAR: avisos de hortícolas por isla]
+  - Contexto: El manual fitosanitario de Agrocabildo de 2026 cita el trips de la cebolla (Thrips tabaci) y, como polífagas que pasan de un cultivo a otro, la araña roja, la mosca blanca y la lagarta (Chrysodeixis chalcites). De otras plagas y enfermedades de col, lechuga o calabacín en Canarias no hay fuente leíd
+- `paginas/cultivos/horticolas.md` | [VERIFICAR: confirmar con Agrodrón qué aplicaciones no fitosanitarias ofrece]
+  - Contexto: Sobre la norma, lo justo. El Ministerio de Agricultura trata los tratamientos con dron como tratamientos aéreos (nota informativa MAPA-AESA de 2018), con autorización previa del órgano competente de la comunidad autónoma y plan de aplicación, y solo con productos cuya autorización incluya expresamen
+- `paginas/cultivos/papa.md` | [VERIFICAR: calendario de avisos por comarca]
+  - Contexto: El mildiu (Phytophthora infestans) es otra historia. Agrocabildo emite avisos de riesgo alto por comarcas (2024) y el Cabildo de Tenerife los ha lanzado para el norte de la isla (AtlánticoHoy, hacia 2024). Avanza con humedad y temperaturas suaves, lo que dan el mar de nubes y las nieblas de barloven
+- `paginas/cultivos/papa.md` | [VERIFICAR]
+  - Contexto: Aquí el dron sí entra: cuando llega el aviso, el bancal está mojado y el tractor no pasa, el tratamiento no puede esperar a que escampe. Del escarabajo hay ensayos de insecticidas de Agrocabildo (2008); de nematodos no hay fuente canaria [VERIFICAR].
+- `paginas/cultivos/papa.md` | [VERIFICAR: metodología ISTAC]
+  - Contexto: Para 2023 hay tres superficies que no casan: 6.710 ha (Diario de Avisos); 3.300 ha según el consejero Narvay Quintero vía RTVC, frente a 5.400 ha en 2014; y 3.555 ha, con 2.257 ha en Tenerife, según el ISTAC citado por eldiario.es. El ISTAC da 3.303 ha para 2024. La diferencia probablemente venga de
+- `paginas/cultivos/platanera.md` | [VERIFICAR: altura media en producción con fuente técnica]
+  - Contexto: Una platanera en producción te saca dos cabezas: entre tres y cuatro metros de planta [VERIFICAR: altura media en producción con fuente técnica], hojas que cierran el pasillo y la piña a la altura del pecho. Con la mochila ahí dentro se moja lo que se puede. Un dron agrícola para platanera hace el r
+- `paginas/cultivos/platanera.md` | [VERIFICAR: base de cálculo de Mercasa]
+  - Contexto: El plátano es el cultivo con más superficie de Canarias: 8.719 ha en 2023 según el Parlamento de Canarias (BOP 272/2024) y 8.761,4 ha en 2024 según el ISTAC, un 22,1 % de todo lo cultivado en las islas. Mercasa (informe de febrero de 2026) habla de unas 9.940 ha y de 421.300 t en 2024, un 10 % menos
+- `paginas/cultivos/platanera.md` | [VERIFICAR: porcentaje de platanera protegida por isla]
+  - Contexto: Tenerife tiene el 45 % de la superficie platanera (Confederación Canaria de Empresarios sobre datos del ISTAC, 2022) y La Palma un tercio de la producción (Justicia Alimentaria, enero de 2025), con la mayor parte de su platanera descubierta [VERIFICAR: porcentaje de platanera protegida por isla].
+- `paginas/cultivos/tomate.md` | [VERIFICAR: fuente exacta del porcentaje]
+  - Contexto: Gran Canaria concentra alrededor del 90 % del tomate de invernadero de Canarias según la prensa canaria de 2023 a 2025 [VERIFICAR: fuente exacta del porcentaje]. No hay porcentaje con fuente de cuánto tomate va al aire libre [VERIFICAR: FEDEX, ACETO o ISTAC], pero todo apunta a que es poco y de merc
+- `paginas/cultivos/tomate.md` | [VERIFICAR: FEDEX, ACETO o ISTAC]
+  - Contexto: Gran Canaria concentra alrededor del 90 % del tomate de invernadero de Canarias según la prensa canaria de 2023 a 2025 [VERIFICAR: fuente exacta del porcentaje]. No hay porcentaje con fuente de cuánto tomate va al aire libre [VERIFICAR: FEDEX, ACETO o ISTAC], pero todo apunta a que es poco y de merc
+- `paginas/cultivos/tomate.md` | [VERIFICAR: atribución al tomate]
+  - Contexto: La campaña 2014-15 cerró con 63.000 t, un 82 % menos que las 352.000 t del año 2000 (eldiario.es), y Gran Canaria exportó 133.453 t en 2005 frente a 26.602 t en 2022 (ISTAC). Infoagro recoge en 2026 38.000 t en 2024 y 32.000 t en 2025 de una reunión Gobierno de Canarias-FEDEX, sin nombrar el cultivo
+- `paginas/cultivos/tomate.md` | [VERIFICAR]
+  - Contexto: La mosca blanca (Bemisia tabaci y Trialeurodes vaporariorum) transmite el ToCV, detectado en Tenerife y Gran Canaria desde 1997 (revista Granja, Cabildo de Gran Canaria). De ToBRFV y trips no hay dato canario leído [VERIFICAR].
+- `paginas/cultivos/vina.md` | [VERIFICAR: documento no leído]
+  - Contexto: En La Geria el marco ronda los 4 metros por cepa, frente a 1,5 metros en los enarenados de Tinajo (ficha antigua de la DO en Infoagro). Un hoyo con su zoco es un objetivo aislado: se trata cepa a cepa, con poco caldo por hectárea y mucho terreno recorrido. Los sistemas de conducción están descritos 
+- `paginas/cultivos/vina.md` | [VERIFICAR: métrica de cada fuente]
+  - Contexto: El ISTAC, citado por ASAGA, daba 6.191 ha en 2021 frente a 8.651 ha en 2010; para 2024 recoge 8.158,2 ha. RTVC hablaba en septiembre de 2025 de unas 10.000 ha, casi el 80 % de Listán Negro y Listán Blanco. Miden cosas distintas (plantada, en producción o inscrita en una DO) y no se pueden promediar 
+- `paginas/cultivos/vina.md` | [VERIFICAR: cifra vigente]
+  - Contexto: El reparto sí está claro. Las cinco DO de Tenerife suman en torno al 60 % de la uva del archipiélago (Interprofesional del Vino, 2024). La DO Lanzarote tenía 1.865 ha inscritas en 2024 y La Geria 1.368 ha, 237 de ellas abandonadas (Mapa de Cultivos vía Infoagro, 2024). La DO Vinos La Palma habla de 
+- `paginas/cultivos/vina.md` | [VERIFICAR: patógeno y fecha del aviso]
+  - Contexto: En La Palma el Consejo Regulador reconoció mildiu y oídio en la campaña 2025 (El Time). En Lanzarote el Consejo Regulador avisó de un hongo en varias fincas sin que la fuente lo identifique [VERIFICAR: patógeno y fecha del aviso].

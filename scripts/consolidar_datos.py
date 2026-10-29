@@ -13,7 +13,7 @@ RAIZ = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 ORDEN_ISLAS = ["La Palma", "Tenerife", "Gran Canaria", "Lanzarote", "Fuerteventura", "La Gomera", "El Hierro"]
 CAMPOS = ["isla", "municipio", "slug", "nivel", "justificacion_nivel", "cultivos_principales",
           "superficie_cultivada_ha", "altitud_y_orografia", "clima_viento_humedad",
-          "problemas_fitosanitarios_documentados", "notas", "fuentes"]
+          "problemas_sanidad_vegetal_documentados", "notas", "fuentes"]
 
 # Decisiones finales de nivel: slug -> (nivel, justificación). Lo que no esté aquí
 # conserva el nivel propuesto por la investigación (sin la marca [VERIFICAR]).

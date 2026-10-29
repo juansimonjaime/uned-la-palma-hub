@@ -1,0 +1,112 @@
+# Marcas [VERIFICAR] pendientes: islas-menores
+
+Total: 54 marcas en 16 páginas.
+
+- `paginas/el-hierro/frontera.md` | [VERIFICAR: cota máxima de la piña]
+  - Contexto: El Golfo es una depresión de deslizamiento abierta al noroeste, con plataforma costera y laderas hasta un escarpe de más de 1.000 m (spain.info); cultivos de la costa a unos 400 m [VERIFICAR: cota máxima de la piña], brisas marinas y unas 3.000 horas de sol (fuentes vinícolas). La Cooperativa del Ca
+- `paginas/el-hierro/frontera.md` | [VERIFICAR: proporción actual bajo malla o invernadero]
+  - Contexto: Cómo está plantada es la clave. En 1988 "la mayoría de las parcelas de Frontera se cultivaban al aire libre, aunque hay algunas plantaciones bajo malla e incluso en invernaderos" (revista Fruits, CIRAD). [VERIFICAR: proporción actual bajo malla o invernadero]. Agrodrón Canarias trabaja desde Santa C
+- `paginas/el-hierro/frontera.md` | [VERIFICAR: papaya en El Golfo]
+  - Contexto: Lo que esté bajo malla o en invernadero no se trata con dron. Punto. En Frontera eso obliga a separar parcela a parcela la piña descubierta de la cubierta antes de ofertar nada, igual que la papaya, que en Canarias va habitualmente bajo malla [VERIFICAR: papaya en El Golfo]. Con brisa marina fuerte 
+- `paginas/el-hierro/frontera.md` | [VERIFICAR]
+  - Contexto: La platanera de la costa de El Golfo no tiene hectáreas publicadas [VERIFICAR]. El picudo negro (Cosmopolites sordidus) llegó a El Hierro en 2023 (Perera et al. 2024, vía Agrocabildo); va al cormo y lo documentado contra él son trampas, Beauveria bassiana e inyección al tocón.
+- `paginas/fuerteventura/antigua.md` | [VERIFICAR: cochinilla u otras en aloe majorero]
+  - Contexto: Otra cosa es que haga falta. Las fuentes consultadas no documentan plagas del aloe en Canarias [VERIFICAR: cochinilla u otras en aloe majorero] y la superficie insular de aloe no está localizada [VERIFICAR]. Si tu aloe tiene un problema de hoja, mándanos fotos; si no, no hay tratamiento que vender.
+- `paginas/fuerteventura/antigua.md` | [VERIFICAR]
+  - Contexto: Otra cosa es que haga falta. Las fuentes consultadas no documentan plagas del aloe en Canarias [VERIFICAR: cochinilla u otras en aloe majorero] y la superficie insular de aloe no está localizada [VERIFICAR]. Si tu aloe tiene un problema de hoja, mándanos fotos; si no, no hay tratamiento que vender.
+- `paginas/fuerteventura/tuineje.md` | [VERIFICAR]
+  - Contexto: El aloe es planta baja en marco regular; el olivar, árbol que el T50 sobrevuela ajustando la altura. Sobre plagas, las notas no documentan ninguna para el aloe en Canarias [VERIFICAR] ni para el olivar majorero [VERIFICAR]. El dron es herramienta para cuando aparezca el problema, no tratamiento de c
+- `paginas/islas/el-hierro.md` | [VERIFICAR: superficie actual de viña]
+  - Contexto: La viña ronda las 200 ha con más de 200 viticultores y es "el cultivo más importante en superficie, por encima de piña y platanera" (Cabildo de El Hierro, sin fecha). Otras fuentes dan entre 167 y 208 ha [VERIFICAR: superficie actual de viña].
+- `paginas/islas/el-hierro.md` | [VERIFICAR]
+  - Contexto: La piña tropical de El Golfo va de 123 ha (ICIA, vía RTVC) a "llegó a 130 ha y ha disminuido a 80" (RTVC, junio de 2026), con unos 1,3 millones de kilos en 2023 (Gobierno de Canarias). De la platanera no hay hectáreas publicadas [VERIFICAR]. La falta de agua de riego pone hoy en peligro la piña (RTV
+- `paginas/islas/fuerteventura.md` | [VERIFICAR: superficie real con el Mapa de Cultivos]
+  - Contexto: Los otros cuatro no tienen página. Betancuria: montaña y huertas de autoconsumo en la Vega de Río Palmas (171 habitantes en 2023), sin cifra agrícola. La Oliva: gavias en Villaverde y aloe de poca extensión, sin dato de superficie cultivada. Pájara: tomate de exportación bajo invernadero, que el dro
+- `paginas/islas/fuerteventura.md` | [VERIFICAR: confirmar con Agrodrón qué aplicaciones no fitosanitarias ofrece]
+  - Contexto: Para abonos foliares, bioestimulantes y otros productos que no son fitosanitarios el régimen es distinto [VERIFICAR: confirmar con Agrodrón qué aplicaciones no fitosanitarias ofrece].
+- `paginas/islas/la-gomera.md` | [VERIFICAR: superficie cultivada de La Gomera, ISTAC]
+  - Contexto: La superficie cultivada insular del ISTAC no aparece en las fuentes consultadas [VERIFICAR: superficie cultivada de La Gomera, ISTAC]. La viña sí: la DO La Gomera suma entre 120 y 125 ha, unos 230 viticultores y 20–22 bodegas (cosecha 2021, ICEX Foods and Wines from Spain y Wine with Seth), con viñe
+- `paginas/islas/la-gomera.md` | [VERIFICAR: ASPROCAN o ISTAC]
+  - Contexto: El vino calificado de 2022/23 fue de 414 hl, el menor de las DO canarias (MAPA, Informe DOPs 2023–2024). De la platanera no hay hectáreas insulares publicadas [VERIFICAR: ASPROCAN o ISTAC].
+- `paginas/islas/la-gomera.md` | [VERIFICAR]
+  - Contexto: De trips en platanera gomera y de mildiu u oídio en la viña insular no hay registro local [VERIFICAR]. El dron trata lo que está al aire libre y a la vista, hoja y fruto, con producto autorizado para uso aéreo: [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platane
+- `paginas/islas/lanzarote.md` | [VERIFICAR: sobre 3.872 ha sale la mitad]
+  - Contexto: - Viña: 1.865 ha inscritas en la DO y cerca de 2.000 en producción (DO Lanzarote, 2024); La Voz de Lanzarote (2025) habla de más del 75 % de lo cultivado [VERIFICAR: sobre 3.872 ha sale la mitad].
+- `paginas/islas/lanzarote.md` | [VERIFICAR: superficie actual]
+  - Contexto: Por comarcas: el norte (Haría, Máguez, Ye y Los Valles, bajo Famara) es zona de papa (MAPA, 2006 [VERIFICAR: superficie actual]). El centro es el jable, con batata y una cebolla que cobró auge tras la caída del tabaco en los setenta. La Geria y Masdache reúnen la viña entre Tinajo, Tías, Yaiza y San
+- `paginas/islas/lanzarote.md` | [VERIFICAR: superficie agrícola de Arrecife]
+  - Contexto: Arrecife no tiene página: es la capital y ninguna fuente agraria la cita como zona de cultivo [VERIFICAR: superficie agrícola de Arrecife].
+- `paginas/islas/lanzarote.md` | [VERIFICAR: plagas del aloe]
+  - Contexto: Todo lo documentado en la isla va al aire libre: viña, hortícolas de enarenado, papa, batata y aloe. Las páginas de [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [dron agrícola para hortícolas](https://agrodroncanarias.es/dron-agricola-horticolas/) y [dron agrícola para
+- `paginas/islas/lanzarote.md` | [VERIFICAR: patógeno y fecha]
+  - Contexto: En plagas hay poco documentado: filoxera sin positivos tras más de 1.300 inspecciones; un hongo en viña avisado por el Consejo Regulador sin identificar [VERIFICAR: patógeno y fecha]; mildiu y oídio sin constancia expresa para la isla; polilla guatemalteca solo en almacenes (MAPA); trips de la cebol
+- `paginas/la-gomera/hermigua.md` | [VERIFICAR: hectáreas de platanera y viña en Hermigua]
+  - Contexto: No hay cifra municipal de superficie; la referencia insular de viña es de 120–125 ha en 2021 [VERIFICAR: hectáreas de platanera y viña en Hermigua]. Agrodrón Canarias tiene base en Santa Cruz de La Palma y a La Gomera viene con desplazamiento y bajo disponibilidad.
+- `paginas/la-gomera/hermigua.md` | [VERIFICAR]
+  - Contexto: Con hoja y fruto a la vista sí: la cochinilla algodonosa (Dysmicoccus grassii), con resistencias al control químico (ULPGC), y los trips (Hercinothrips femoralis, Agrocabildo), sin dato local de trips en Hermigua [VERIFICAR].
+- `paginas/la-gomera/hermigua.md` | [VERIFICAR: mildiu y oídio en Hermigua]
+  - Contexto: En viña, el oídio es endémico en Canarias (Agrocabildo, 2020), sin documentación gomera [VERIFICAR: mildiu y oídio en Hermigua]. La polilla guatemalteca de la papa está en la isla y en almacenes (MAPA); el almacén no lo trata un dron.
+- `paginas/la-gomera/hermigua.md` | [VERIFICAR: platanera bajo malla]
+  - Contexto: Hermigua mira al alisio del noreste: nieblas frecuentes bajo Garajonay, humedad que por debajo de 600 m no compensa el déficit hídrico (Arozena) y lluvias de primavera que dan respiro al campo gomero (RTVC, abril). El viento va canalizado por el barranco; se mide en la finca antes de volar y con rac
+- `paginas/la-gomera/valle-gran-rey.md` | [VERIFICAR: hectáreas por cultivo]
+  - Contexto: Valle Gran Rey es un valle encajado del oeste de La Gomera que sube de la costa a unos 900 m, con bancales de piedra muy pendientes a ambos lados, platanera en las terrazas bajas y la desembocadura (La Playa, La Puntilla), palmeral, huerta y frutales. El oeste figura entre las zonas de agricultura i
+- `paginas/la-gomera/valle-gran-rey.md` | [VERIFICAR: superficie de platanera y frutales]
+  - Contexto: Por eso la página es de nivel B con reserva [VERIFICAR: superficie de platanera y frutales] y se ciñe a lo que tiene fuente. Los datos hablan de frutales sin desglose [VERIFICAR: especies]; tomamos mango y papaya como referencia.
+- `paginas/la-gomera/valle-gran-rey.md` | [VERIFICAR: especies]
+  - Contexto: Por eso la página es de nivel B con reserva [VERIFICAR: superficie de platanera y frutales] y se ciñe a lo que tiene fuente. Los datos hablan de frutales sin desglose [VERIFICAR: especies]; tomamos mango y papaya como referencia.
+- `paginas/la-gomera/valle-gran-rey.md` | [VERIFICAR]
+  - Contexto: La humedad relativa en San Sebastián va del 71 % en enero al 82 % en septiembre (climate-data); del valle no hay registro en nuestros datos [VERIFICAR]. Invierno y arranque de primavera son los meses más secos, y las lluvias de abril dan un respiro al agricultor gomero (RTVC).
+- `paginas/la-gomera/valle-gran-rey.md` | [VERIFICAR: Canarias]
+  - Contexto: La platanera no para: hay piñas y plantas de todas las edades todo el año. El picudo negro (Cosmopolites sordidus), en La Gomera desde 1990 (Agrocabildo), se controla con trampas de feromona y no es objetivo de una pulverización aérea porque vive en el cormo. En mango, el oídio se vigila en primaver
+- `paginas/la-gomera/valle-gran-rey.md` | [VERIFICAR: épocas de riesgo en La Gomera]
+  - Contexto: De cochinilla algodonosa (Dysmicoccus grassii) y trips (Hercinothrips femoralis) no hay calendario con fuente [VERIFICAR: épocas de riesgo en La Gomera]; son los problemas de hoja y fruto de la platanera canaria, con resistencias de la cochinilla al control químico (ULPGC).
+- `paginas/la-gomera/valle-gran-rey.md` | [VERIFICAR: Valle Gran Rey]
+  - Contexto: - Papaya y cualquier frutal bajo malla o invernadero: nunca; el producto no atraviesa la cubierta, y la papaya canaria va habitualmente bajo malla [VERIFICAR: Valle Gran Rey].
+- `paginas/la-gomera/vallehermoso.md` | [VERIFICAR: hectáreas de viña y platanera en Vallehermoso]
+  - Contexto: La DO La Gomera suma 120–125 ha, unos 230 viticultores y 20–22 bodegas (cosecha 2021, datos de la DO), con viñedos entre 50 y 1.450 m y la Forastera blanca en tres cuartas partes de la superficie. El vino calificado de 2022/23 fue de 414 hl, el más bajo de las DO canarias (MAPA, Informe DOPs 2023–20
+- `paginas/la-gomera/vallehermoso.md` | [VERIFICAR: malla en la platanera de Vallehermoso]
+  - Contexto: El dron sí entra en hoja y fruto: cochinilla algodonosa y trips, los dos problemas que Agrocabildo y la ULPGC recogen para la platanera canaria, con producto autorizado para aplicación aérea. La platanera va al aire libre [VERIFICAR: malla en la platanera de Vallehermoso]; lo cubierto queda fuera.
+- `paginas/la-gomera/vallehermoso.md` | [VERIFICAR: mildiu y oídio en Vallehermoso]
+  - Contexto: El oídio es endémico en Canarias y el mildiu entra en los avisos de Agrocabildo (2020); para la viña gomera no hay registro local [VERIFICAR: mildiu y oídio en Vallehermoso].
+- `paginas/la-gomera/vallehermoso.md` | [VERIFICAR: cultivos y superficie en Alojera y Arguamul]
+  - Contexto: A sotavento, pagos como Alojera o Arguamul quedan fuera del alisio por debajo de 800–1.000 m, con pocos días de nubes y lluvia (Arozena): menos hongos, más sol y más viento en los lomos. Qué se cultiva hoy en cada pago es dato pendiente [VERIFICAR: cultivos y superficie en Alojera y Arguamul]. El re
+- `paginas/lanzarote/haria.md` | [VERIFICAR: altitudes]
+  - Contexto: El valle de Haría y los pagos de Máguez y Ye quedan al pie del macizo de Famara, el relieve más alto de Lanzarote (Peñas del Chache, unos 670 m), y cultivan en enarenados entre unos 200 y 450 m [VERIFICAR: altitudes]. Fincas chicas, paredes de piedra y alisio: ese es el terreno para un dron agrícola
+- `paginas/lanzarote/haria.md` | [VERIFICAR: hectáreas de viña en Ye]
+  - Contexto: Tres paisajes. El valle de Haría, con bancales de pared de piedra y palmeral entre las fincas. Las laderas de Máguez y Ye, donde la papa fue el cultivo de referencia según el MAPA (2006) y queda viña de la zona norte de la DO [VERIFICAR: hectáreas de viña en Ye]. Y el Malpaís de la Corona, lava sin 
+- `paginas/lanzarote/haria.md` | [VERIFICAR: Mapa de Cultivos de Canarias, junio de 2024]
+  - Contexto: Seamos claros con los datos. La única fuente que sitúa a Haría como zona agrícola destacada es el estudio del MAPA de 2006 sobre hortícolas de Lanzarote: clara predominancia de la papa en el norte (Los Valles, Haría, Máguez y Ye). No hay cifra municipal reciente [VERIFICAR: Mapa de Cultivos de Canar
+- `paginas/lanzarote/haria.md` | [VERIFICAR]
+  - Contexto: La polilla guatemalteca de la papa (Tecia solanivora) está citada por el MAPA en almacenes de Lanzarote, no en campo, y el almacén no se trata desde el aire. El mildiu de la papa tiene avisos de riesgo alto por comarcas del Cabildo de Tenerife (2024), ninguno leído para Lanzarote [VERIFICAR].
+- `paginas/lanzarote/san-bartolome.md` | [VERIFICAR]
+  - Contexto: Lo que se aplica lo decide la etiqueta y el plan de aplicación. La plaga de cebolla con fuente canaria es el trips (Thrips tabaci), en el manual fitosanitario del Cabildo de Tenerife de 2026. Para la variedad local cebolla de Lanzarote, con programa de mejora de semilla en la ULPGC, no hay plagas do
+- `paginas/lanzarote/san-bartolome.md` | [VERIFICAR: hectáreas de viña en San Bartolomé]
+  - Contexto: El municipio es zona vitícola principal junto a Masdache, Tías y Tinajo, y forma parte del espacio protegido de La Geria, 5.255 ha en cinco municipios (Infoagro, 2024). Las 1.368 ha de viña de La Geria no tienen desglose municipal [VERIFICAR: hectáreas de viña en San Bartolomé].
+- `paginas/lanzarote/san-bartolome.md` | [VERIFICAR: patógeno y fecha]
+  - Contexto: En hoyos y zocos sobre picón, el dron trata cada cepa como un punto en el mapa. Encaja cuando hay que proteger la hoja en poco tiempo y la mochila obliga a bajar a cada hoyo. De enfermedades hay poco: el Consejo Regulador avisó de un hongo en varias fincas [VERIFICAR: patógeno y fecha], y las prospe
+- `paginas/lanzarote/teguise.md` | [VERIFICAR: altitud de los bancales de Los Valles]
+  - Contexto: Los Valles, compartido con Haría, es la zona papera del norte (MAPA, 2006). Está al pie de Famara, a unos 300-450 m [VERIFICAR: altitud de los bancales de Los Valles], y recoge el rocío y las nieblas del alisio en una isla donde no caen 150 mm al año.
+- `paginas/lanzarote/teguise.md` | [VERIFICAR: hectáreas de viña de Teguise en el Mapa de Cultivos]
+  - Contexto: El sur de Teguise entra en el espacio protegido de La Geria, 5.255 ha repartidas con Tinajo, Yaiza, Tías y San Bartolomé: viña sobre enarenado de picón, en hoyos con zocos de piedra que cubren cada cepa del alisio. La DO Lanzarote suma 1.865 ha inscritas (folleto de 2024), sin reparto municipal publ
+- `paginas/lanzarote/teguise.md` | [VERIFICAR: superficie cultivada en la costa de Teguise]
+  - Contexto: El norte es malpaís y conos volcánicos, y la costa no figura en los datos agrarios como zona de cultivo [VERIFICAR: superficie cultivada en la costa de Teguise].
+- `paginas/lanzarote/teguise.md` | [VERIFICAR: hongo y fecha del aviso]
+  - Contexto: En viña, el Consejo Regulador avisó de un hongo en varias fincas de la isla sin identificar el patógeno [VERIFICAR: hongo y fecha del aviso]. La filoxera se rastrea desde la Orden de agosto de 2025 y Lanzarote sigue sin positivos tras más de 1.300 inspecciones. En papa, el MAPA sitúa la polilla guat
+- `paginas/lanzarote/tias.md` | [VERIFICAR: patógeno y fecha]
+  - Contexto: De enfermedades hay poco escrito: el Consejo Regulador avisó de un hongo en varias fincas [VERIFICAR: patógeno y fecha]. El oídio es endémico en Canarias según la guía de la viña del Cabildo de Tenerife (2020), pero ni oídio ni mildiu constan expresamente para Lanzarote [VERIFICAR]. Si hay que prote
+- `paginas/lanzarote/tias.md` | [VERIFICAR]
+  - Contexto: De enfermedades hay poco escrito: el Consejo Regulador avisó de un hongo en varias fincas [VERIFICAR: patógeno y fecha]. El oídio es endémico en Canarias según la guía de la viña del Cabildo de Tenerife (2020), pero ni oídio ni mildiu constan expresamente para Lanzarote [VERIFICAR]. Si hay que prote
+- `paginas/lanzarote/tias.md` | [VERIFICAR: fechas de vendimia en la DO Lanzarote]
+  - Contexto: El aviso del Cabildo de Tenerife para la semana del 30 de julio al 5 de agosto (año sin indicar) marca riesgo elevado de oídio, medio de mildiu y atención a la botritis en envero. En Tías la uva va por delante: RTVC ya hablaba de vendimia difícil a mediados de junio de 2025 y el balance salió el 23 
+- `paginas/lanzarote/tias.md` | [VERIFICAR: altitudes]
+  - Contexto: La vertiente de La Geria que cae hacia Tías está entre unos 200 y 500 m [VERIFICAR: altitudes], con pendientes suaves a moderadas sobre coladas y conos. Para el atomizador el hoyo es un obstáculo; para la mochila, cada zoco es bajar y subir.
+- `paginas/lanzarote/tinajo.md` | [VERIFICAR: altitud de las zonas de viña]
+  - Contexto: Dos sistemas conviven en el término. En los llanos y laderas suaves entre Tinajo, Mancha Blanca y La Vegueta, a unos 200-350 m [VERIFICAR: altitud de las zonas de viña], la cepa va sobre enarenado: una capa de 10-12 cm de picón, o de arena marina traída por el alisio, que aísla el suelo y frena la e
+- `paginas/lanzarote/tinajo.md` | [VERIFICAR: patógeno y año del aviso]
+  - Contexto: Pocos, y conviene decirlo tal cual. El Consejo Regulador de la DO Lanzarote avisó de una enfermedad fúngica en varias fincas de la isla; la fuente no identifica el hongo ni la fecha [VERIFICAR: patógeno y año del aviso]. Mildiu y oídio, referencia de la viña canaria (guía de Agrocabildo, 2020), no c
+- `paginas/lanzarote/tinajo.md` | [VERIFICAR: avisos fitosanitarios del Cabildo de Lanzarote]
+  - Contexto: Pocos, y conviene decirlo tal cual. El Consejo Regulador de la DO Lanzarote avisó de una enfermedad fúngica en varias fincas de la isla; la fuente no identifica el hongo ni la fecha [VERIFICAR: patógeno y año del aviso]. Mildiu y oídio, referencia de la viña canaria (guía de Agrocabildo, 2020), no c
+- `paginas/lanzarote/yaiza.md` | [VERIFICAR: cotas de las parcelas de Uga y La Geria]
+  - Contexto: Las viñas de Yaiza están entre 200 y 450 m [VERIFICAR: cotas de las parcelas de Uga y La Geria], sobre coladas y conos de las erupciones de Timanfaya. El picón es suelto, se hunde al pisar y resbala en pendiente. Cada hoyo se excava hasta la cepa y el zoco en semicírculo la cubre del alisio del nore
+- `paginas/lanzarote/yaiza.md` | [VERIFICAR: identificación y fecha del hongo]
+  - Contexto: La viña es casi todo; hay higueras en hoyos y hortícolas marginales. En plagas y enfermedades el registro es corto: el Consejo Regulador de la DO avisó de un hongo en viñas de varias fincas sin identificarlo [VERIFICAR: identificación y fecha del hongo]; la filoxera no tiene positivos en Lanzarote t

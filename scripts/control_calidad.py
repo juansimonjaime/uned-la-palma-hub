@@ -28,6 +28,10 @@ PROHIBIDAS = [
     "la solución perfecta", "la solucion perfecta", "de última generación", "de ultima generacion",
     "lleva tu finca al siguiente nivel", "el futuro de la agricultura", "innovador", "vanguardia",
     "sumérgete", "sumergete", "¡", "!",
+    # términos vetados por el responsable (no se ofrece ese servicio en Canarias)
+    "fitosanitari", "fitos", "plaguicida", "pesticida", "fungicida", "insecticida", "acaricida",
+    "herbicida", "fumiga", "1311/2012", "plan de aplicacion", "aplicacion aerea", "anexo vi ",
+    "mapa–aesa", "mapa-aesa", "organo competente", "autorizacion previa",
 ]
 
 
@@ -183,7 +187,7 @@ def revisar(ruta):
     if fuera and not re.search(r"disponibilidad|bajo consulta", sin_codigo, flags=re.I):
         avisos.append("página fuera de La Palma sin mención a disponibilidad/consulta")
     # prohibidas
-    nt = norm(sin_codigo)
+    nt = norm(sin_codigo) + " " + norm(" ".join(fm.values()))
     for p in PROHIBIDAS:
         if norm(p) in nt:
             errores.append(f"frase prohibida: '{p}'")
