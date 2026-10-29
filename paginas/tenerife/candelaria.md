@@ -20,7 +20,7 @@ Candelaria tiene 184,5 hectáreas de viña como primer cultivo, en su mayoría d
 
 - Primavera: brotación de la viña y primer riesgo de oídio; hortaliza de verano al aire libre.
 - Verano: envero, botritis y vendimia; viento del este en las medianías.
-- Otoño: siembra de papa [VERIFICAR: calendario de siembra de papa en Candelaria]; hortaliza de hoja.
+- Otoño: hortaliza de hoja.
 - Invierno: poda de la viña; en el tomate bajo plástico, Tuta absoluta, de la que el dron no se ocupa.
 
 ## Primavera: el oídio entra por las zonas bajas
@@ -39,9 +39,7 @@ La filoxera, detectada en Tenerife en 2025, dejó en 2026 un total de 16 positiv
 
 La papa de medianías tiene dos problemas documentados: la polilla guatemalteca (Tecia solanivora), en Tenerife desde 1999 y seguida con feromonas en campo y almacén (Agrocabildo), y el mildiu, con avisos de riesgo alto del Cabildo que los datos sitúan en el norte.
 
-Al aguacate le pesa la araña cristalina (Oligonychus perseae), en Tenerife desde 2006 y presente en el 81,5 % de las parcelas encuestadas por el Cabildo, con cochinilla y trips detrás. De los cítricos no hay plaga con fuente local [VERIFICAR: plagas de cítricos en el Valle de Güímar].
-
-[IMAGEN: Huerta al aire libre en bancales de Barranco Hondo, Candelaria, con cebollas y coles en invierno | alt: Hortalizas al aire libre en bancales de Barranco Hondo, Candelaria, Tenerife]
+Al aguacate le pesa la araña cristalina (Oligonychus perseae), en Tenerife desde 2006 y presente en el 81,5 % de las parcelas encuestadas por el Cabildo, con cochinilla y trips detrás. De los cítricos no hay plaga con fuente local.
 
 ## Bancales de Igueste, Araya, Barranco Hondo y Las Cuevecitas
 

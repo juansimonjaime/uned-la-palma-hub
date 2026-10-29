@@ -18,7 +18,7 @@ Tacoronte da nombre a la DO Tacoronte-Acentejo y su viña sube en terrazas desde
 
 ## ¿Cuánta viña hay en Tacoronte y por qué cada fuente da una cifra?
 
-Para el municipio no hay cifra oficial localizada [VERIFICAR: superficie de viña de Tacoronte en el Mapa de Cultivos]. Para la comarca hay varias y no coinciden: el ICCA habla de 1.583 ha cultivadas; la DO, en su treinta aniversario (2022), de 760 ha inscritas, 1.100 viticultores y 32 bodegas; Vinodiversidad daba 1.184 ha en 2010 y la web promocional de la DO llega a 2.422 ha.
+Para el municipio no hay cifra oficial localizada. Para la comarca hay varias y no coinciden: el ICCA habla de 1.583 ha cultivadas; la DO, en su treinta aniversario (2022), de 760 ha inscritas, 1.100 viticultores y 32 bodegas; Vinodiversidad daba 1.184 ha en 2010 y la web promocional de la DO llega a 2.422 ha.
 
 La diferencia está en qué se mide: viña plantada, inscrita o en producción. Coinciden en el paisaje: viñedo en terrazas entre 300 y 750 metros, compartido por nueve municipios desde Tacoronte hasta Anaga.
 
@@ -26,7 +26,7 @@ La diferencia está en qué se mide: viña plantada, inscrita o en producción. 
 
 Depende del parral. El dron pulveriza desde arriba y llega bien a la cara superior de la cubierta; los racimos que cuelgan bajo un parral alto y cerrado quedan a la sombra del follaje y el producto llega peor. En parral bajo o en vaso la cobertura mejora.
 
-Se mira la parcela: altura del parral, densidad de hoja y producto a aplicar (un foliar para la hoja no es mojar el racimo) deciden si el dron encaja [VERIFICAR: sistemas de conducción predominantes en la viña de Tacoronte].
+Se mira la parcela: altura del parral, densidad de hoja y producto a aplicar (un foliar para la hoja no es mojar el racimo) deciden si el dron encaja.
 
 ## ¿Qué hace un dron agrícola en Tacoronte que no haga el atomizador?
 
@@ -38,11 +38,9 @@ Pide a cambio un punto despejado para despegar, viento que no saque el producto 
 
 La papa de las medianías carga con lo del norte de la isla: polilla guatemalteca (Tecia solanivora), en Tenerife desde 1999, con pérdidas cercanas al 50 % en medianías y secano (Cabildo, ICIA), y mildiu con avisos de riesgo alto. Ninguno es asunto del dron: el mildiu va con el aviso del Cabildo; la polilla, con feromonas, control en almacén y medidas obligatorias de la Consejería desde 2002.
 
-El aguacate crece: el Cabildo recuperó 3 hectáreas entre Tacoronte y La Laguna para 500 árboles de aguacate y café, con 512.015 euros (eldiario.es). Su plaga principal en Tenerife es la araña cristalina (Oligonychus perseae), presente desde 2006 en el 81,5 % de las parcelas encuestadas por el Cabildo, seguida de la cochinilla Nipaecoccus nipae (25,9 %) y el trips (14,8 %). Un aguacatero de 4 a 8 metros [VERIFICAR: altura] se moja mejor desde arriba con un foliar.
+El aguacate crece: el Cabildo recuperó 3 hectáreas entre Tacoronte y La Laguna para 500 árboles de aguacate y café, con 512.015 euros (eldiario.es). Su plaga principal en Tenerife es la araña cristalina (Oligonychus perseae), presente desde 2006 en el 81,5 % de las parcelas encuestadas por el Cabildo, seguida de la cochinilla Nipaecoccus nipae (25,9 %) y el trips (14,8 %). Un aguacatero alto se moja mejor desde arriba con un foliar.
 
-La platanera de El Pris y Mesa del Mar es residual [VERIFICAR: superficie] y, al aire libre, se trata como en el resto de la isla.
-
-[IMAGEN: Aguacateros jóvenes en una finca recuperada de las medianías de Tacoronte, con viña en el bancal contiguo | alt: Plantación de aguacate junto a viña en las medianías de Tacoronte, Tenerife]
+La platanera de El Pris y Mesa del Mar, si va al aire libre, se trata como en el resto de la isla.
 
 ## ¿Qué hace falta para contratar un tratamiento con dron desde La Palma?
 

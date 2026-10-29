@@ -18,15 +18,13 @@ Santa Úrsula no tiene llano. El término arranca en los acantilados de la Costa
 
 ## Acantilado, medianías en pendiente y bancales: el terreno
 
-La costa es acantilada y protegida como Paisaje Protegido de la Costa de Acentejo; queda algo de platanera y frutales [VERIFICAR: superficie de platanera y frutales en la costa de Santa Úrsula]. Desde los 300 metros la ladera se escalona en bancales de viña y papa hasta tocar el pinar; el término linda con La Orotava.
+La costa es acantilada y protegida como Paisaje Protegido de la Costa de Acentejo. Desde los 300 metros la ladera se escalona en bancales de viña y papa hasta tocar el pinar; el término linda con La Orotava.
 
 Caminos estrechos, muros de piedra seca y parcelas con acceso solo peatonal. La vertiente mira al norte: barlovento del alisio, mar de nubes entre 600 y 1.500 metros y una humedad que en las medianías de Acentejo no da tregua a la viña.
 
 ## Lo que cuesta hoy tratar una finca en pendiente
 
 En Santa Úrsula el atomizador de tractor solo entra en parcelas con camino y poca inclinación. En el resto, la opción es la mochila a la espalda, bancal arriba y bancal abajo, o una manguera larga desde la cuba aparcada en la pista. Horas con el producto encima, suelo pisado cuando está más blando y, si quieres dar un foliar a toda la ladera, varios días de ir y venir.
-
-[IMAGEN: Camino agrícola estrecho entre muros de piedra en las medianías de Santa Úrsula, con bancales de viña a ambos lados | alt: Camino entre bancales de viña en las medianías de Santa Úrsula, Tenerife]
 
 ## Qué cambia con el dron agrícola en Santa Úrsula
 
@@ -36,7 +34,7 @@ El depósito es de 40 litros y las boquillas centrífugas dan hasta 16 litros po
 
 ## Viña, papa y platanera de costa: cultivos y plagas documentadas
 
-La viña es el primer cultivo. La comarca de Acentejo cultiva 1.583 hectáreas según el ICCA del Gobierno de Canarias; Santa Úrsula no tiene cifra municipal localizada [VERIFICAR: ficha del Mapa de Cultivos de Santa Úrsula]. El Cabildo publica avisos semanales por comarca de mildiu, oídio y botritis (datos.tenerife.es), y el boletín de Agrocabildo de finales de julio daba oídio en riesgo elevado y botritis a vigilar en envero.
+La viña es el primer cultivo. La comarca de Acentejo cultiva 1.583 hectáreas según el ICCA del Gobierno de Canarias; Santa Úrsula no tiene cifra municipal localizada. El Cabildo publica avisos semanales por comarca de mildiu, oídio y botritis (datos.tenerife.es), y el boletín de Agrocabildo de finales de julio daba oídio en riesgo elevado y botritis a vigilar en envero.
 
 La papa de medianías sufre la polilla guatemalteca (Tecia solanivora), que entró en Tenerife en 1999 y castiga sobre todo al norte con pérdidas cercanas al 50 % en secano (Cabildo, ICIA), y el mildiu, con avisos de riesgo alto para el norte de la isla.
 

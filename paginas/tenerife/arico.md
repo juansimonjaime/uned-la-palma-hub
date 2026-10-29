@@ -14,8 +14,6 @@ municipio: "Arico"
 
 Arico ocupa 179 km² y baja de la cumbre a la costa de Porís de Abona y Abades entre barrancos, bancales y jable. Un dron agrícola en Arico tiene un trabajo distinto en cada piso: viña y papa en las medianías, pitaya en la costa y un tomate casi desaparecido que, además, va bajo invernadero. Atendemos el municipio con desplazamiento desde La Palma; el calendario depende de la disponibilidad y se cierra bajo consulta.
 
-[IMAGEN: Vista del municipio de Arico desde las medianías, con los bancales de jable en primer plano y la costa de Abades al fondo | alt: Bancales de papa y viña en las medianías de Arico, Tenerife, con la costa del sureste al fondo]
-
 ## Costa de Porís de Abona y Abades: tomate bajo plástico, pitaya casi siempre cubierta
 
 El tomate de Arico pasó de 125,7 hectáreas en 2008 a 34,3 en 2021 según SITCAN (dato de 2022 recogido en una tesis de la ULL), la más baja de los municipios que estudia ese trabajo. Lo que queda va bajo invernadero y eso lo saca del alcance del dron: desde el aire no se trata nada con techo de plástico o malla.
@@ -30,11 +28,9 @@ Entre 500 y 1.000 metros está el Arico agrícola de siempre: bancales de piedra
 
 Estas fincas justifican el dron: un bancal de tres o cuatro metros no admite tractor con atomizador, y con la mochila toca subir y bajar muros con veinte kilos a la espalda. El T50 lee cada escalón con su radar de seguimiento de terreno, mantiene la altura sobre la planta y adapta la velocidad a la pendiente, con 40 litros por carga y hasta 24 litros por minuto con cuatro boquillas.
 
-[IMAGEN: Parral bajo de viña DOP Abona sobre jable en Villa de Arico, con muros de piedra seca entre bancales | alt: Viña de la DOP Abona en bancales de jable en las medianías de Arico, Tenerife]
-
 ## Medianías altas y secano: almendro, cereal y lo que no compensa
 
-Por encima de los pueblos siguen bancales de secano con almendros dispersos y cereal. El almendro se trata desde el aire si no está mezclado con tendidos; el tigre del almendro (Monosteira unicostata) figura como especie extendida por Europa y Canarias (Agronews) [VERIFICAR: presencia documentada en Arico]. El cereal rara vez justifica un vuelo: poca superficie, poco valor por hectárea y apenas tratamientos.
+Por encima de los pueblos siguen bancales de secano con almendros dispersos y cereal. El almendro se trata desde el aire si no está mezclado con tendidos; el tigre del almendro (Monosteira unicostata) figura como especie extendida por Europa y Canarias (Agronews). El cereal rara vez justifica un vuelo: poca superficie, poco valor por hectárea y apenas tratamientos.
 
 ## Plagas documentadas en los cultivos de Arico
 

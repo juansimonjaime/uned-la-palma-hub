@@ -14,13 +14,11 @@ municipio: "Arona"
 
 Arona produce el 10 % del plátano de Tenerife con 685,7 hectáreas de platanera en 2021 (Mercatenerife; Diario de Avisos, 2023), y es el primer municipio en producción bajo invernadero según Guía Repsol. Para un dron agrícola en Arona eso cambia el mapa: la piña de Guaza, Las Galletas y Buzanada crece casi toda con techo y queda fuera, y el trabajo útil sube a las medianías de La Escalona y Vento. Agrodrón llega desde La Palma con desplazamiento, bajo consulta.
 
-[IMAGEN: Llano de Las Galletas y Guaza visto desde la montaña, con los invernaderos de platanera cubriendo la costa | alt: Invernaderos de platanera en Las Galletas y Guaza, costa de Arona]
-
 ## Costa: Guaza, Las Galletas y Buzanada, platanera con techo
 
 Entre el mar y los 100 metros se concentra la platanera, que las fuentes cifran en 685,7 ha (Mercatenerife, 2021), 750 ha (Plan Anual del Cabildo, 2017) o 540 ha (estudio ULL sin fecha). El plástico y la malla de techo son la norma.
 
-Lo que va dentro queda fuera del dron. Las fincas descubiertas de esta franja [VERIFICAR: superficie de platanera al aire libre en Arona] sí se tratan, y son las que buscamos en una consulta de la costa. Las Galletas es además ventosa, con brisas del suroeste, y eso recorta las horas de vuelo.
+Lo que va dentro queda fuera del dron. Las fincas descubiertas de esta franja sí se tratan, y son las que buscamos en una consulta de la costa. Las Galletas es además ventosa, con brisas del suroeste, y eso recorta las horas de vuelo.
 
 ## Medianías: Arona casco, Vento y La Escalona, entre 600 y 1.000 metros
 
@@ -42,8 +40,6 @@ Agrodrón Canarias tiene base en Santa Cruz de La Palma y opera en Tenerife con 
 El DJI Agras T50 lleva 40 litros y pulveriza a 16 L/min con dos boquillas centrífugas o a 24 L/min con cuatro (ficha de DJI). En viña y papa de medianías, con parcelas de pocos miles de metros, manda la planificación: mapa de cada parcela, cables y muros marcados, dosis de etiqueta y registro al terminar. El viento se mide antes de despegar.
 
 Los productos son los de uso permitido en viña, papa o platanera (abonos foliares, bioestimulantes, correctores), a dosis de etiqueta y solo sobre cultivo descubierto. Agrodrón opera en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01) con piloto certificado y, en la costa de Arona, mira el mapa de zonas geográficas de UAS de ENAIRE por la cercanía de Tenerife Sur.
-
-[IMAGEN: Viñedo sobre jable en La Escalona, medianías de Arona, con el Roque del Conde al fondo | alt: Viña de la DOP Abona sobre jable en La Escalona, Arona, Tenerife]
 
 ## Zona a zona: dónde encaja el dron en Arona
 

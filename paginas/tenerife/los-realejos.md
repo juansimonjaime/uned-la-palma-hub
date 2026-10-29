@@ -14,17 +14,15 @@ municipio: "Los Realejos"
 
 Los Realejos tiene 57,2 km² y 15,8 km² de suelo cultivable, con la papa como primer cultivo y detrás la viña, el cereal y el aguacate (ayuntamiento, vía Tribuna de Canarias). El término cae del acantilado al mar, así que un dron agrícola en Los Realejos se plantea zona a zona. Agrodrón Canarias trabaja desde La Palma, con desplazamiento a Tenerife y bajo disponibilidad.
 
-[IMAGEN: Vista de Los Realejos desde la costa hacia Icod el Alto, con la platanera abajo y los bancales de medianías subiendo hacia el mar de nubes | alt: Platanera de costa y bancales de medianías en Los Realejos, Tenerife]
-
 ## Tres pisos entre el mar y Palo Blanco
 
-El municipio arranca en la platanera de los acantilados costeros y sube hasta las medianías de Icod el Alto y Palo Blanco, entre 600 y 1.000 m [VERIFICAR: cotas por pago]. Los barrancos de Ruiz y Godínez lo cortan y los bancales ganan terreno a la pendiente.
+El municipio arranca en la platanera de los acantilados costeros y sube hasta las medianías de Icod el Alto y Palo Blanco. Los barrancos de Ruiz y Godínez lo cortan y los bancales ganan terreno a la pendiente.
 
 Para el dron son tres planes de vuelo distintos: abajo, parcelas regulares con cortavientos y cables; en medio, bancales estrechos con muros; arriba, secano con niebla casi a diario. El T50 sigue el relieve con radar y visión binocular; la planificación, el piloto, parcela a parcela.
 
 ## Costa: platanera de Rambla de Castro y aguacate
 
-La platanera realejera está en la franja baja, en Rambla de Castro y La Gordejuela [VERIFICAR: hectáreas de platanera en la costa de Los Realejos], casi toda al aire libre [VERIFICAR: proporción bajo malla]. Fincas colgadas sobre el acantilado, con pistas donde el tractor llega mal. El dron despega desde el borde y trata sin entrar.
+La platanera realejera está en la franja baja, en Rambla de Castro y La Gordejuela, y cada finca se mira antes para saber si va al aire libre. Fincas colgadas sobre el acantilado, con pistas donde el tractor llega mal. El dron despega desde el borde y trata sin entrar.
 
 Plagas documentadas en la platanera de Tenerife: el picudo negro, que vive en el cormo y no se alcanza con pulverización, y los trips y la araña roja, con ataques que llegan al racimo (guía del Cabildo, 2009).
 
@@ -33,8 +31,6 @@ En aguacate, Los Realejos era el segundo municipio de la isla tras La Orotava (l
 ## Medianías: papa, viña de la DO Valle de La Orotava y cereal
 
 La papa es el primer cultivo del municipio (ayuntamiento), sembrada en bancales de medianías. La viña ocupa el 9,1 % de la superficie agrícola realejera (Agrocabildo, 2024) y forma parte de las 313,1 ha del Valle, que han caído un 47,8 % en diez años.
-
-[IMAGEN: Bancal de papa en las medianías de Los Realejos con un muro de piedra seca y la viña baja en la parcela de al lado | alt: Papa y viña en bancales de las medianías de Los Realejos, Tenerife]
 
 Es la zona donde el dron pulverizador rinde más: cultivos bajos, parcelas en pendiente y accesos a pie. Con 40 litros de depósito y hasta 16 L/min con dos boquillas centrífugas (24 con cuatro, según DJI), el T50 reparte un abono foliar sobre un bancal de papa o un bioestimulante sobre una viña baja sin pisar la tierra.
 

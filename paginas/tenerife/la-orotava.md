@@ -14,13 +14,11 @@ municipio: "La Orotava"
 
 La Orotava siembra más de 400 hectáreas de papa, más del 30 % de su superficie cultivada según el ISTAC (vía ayuntamiento), y detrás vienen la viña de la DO Valle de La Orotava y la platanera de costa. Un dron agrícola en La Orotava tiene sentido donde el tractor no entra: el bancal de papa y la viña tendida en pendiente. Agrodrón Canarias tiene la base en La Palma; en Tenerife el servicio es con desplazamiento y bajo consulta de disponibilidad.
 
-[IMAGEN: Bancales de papa en las medianías altas de La Orotava con el mar de nubes entrando por el Valle | alt: Bancales de papa en las medianías de La Orotava, Tenerife, con las nubes del alisio al fondo]
-
 ## La papa manda en el municipio y la viña viene detrás
 
 La EnciclopediaGuanche, sin fecha, da 574,22 ha de papa y otras 197,32 ha de viña y papa asociadas. Papa de medianías y zona alta, en bancales entre 600 y 1.100 m (guía de agrosistemas de la papa del Cabildo, 2026).
 
-La viña del Valle suma 313,1 ha según Agrocabildo (2024), un 47,8 % menos que diez años antes; en La Orotava es el 19,7 % de la superficie agrícola. Viña baja en el cordón trenzado propio del valle [VERIFICAR: proporción en cordón trenzado], el único cultivo que creció tras la DO de 1994 (Investigaciones Geográficas, 2011).
+La viña del Valle suma 313,1 ha según Agrocabildo (2024), un 47,8 % menos que diez años antes; en La Orotava es el 19,7 % de la superficie agrícola. Viña baja en el cordón trenzado propio del valle, el único cultivo que creció tras la DO de 1994 (Investigaciones Geográficas, 2011).
 
 ## Polilla guatemalteca, mildiu y hongos de la madera: lo documentado
 
@@ -36,8 +34,6 @@ Un bancal de papa a 800 m no admite tractor, y con la mochila hay que recorrerlo
 
 La viña en cordón trenzado es baja, larga y va en pendiente con quiebros. El DJI Agras T50 sigue el relieve con radar de matriz en fase y visión binocular, detecta postes, muros y cables, y regula la velocidad según la cuesta. Depósito de 40 litros; hasta 16 L/min con dos boquillas o 24 con cuatro (DJI).
 
-[IMAGEN: Viña baja en cordón trenzado sobre una ladera del Valle de La Orotava, con La Perdoma al fondo | alt: Viña en cordón trenzado del Valle de La Orotava, Tenerife, en pendiente hacia la costa]
-
 Lo que no encaja: polilla en el tubérculo, hongos de la madera en el tronco, filoxera en la raíz, picudo en el cormo. Ninguno se arregla desde el aire: son asunto de sanidad vegetal del Cabildo.
 
 ## Cómo se organiza un tratamiento en el Valle
@@ -46,7 +42,7 @@ Recogemos pago, cultivo, superficie, accesos y obstáculos (cables, cortavientos
 
 ## Límites: malla, nieblas y zonas de vuelo
 
-La platanera bajo malla o invernadero no se trata desde el aire. En el norte de Tenerife la mayoría está al aire libre [VERIFICAR: porcentaje bajo malla en La Orotava]. Y las medianías pasan buena parte del año dentro del mar de nubes: con niebla cerrada o racha fuerte no se vuela.
+La platanera bajo malla o invernadero no se trata desde el aire. En La Orotava cada finca se mira antes para saber si va al aire libre. Y las medianías pasan buena parte del año dentro del mar de nubes: con niebla cerrada o racha fuerte no se vuela.
 
 Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el PDRA-S01, con piloto certificado, y antes de salir se consulta el mapa de zonas geográficas de UAS de ENAIRE para el pago exacto del Valle. En el depósito solo van abonos foliares, bioestimulantes y correctores de uso permitido en el cultivo, a dosis de etiqueta, y solo sobre finca descubierta.
 

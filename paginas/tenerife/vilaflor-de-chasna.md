@@ -14,11 +14,9 @@ municipio: "Vilaflor de Chasna"
 
 El casco de Vilaflor de Chasna está a 1.400 metros y sus cultivos suben hasta los 1.600, entre bancales y enarenados de jable, según la web municipal. A esa cota, lo primero que pregunta un agricultor es si un dron agrícola en Vilaflor vuela igual que en la costa. Vuela, con condiciones: aire más fino, frío de madrugada y viento de cumbre. El servicio sale de Santa Cruz de La Palma con desplazamiento, bajo consulta y cuando hay disponibilidad.
 
-[IMAGEN: Bancales de papa sobre jable claro con el casco de Vilaflor al fondo y el pinar de Chasna por encima | alt: Enarenados de jable con papa en Vilaflor de Chasna, Tenerife, a más de 1.400 metros de altitud]
-
 ## ¿Se puede volar un dron agrícola en Vilaflor a 1.400 metros?
 
-Sí. El DJI Agras T50 ajusta la velocidad a la pendiente y sigue el terreno con radar de matriz en fase y visión binocular, también en un bancal estrecho. Lo que cambia con la altura es la densidad del aire: los motores trabajan más para sostener el depósito de 40 litros y cada batería dura menos [VERIFICAR: rendimiento del T50 por encima de 1.400 m con depósito lleno].
+Sí. El DJI Agras T50 ajusta la velocidad a la pendiente y sigue el terreno con radar de matriz en fase y visión binocular, también en un bancal estrecho. Lo que cambia con la altura es la densidad del aire, que es menor, y eso se tiene en cuenta al planificar la carga de cada vuelo.
 
 Se resuelve planificando: cargas más cortas, más relevos de batería y un punto de despegue pegado al bancal.
 
@@ -36,15 +34,13 @@ El Cabildo publica avisos semanales de mildiu, oídio y botritis por comarca (da
 
 Y la filoxera, detectada en Tenerife en 2025, con 16 positivos en 5.429 prospecciones en 2026 (AtlánticoHoy) y zona demarcada en la DO Tacoronte-Acentejo, no en Vilaflor (Vinetur, 2026): el dron no la elimina, pero evita mover maquinaria entre viñas.
 
-[IMAGEN: Parras bajas de Los Frontones sobre jable con el Teide al fondo en un día despejado | alt: Viñedo de altura de Los Frontones en Vilaflor de Chasna, DOP Abona, entre 1.100 y 1.600 metros]
-
 ## ¿Qué pasa con el frío, las heladas y el viento de cumbre?
 
 Clima de montaña seco a sotavento: mucha insolación, frío nocturno, heladas ocasionales y viento en las cotas altas. Tres reglas.
 
 - Con helada o rocío fuerte no se trata; se espera a planta seca.
 - El viento se mide en la finca antes de despegar; si pasa del límite seguro, se aplaza.
-- Las horas más tranquilas suelen ser primera de la mañana y última de la tarde [VERIFICAR: régimen de viento local en Vilaflor].
+- El viento se mira cada día en la finca y de ello depende la hora del vuelo.
 
 ## ¿Qué hace falta para contratar un tratamiento con dron?
 
@@ -56,7 +52,7 @@ Una, el vuelo: categoría específica de AESA/EASA (PDRA-S01 o escenarios están
 
 - Papa sobre jable: sí para abonado foliar y bioestimulantes; las plagas, con lo que marque el Cabildo.
 - Viña de Los Frontones: sí para foliares y correctores entre brotación y envero; parcelas pequeñas agrupadas en una salida.
-- Almendro y frutales templados: árboles dispersos en secano, tratables si no hay tendidos. El tigre del almendro (Monosteira unicostata) se cita como especie extendida por Europa y Canarias (Agronews) [VERIFICAR: daños documentados en Tenerife].
+- Almendro y frutales templados: árboles dispersos en secano, tratables si no hay tendidos. El tigre del almendro (Monosteira unicostata) se cita como especie extendida por Europa y Canarias (Agronews).
 - Huerta: parcelas muy pequeñas; rara vez compensa el vuelo.
 
 Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/) y [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/). Ladera abajo, [dron agrícola en Granadilla de Abona](https://agrodroncanarias.es/dron-agricola-tenerife/granadilla-de-abona/).

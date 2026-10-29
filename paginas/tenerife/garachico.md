@@ -14,11 +14,9 @@ municipio: "Garachico"
 
 Garachico tenía 204,6 hectáreas de platanera en 2011 según el boletín de Desarrollo Rural del Cabildo, su actividad agraria principal, en la plataforma de costa; en 2024 estrenó empaquetado (Diario de Avisos). Arriba, en San Juan del Reparo y Genovés, la viña de la DO Ycoden-Daute-Isora. Recorremos el año de ambos cultivos para ver cuándo encaja un dron agrícola en Garachico. Agrodrón Canarias viene desde La Palma, con desplazamiento y bajo disponibilidad.
 
-[IMAGEN: Plataforma costera de Garachico cubierta de platanera al aire libre bajo el escarpe, con el casco y el mar al fondo | alt: Platanera de la plataforma costera de Garachico, Tenerife, bajo el acantilado de la Isla Baja]
-
 ## Primavera: brotación de la viña y el primer aviso de oídio
 
-La viña del Reparo y Genovés está entre 500 y 900 m [VERIFICAR: cotas], en bancales de medianías. El Cabildo publica avisos por comarca de mildiu, oídio y botritis (datos.tenerife.es), y en abril de 2026 marcó riesgo alto de oídio en zonas bajas de la isla entre el 22 y el 28 de abril de 2026.
+La viña del Reparo y Genovés va en bancales de medianías. El Cabildo publica avisos por comarca de mildiu, oídio y botritis (datos.tenerife.es), y en abril de 2026 marcó riesgo alto de oídio en zonas bajas de la isla entre el 22 y el 28 de abril de 2026.
 
 Primera ventana del dron en viña, no por el oídio (eso va con el aviso) sino para un foliar o un bioestimulante en brotación. El DJI Agras T50 sigue el relieve con radar y visión binocular y regula la velocidad con la pendiente; el bancal se trata desde arriba sin pisar las cepas.
 
@@ -26,9 +24,7 @@ Primera ventana del dron en viña, no por el oídio (eso va con el aviso) sino p
 
 A finales de julio y primeros de agosto Agrocabildo ha mantenido riesgo elevado de oídio en zonas vitícolas, riesgo medio de mildiu en algunas comarcas y atención a la botritis en envero (newsletter del 31 de julio, sin año). Segunda ventana del dron: un bioestimulante para la cepa que ha pasado el calor.
 
-En la platanera de la plataforma el verano es de calor: Agroseguro registró en 2024 daños por calor en platanera, sobre todo en La Palma. No hay calendario de plagas con fuente para la platanera [VERIFICAR: épocas de riesgo en platanera del norte de Tenerife]; finca a finca se decide si tras el calor conviene un foliar.
-
-[IMAGEN: Viña baja en bancales de San Juan del Reparo, Garachico, en pleno envero con el mar de nubes por encima | alt: Viña en envero en los bancales de San Juan del Reparo, Garachico, Tenerife]
+En la platanera de la plataforma el verano es de calor: Agroseguro registró en 2024 daños por calor en platanera, sobre todo en La Palma. No hay calendario de plagas con fuente para la platanera; finca a finca se decide si tras el calor conviene un foliar.
 
 ## Otoño: humedad y plagas del racimo en la platanera
 
@@ -44,9 +40,9 @@ La viña en parada no se trata, pero la filoxera se detectó en Tenerife en 2025
 
 ## Dron agrícola en Garachico: la plataforma y los bancales del Reparo
 
-El término tiene 29,3 km² y dos pisos [VERIFICAR: cotas]: la plataforma costera, de 0 a 100 m bajo un escarpe muy pronunciado, y las medianías del Reparo y Genovés a 500-900 m. Abajo, parcelas regulares con cortavientos y cables; arriba, bancales con muro y acceso a pie.
+El término tiene 29,3 km² y dos pisos: la plataforma costera, bajo un escarpe muy pronunciado, y las medianías del Reparo y Genovés. Abajo, parcelas regulares con cortavientos y cables; arriba, bancales con muro y acceso a pie.
 
-La plataforma es terreno cómodo para el dron si la finca va al aire libre, que en la Isla Baja es la mayoría [VERIFICAR: porcentaje de platanera bajo malla en Garachico]; lo que esté bajo malla o invernadero no se trata. En los bancales del Reparo el dron ahorra subir la mochila.
+La plataforma es terreno cómodo para el dron si la finca va al aire libre; lo que esté bajo malla o invernadero no se trata. En los bancales del Reparo el dron ahorra subir la mochila.
 
 ## Cuándo se vuela en la Isla Baja
 

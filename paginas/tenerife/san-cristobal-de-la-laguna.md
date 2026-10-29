@@ -18,7 +18,7 @@ San Cristóbal de La Laguna tenía 1.676 hectáreas cultivadas, 456 de platanera
 
 ## Costa norte: Tejina, Bajamar, Valle de Guerra y Punta del Hidalgo
 
-En la franja baja de la costa norte está la platanera lagunera, históricamente al aire libre [VERIFICAR: proporción actual bajo malla o invernadero en la costa de La Laguna], con cortavientos y un clima más cálido que el de la ciudad. El dron trata desde arriba una planta alta; el radar de matriz en fase y la visión binocular del DJI Agras T50 detectan cortavientos, cables y edificios.
+En la franja baja de la costa norte está la platanera lagunera, históricamente al aire libre, con cortavientos y un clima más cálido que el de la ciudad. El dron trata desde arriba una planta alta; el radar de matriz en fase y la visión binocular del DJI Agras T50 detectan cortavientos, cables y edificios.
 
 Hay una excepción grande: los invernaderos de flor cortada y planta ornamental que cubren el valle de Tejina (elcanario.net). Nada de eso se trata con dron. En Valle de Guerra queda viña de la DO Tacoronte-Acentejo, que sí.
 
@@ -30,7 +30,7 @@ Hay otro condicionante propio de La Laguna: el aeropuerto de Los Rodeos. Su ento
 
 ## Anaga lagunero: bancales en pendiente
 
-En la parte de Anaga que cae en La Laguna hay bancales en ladera, huerta y viña de la DO en parcelas pequeñas [VERIFICAR: superficie cultivada en el Anaga lagunero]. Pistas estrechas, mucha humedad y accesos a pie. Es donde la mochila pesa más y donde el dron, que ajusta la velocidad a la pendiente, evita subir escalones con el caldo encima.
+En la parte de Anaga que cae en La Laguna hay bancales en ladera, huerta y viña de la DO en parcelas pequeñas. Pistas estrechas, mucha humedad y accesos a pie. Es donde la mochila pesa más y donde el dron, que ajusta la velocidad a la pendiente, evita subir escalones con el caldo encima.
 
 ![Sandías recién cogidas en una finca al aire libre del norte de Tenerife](/imagenes/sandias-cosecha-norte-tenerife.webp)
 

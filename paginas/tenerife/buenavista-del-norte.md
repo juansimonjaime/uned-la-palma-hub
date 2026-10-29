@@ -14,17 +14,15 @@ municipio: "Buenavista del Norte"
 
 Buenavista del Norte es el municipio con más platanera de la Isla Baja: 567,2 hectáreas en 2011 según el boletín de Desarrollo Rural del Cabildo (agosto de 2011), en el llano a los pies del macizo de Teno. Detrás, en El Palmar, Las Portelas y Teno Alto, la agricultura cambia a bancales de papa y viña. Un dron agrícola en Buenavista del Norte tiene que servir en ambos sitios. Agrodrón Canarias trabaja aquí con desplazamiento desde La Palma y bajo consulta de disponibilidad.
 
-[IMAGEN: Llano platanero de Buenavista del Norte con el macizo de Teno cerrando el fondo y el mar a la izquierda | alt: Platanera de costa en Buenavista del Norte frente al macizo de Teno, Tenerife]
-
 ## Un término de 67,4 km² con dos agriculturas
 
 La parte baja va de 0 a 150 metros: plataforma costera, fincas de plátano con muros, cadenas de riego y cortavientos, expuestas al noroeste. El acantilado de Teno a la espalda canaliza el viento.
 
-La parte alta son los valles de Teno dentro del Parque Rural: El Palmar entre 500 y 700 metros, Las Portelas, y Teno Alto entre 700 y 800, con bancales de piedra, pistas estrechas y nieblas frecuentes. Teno Alto es muy ventoso. Allí la viña y la papa ocupan parcelas pequeñas y escalonadas [VERIFICAR: superficie de viña y papa en El Palmar, Las Portelas y Teno Alto].
+La parte alta son los valles de Teno dentro del Parque Rural: El Palmar entre 500 y 700 metros, Las Portelas, y Teno Alto entre 700 y 800, con bancales de piedra, pistas estrechas y nieblas frecuentes. Teno Alto es muy ventoso. Allí la viña y la papa ocupan parcelas pequeñas y escalonadas.
 
 ## Qué cuesta hoy tratar una finca aquí
 
-En la platanera de costa el tratamiento clásico es atomizador arrastrado o pistola desde el pasillo, con la cadena de riego por medio y plantas de 3 a 4 metros [VERIFICAR: altura media en la zona]. Se moja quien aplica, se compacta el suelo húmedo y en fincas sin pasillo ancho el tractor no entra.
+En la platanera de costa el tratamiento clásico es atomizador arrastrado o pistola desde el pasillo, con la cadena de riego por medio y plantas altas. Se moja quien aplica, se compacta el suelo húmedo y en fincas sin pasillo ancho el tractor no entra.
 
 En los bancales de El Palmar o Teno Alto es peor: mochila a la espalda, cuesta arriba, con la niebla encima media mañana. Una parcela de papa de unos cientos de metros cuadrados en terraza no justifica subir maquinaria.
 
@@ -35,8 +33,6 @@ El DJI Agras T50 de Agrodrón pulveriza desde el aire y no toca el suelo. Carga 
 En los bancales importa otro detalle: el radar de matriz en fase y la visión binocular siguen el relieve y regulan la velocidad con la pendiente, así que el dron mantiene la altura sobre el cultivo al pasar de una terraza a la siguiente. Despega desde la pista o desde el propio bancal.
 
 Lo que no cambia: el dron no trata lo que esté bajo malla o invernadero, ni vuela con viento fuerte del noroeste en la costa o niebla cerrada en Teno Alto.
-
-[IMAGEN: Bancales de papa y viña en El Palmar, Buenavista del Norte, con la niebla bajando por el valle de Teno | alt: Bancales de papa y viña en El Palmar, Buenavista del Norte, Parque Rural de Teno]
 
 ## Cultivos y plagas documentadas en el municipio
 

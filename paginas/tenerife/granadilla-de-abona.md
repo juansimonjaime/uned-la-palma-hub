@@ -14,8 +14,6 @@ municipio: "Granadilla de Abona"
 
 En Granadilla de Abona el calendario lo marcan dos cultivos al aire libre: la papa de las medianías altas de Charco del Pino y Cruz de Tea, zona tradicional del sur según el Plan Anual del Cabildo de 2017, y la viña de la DOP Abona entre 600 y 1.200 metros. Un dron agrícola en Granadilla de Abona tiene su hueco en momentos concretos del año, y como Agrodrón viene desde La Palma con desplazamiento, bajo consulta y según disponibilidad, conviene planificar con antelación.
 
-[IMAGEN: Papas en flor en bancales de jable de Charco del Pino, Granadilla de Abona, con el Teide al fondo | alt: Cultivo de papa sobre jable en Charco del Pino, medianías de Granadilla de Abona]
-
 ## De julio a noviembre: siembra de papa y vendimia
 
 En la vecina Vilaflor la siembra de papa va del 15 de julio al 15 de agosto según su web municipal, y la guía del Cabildo sobre la papa de Chasna, con las cotas altas de Granadilla, da las mismas (2026). En la provincia el 60 % de la papa es de media estación, el 25 % temprana y el 15 % tardía (Plan Anual del Cabildo, 2017): las siembras se escalonan.
@@ -48,8 +46,6 @@ El viento manda: El Médano es la zona más ventosa de Tenerife por el alisio ca
 ## Reglas antes que vuelo
 
 El vuelo va en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01) con piloto certificado. Tenerife Sur está en el propio municipio, así que el mapa de zonas geográficas de UAS de ENAIRE se mira antes de aceptar cualquier parcela. Producto de uso permitido en papa o viña, a dosis de etiqueta, solo al aire libre. Tú aportas parcela y producto; Agrodrón prepara vuelo y registro.
-
-[IMAGEN: Viñedo de la DOP Abona en medianías de Granadilla, con hileras sobre jable y la costa de El Médano al fondo | alt: Viña de la DOP Abona sobre jable en las medianías de Granadilla de Abona, Tenerife]
 
 Para seguir: [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/) y los vecinos [dron agrícola en San Miguel de Abona](https://agrodroncanarias.es/dron-agricola-tenerife/san-miguel-de-abona/) y [dron agrícola en Vilaflor de Chasna](https://agrodroncanarias.es/dron-agricola-tenerife/vilaflor-de-chasna/).
 

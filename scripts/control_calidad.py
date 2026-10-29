@@ -153,7 +153,7 @@ def revisar(ruta):
     imgs = re.findall(r"\[IMAGEN:([^\]]*)\]", sin_codigo)
     imgs_md = re.findall(IMG_MD, sin_codigo)
     if not imgs and not imgs_md:
-        errores.append("sin imágenes ni marcadores [IMAGEN]")
+        avisos.append("sin imágenes (se publica sin foto hasta tener una propia)")
     for im in imgs:
         if "alt:" not in im.lower():
             errores.append("[IMAGEN] sin texto alt")

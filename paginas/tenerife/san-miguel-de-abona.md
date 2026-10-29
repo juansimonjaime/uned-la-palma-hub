@@ -12,15 +12,13 @@ municipio: "San Miguel de Abona"
 
 # Dron agrícola en San Miguel de Abona: del jable de las medianías al vuelo
 
-San Miguel de Abona baja en una sola pendiente larga orientada al sur, desde las cotas altas de papa hasta la costa industrial de Las Chafiras y el Golf del Sur. Un dron agrícola en San Miguel de Abona trabaja en la franja media, entre 500 y 900 metros [VERIFICAR: cotas agrícolas del municipio], donde papa y viña de la DOP Abona van en bancales sobre jable. Agrodrón Canarias llega desde La Palma con desplazamiento, bajo consulta y según disponibilidad.
-
-[IMAGEN: Bancales de papa sobre jable en las medianías de San Miguel de Abona, con el casco y la costa al fondo | alt: Bancales de papa en jable en las medianías de San Miguel de Abona, Tenerife]
+San Miguel de Abona baja en una sola pendiente larga orientada al sur, desde las cotas altas de papa hasta la costa industrial de Las Chafiras y el Golf del Sur. Un dron agrícola en San Miguel de Abona trabaja en la franja media, donde papa y viña de la DOP Abona van en bancales sobre jable. Agrodrón Canarias llega desde La Palma con desplazamiento, bajo consulta y según disponibilidad.
 
 ## Una ladera larga: bancales, jable y pistas estrechas
 
-El término sube de la costa a la cumbre en una vertiente continua a sotavento, árida y de mucho sol, con el frescor nocturno de las medianías como única tregua (tenerifeconnect, webtenerife). La agricultura se reparte entre el casco, El Frontón y Aldea Blanca, en bancales de muro seco sobre jable, la arena volcánica que guarda la humedad [VERIFICAR: pagos agrícolas de San Miguel].
+El término sube de la costa a la cumbre en una vertiente continua a sotavento, árida y de mucho sol, con el frescor nocturno de las medianías como única tregua (tenerifeconnect, webtenerife). La agricultura se reparte entre el casco y El Frontón, en bancales de muro seco sobre jable, la arena volcánica que guarda la humedad.
 
-Abajo, en Las Chafiras y Guargacho, lo que queda de agricultura va bajo invernadero: hortalizas y tomate [VERIFICAR: superficie y cultivos de invernadero en la costa]. Esa parte no es objetivo del dron.
+Abajo, hacia la costa, la agricultura que queda puede ir bajo invernadero, y eso no se trata desde el aire. Esa parte no es objetivo del dron.
 
 ## Lo que cuesta hoy tratar una finca de medianías en San Miguel
 
@@ -49,8 +47,6 @@ Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-t
 Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el PDRA-S01, con piloto certificado. El mapa de ENAIRE ya ha salido: en San Miguel es la primera comprobación. Después, las de siempre: producto de uso permitido en papa o viña, dosis de etiqueta, cultivo al aire libre y nada de volar con viento fuerte, lluvia o niebla.
 
 La salida se monta desde Santa Cruz de La Palma cuando hay disponibilidad y varias fincas del sur en la misma semana; San Miguel se agrupa con Granadilla, Arona y Vilaflor. Tú aportas parcela y producto; se planifica el vuelo sobre el mapa, se mide el viento y se registra la aplicación.
-
-[IMAGEN: Viña de la DOP Abona en bancales de muro seco en El Frontón, San Miguel de Abona | alt: Viñedo en bancales de piedra en El Frontón, San Miguel de Abona, Tenerife]
 
 ## Preguntas frecuentes sobre el dron agrícola en San Miguel de Abona
 

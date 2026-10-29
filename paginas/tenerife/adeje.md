@@ -14,11 +14,9 @@ municipio: "Adeje"
 
 En Adeje la platanera suma 565 hectáreas según un estudio de la ULL sin fecha, entre Fañabé y Armeñime, y la viña de la DOP Abona sube por Taucho e Ifonche hasta los 1.100 metros. Quien pregunta por un dron agrícola en Adeje trae tres dudas: si su finca se puede tratar, si compensa traer el equipo desde La Palma y qué hace falta para contratarlo. Van por orden; la primera respuesta es que aquí el servicio lleva desplazamiento y va bajo disponibilidad.
 
-[IMAGEN: Platanera de Armeñime, en la costa de Adeje, con las urbanizaciones turísticas al fondo | alt: Fincas de platanera en Armeñime, Adeje, rodeadas de zona turística]
-
 ## ¿Se puede pulverizar con dron una platanera de Fañabé o Armeñime?
 
-Depende de lo que tenga encima. La platanera del sur de Tenerife va en gran parte bajo invernadero o malla [VERIFICAR: porcentaje de platanera cubierta en Adeje], y desde el aire no se trata nada que tenga techo. La finca abierta, con cortavientos laterales y la piña al descubierto, sí.
+Depende de lo que tenga encima. La platanera del sur de Tenerife puede ir bajo invernadero o malla, y desde el aire no se trata nada que tenga techo. La finca abierta, con cortavientos laterales y la piña al descubierto, sí.
 
 Pesa otra cosa: la costa adejera, entre 0 y 200 m, está muy urbanizada. Una finca pegada a viviendas, hoteles o carretera obliga a dejar franjas sin tratar y a planificar con más cuidado. Se mira parcela por parcela antes de decir sí.
 
@@ -39,8 +37,6 @@ Juntamos trabajo: si en Adeje, Guía de Isora y Arona hay tratamientos pendiente
 Sí se trata, y es de lo que mejor encaja. La DOP Abona cuenta 795 ha y 1.467 viticultores según su Consejo Regulador (el Cabildo habla de 1.567 ha), en parcelas pequeñas y en pendiente. Entre 700 y 1.100 m la parra va al aire libre, y el DJI Agras T50 regula la velocidad de vuelo según la pendiente con su radar de seguimiento del terreno (ficha de DJI).
 
 La parra va por brotación, envero y vendimia; las enfermedades (mildiu, oídio y botritis, con riesgo alto de oídio en zonas bajas entre el 22 y el 28 de abril de 2026) las siguen los avisos del Cabildo, no el dron. Desde 2025 hay filoxera en Tenerife; la zona demarcada abarca la DO Tacoronte-Acentejo, no Adeje (Vinetur, 2026), y eso afecta al movimiento de uva y material, no al tratamiento.
-
-[IMAGEN: Viñedo en bancales en Taucho, medianías de Adeje, con el Barranco del Infierno a un lado | alt: Viña de la DOP Abona en bancales de Taucho, Adeje, Tenerife]
 
 ## ¿Qué hace falta para contratar un dron agrícola en Adeje?
 

@@ -14,13 +14,11 @@ municipio: "Los Silos"
 
 Los Silos tenía 542,9 hectáreas de platanera en 2011 según el boletín de Desarrollo Rural del Cabildo de Tenerife de agosto de ese año, casi todas en el llano costero. El plátano aparece hasta en el escudo del municipio. Un dron agrícola en Los Silos encaja en esas fincas llanas cerradas con muros y cortavientos, donde tratar desde arriba evita meter maquinaria entre las piñas. Agrodrón Canarias sale desde La Palma: en Tenerife trabaja con desplazamiento y según disponibilidad.
 
-[IMAGEN: Fincas de platanera del llano costero de Los Silos vistas desde la carretera de Erjos, con los cortavientos y el mar al fondo | alt: Platanera al aire libre en el llano costero de Los Silos, Isla Baja, Tenerife]
-
 ## Una platanera de llano por debajo de los 150 metros
 
 El término mide 24,2 km² y la platanera ocupa la franja de 0 a 150 metros, la plataforma costera que comparte con Garachico y Buenavista; la comarca sumaba 1.314,7 ha de plátano en 2011 (Cabildo), con Los Silos en segundo lugar.
 
-En Canarias cerca de un 35 % del plátano crece bajo invernadero o malla (eldiario.es, 2023), pero ese peso lo lleva el sur de Tenerife; en la Isla Baja predomina la finca al aire libre con cortavientos perimetrales [VERIFICAR: porcentaje de platanera bajo malla en Los Silos]. Lo que va bajo cubierta no se trata con dron.
+En Canarias cerca de un 35 % del plátano crece bajo invernadero o malla (eldiario.es, 2023), pero ese peso lo lleva el sur de Tenerife; en la Isla Baja hay fincas al aire libre con cortavientos perimetrales, y cada una se mira antes. Lo que va bajo cubierta no se trata con dron.
 
 ## Picudo, trips y araña roja: lo que documentan las guías del Cabildo
 
@@ -30,11 +28,9 @@ Trips (Hercinothrips femoralis) y araña roja (Tetranychus) van por hoja y racim
 
 ## Por qué un dron agrícola en Los Silos encaja en estas parcelas
 
-La platanera es un cultivo alto, en torno a 3-4 metros [VERIFICAR: altura media en la zona], denso y cruzado por cadenas de riego. Con mochila toca levantar la lanza y empaparse; con atomizador hace falta pasillo. El dron pulveriza desde arriba, sin pisar el suelo, el abono foliar o el bioestimulante que toque.
+La platanera es un cultivo alto, denso y cruzado por cadenas de riego. Con mochila toca levantar la lanza y empaparse; con atomizador hace falta pasillo. El dron pulveriza desde arriba, sin pisar el suelo, el abono foliar o el bioestimulante que toque.
 
 El DJI Agras T50 que usa Agrodrón lleva depósito de 40 litros y aplica hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha de DJI). En finca llana el vuelo es regular, con pasadas paralelas; el radar de matriz en fase y la visión binocular vigilan cortavientos, postes y cables.
-
-[IMAGEN: Dron agrícola en vuelo sobre una platanera de Los Silos con el cortavientos de malla al borde de la finca | alt: Dron pulverizador DJI Agras T50 tratando platanera en Los Silos, Tenerife]
 
 ## Cómo se prepara una salida a Los Silos desde La Palma
 
@@ -48,7 +44,7 @@ Sobre esto último: Agrodrón vuela en la categoría específica de AESA/EASA, e
 
 ## Huerta, frutales y las medianías de Erjos y Tierra del Trigo
 
-Fuera del plátano, Los Silos tiene huerta y frutales en la franja baja, y viña y papa en las medianías de Tierra del Trigo y Erjos, entre 700 y 1.100 metros, en bancales con nieblas frecuentes [VERIFICAR: superficie de viña y papa en las medianías de Los Silos]. En esa papa pesan la polilla guatemalteca (Tecia solanivora), detectada en Tenerife en 1999 en el vecino Icod de los Vinos, y el mildiu, con avisos de riesgo alto del Cabildo para el norte.
+Fuera del plátano, Los Silos tiene huerta y frutales en la franja baja, y viña y papa en las medianías de Tierra del Trigo y Erjos, entre 700 y 1.100 metros, en bancales con nieblas frecuentes. En esa papa pesan la polilla guatemalteca (Tecia solanivora), detectada en Tenerife en 1999 en el vecino Icod de los Vinos, y el mildiu, con avisos de riesgo alto del Cabildo para el norte.
 
 Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/), [dron para hortícolas al aire libre](https://agrodroncanarias.es/dron-agricola-horticolas/) y en la página vecina de [dron agrícola en Buenavista del Norte](https://agrodroncanarias.es/dron-agricola-tenerife/buenavista-del-norte/).
 

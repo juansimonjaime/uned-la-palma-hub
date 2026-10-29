@@ -12,9 +12,7 @@ municipio: "Icod de los Vinos"
 
 # Dron agrícola en Icod de los Vinos: de la costa de San Marcos a la papa de La Vega
 
-Icod de los Vinos mide 95,9 km² y va del mar al Teide: platanera por debajo de los 300 m, viña entre 200 y 700 m y papa de 400 a 1.000 m [VERIFICAR: cotas por pago]. Tres cultivos, tres alturas y una misma pega, la pendiente. Un dron agrícola en Icod de los Vinos se justifica por el terreno antes que por nada. Agrodrón Canarias sale desde La Palma; a Tenerife venimos con desplazamiento y según disponibilidad.
-
-[IMAGEN: Bancales de papa y viña en las medianías de Icod de los Vinos con el Teide al fondo y la costa platanera abajo | alt: Bancales de viña y papa en Icod de los Vinos, Tenerife, con el Teide detrás]
+Icod de los Vinos mide 95,9 km² y va del mar al Teide: platanera en la franja baja, viña en las medianías y papa más arriba. Tres cultivos, tres alturas y una misma pega, la pendiente. Un dron agrícola en Icod de los Vinos se justifica por el terreno antes que por nada. Agrodrón Canarias sale desde La Palma; a Tenerife venimos con desplazamiento y según disponibilidad.
 
 ## Del mar al Teide: bancales, barrancos y pistas que no admiten tractor
 
@@ -32,21 +30,19 @@ En la platanera de San Marcos se trata con lanza desde el suelo, hacia arriba: m
 
 El piloto se queda fuera de la parcela. El DJI Agras T50 sigue el relieve con radar de matriz en fase y visión binocular, ajusta la velocidad a la pendiente y detecta cortavientos, cables y árboles altos. Depósito de 40 litros; hasta 16 L/min con dos boquillas centrífugas o 24 con cuatro (ficha de DJI).
 
-[IMAGEN: Dron agrícola DJI Agras T50 sobrevolando una platanera al aire libre en la costa de San Marcos, Icod de los Vinos | alt: Dron agrícola tratando platanera al aire libre en San Marcos, Icod de los Vinos]
-
 En platanera, la pulverización llega desde arriba a hoja y racimo, donde la lanza llega peor. En viña y papa, el bancal entero va en una pasada sin agacharse. No vuela con racha ni con el mar de nubes cerrado, y en Icod eso marca el día.
 
 ## Platanera, viña Ycoden-Daute-Isora y papa: plagas documentadas
 
 Platanera: el picudo negro, principal plaga en Canarias, vive en el cormo y no se alcanza desde el aire; se controla con feromonas. Trips y araña roja atacan hoja y racimo, con ataques intensos favorecidos por humedades del 70-80 % en otoño (guía del Cabildo, 2009); su control es cosa del Cabildo.
 
-Viña: la DO Ycoden-Daute-Isora suma entre 1.000 y 1.600 ha en la comarca, con 306 ha controladas por el Consejo (descorchandoversos, 2018) [VERIFICAR: hectáreas de viña en el municipio]. El Cabildo publica avisos semanales por comarca de mildiu, oídio y botritis (datos.tenerife.es). La filoxera apareció en Tenerife en 2025, con zona demarcada en la DO Tacoronte-Acentejo (Vinetur, 2026); es de raíz.
+Viña: la DO Ycoden-Daute-Isora suma entre 1.000 y 1.600 ha en la comarca, con 306 ha controladas por el Consejo (descorchandoversos, 2018). El Cabildo publica avisos semanales por comarca de mildiu, oídio y botritis (datos.tenerife.es). La filoxera apareció en Tenerife en 2025, con zona demarcada en la DO Tacoronte-Acentejo (Vinetur, 2026); es de raíz.
 
 Papa: la polilla guatemalteca (Tecia solanivora) se detectó por primera vez en Tenerife en 1999, aquí en Icod (Cabildo), y castiga al norte con pérdidas cercanas al 50 % en medianías y secano (eldiario.es). Vive en el tubérculo. El mildiu de la papa tuvo aviso de riesgo alto para el norte (hacia 2024). El dron no entra en ninguno; en la papa, su parte es el abonado foliar.
 
 ## Malla, bruma y zonas de vuelo
 
-La platanera bajo malla o invernadero no se trata: la cubierta frena el producto. En el noroeste la mayoría va al aire libre [VERIFICAR: porcentaje bajo malla en Icod].
+La platanera bajo malla o invernadero no se trata: la cubierta frena el producto. En el noroeste cada finca se mira antes para saber si va al aire libre.
 
 Lo del vuelo cabe en tres líneas. Con la finca marcada en el plano, de San Marcos a La Vega, se consultan las zonas geográficas de UAS de ENAIRE y se traza la pasada. El operador vuela en categoría específica de AESA/EASA, en STS o bajo el PDRA-S01, con piloto certificado. Y en el tanque, nada que no sea de uso permitido en el cultivo, a la dosis de su etiqueta: abonos foliares, bioestimulantes, correctores.
 

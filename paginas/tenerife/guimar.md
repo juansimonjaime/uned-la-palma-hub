@@ -20,7 +20,7 @@ La ficha del Mapa de Cultivos de Canarias de Güímar (campaña 2021) da 151,03 
 
 La viña es el primer cultivo del municipio y la cabecera de la DO Valle de Güímar (con Arafo y Candelaria; las guías del sector la cifran entre 600 y 750 hectáreas). Ocupa las medianías de 300 a 900 metros, entre el casco y El Escobonal, en bancales de piedra y jable, muchas veces en secano y asociada a la papa.
 
-La ficha recoge la asociación viña-papa en una tabla parcialmente ilegible en nuestra consulta [VERIFICAR: hectáreas de viña-papa en la ficha de Güímar]. En el campo: parcelas pequeñas, parras bajas, muros en escalones y caminos sin tractor.
+Los datos oficiales recogen la asociación viña-papa, sin una cifra municipal que podamos citar. En el campo: parcelas pequeñas, parras bajas, muros en escalones y caminos sin tractor.
 
 ## Oídio, mildiu y botritis: lo que recogen los avisos del Cabildo
 
@@ -32,17 +32,15 @@ Desde 2025 hay otro frente: la filoxera, detectada en Tenerife, con 16 positivos
 
 Tratar una parra de bancal con mochila significa subir muros con el depósito a la espalda. El dron lo hace desde arriba: el DJI Agras T50 sigue el relieve con radar de matriz en fase y visión binocular y regula la velocidad con la pendiente. Carga 40 litros y pulveriza hasta 16 litros por minuto con dos boquillas centrífugas, o 24 con cuatro. La dosis y el producto siguen siendo los de la etiqueta: abonos foliares o bioestimulantes de uso permitido en viña.
 
-[IMAGEN: Platanera al aire libre junto al mar en El Puertito de Güímar, con el malpaís negro detrás | alt: Platanera de la costa de Güímar entre El Puertito y Chimisay, Tenerife]
-
 ## Cómo se prepara un tratamiento en el valle
 
-Recogemos ubicación, cultivo, superficie, accesos y obstáculos (tendidos, cortavientos, árboles altos), dibujamos el vuelo sobre el mapa de la parcela y medimos el viento antes de despegar. En el Valle de Güímar importa: el alisio entra por la tarde con viento moderado o fuerte en la costa, así que la mañana suele ser la ventana [VERIFICAR: horario de calma habitual en las medianías de Güímar].
+Recogemos ubicación, cultivo, superficie, accesos y obstáculos (tendidos, cortavientos, árboles altos), dibujamos el vuelo sobre el mapa de la parcela y medimos el viento antes de despegar. En el Valle de Güímar importa: el alisio entra por la tarde con viento moderado o fuerte en la costa, así que la ventana de vuelo se mira cada día en la propia finca.
 
 Fuera de La Palma salimos con desplazamiento y agrupamos fincas de Güímar, Arafo y Candelaria en una visita; no damos plazos cerrados, damos disponibilidad.
 
 ## Lo que el dron no hace: cubierta, viento y plagas
 
-Nada bajo malla o invernadero se trata desde el aire: en el valle, las ornamentales de la comarca y la platanera que lleve malla [VERIFICAR: proporción de platanera bajo cubierta en la costa de Güímar]. Con viento sobre el límite seguro, se aplaza.
+Nada bajo malla o invernadero se trata desde el aire: en el valle, las ornamentales de la comarca y la platanera que lleve malla. Con viento sobre el límite seguro, se aplaza.
 
 El operador vuela en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01) con piloto certificado y antes de cada salida comprueba las viñas del valle en el mapa de zonas geográficas de UAS de ENAIRE. Tampoco combate plagas: oídio, mildiu o filoxera son de sanidad vegetal del Cabildo. Lo que cae de arriba es abono foliar o bioestimulante de uso permitido en viña, a dosis de etiqueta.
 

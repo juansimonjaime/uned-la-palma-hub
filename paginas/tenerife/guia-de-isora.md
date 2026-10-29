@@ -14,13 +14,11 @@ municipio: "Guía de Isora"
 
 Guía de Isora tenía 845,4 hectáreas de platanera en 2021 según el informe de plátano de Mercatenerife, la mayor superficie del sur de Tenerife. Un dron agrícola en Guía de Isora solo tiene sentido en la parte de esa platanera que crece al aire libre: lo que va bajo malla o invernadero no se trata desde el aire. Agrodrón Canarias sale desde Santa Cruz de La Palma, así que aquí el servicio es con desplazamiento y bajo consulta de disponibilidad.
 
-[IMAGEN: Platanera de la costa de Guía de Isora entre Alcalá y Playa San Juan, con fincas descubiertas junto a otras bajo malla | alt: Fincas de platanera al aire libre y bajo malla en la costa de Guía de Isora, Tenerife]
-
 ## 845 hectáreas de platanera: cuánta va descubierta y cuánta con techo
 
 Las cifras bailan según la fuente: 845,4 ha en Mercatenerife (2021), más de 800 ha en el Plan Anual del Cabildo de 2017 y 446 ha en un estudio de la Universidad de La Laguna sin fecha. Con cualquiera de ellas es el primer platanero del sur; con Arona reúne el 17 % del plátano de Tenerife (Diario de Avisos, noviembre de 2023).
 
-Falta saber cuánta piña va cubierta. Canarias tiene unas 3.200 ha de platanera bajo invernadero o malla de 9.100 totales (eldiario.es, 2023), y el sur de Tenerife concentra buena parte [VERIFICAR: porcentaje bajo cubierta en Guía de Isora]. La finca con techo de plástico o malla horizontal queda fuera; la abierta, con cortavientos laterales, entra.
+Falta saber cuánta piña va cubierta. Canarias tiene unas 3.200 ha de platanera bajo invernadero o malla de 9.100 totales (eldiario.es, 2023); en Guía de Isora cada finca se mira antes para saber si lleva techo. La finca con techo de plástico o malla horizontal queda fuera; la abierta, con cortavientos laterales, entra.
 
 ## Cochinilla, trips, araña roja y picudo: lo que preocupa en la platanera
 
@@ -39,8 +37,6 @@ Su radar de matriz en fase y la visión binocular siguen el relieve y detectan o
 La cubierta ya queda dicha. La salida desde La Palma se agrupa con otras fincas de la comarca, sin plazos prometidos, y antes se recogen los datos: ubicación, hectáreas, malla, cables o árboles altos, y el producto que quieres aplicar, con su etiqueta. El viento se comprueba en la finca: la vertiente sur es más tranquila que la norte, pero el suroeste tiene rachas locales (webtenerife) y con racha no se despega.
 
 Ese producto tiene que ser de uso permitido en platanera o en viña y va a la dosis de su etiqueta: abonos foliares, bioestimulantes, correctores de carencias, siempre sobre cultivo al aire libre. El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el PDRA-S01, y la costa isorana, como cualquier parcela, se comprueba antes en el mapa de zonas geográficas de UAS de ENAIRE.
-
-[IMAGEN: Viñedo de medianías en Chío, Guía de Isora, con parras bajas sobre suelo volcánico y el Teide detrás | alt: Viña de la DO Ycoden-Daute-Isora en las medianías de Chío, Guía de Isora]
 
 ## Viña de Ycoden-Daute-Isora, tomate residual, higos y almendros
 

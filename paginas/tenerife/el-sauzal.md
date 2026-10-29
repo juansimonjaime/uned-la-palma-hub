@@ -14,13 +14,11 @@ municipio: "El Sauzal"
 
 En El Sauzal están la sede del Consejo Regulador de la DO Tacoronte-Acentejo y la Casa del Vino, y en sus 18 km² la viña sube en bancales desde el acantilado hasta Ravelo, con el grueso entre 300 y 750 metros. El cultivo marca el calendario del municipio y los avisos del Cabildo, el del viticultor. Un dron agrícola en El Sauzal se contrata mirando ese calendario, porque Agrodrón Canarias sale desde La Palma con desplazamiento y según disponibilidad.
 
-[IMAGEN: Terrazas de viña en El Sauzal cayendo hacia el acantilado, con el mar de nubes sobre las medianías | alt: Viñedo en bancales de El Sauzal, DO Tacoronte-Acentejo, con pendiente hacia la costa de Tenerife]
-
 ## De la brotación a la vendimia: cuándo avisa el Cabildo
 
 El Cabildo de Tenerife publica avisos de la viña por comarca, en ficheros separados para mildiu, oídio y botritis, con actualización diaria (datos.tenerife.es).
 
-Primavera, brotación y primeras hojas: el oídio es la enfermedad considerada endémica en Canarias (guía de la viña de Agrocabildo, 2020). Los avisos del Cabildo marcaron riesgo alto de oídio en las zonas bajas de Tenerife del 22 al 28 de abril de 2026 [VERIFICAR: año y comarcas de ese aviso].
+Primavera, brotación y primeras hojas: el oídio es la enfermedad considerada endémica en Canarias (guía de la viña de Agrocabildo, 2020). Los avisos del Cabildo marcaron riesgo alto de oídio en las zonas bajas de Tenerife del 22 al 28 de abril de 2026.
 
 Verano, de la floración al envero: la newsletter de Agrocabildo del 31 de julio mantenía riesgo elevado de oídio en distintas zonas vitícolas, riesgo medio de mildiu en algunas comarcas y atención especial a la botritis en variedades en envero.
 
@@ -36,11 +34,9 @@ Tras la vendimia: un foliar de otoño, con la hoja todavía activa.
 
 ## La papa y el resto del año agrícola
 
-Fuera de la viña, El Sauzal tiene papa, frutales y huerta en las medianías, y algo de platanera residual en la costa [VERIFICAR: superficie de platanera en El Sauzal]. La papa del norte carga con la polilla guatemalteca (Tecia solanivora), en la isla desde 1999 y con pérdidas cercanas al 50 % en medianías y secano (Cabildo, ICIA), y con el mildiu, con avisos de riesgo alto.
+Fuera de la viña, El Sauzal tiene papa, frutales y huerta en las medianías. La papa del norte carga con la polilla guatemalteca (Tecia solanivora), en la isla desde 1999 y con pérdidas cercanas al 50 % en medianías y secano (Cabildo, ICIA), y con el mildiu, con avisos de riesgo alto.
 
 Para la polilla lo documentado es el monitoreo con feromonas y el control en almacén; para el mildiu, lo que marque el aviso. El dron entra en la papa con el abonado foliar, no con la plaga.
-
-[IMAGEN: Parcela de papas en bancales de Ravelo, El Sauzal, con la viña al lado y nubes bajas | alt: Papa y viña en las medianías altas de Ravelo, El Sauzal, Tenerife]
 
 ## Bancales de 300 a 750 metros, acantilado y pistas
 

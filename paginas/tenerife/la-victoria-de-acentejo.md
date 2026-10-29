@@ -14,11 +14,9 @@ municipio: "La Victoria de Acentejo"
 
 La viña de La Victoria de Acentejo está colgada en terrazas entre los 300 y los 750 metros, dentro de la DO Tacoronte-Acentejo, en bancales estrechos donde el tractor no cabe. Un dron agrícola en La Victoria de Acentejo trata esas terrazas sin pisarlas: despega desde el camino, sigue el desnivel y vuelve a cargar. Agrodrón Canarias tiene su base en La Palma; en Tenerife trabaja con desplazamiento y bajo consulta de disponibilidad.
 
-[IMAGEN: Terrazas de viña con muros de piedra en las medianías de La Victoria de Acentejo, con el mar de nubes asomando por encima | alt: Viñedo en terrazas de la DO Tacoronte-Acentejo en La Victoria de Acentejo, Tenerife]
-
 ## Cómo está plantada la viña de La Victoria
 
-La comarca de Acentejo suma 1.583 hectáreas de viña cultivada según el ICCA del Gobierno de Canarias; el Consejo Regulador contaba en 2022 con 760 hectáreas inscritas, 1.100 viticultores y 32 bodegas. Para La Victoria no hay dato municipal localizado [VERIFICAR: hectáreas de viña en la ficha del Mapa de Cultivos de La Victoria de Acentejo].
+La comarca de Acentejo suma 1.583 hectáreas de viña cultivada según el ICCA del Gobierno de Canarias; el Consejo Regulador contaba en 2022 con 760 hectáreas inscritas, 1.100 viticultores y 32 bodegas. Para La Victoria no hay dato municipal localizado.
 
 Por encima de los 600 metros entra el mar de nubes del alisio y la humedad se queda en la hoja buena parte del año: ahí viven los hongos.
 
@@ -54,7 +52,7 @@ El espacio aéreo se mira antes que la finca: las terrazas se localizan en el ma
 
 La papa de medianías arrastra dos problemas documentados en el norte: la polilla guatemalteca (Tecia solanivora), en la isla desde 1999 y con pérdidas cercanas al 50 % en medianías y secano (Cabildo, ICIA), y el mildiu, con avisos de riesgo alto para la comarca norte. La polilla se trabaja en campo y almacén con feromonas (Agrocabildo) y el mildiu con lo que marque el aviso; el dron entra en esa papa con el abonado foliar, no con la plaga.
 
-Frutales y huerta completan las medianías; en la costa queda platanera residual [VERIFICAR: superficie de platanera en La Victoria]. Más en [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/), el hub de [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/) y los vecinos de [La Matanza de Acentejo](https://agrodroncanarias.es/dron-agricola-tenerife/la-matanza-de-acentejo/) y [Santa Úrsula](https://agrodroncanarias.es/dron-agricola-tenerife/santa-ursula/).
+Frutales y huerta completan las medianías. Más en [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/), el hub de [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/) y los vecinos de [La Matanza de Acentejo](https://agrodroncanarias.es/dron-agricola-tenerife/la-matanza-de-acentejo/) y [Santa Úrsula](https://agrodroncanarias.es/dron-agricola-tenerife/santa-ursula/).
 
 ## Preguntas frecuentes sobre el dron agrícola en La Victoria de Acentejo
 

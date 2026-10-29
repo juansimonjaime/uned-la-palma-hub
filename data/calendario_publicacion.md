@@ -2,7 +2,7 @@
 
 Primera página: 2026-10-30. Última: 2026-12-07. Orden: hub de isla antes que sus municipios; La Palma y cultivos primero (informe.md, sección 9).
 
-Una página está lista cuando no le quedan marcas [VERIFICAR] ni marcadores [IMAGEN]. Ahora mismo hay 15 de 77.
+Una página está lista cuando no le quedan marcas [VERIFICAR] ni marcadores [IMAGEN]. Ahora mismo hay 38 de 77.
 
 | Nº | Fecha | Página | Nivel | URL final | [VERIFICAR] | [IMAGEN] sin foto | Fotos | Lista |
 |---|---|---|---|---|---|---|---|---|
@@ -31,29 +31,29 @@ Una página está lista cuando no le quedan marcas [VERIFICAR] ni marcadores [IM
 | 23 | 2026-11-10 | cultivos/horticolas | cultivo | https://agrodroncanarias.es/dron-agricola-horticolas/ | 5 | 1 | 1 | no |
 | 24 | 2026-11-10 | cultivos/tomate | cultivo | https://agrodroncanarias.es/dron-agricola-tomate/ | 4 | 2 | 0 | no |
 | 25 | 2026-11-11 | cultivos/flores-ornamentales | cultivo | https://agrodroncanarias.es/dron-agricola-flores-ornamentales/ | 4 | 0 | 2 | no |
-| 26 | 2026-11-11 | islas/tenerife | hub | https://agrodroncanarias.es/dron-agricola-tenerife/ | 3 | 1 | 1 | no |
-| 27 | 2026-11-12 | tenerife/la-orotava | B | https://agrodroncanarias.es/dron-agricola-tenerife/la-orotava/ | 2 | 2 | 0 | no |
-| 28 | 2026-11-12 | tenerife/los-realejos | B | https://agrodroncanarias.es/dron-agricola-tenerife/los-realejos/ | 3 | 2 | 0 | no |
-| 29 | 2026-11-13 | tenerife/icod-de-los-vinos | B | https://agrodroncanarias.es/dron-agricola-tenerife/icod-de-los-vinos/ | 3 | 2 | 0 | no |
-| 30 | 2026-11-13 | tenerife/garachico | B | https://agrodroncanarias.es/dron-agricola-tenerife/garachico/ | 4 | 2 | 0 | no |
-| 31 | 2026-11-14 | tenerife/los-silos | B | https://agrodroncanarias.es/dron-agricola-tenerife/los-silos/ | 3 | 2 | 0 | no |
-| 32 | 2026-11-14 | tenerife/buenavista-del-norte | B | https://agrodroncanarias.es/dron-agricola-tenerife/buenavista-del-norte/ | 2 | 2 | 0 | no |
-| 33 | 2026-11-15 | tenerife/tacoronte | B | https://agrodroncanarias.es/dron-agricola-tenerife/tacoronte/ | 4 | 1 | 1 | no |
-| 34 | 2026-11-15 | tenerife/el-sauzal | B | https://agrodroncanarias.es/dron-agricola-tenerife/el-sauzal/ | 2 | 2 | 0 | no |
-| 35 | 2026-11-16 | tenerife/la-matanza-de-acentejo | B | https://agrodroncanarias.es/dron-agricola-tenerife/la-matanza-de-acentejo/ | 3 | 1 | 1 | no |
-| 36 | 2026-11-16 | tenerife/la-victoria-de-acentejo | B | https://agrodroncanarias.es/dron-agricola-tenerife/la-victoria-de-acentejo/ | 2 | 1 | 1 | no |
-| 37 | 2026-11-17 | tenerife/santa-ursula | B | https://agrodroncanarias.es/dron-agricola-tenerife/santa-ursula/ | 2 | 1 | 1 | no |
-| 38 | 2026-11-17 | tenerife/tegueste | B | https://agrodroncanarias.es/dron-agricola-tenerife/tegueste/ | 2 | 2 | 0 | no |
-| 39 | 2026-11-18 | tenerife/san-cristobal-de-la-laguna | B | https://agrodroncanarias.es/dron-agricola-tenerife/san-cristobal-de-la-laguna/ | 2 | 0 | 2 | no |
-| 40 | 2026-11-18 | tenerife/candelaria | B | https://agrodroncanarias.es/dron-agricola-tenerife/candelaria/ | 2 | 1 | 1 | no |
-| 41 | 2026-11-19 | tenerife/guimar | B | https://agrodroncanarias.es/dron-agricola-tenerife/guimar/ | 3 | 1 | 1 | no |
-| 42 | 2026-11-19 | tenerife/arico | B | https://agrodroncanarias.es/dron-agricola-tenerife/arico/ | 1 | 2 | 0 | no |
-| 43 | 2026-11-20 | tenerife/granadilla-de-abona | B | https://agrodroncanarias.es/dron-agricola-tenerife/granadilla-de-abona/ | 0 | 2 | 0 | no |
-| 44 | 2026-11-20 | tenerife/san-miguel-de-abona | B | https://agrodroncanarias.es/dron-agricola-tenerife/san-miguel-de-abona/ | 3 | 2 | 0 | no |
-| 45 | 2026-11-21 | tenerife/vilaflor-de-chasna | B | https://agrodroncanarias.es/dron-agricola-tenerife/vilaflor-de-chasna/ | 3 | 2 | 0 | no |
-| 46 | 2026-11-21 | tenerife/arona | B | https://agrodroncanarias.es/dron-agricola-tenerife/arona/ | 1 | 2 | 0 | no |
-| 47 | 2026-11-22 | tenerife/adeje | B | https://agrodroncanarias.es/dron-agricola-tenerife/adeje/ | 1 | 2 | 0 | no |
-| 48 | 2026-11-22 | tenerife/guia-de-isora | B | https://agrodroncanarias.es/dron-agricola-tenerife/guia-de-isora/ | 1 | 2 | 0 | no |
+| 26 | 2026-11-11 | islas/tenerife | hub | https://agrodroncanarias.es/dron-agricola-tenerife/ | 0 | 0 | 1 | sí |
+| 27 | 2026-11-12 | tenerife/la-orotava | B | https://agrodroncanarias.es/dron-agricola-tenerife/la-orotava/ | 0 | 0 | 0 | sí |
+| 28 | 2026-11-12 | tenerife/los-realejos | B | https://agrodroncanarias.es/dron-agricola-tenerife/los-realejos/ | 0 | 0 | 0 | sí |
+| 29 | 2026-11-13 | tenerife/icod-de-los-vinos | B | https://agrodroncanarias.es/dron-agricola-tenerife/icod-de-los-vinos/ | 0 | 0 | 0 | sí |
+| 30 | 2026-11-13 | tenerife/garachico | B | https://agrodroncanarias.es/dron-agricola-tenerife/garachico/ | 0 | 0 | 0 | sí |
+| 31 | 2026-11-14 | tenerife/los-silos | B | https://agrodroncanarias.es/dron-agricola-tenerife/los-silos/ | 0 | 0 | 0 | sí |
+| 32 | 2026-11-14 | tenerife/buenavista-del-norte | B | https://agrodroncanarias.es/dron-agricola-tenerife/buenavista-del-norte/ | 0 | 0 | 0 | sí |
+| 33 | 2026-11-15 | tenerife/tacoronte | B | https://agrodroncanarias.es/dron-agricola-tenerife/tacoronte/ | 0 | 0 | 1 | sí |
+| 34 | 2026-11-15 | tenerife/el-sauzal | B | https://agrodroncanarias.es/dron-agricola-tenerife/el-sauzal/ | 0 | 0 | 0 | sí |
+| 35 | 2026-11-16 | tenerife/la-matanza-de-acentejo | B | https://agrodroncanarias.es/dron-agricola-tenerife/la-matanza-de-acentejo/ | 0 | 0 | 1 | sí |
+| 36 | 2026-11-16 | tenerife/la-victoria-de-acentejo | B | https://agrodroncanarias.es/dron-agricola-tenerife/la-victoria-de-acentejo/ | 0 | 0 | 1 | sí |
+| 37 | 2026-11-17 | tenerife/santa-ursula | B | https://agrodroncanarias.es/dron-agricola-tenerife/santa-ursula/ | 0 | 0 | 1 | sí |
+| 38 | 2026-11-17 | tenerife/tegueste | B | https://agrodroncanarias.es/dron-agricola-tenerife/tegueste/ | 0 | 0 | 0 | sí |
+| 39 | 2026-11-18 | tenerife/san-cristobal-de-la-laguna | B | https://agrodroncanarias.es/dron-agricola-tenerife/san-cristobal-de-la-laguna/ | 0 | 0 | 2 | sí |
+| 40 | 2026-11-18 | tenerife/candelaria | B | https://agrodroncanarias.es/dron-agricola-tenerife/candelaria/ | 0 | 0 | 1 | sí |
+| 41 | 2026-11-19 | tenerife/guimar | B | https://agrodroncanarias.es/dron-agricola-tenerife/guimar/ | 0 | 0 | 1 | sí |
+| 42 | 2026-11-19 | tenerife/arico | B | https://agrodroncanarias.es/dron-agricola-tenerife/arico/ | 0 | 0 | 0 | sí |
+| 43 | 2026-11-20 | tenerife/granadilla-de-abona | B | https://agrodroncanarias.es/dron-agricola-tenerife/granadilla-de-abona/ | 0 | 0 | 0 | sí |
+| 44 | 2026-11-20 | tenerife/san-miguel-de-abona | B | https://agrodroncanarias.es/dron-agricola-tenerife/san-miguel-de-abona/ | 0 | 0 | 0 | sí |
+| 45 | 2026-11-21 | tenerife/vilaflor-de-chasna | B | https://agrodroncanarias.es/dron-agricola-tenerife/vilaflor-de-chasna/ | 0 | 0 | 0 | sí |
+| 46 | 2026-11-21 | tenerife/arona | B | https://agrodroncanarias.es/dron-agricola-tenerife/arona/ | 0 | 0 | 0 | sí |
+| 47 | 2026-11-22 | tenerife/adeje | B | https://agrodroncanarias.es/dron-agricola-tenerife/adeje/ | 0 | 0 | 0 | sí |
+| 48 | 2026-11-22 | tenerife/guia-de-isora | B | https://agrodroncanarias.es/dron-agricola-tenerife/guia-de-isora/ | 0 | 0 | 0 | sí |
 | 49 | 2026-11-23 | islas/gran-canaria | hub | https://agrodroncanarias.es/dron-agricola-gran-canaria/ | 2 | 2 | 0 | no |
 | 50 | 2026-11-23 | gran-canaria/galdar | B | https://agrodroncanarias.es/dron-agricola-gran-canaria/galdar/ | 2 | 2 | 0 | no |
 | 51 | 2026-11-24 | gran-canaria/santa-maria-de-guia | B | https://agrodroncanarias.es/dron-agricola-gran-canaria/santa-maria-de-guia/ | 2 | 2 | 0 | no |

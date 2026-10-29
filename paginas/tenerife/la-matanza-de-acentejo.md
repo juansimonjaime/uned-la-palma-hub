@@ -18,17 +18,15 @@ La Matanza de Acentejo sube de golpe: acantilado en la costa, medianías de viñ
 
 ## La costa: acantilado y poca tierra
 
-La franja baja de La Matanza es acantilado, con poco suelo cultivable y accesos difíciles [VERIFICAR: cultivos presentes en la costa del municipio]. Para el dron no es zona prioritaria.
+La franja baja de La Matanza es acantilado, con poco suelo cultivable y accesos difíciles. Para el dron no es zona prioritaria.
 
 ## Medianías de 300 a 750 metros: la viña en terrazas
 
 Aquí el dron más aporta. La viña de la DO Tacoronte-Acentejo ocupa bancales estrechos con muro de piedra, en parcelas de pocos centenares de metros cuadrados por laderas de pendiente fuerte. Las bodegas reúnen parcelas en La Matanza, El Sauzal y Tacoronte a la vez.
 
-La superficie de viña del municipio no está en fuente oficial localizada [VERIFICAR: ha de viña de La Matanza en el Mapa de Cultivos]; para la comarca van de 760 ha inscritas en la DO (2022) a 1.583 ha cultivadas (ICCA). El patrón es el mismo: muchas terrazas, pocos caminos de tractor.
+La superficie de viña del municipio no está en fuente oficial localizada; para la comarca van de 760 ha inscritas en la DO (2022) a 1.583 ha cultivadas (ICCA). El patrón es el mismo: muchas terrazas, pocos caminos de tractor.
 
 Con mochila, tratar estas terrazas es media jornada de subir y bajar muros. El DJI Agras T50 de Agrodrón lo hace desde el aire: sigue el relieve con radar de matriz en fase y visión binocular, baja la velocidad en la pendiente y pasa de un bancal al siguiente. Su depósito de 40 litros cubre varias parcelas pequeñas de una tacada.
-
-[IMAGEN: Bancales de viña con muros de piedra en las medianías de La Matanza de Acentejo, con una parcela de papas intercalada | alt: Viña en terrazas y papa en las medianías de La Matanza de Acentejo, DO Tacoronte-Acentejo]
 
 ## Medianías: la papa entre viñas
 
@@ -38,7 +36,7 @@ El dron encaja en la papa para el abonado foliar y los bioestimulantes, sin pisa
 
 ## El monte: castaño, frutales y huerta de autoconsumo
 
-Por encima, el monte de La Matanza tiene castaños, frutales (entre ellos aguacate) y huerta [VERIFICAR: superficie de castaño, aguacate y huerta en la zona alta]. El castaño de monte queda fuera: el dron se centra en cultivo agrícola al aire libre.
+Por encima, el monte de La Matanza tiene castaños, frutales (entre ellos aguacate) y huerta. El castaño de monte queda fuera: el dron se centra en cultivo agrícola al aire libre.
 
 El aguacate sí es candidato a un foliar: árbol alto, difícil de mojar desde el suelo. Su plaga principal en Tenerife, la araña cristalina (Oligonychus perseae), en el 81,5 % de las parcelas encuestadas por el Cabildo desde 2006, no es asunto del dron. Las aguacateras al aire libre se pueden estudiar; bajo malla, no.
 

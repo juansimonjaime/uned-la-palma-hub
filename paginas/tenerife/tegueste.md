@@ -14,11 +14,9 @@ municipio: "Tegueste"
 
 Tegueste es un valle interior sin salida al mar, encajado entre lomas, con más de 300 hectáreas de viña entre el valle de Tegueste y El Socorro según GEVIC (fuente sin fecha) y la papa temprana teguestera. Las preguntas de los viticultores de aquí se parecen y las respondemos una a una. Un dron agrícola en Tegueste trabaja con desplazamiento desde La Palma y bajo consulta de disponibilidad.
 
-[IMAGEN: Viñas en el fondo del valle de Tegueste con las lomas alrededor y niebla bajando desde Anaga | alt: Viñedo en el valle de Tegueste, Tenerife, con las lomas y la niebla de Anaga al fondo]
-
 ## ¿Se puede pulverizar con dron una viña de Tegueste o de El Socorro?
 
-Sí: en Tegueste la viña está toda al aire libre. El valle figura entre los municipios con más registros de viña en el Diagnóstico de la viticultura en Canarias (diciembre de 2020), y parte del término entra en la DO Tacoronte-Acentejo. GEVIC habla de más de 300 hectáreas y llama a la viña "producto estrella", sin fecha para la cifra [VERIFICAR: hectáreas actuales de viña en Tegueste en el Mapa de Cultivos].
+Sí: en Tegueste la viña está toda al aire libre. El valle figura entre los municipios con más registros de viña en el Diagnóstico de la viticultura en Canarias (diciembre de 2020), y parte del término entra en la DO Tacoronte-Acentejo. GEVIC habla de más de 300 hectáreas y llama a la viña "producto estrella", sin fecha para la cifra.
 
 Lo que cambia entre parcelas es el relieve: en el fondo del valle las pendientes son moderadas y hay caminos; en las laderas, la viña va en bancales. El dron vale para las dos, pero el plan de vuelo no es el mismo.
 
@@ -38,8 +36,6 @@ El dron pulveriza abonos foliares, bioestimulantes y correctores sobre la cepa, 
 
 Cultivo bajo, al aire libre y en parcelas pequeñas: encaja con el dron para el abonado foliar. Los dos problemas documentados en el norte de Tenerife son la polilla guatemalteca (Tecia solanivora), en la isla desde 1999 y con pérdidas cercanas al 50 % en medianías y secano (Cabildo, ICIA), y el mildiu, con avisos de riesgo alto del Cabildo. Ninguno se resuelve desde el aire: la polilla se sigue con feromonas en campo y almacén (Agrocabildo).
 
-[IMAGEN: Parcela de papa temprana en el valle de Tegueste con la viña en los bancales de la ladera detrás | alt: Papa temprana y viña en bancales en Tegueste, Tenerife]
-
 ## ¿Qué hace falta para contratar un tratamiento con dron en Tegueste?
 
 Dos cosas tuyas: los datos de la finca (ubicación, superficie, accesos, cables o árboles altos alrededor) y el producto que quieres aplicar, de uso permitido en viña o en papa y a la dosis de su etiqueta. Agrodrón vuela en la categoría específica de AESA/EASA (STS o PDRA-S01) con piloto certificado y antes de cada salida comprueba la parcela en el mapa de zonas geográficas de UAS de ENAIRE: el valle no queda lejos de Los Rodeos y se mira finca a finca.
@@ -48,7 +44,7 @@ Nosotros preparamos el plan de vuelo sobre el mapa de tu parcela, comprobamos vi
 
 ## ¿Qué cultivos de Tegueste tienen sentido con dron y cuáles no?
 
-Viña, papa y huerta al aire libre, sí; los frutales también, porque el dron trata desde arriba sin importar la altura del árbol. Lo que esté bajo malla o invernadero, no: el producto no atraviesa la cubierta. Los datos de Tegueste no recogen superficie bajo plástico [VERIFICAR: cultivo protegido en el municipio], pero si tu huerta tiene túnel, esa parte queda fuera.
+Viña, papa y huerta al aire libre, sí; los frutales también, porque el dron trata desde arriba sin importar la altura del árbol. Lo que esté bajo malla o invernadero, no: el producto no atraviesa la cubierta. Los datos de Tegueste no recogen superficie bajo plástico, pero si tu huerta tiene túnel, esa parte queda fuera.
 
 Para seguir: [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/), el hub de [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/) y los vecinos de [La Laguna](https://agrodroncanarias.es/dron-agricola-tenerife/san-cristobal-de-la-laguna/) y [Tacoronte](https://agrodroncanarias.es/dron-agricola-tenerife/tacoronte/).
 
