@@ -20,7 +20,7 @@ La piña tropical Roja Española del Valle de El Golfo define Frontera: 123 ha s
 
 El Golfo es una depresión de deslizamiento abierta al noroeste, con plataforma costera y laderas hasta un escarpe de más de 1.000 m (spain.info); cultivos de la costa a unos 400 m [VERIFICAR: cota máxima de la piña], brisas marinas y unas 3.000 horas de sol (fuentes vinícolas). La Cooperativa del Campo de Frontera, con más de 450 socios, trabaja piña, mango, plátano y aguacate.
 
-Cómo está plantada es la clave. En 1988 "la mayoría de las parcelas de Frontera se cultivaban al aire libre, aunque hay algunas plantaciones bajo malla e incluso en invernaderos" (revista Fruits, CIRAD). [VERIFICAR: proporción actual bajo malla o invernadero]. Agrodrón Canarias trabaja desde Santa Cruz de La Palma; a El Hierro se viene con desplazamiento y bajo disponibilidad.
+Cómo está plantada es la clave. En 1988 "la mayoría de las parcelas de Frontera se cultivaban al aire libre, aunque hay algunas plantaciones bajo malla e incluso en invernaderos" (revista Fruits, CIRAD). [VERIFICAR: proporción actual bajo malla o invernadero; indicio en Público: invernaderos de platanera en El Golfo]. Agrodrón Canarias trabaja desde Santa Cruz de La Palma; a El Hierro se viene con desplazamiento y bajo disponibilidad.
 
 ## Cochinilla de la piña y complejo viral: el problema documentado
 

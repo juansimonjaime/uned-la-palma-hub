@@ -12,7 +12,7 @@ municipio: "Telde"
 
 # Dron agrícola en Telde: costa, vegas y medianías, zona a zona
 
-Telde cultiva en torno a un millar de hectáreas con técnicas intensivas, según Wikipedia (sin año) [VERIFICAR: superficie cultivada actual en el ISTAC], y figura segundo en el ranking municipal del Mapa de Cultivos de Canarias 2024 (Canarias7) [VERIFICAR: unidad del valor 36,8]. Un dron agrícola en Telde no sirve igual en Ojos de Garza que en El Ejido o en Cazadores: la costa es invernadero, las vegas son naranja y platanera, las medianías son huerta.
+Telde tenía 716,6 hectáreas cultivadas según el ISTAC (datos de 2017 recogidos por Canarias7) y figura segundo en el ranking municipal del Mapa de Cultivos de Canarias 2024 (Canarias7) [VERIFICAR: indicio en COAG Canarias, enero de 2025: da 36,8 «hectáreas», unidad imposible]. Un dron agrícola en Telde no sirve igual en Ojos de Garza que en El Ejido o en Cazadores: la costa es invernadero, las vegas son naranja y platanera, las medianías son huerta.
 
 [IMAGEN: Naranjos en producción en una finca de El Ejido, Telde, con cortavientos y la vega de Valle de los Nueve al fondo | alt: finca de naranjos de la naranja de Telde en El Ejido, Gran Canaria]
 

@@ -18,7 +18,7 @@ Valle Gran Rey es un valle encajado del oeste de La Gomera que sube de la costa 
 
 ## Lo que está documentado del valle y lo que falta
 
-Por eso la página es de nivel B con reserva [VERIFICAR: superficie de platanera y frutales] y se ciñe a lo que tiene fuente. Los datos hablan de frutales sin desglose [VERIFICAR: especies]; tomamos mango y papaya como referencia.
+Por eso la página es de nivel B con reserva [VERIFICAR: superficie de platanera y frutales] y se ciñe a lo que tiene fuente. Los datos hablan de frutales sin desglose [VERIFICAR: indicio en la AEAT, índices del IRPF: aguacate y mango en el municipio]; tomamos mango y papaya como referencia.
 
 Clima de sotavento: por debajo de 800–1.000 m el valle queda fuera del alisio, con pocos días de nubes y lluvia (Arozena), y con brisas de valle. Agrodrón Canarias sale de Santa Cruz de La Palma y viene a La Gomera con desplazamiento y bajo disponibilidad: la fecha ideal del tratamiento y la fecha en que el equipo puede estar en el valle tienen que cuadrar.
 
@@ -42,7 +42,7 @@ Otoño e invierno dan menos calor a quien aplica, y la brisa de valle, térmica,
 
 ## Qué encaja con el dron agrícola en Valle Gran Rey en cada época
 
-- Todo el año, platanera al aire libre: foliares y bioestimulantes permitidos en platanera, a dosis de etiqueta. Contra el picudo, nada: eso lo lleva el Cabildo.
+- Todo el año, platanera al aire libre: foliares y bioestimulantes permitidos en platanera, a dosis de etiqueta.
 - Primavera, mango al aire libre: correctores o foliares que la etiqueta permita en mango; de plagas, la referencia es peninsular [VERIFICAR].
 - Papaya y cualquier frutal bajo malla o invernadero: nunca; el producto no atraviesa la cubierta, y la papaya canaria va habitualmente bajo malla [VERIFICAR: Valle Gran Rey].
 - Papa en bancal: solo en campo y con producto permitido en papa; el almacén queda fuera.
@@ -51,7 +51,7 @@ El DJI Agras T50 lleva 40 litros de depósito y hasta 16 L/min con dos boquillas
 
 ## Terrazas, carretera única, palmeras y brisas de valle
 
-Al valle se entra por una sola carretera y las fincas están en terrazas a ambos lados del barranco. El T50 sigue el relieve con radar de matriz en fase y visión binocular y ajusta la velocidad a la pendiente; las palmeras, altas y repartidas entre bancales, son el obstáculo típico del plan de vuelo. Con brisa fuerte no se vuela.
+Al valle se entra por una sola carretera y las fincas están en terrazas a ambos lados del barranco. El T50 sigue el relieve con radar de matriz en fase y visión binocular y ajusta la velocidad a la pendiente; las palmeras, altas y repartidas entre bancales, son el obstáculo típico del plan de vuelo.
 
 Sobre el papel: Agrodrón opera en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01) con piloto certificado; la terraza se sitúa en el mapa de zonas geográficas de UAS de ENAIRE; y solo se pulverizan productos de uso permitido en el cultivo, a dosis de etiqueta, sobre parcela descubierta. Más en [dron agrícola en La Gomera](https://agrodroncanarias.es/dron-agricola-la-gomera/), [dron para plataneras](https://agrodroncanarias.es/dron-agricola-platanera/) y [dron agrícola para frutales subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/).
 

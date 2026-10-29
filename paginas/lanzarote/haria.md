@@ -12,7 +12,7 @@ municipio: "Haría"
 
 # Dron agrícola en Haría: fincas pequeñas al pie del risco de Famara
 
-El valle de Haría y los pagos de Máguez y Ye quedan al pie del macizo de Famara, el relieve más alto de Lanzarote (Peñas del Chache, unos 670 m), y cultivan en enarenados entre unos 200 y 450 m [VERIFICAR: altitudes]. Fincas chicas, paredes de piedra y alisio: ese es el terreno para un dron agrícola en Haría. Agrodrón Canarias sale de Santa Cruz de La Palma y en Lanzarote trabaja con desplazamiento y según disponibilidad.
+El valle de Haría y los pagos de Máguez y Ye quedan al pie del macizo de Famara, el relieve más alto de Lanzarote (Peñas del Chache, unos 670 m), y cultivan en enarenados entre unos 200 y 450 m [VERIFICAR: indicio en Hispanopedia: Haría a 270 m]. Fincas chicas, paredes de piedra y alisio: ese es el terreno para un dron agrícola en Haría. Agrodrón Canarias sale de Santa Cruz de La Palma y en Lanzarote trabaja con desplazamiento y según disponibilidad.
 
 [IMAGEN: Valle de Haría visto desde el mirador, con palmeras, paredes de piedra y enarenados de picón en parcelas pequeñas | alt: Parcelas de enarenado y palmeral en el valle de Haría, Lanzarote]
 
@@ -32,7 +32,7 @@ Con tractor y atomizador no se entra en un bancal de pared de piedra, y si se en
 
 El DJI Agras T50 de Agrodrón lleva 40 litros en el depósito y aplica hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha técnica de DJI). En una finca pequeña del valle el límite no es el depósito, es el viento. Y el dron no pisa el picón ni toca una pared.
 
-El radar de matriz en fase y la visión binocular siguen el relieve: suben con la ladera de Máguez, bajan al fondo del valle y esquivan palmeras y postes. Lo que no hace es volar con viento fuerte.
+El radar de matriz en fase y la visión binocular siguen el relieve: suben con la ladera de Máguez, bajan al fondo del valle y esquivan palmeras y postes.
 
 ## Papa, cebolla y viña: lo que está documentado en el norte
 

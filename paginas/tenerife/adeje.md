@@ -38,7 +38,7 @@ Juntamos trabajo: si en Adeje, Guía de Isora y Arona hay tratamientos pendiente
 
 Sí se trata, y es de lo que mejor encaja. La DOP Abona cuenta 795 ha y 1.467 viticultores según su Consejo Regulador (el Cabildo habla de 1.567 ha), en parcelas pequeñas y en pendiente. Entre 700 y 1.100 m la parra va al aire libre, y el DJI Agras T50 regula la velocidad de vuelo según la pendiente con su radar de seguimiento del terreno (ficha de DJI).
 
-La parra va por brotación, envero y vendimia; las enfermedades (mildiu, oídio y botritis, con riesgo alto de oídio en zonas bajas entre el 30 de abril y el 7 de mayo) las siguen los avisos del Cabildo, no el dron. Desde 2025 hay filoxera en Tenerife con zona demarcada [VERIFICAR: si Adeje está dentro], y eso afecta al movimiento de uva y material, no al tratamiento.
+La parra va por brotación, envero y vendimia; las enfermedades (mildiu, oídio y botritis, con riesgo alto de oídio en zonas bajas entre el 30 de abril y el 7 de mayo) las siguen los avisos del Cabildo, no el dron. Desde 2025 hay filoxera en Tenerife; la zona demarcada abarca la DO Tacoronte-Acentejo, no Adeje (Vinetur, 2026), y eso afecta al movimiento de uva y material, no al tratamiento.
 
 [IMAGEN: Viñedo en bancales en Taucho, medianías de Adeje, con el Barranco del Infierno a un lado | alt: Viña de la DOP Abona en bancales de Taucho, Adeje, Tenerife]
 

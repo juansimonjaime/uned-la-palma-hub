@@ -12,14 +12,14 @@ municipio: ""
 
 # Dron agrícola en Lanzarote: viña en picón, jable y viento
 
-Lanzarote cultivó 3.872 hectáreas en 2024, la cifra más alta desde 2008, según el Cabildo. En torno a la mitad es viña: 1.865 ha inscritas en la DO (folleto oficial de 2024) en enarenados y hoyos con zoco. Un dron agrícola en Lanzarote trabaja con el alisio, la sequía y parcelas donde cada cepa es un objetivo. Agrodrón Canarias lo hace con desplazamiento desde La Palma y bajo disponibilidad.
+Lanzarote cultivó 3.872 hectáreas en 2024, la cifra más alta desde 2008, según el Cabildo. Tres cuartas partes son viña, en enarenados y hoyos con zoco; la DO tiene 1.865 ha inscritas (folleto oficial de 2024). Un dron agrícola en Lanzarote trabaja con el alisio, la sequía y parcelas donde cada cepa es un objetivo. Agrodrón Canarias lo hace con desplazamiento desde La Palma y bajo disponibilidad.
 
 [IMAGEN: Panorámica de La Geria con cientos de hoyos en picón negro y zocos de piedra, bodegas al fondo y el alisio marcando las nubes | alt: Paisaje vitícola de La Geria en Lanzarote con hoyos y zocos de piedra]
 
 ## La agricultura de Lanzarote en cifras
 
 - Superficie cultivada en 2024: 3.872 ha, la mayor desde las 4.505 ha de 2008 (Cabildo, 2025).
-- Viña: 1.865 ha inscritas en la DO y cerca de 2.000 en producción (DO Lanzarote, 2024); La Voz de Lanzarote (2025) habla de más del 75 % de lo cultivado [VERIFICAR: sobre 3.872 ha sale la mitad].
+- Viña: 1.865 ha inscritas en la DO y cerca de 2.000 en producción (DO Lanzarote, 2024); en la estadística insular, el 75,6 % de lo cultivado, casi 3.000 ha (Centro de Datos del Cabildo vía La Voz de Lanzarote, octubre de 2025).
 - La Geria: 1.368 ha de viña, 237 abandonadas (15 %), en un espacio protegido de 5.255 ha entre cinco municipios (Mapa de Cultivos vía Infoagro, 2024).
 - Uva: 3,3 millones de kilos en 2023, 1,4 en 2024 y unos 750.000 en 2025, la tercera peor con registros, por sequía (Consejo Regulador vía RTVC).
 
@@ -27,7 +27,7 @@ Lanzarote cultivó 3.872 hectáreas en 2024, la cifra más alta desde 2008, seg�
 
 En mayo de 2025 la FAO incluyó los sistemas agrícolas de Lanzarote en su lista SIPAM. Son tres: el enarenado, capa de 10-12 cm de picón que guarda la humedad; el jable, arena marina que el alisio trae desde Famara entre Teguise y San Bartolomé; y La Geria, hoyos en picón con zoco y una cepa en cada uno.
 
-Por comarcas: el norte (Haría, Máguez, Ye y Los Valles, bajo Famara) es zona de papa (MAPA, 2006 [VERIFICAR: superficie actual]). El centro es el jable, con batata y una cebolla que cobró auge tras la caída del tabaco en los setenta. La Geria y Masdache reúnen la viña entre Tinajo, Tías, Yaiza y San Bartolomé; el sur de Yaiza es turístico.
+Por comarcas: el norte (Haría, Máguez, Ye y Los Valles, bajo Famara) es zona de papa (MAPA, 2006), aunque papa y hortalizas han perdido dos tercios de superficie en diez años (Centro de Datos, 2025) [VERIFICAR: ha actuales de papa]. El centro es el jable, con batata y una cebolla que cobró auge tras la caída del tabaco en los setenta. La Geria y Masdache reúnen la viña entre Tinajo, Tías, Yaiza y San Bartolomé; el sur de Yaiza es turístico.
 
 ## El alisio y la sed: lo que condiciona cada vuelo
 
@@ -50,13 +50,13 @@ Arrecife no tiene página: es la capital y ninguna fuente agraria la cita como z
 
 ## Cultivos de Lanzarote que el dron puede tratar
 
-Todo lo documentado en la isla va al aire libre: viña, hortícolas de enarenado, papa, batata y aloe. Las páginas de [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [dron agrícola para hortícolas](https://agrodroncanarias.es/dron-agricola-horticolas/) y [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/) amplían cada cultivo. El aloe vera, 93 ha en Canarias y la mayoría aquí (ayudas regionales vía La Voz, sin año), no tiene página propia [VERIFICAR: plagas del aloe]. Lo que vaya bajo malla no se trata desde el aire.
+Todo lo documentado en la isla va al aire libre: viña, hortícolas de enarenado, papa, batata y aloe. Las páginas de [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [dron agrícola para hortícolas](https://agrodroncanarias.es/dron-agricola-horticolas/) y [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/) amplían cada cultivo. El aloe vera, 93 ha en Canarias y la mayoría aquí (La Voz, 2022), no tiene página propia [VERIFICAR: plagas del aloe].
 
 En plagas hay poco documentado: filoxera sin positivos tras más de 1.300 inspecciones; un hongo en viña avisado por el Consejo Regulador sin identificar [VERIFICAR: patógeno y fecha]; mildiu y oídio sin constancia expresa para la isla; polilla guatemalteca solo en almacenes (MAPA); trips de la cebolla (Agrocabildo, 2026). Plagas: cosa de sanidad vegetal, no del dron.
 
 ## Cómo se organiza una salida a Lanzarote desde La Palma
 
-Agrodrón Canarias tiene su base en Santa Cruz de La Palma; fuera de la isla el servicio es con desplazamiento y bajo disponibilidad. Recogemos los datos de cada finca (cultivo, sistema de plantación, superficie, accesos), agrupamos las parcelas de una comarca en una salida y fijamos fecha cuando calendario y previsión de viento lo permiten. Sin plazos prometidos.
+Agrodrón Canarias tiene su base en Santa Cruz de La Palma; fuera de la isla el servicio es con desplazamiento y bajo disponibilidad. Recogemos los datos de cada finca (cultivo, sistema de plantación, superficie, accesos), agrupamos las parcelas de una comarca en una salida y fijamos fecha cuando calendario y previsión de viento lo permiten.
 
 Antes de cada aplicación, tres comprobaciones: piloto en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01; parcela situada en el mapa de zonas geográficas de UAS de ENAIRE; y producto de uso permitido en el cultivo, a la dosis de su etiqueta, solo al aire libre.
 

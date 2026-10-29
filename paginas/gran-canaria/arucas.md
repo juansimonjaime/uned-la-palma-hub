@@ -22,7 +22,7 @@ Agrodrón viene desde La Palma, con desplazamiento y bajo consulta de disponibil
 
 En la costa el alisio del nordeste sopla casi a diario, con humedad y nubosidad altas, y las fincas se defienden con cortavientos de bloque o de malla. Son parcelas llanas pero cerradas: paredes, cadenas de riego, cables y alguna nave en medio. Hacia el interior, Santidad y Visvique suben por laderas con bancales de hortaliza, papa y frutales, con la Montaña de Arucas en medio y el barranco de Tenoya en el límite con la capital.
 
-No hay cifra municipal de superficie cultivada en los datos de partida [VERIFICAR: hectáreas cultivadas de Arucas en el ISTAC]. Para situarlo, el ISTAC da 8.102,8 ha cultivadas en Gran Canaria en 2024 y el Mapa de Cultivos de ese año 1.940,7 ha de platanera en la isla.
+Arucas era el municipio de la isla con más suelo cultivado en proporción: un 16,53 % de su territorio según el ISTAC (datos de 2017 recogidos por Canarias7). Para situarlo, el ISTAC da 8.102,8 ha cultivadas en Gran Canaria en 2024 y el Mapa de Cultivos de ese año 1.940,7 ha de platanera en la isla.
 
 ## Lo que cuesta tratar hoy una finca así
 

@@ -24,13 +24,13 @@ Con un marco de unos 4 metros (ficha de la DO Lanzarote recogida por Infoagro), 
 
 ## Primavera: brotación y primeros riesgos en hoja
 
-La brotación de 2025 fue irregular por la sequía, según el balance del Consejo Regulador que recogió RTVC el 23 de agosto de 2025. Dentro del hoyo, el picón capta el rocío nocturno.
+La brotación de 2025 fue irregular por la sequía, según el balance del Consejo Regulador que recogió RTVC el 23 de agosto de 2025.
 
 De enfermedades hay poco escrito: el Consejo Regulador avisó de un hongo en varias fincas [VERIFICAR: patógeno y fecha]. El oídio es endémico en Canarias según la guía de la viña del Cabildo de Tenerife (2020), pero ni oídio ni mildiu constan expresamente para Lanzarote [VERIFICAR]. Si la cepa arranca débil tras un invierno sin lluvia, el dron puede aplicar un bioestimulante o un foliar permitido en viña, a dosis de etiqueta, hoyo por hoyo.
 
 ## Verano: envero, vendimia temprana y tres cosechas cortas
 
-El aviso del Cabildo de Tenerife para la semana del 30 de julio al 5 de agosto (año sin indicar) marca riesgo elevado de oídio, medio de mildiu y atención a la botritis en envero. En Tías la uva va por delante: RTVC ya hablaba de vendimia difícil a mediados de junio de 2025 y el balance salió el 23 de agosto [VERIFICAR: fechas de vendimia en la DO Lanzarote].
+El aviso del Cabildo de Tenerife para la semana del 30 de julio al 5 de agosto (año sin indicar) marca riesgo elevado de oídio, medio de mildiu y atención a la botritis en envero. En Tías la uva va por delante: RTVC ya hablaba de vendimia difícil a mediados de junio de 2025 y el balance salió el 23 de agosto. En 2024 la DO abrió la vendimia el 4 de julio (Consejo Regulador vía Gazette Life).
 
 El Consejo Regulador (RTVC, La Voz de Lanzarote) marca la caída: 3,3 millones de kilos en 2023, 1,4 millones en 2024 y unos 750.000 en 2025, la tercera peor desde que hay registros. El Cabildo de Tenerife recomienda no pasar de dos tratamientos contra el mildiu por campaña ni de tres al año; eso es cosa de sanidad vegetal. Con la uva tan corta, el dron se reserva para foliares de una cepa que llega al envero con sed.
 

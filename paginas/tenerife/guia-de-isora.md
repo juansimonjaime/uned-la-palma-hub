@@ -44,7 +44,7 @@ Ese producto tiene que ser de uso permitido en platanera o en viña y va a la do
 
 ## Viña de Ycoden-Daute-Isora, tomate residual, higos y almendros
 
-Guía de Isora cierra por el sur la DO Ycoden-Daute-Isora, que suma entre 1.000 y 1.600 ha de viña con 306 ha controladas por el Consejo (descorchandoversos, 2018). En las medianías de Chío, Chirche y Aripe la parra va al aire libre y su calendario de mildiu, oídio y botritis lo dictan los avisos del Cabildo por comarca (datos.tenerife.es). Admite abonado foliar con dron, con ojo a la filoxera detectada en Tenerife en 2025 [VERIFICAR: si Guía de Isora está en la zona demarcada].
+Guía de Isora cierra por el sur la DO Ycoden-Daute-Isora, que suma entre 1.000 y 1.600 ha de viña con 306 ha controladas por el Consejo (descorchandoversos, 2018). En las medianías de Chío, Chirche y Aripe la parra va al aire libre y su calendario de mildiu, oídio y botritis lo dictan los avisos del Cabildo por comarca (datos.tenerife.es). Admite abonado foliar con dron, con ojo a la filoxera detectada en Tenerife en 2025, cuya zona demarcada abarca la DO Tacoronte-Acentejo (Vinetur, 2026).
 
 El tomate, que sumó 1.080 ha históricas entre Guía de Isora y Adeje (estudio ULL sin fecha), hoy es residual y va bajo invernadero: fuera del dron. Higos y almendros de secano (EcuRed) son fincas pequeñas y dispersas.
 

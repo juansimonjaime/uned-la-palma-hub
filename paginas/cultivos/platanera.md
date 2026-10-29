@@ -12,7 +12,7 @@ municipio: ""
 
 # Dron agrícola para platanera en Canarias: tratar por encima de la mata
 
-Una platanera en producción te saca dos cabezas: entre tres y cuatro metros de planta [VERIFICAR: altura media en producción con fuente técnica], hojas que cierran el pasillo y la piña a la altura del pecho. Con la mochila ahí dentro se moja lo que se puede. Un dron agrícola para platanera hace el recorrido al revés: pasa por encima de la mata y deja el caldo sobre la hoja, sin que nadie camine entre las matas con la lanza.
+Una platanera en producción te saca una cabeza o más: unos 2,25 m la Pequeña Enana y medio metro más la Gran Enana (hoja divulgadora del MAPA, 1967), hojas que cierran el pasillo y la piña a la altura del pecho. Un dron agrícola para platanera hace el recorrido al revés: pasa por encima de la mata y deja el caldo sobre la hoja, sin que nadie camine entre las matas con la lanza.
 
 [IMAGEN: Dron DJI Agras T50 sobrevolando una finca de platanera al aire libre en la costa de La Palma, con muros de piedra y cortavientos de malla vertical al fondo | alt: Dron agrícola pulverizando platanera al aire libre en la costa oeste de La Palma]
 
@@ -52,7 +52,7 @@ El verano manda en el calendario de riesgo: Agroseguro contabilizó en 2024 unas
 
 Agrodrón Canarias tiene la base en Santa Cruz de La Palma, así que en la isla no cobramos desplazamiento. En Tenerife, Gran Canaria, La Gomera y El Hierro salimos con desplazamiento y según disponibilidad.
 
-Tenerife tiene el 45 % de la superficie platanera (Confederación Canaria de Empresarios sobre datos del ISTAC, 2022) y La Palma un tercio de la producción (Justicia Alimentaria, enero de 2025), con la mayor parte de su platanera descubierta [VERIFICAR: porcentaje de platanera protegida por isla].
+Tenerife tiene el 45 % de la superficie platanera (Confederación Canaria de Empresarios sobre datos del ISTAC, 2022) y La Palma un tercio de la producción (Justicia Alimentaria, enero de 2025), con la mayor parte de su platanera descubierta [VERIFICAR: indicio en Mapa de Cultivos 2017: 742 ha de invernadero, todos los cultivos, en La Palma].
 
 En [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) están [Tazacorte, con 450,54 ha de plátano en el Mapa de Cultivos 2022](https://agrodroncanarias.es/dron-agricola-la-palma/tazacorte/), y [Los Llanos de Aridane, que reúne el 28,8 % de la platanera palmera](https://agrodroncanarias.es/dron-agricola-la-palma/los-llanos-de-aridane/) según un estudio de la ULL.
 

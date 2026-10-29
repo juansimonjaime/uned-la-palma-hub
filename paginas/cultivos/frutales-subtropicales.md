@@ -24,7 +24,7 @@ Es lo primero que te preguntaremos: cuántas de tus hectáreas tienen techo, por
 
 ## Las cifras que hay y las que faltan
 
-No existe una cifra oficial reciente de hectáreas de mango ni de piña en Canarias [VERIFICAR: ISTAC y tablas del Anuario del MAPA]. Las organizaciones de productores de Tropicán movieron 19.169 t en 2023: 14.408 t de papaya, 2.770 t de aguacate, 1.165 t de piña tropical y 826 t de mango (Forbes; solo las OP). La papaya habría pasado de 255 a 414 ha según la Consejería [VERIFICAR: periodo de esa comparación].
+No existe una cifra oficial reciente de hectáreas de mango ni de piña en Canarias [VERIFICAR: indicio en ICIA: unas 436 ha de mango hacia 2003-2005]. Las organizaciones de productores de Tropicán movieron 19.169 t en 2023: 14.408 t de papaya, 2.770 t de aguacate, 1.165 t de piña tropical y 826 t de mango (Forbes; solo las OP). La papaya habría pasado de 255 a 414 ha según la Consejería [VERIFICAR: periodo de esa comparación].
 
 En Gran Canaria, papaya, mango, aguacate y pitaya suman más de 1.000 ha y facturaron 95 millones de euros en 2024 (RTVC, 21 de noviembre de 2025). Mogán, con unas 100 ha de mango, se atribuye la mitad del mango insular y una quinta parte del canario (Concejalía de Agricultura, Canarias7, agosto de 2025).
 

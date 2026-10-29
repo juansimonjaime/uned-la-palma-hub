@@ -40,7 +40,7 @@ En platanera, la pulverización llega desde arriba a hoja y racimo, donde la lan
 
 Platanera: el picudo negro, principal plaga en Canarias, vive en el cormo y no se alcanza desde el aire; se controla con feromonas. Trips y araña roja atacan hoja y racimo, con ataques intensos favorecidos por humedades del 70-80 % en otoño (guía del Cabildo, 2009); su control es cosa del Cabildo.
 
-Viña: la DO Ycoden-Daute-Isora suma entre 1.000 y 1.600 ha en la comarca, con 306 ha controladas por el Consejo (descorchandoversos, 2018) [VERIFICAR: hectáreas de viña en el municipio]. El Cabildo publica avisos semanales por comarca de mildiu, oídio y botritis (datos.tenerife.es). La filoxera apareció en Tenerife en 2025 [VERIFICAR: si Icod está en la zona demarcada]; es de raíz.
+Viña: la DO Ycoden-Daute-Isora suma entre 1.000 y 1.600 ha en la comarca, con 306 ha controladas por el Consejo (descorchandoversos, 2018) [VERIFICAR: hectáreas de viña en el municipio]. El Cabildo publica avisos semanales por comarca de mildiu, oídio y botritis (datos.tenerife.es). La filoxera apareció en Tenerife en 2025, con zona demarcada en la DO Tacoronte-Acentejo (Vinetur, 2026); es de raíz.
 
 Papa: la polilla guatemalteca (Tecia solanivora) se detectó por primera vez en Tenerife en 1999, aquí en Icod (Cabildo), y castiga al norte con pérdidas cercanas al 50 % en medianías y secano (eldiario.es). Vive en el tubérculo. El mildiu de la papa tuvo aviso de riesgo alto para el norte (hacia 2024). El dron no entra en ninguno; en la papa, su parte es el abonado foliar.
 

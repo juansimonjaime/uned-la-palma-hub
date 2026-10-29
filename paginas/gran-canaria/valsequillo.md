@@ -18,7 +18,7 @@ Valsequillo de Gran Canaria es el mayor productor de fresa de la isla, con unos 
 
 ## La fresa: el cultivo que más pesa y el que el dron no toca
 
-La fresa de Valsequillo va, según los datos que manejamos, bajo túnel o invernadero [VERIFICAR: sistema de cultivo y hectáreas de la fresa de Valsequillo]. Si es así, queda fuera: el producto aplicado desde el aire no atraviesa un plástico ni una malla. Si tienes fresa a cielo abierto, es otra conversación. Tampoco tenemos plagas de fresa documentadas con fuente canaria [VERIFICAR: plagas de la fresa en Gran Canaria].
+La fresa de Valsequillo ocupa más de 50 hectáreas (Canarias7, abril de 2023) y va, según los datos que manejamos, bajo túnel o invernadero [VERIFICAR: sistema de cultivo de la fresa de Valsequillo]. Si es así, queda fuera: el producto aplicado desde el aire no atraviesa un plástico ni una malla. Si tienes fresa a cielo abierto, es otra conversación. Tampoco tenemos plagas de fresa documentadas con fuente canaria [VERIFICAR: plagas de la fresa en Gran Canaria].
 
 ## Lo que sí: papa, millo, hortalizas y almendro al aire libre
 

@@ -31,7 +31,7 @@ Con la viña va la papa y algo de huerta: cultivos bajos al aire libre donde la 
 ## Las plagas documentadas en cada zona
 
 - Platanera (costa): picudo negro Cosmopolites sordidus, que volvió a Tenerife en 1987 (Cabildo, Phytoma) y se controla con feromonas, no desde el aire; trips Hercinothrips femoralis y araña roja con ataques que alcanzan el racimo (guía del Cabildo, 2009); cochinilla algodonosa con resistencias documentadas (ULPGC).
-- Viña (medianías): mildiu, oídio y botritis, con los avisos por comarca del Cabildo en datos.tenerife.es y riesgo alto de oídio en zonas bajas entre el 30 de abril y el 7 de mayo. Filoxera en Tenerife desde 2025 [VERIFICAR: si la zona demarcada toca Arona].
+- Viña (medianías): mildiu, oídio y botritis, con los avisos por comarca del Cabildo en datos.tenerife.es y riesgo alto de oídio en zonas bajas entre el 30 de abril y el 7 de mayo. Filoxera en Tenerife desde 2025, con zona demarcada en la DO Tacoronte-Acentejo, no en Arona (Vinetur, 2026).
 - Papa (medianías): polilla guatemalteca Tecia solanivora, en Tenerife desde 1999, con pérdidas cercanas al 50 % en medianías y secano (Cabildo, ICIA); mildiu con avisos del Cabildo.
 - Tomate y hortalizas de invernadero: Tuta absoluta desbordada en 2019; se maneja dentro, no con dron.
 

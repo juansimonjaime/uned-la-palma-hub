@@ -12,7 +12,7 @@ municipio: "La Aldea de San Nicolás"
 
 # Dron agrícola en La Aldea de San Nicolás: qué se vuela si el tomate va bajo plástico
 
-La Aldea de San Nicolás encabeza el Mapa de Cultivos de Gran Canaria 2024 con un 38,9 según COAG y Canarias7 [VERIFICAR: unidad, probablemente porcentaje de suelo agrícola cultivado] y es la primera zona tomatera de la isla: entre 100 y 110 hectáreas de tomate según el alcalde (2021) y Coagrisan (2023), casi todas bajo invernadero. La pregunta sobre un dron agrícola en La Aldea de San Nicolás es directa, y la respuesta tiene que serlo también.
+La Aldea de San Nicolás encabeza el Mapa de Cultivos de Gran Canaria 2024 con un 38,9 según COAG y Canarias7 [VERIFICAR: indicio en COAG Canarias, enero de 2025: da 38,9 «hectáreas», unidad imposible] y es la primera zona tomatera de la isla: entre 100 y 110 hectáreas de tomate según el alcalde (2021) y Coagrisan (2023), casi todas bajo invernadero. La pregunta sobre un dron agrícola en La Aldea de San Nicolás es directa, y la respuesta tiene que serlo también.
 
 [IMAGEN: Llano aluvial de La Aldea cubierto de invernaderos de tomate, con las laderas de Tamadaba e Inagua al fondo | alt: Invernaderos de tomate en el valle de La Aldea de San Nicolás, Gran Canaria]
 
@@ -38,7 +38,7 @@ La papaya suele ir bajo malla o invernadero en Canarias [VERIFICAR: porcentaje a
 
 ## ¿Cómo se vuela en un valle cerrado entre Tamadaba e Inagua?
 
-El llano aluvial de La Aldea, entre 0 y 200 metros, es un fondo de barranco ancho rodeado de laderas abruptas, en un término de 139 kilómetros cuadrados casi todo escarpado. El oeste queda a sotavento del alisio: calmas, mucha insolación y aridez [VERIFICAR: precipitación media].
+El llano aluvial de La Aldea, entre 0 y 200 metros, es un fondo de barranco ancho rodeado de laderas abruptas, en un término de 139 kilómetros cuadrados casi todo escarpado. El oeste queda a sotavento del alisio: calmas, mucha insolación y aridez [VERIFICAR: indicio en la estación AEMET vía embalses.net: 129,6 mm en 2024-2025 y 251 mm en 2025-2026; falta la media].
 
 Las calmas de la mañana son horas buenas para pulverizar sin deriva. Los invernaderos vecinos, con sus estructuras y cables, van marcados en el plan de vuelo: el radar de matriz en fase y la visión binocular del T50 los detectan, pero no sustituyen a un plano bien hecho.
 

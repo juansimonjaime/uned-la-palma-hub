@@ -28,7 +28,7 @@ El Cabildo de Tenerife publica avisos de la viña por comarca para mildiu, oídi
 
 El oídio es endémico en Canarias (guía de la viña de Agrocabildo, 2020), y a finales de julio el boletín de Agrocabildo mantenía riesgo elevado de oídio, medio de mildiu y atención a la botritis en envero.
 
-La filoxera se detectó en Tenerife en 2025, con zona demarcada; en 2026 hubo 16 positivos en 5.429 prospecciones (AtlánticoHoy) [VERIFICAR: si La Victoria está dentro de la zona demarcada]. Es plaga de raíz y la pulverización no la toca, pero condiciona el movimiento de uva en vendimia.
+La filoxera se detectó en Tenerife en 2025, con zona demarcada; en 2026 hubo 16 positivos en 5.429 prospecciones (AtlánticoHoy). La Victoria queda dentro: la zona demarcada abarca la DO Tacoronte-Acentejo (Vinetur, 2026). Es plaga de raíz y la pulverización no la toca, pero condiciona el movimiento de uva en vendimia.
 
 ## Qué cambia en un bancal estrecho cuando el tratamiento llega desde el aire
 

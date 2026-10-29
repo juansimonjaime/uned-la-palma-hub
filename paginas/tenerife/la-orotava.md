@@ -18,7 +18,7 @@ La Orotava siembra más de 400 hectáreas de papa, más del 30 % de su superfici
 
 ## La papa manda en el municipio y la viña viene detrás
 
-La EnciclopediaGuanche, sin fecha, da 574,22 ha de papa y otras 197,32 ha de viña y papa asociadas. Papa de medianías y zona alta, en bancales desde los 300 m hasta pasar los 1.000 [VERIFICAR: cotas por pago].
+La EnciclopediaGuanche, sin fecha, da 574,22 ha de papa y otras 197,32 ha de viña y papa asociadas. Papa de medianías y zona alta, en bancales entre 600 y 1.100 m según la guía de agrosistemas de la papa del Cabildo (2026).
 
 La viña del Valle suma 313,1 ha según Agrocabildo (2024), un 47,8 % menos que diez años antes; en La Orotava es el 19,7 % de la superficie agrícola. Viña baja en el cordón trenzado propio del valle [VERIFICAR: proporción en cordón trenzado], el único cultivo que creció tras la DO de 1994 (Investigaciones Geográficas, 2011).
 
@@ -28,7 +28,7 @@ La polilla guatemalteca (Tecia solanivora) entró en Tenerife por Icod de los Vi
 
 El mildiu de la papa tuvo aviso de riesgo alto del Cabildo para el norte de Tenerife (hacia 2024); el dron no entra ahí.
 
-En viña, el Cabildo publica avisos por comarca de mildiu, oídio y botritis (datos.tenerife.es); el oídio estuvo en riesgo alto en zonas bajas del 30 de abril al 7 de mayo. Agrocabildo estudió en 2024 los hongos de la madera en el Valle, y la filoxera se detectó en Tenerife en 2025 [VERIFICAR: si el Valle entra en la zona demarcada].
+En viña, el Cabildo publica avisos por comarca de mildiu, oídio y botritis (datos.tenerife.es); el oídio estuvo en riesgo alto en zonas bajas del 30 de abril al 7 de mayo. Agrocabildo estudió en 2024 los hongos de la madera en el Valle, y la filoxera se detectó en Tenerife en 2025, con zona demarcada en la DO Tacoronte-Acentejo, fuera del Valle (Vinetur, 2026).
 
 ## Por qué un dron agrícola en La Orotava encaja en bancal de papa y viña tendida
 

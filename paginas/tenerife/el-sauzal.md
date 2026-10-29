@@ -24,7 +24,7 @@ Primavera, brotación y primeras hojas: el oídio es la enfermedad considerada e
 
 Verano, de la floración al envero: la newsletter de Agrocabildo del 31 de julio mantenía riesgo elevado de oídio en distintas zonas vitícolas, riesgo medio de mildiu en algunas comarcas y atención especial a la botritis en variedades en envero.
 
-Vendimia: en 2025 se detectó filoxera en Tenerife, por primera vez en Canarias, con zona demarcada, y la vendimia de 2026 llevó medidas de bioseguridad y restricciones al movimiento de uva (AtlánticoHoy) [VERIFICAR: si El Sauzal está en la zona demarcada]. La filoxera no se trata con pulverización; cambia la logística.
+Vendimia: en 2025 se detectó filoxera en Tenerife, por primera vez en Canarias, con zona demarcada, y la vendimia de 2026 llevó medidas de bioseguridad y restricciones al movimiento de uva (AtlánticoHoy). El Sauzal queda dentro: la zona demarcada abarca la DO Tacoronte-Acentejo (Vinetur, 2026). La filoxera no se trata con pulverización; cambia la logística.
 
 ## Qué tratamientos encajan con un dron agrícola en El Sauzal en cada época
 

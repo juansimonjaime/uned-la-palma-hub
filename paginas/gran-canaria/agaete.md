@@ -20,7 +20,7 @@ Agrodrón Canarias sale desde Santa Cruz de La Palma: en Agaete el servicio es c
 
 ## Cómo está plantado el valle: fincas mixtas y café bajo sombra
 
-El café da fama al valle, pero ocupa poco suelo: entre 10 y 15 hectáreas según el Gobierno de Canarias y Agropopular (2026). El censo de cafedeagaete.es suma 206,11 hectáreas en 87 explotaciones y estima unas 300 cultivadas en el valle. Una cifra cuenta cafetos; la otra, fincas mixtas con el café debajo de los frutales [VERIFICAR: superficie cultivada total de Agaete según el ISTAC].
+El café da fama al valle, pero ocupa poco suelo: entre 10 y 15 hectáreas según el Gobierno de Canarias y Agropopular (2026). El censo de cafedeagaete.es suma 206,11 hectáreas en 87 explotaciones y estima unas 300 cultivadas en el valle. Una cifra cuenta cafetos; la otra, fincas mixtas con el café debajo de los frutales. Todo el municipio sumaba 89 hectáreas cultivadas según el ISTAC (datos de 2017 recogidos por Canarias7).
 
 Esa mezcla manda. En una misma finca hay naranjos de porte medio, mangos y aguacates más altos, papayos y, al pie, cafetos a la sombra. Los bancales suben desde la costa hasta El Hornillo y Los Berrazales, a unos 600 metros [VERIFICAR: altitudes].
 

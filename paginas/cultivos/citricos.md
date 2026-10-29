@@ -18,7 +18,7 @@ El naranjo marca su propio calendario: florece en primavera, cuaja y engorda en 
 
 ## Un cultivo pequeño y sin cifra oficial a mano
 
-Los cítricos son un cultivo menor en Canarias y las estadísticas lo reflejan: no hay cifra de hectáreas ni de toneladas localizada [VERIFICAR: tablas 7.8.2.x del Anuario del MAPA e ISTAC]. Mercasa decía en 2022 que la producción se consume en las islas y va por detrás de la platanera entre los frutales, y en su informe de 2024 anota que las pequeñas producciones de cítricos tuvieron saldo positivo.
+Los cítricos son un cultivo menor en Canarias y las estadísticas lo reflejan: no hay cifra de hectáreas ni de toneladas localizada [VERIFICAR: indicio en Anuario del MAPA 2019: unas 128 ha de naranjo en Canarias, lectura de columnas dudosa]. Mercasa decía en 2022 que la producción se consume en las islas y va por detrás de la platanera entre los frutales, y en su informe de 2024 anota que las pequeñas producciones de cítricos tuvieron saldo positivo.
 
 Hay datos de sitios concretos. En Telde, la naranja local mueve entre 250.000 y 258.000 kg al año hacia SPAR (FyH) y la Finca Jomera produce 80 t anuales (Telde Actualidad); la Feria de la Naranja llegó a su XIV edición en 2025. En Arafo, el Mapa de Cultivos 2016 contaba 17,2 ha de cítricos. Para el resto no hay desglose [VERIFICAR: hectáreas de cítricos por municipio].
 
@@ -48,7 +48,7 @@ Agrodrón Canarias sale de Santa Cruz de La Palma, así que en la isla no hay de
 
 Conviene ser claro con lo que dicen las fuentes. El cotonet de Sudáfrica (Delottococcus aberiae) tiene un plan de acción del Ministerio de Agricultura de 2024 que lo sitúa en la Comunidad Valenciana, Cataluña y Murcia, sin mencionar Canarias [VERIFICAR: estatus en Canarias con Sanidad Vegetal del Gobierno de Canarias]. No te diremos que lo tienes en Telde o Agaete sin una fuente.
 
-Minador de los cítricos, piojo rojo y mosca de la fruta (Ceratitis capitata) son plagas habituales del naranjo en el resto de España, pero sin fuente canaria leída para esta página [VERIFICAR: avisos de sanidad vegetal de los Cabildos y del Gobierno de Canarias]. Si tu técnico los tiene identificados, el control va por donde él y Sanidad Vegetal indiquen, no por el dron.
+Minador de los cítricos, piojo rojo y mosca de la fruta (Ceratitis capitata) son plagas habituales del naranjo en el resto de España, pero sin fuente canaria leída para esta página [VERIFICAR: indicio en la revista Granja del Cabildo de Gran Canaria, que estudia el minador en Canarias; faltan avisos actuales]. Si tu técnico los tiene identificados, el control va por donde él y Sanidad Vegetal indiquen, no por el dron.
 
 Su trabajo en el naranjo es otro: abonado foliar, correctores de carencias y bioestimulantes de uso permitido en cítricos, pensados para el vigor del árbol tras un verano seco en una vega de 130 a 300 mm de lluvia al año, o tras la poda. Finalidad del producto; el resultado no se promete.
 

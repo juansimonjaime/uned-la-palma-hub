@@ -12,7 +12,7 @@ municipio: ""
 
 # Dron agrícola para flores y ornamentales en Canarias: proteas a cielo abierto, invernaderos no
 
-Lo primero es lo que no hacemos. La flor cortada y la planta ornamental que crece bajo invernadero o malla, la mayor parte de la de Tejina, Valle de Guerra, Güímar o Guía, no se puede tratar con dron: el caldo no atraviesa la cubierta. Un dron agrícola para flores tiene sentido en lo que queda fuera, sobre todo las proteas de las medianías de La Palma y Tenerife. Esta página delimita lo uno y lo otro.
+Lo primero es lo que no hacemos. La flor cortada y la planta ornamental que crece bajo invernadero o malla, la mayor parte de la de Tejina, Valle de Guerra, Güímar o Guía, no se puede tratar con dron: el caldo no atraviesa la cubierta. Un dron agrícola para flores tiene sentido en lo que queda fuera, sobre todo las proteas de las medianías de La Palma y Tenerife.
 
 [IMAGEN: Plantación de proteas en flor en bancales de medianías de Breña Alta, con el mar de nubes sobre la Cumbre Nueva | alt: Proteas al aire libre en Breña Alta, La Palma, cultivo de flor cortada para exportación]
 
@@ -40,7 +40,7 @@ En la campaña 2023-24 las proteas lideraron la exportación canaria de flor cor
 
 ## Dron agrícola para flores y ornamentales: cómo se trata una plantación de proteas
 
-La protea es un arbusto [VERIFICAR: altura y marco de plantación con fuente técnica] plantado en líneas sobre bancales de medianías, en laderas donde el tractor no entra y la mochila se sube a cuestas. En la vertiente este de La Palma el mar de nubes baja a esas cotas y la humedad media es la más alta de la isla (AECLIM), así que la ventana de vuelo suele ser la mañana, antes de que entre la niebla.
+La protea es un arbusto (de 1 a 5 m en los Leucospermum, en líneas pareadas a 0,8 x 1 m o simples a 2 x 1 m según la revista Granja del Cabildo de Gran Canaria) plantado sobre bancales de medianías, en laderas donde el tractor no entra y la mochila se sube a cuestas. En la vertiente este de La Palma el mar de nubes baja a esas cotas y la humedad media es la más alta de la isla (AECLIM), así que la ventana de vuelo suele ser la mañana, antes de que entre la niebla.
 
 El DJI Agras T50 sigue el escalonado de los bancales con su radar de matriz en fase y la visión binocular, ajusta la velocidad a la pendiente y pulveriza desde encima de las líneas: depósito de 40 litros, hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro. Con 25 a 32 ha repartidas entre 45 agricultores, la plantación palmera media no llega a la hectárea, y eso se hace en pocas cargas.
 

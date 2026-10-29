@@ -30,13 +30,15 @@ No. El producto no atraviesa la malla ni el plástico. La plaga que marca el tom
 
 El aloe sí es tratable: planta baja, al aire libre, en marco regular. En Antigua está la finca Verdeaurora, con visitas y certificación ecológica; en ecológico solo entran abonos foliares y bioestimulantes permitidos para esa producción, y eso lo dice la etiqueta de cada producto.
 
-Otra cosa es que haga falta. Las fuentes consultadas no documentan plagas del aloe en Canarias [VERIFICAR: cochinilla u otras en aloe majorero] y la superficie insular de aloe no está localizada [VERIFICAR]. Si tu aloe necesita un abonado foliar o un corrector de carencias, cuéntanos cuál; si no, no hay tratamiento que vender.
+Otra cosa es que haga falta. Las fuentes consultadas no documentan plagas del aloe en Canarias [VERIFICAR: cochinilla u otras en aloe majorero] ni dan superficie insular de aloe [VERIFICAR: indicio en La Voz de Lanzarote (2022): 93 ha de aloe en Canarias, la mayoría en Lanzarote].
+
+Si tu aloe necesita un abonado foliar o un corrector de carencias, cuéntanos cuál; si no, no hay tratamiento que vender.
 
 ## ¿Con 21,6 km/h de viento medio se puede volar?
 
 Esa cifra es la media anual del aeropuerto en el año 2000 (tutiempo.net), y esconde días en calma y días imposibles. Fuerteventura no tiene cotas altas que frenen los alisios (MAPA, guía del Camino Natural) y se la describe como la canaria más árida y más ventosa, con viento dominante del N-NE.
 
-Para el dron eso significa elegir el momento: el viento se mide en la finca el mismo día y, si pasa de lo que admite el equipo o la deriva amenaza la parcela vecina, no se vuela. Una salida a Antigua se planifica con margen de días.
+Para el dron eso significa elegir el momento: el viento se mide en la finca el mismo día y, si pasa de lo que admite el equipo o la deriva amenaza la parcela vecina, no se vuela.
 
 [IMAGEN: Hileras de aloe vera en una finca del Valle de Antigua con el cielo despejado y un molino de viento al fondo | alt: Plantación de aloe vera al aire libre en Antigua, Fuerteventura]
 

@@ -36,7 +36,7 @@ Lo segundo que encaja es el entorno de la finca: las parcelas descubiertas que r
 
 La superficie de exportación pasó de 3.500 ha en 1999 a 1.700 ha en 2007 (Gobierno de Canarias vía estudio ULPGC de 2007); no hay cifra reciente para Canarias [VERIFICAR: FEDEX, ACETO o ISTAC]. En Gran Canaria conviven 350 ha (Canarias7, marzo de 2025), 641,3 ha (Consejería, hacia 2022) y más de 600 ha (ISTAC, enero de 2023); en Tenerife, 102,4 ha en 2021 (SITCAN).
 
-La campaña 2014-15 cerró con 63.000 t, un 82 % menos que las 352.000 t del año 2000 (eldiario.es), y Gran Canaria exportó 133.453 t en 2005 frente a 26.602 t en 2022 (ISTAC). Infoagro recoge en 2026 38.000 t en 2024 y 32.000 t en 2025 de una reunión Gobierno de Canarias-FEDEX, sin nombrar el cultivo [VERIFICAR: atribución al tomate].
+La campaña 2014-15 cerró con 63.000 t, un 82 % menos que las 352.000 t del año 2000 (eldiario.es), y Gran Canaria exportó 133.453 t en 2005 frente a 26.602 t en 2022 (ISTAC). Infoagro recoge en 2026, de una reunión Gobierno de Canarias-FEDEX sobre la campaña del tomate, 38.000 t producidas y comercializadas en 2024 y 32.000 t en 2025.
 
 ## Tuta absoluta y mosca blanca: lo que está documentado
 
@@ -44,7 +44,7 @@ La Tuta absoluta se detectó en Canarias en diciembre de 2008 con trampas de fer
 
 El Cabildo de Gran Canaria destinó 300.000 euros a su control ecológico en la zafra 2024-25, sobre todo en tomate de mercado local. La larva mina hoja y fruto desde dentro; su control va por trampas y manejo integrado (Cabildos), no por el dron.
 
-La mosca blanca (Bemisia tabaci y Trialeurodes vaporariorum) transmite el ToCV, detectado en Tenerife y Gran Canaria desde 1997 (revista Granja, Cabildo de Gran Canaria). De ToBRFV y trips no hay dato canario leído [VERIFICAR].
+La mosca blanca (Bemisia tabaci y Trialeurodes vaporariorum) transmite el ToCV, detectado en Tenerife y Gran Canaria desde 1997 (revista Granja, Cabildo de Gran Canaria). Del ToBRFV, FEDEX dice trabajar en variedades resistentes al virus rugoso (Infoagro, 2026); de trips no hay dato canario leído [VERIFICAR].
 
 ## Dron agrícola para tomate: cuándo tiene sentido pedirlo
 

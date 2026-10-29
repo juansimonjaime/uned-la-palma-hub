@@ -38,7 +38,7 @@ El oídio figura como enfermedad endémica en Canarias en la guía de la viña d
 
 Ejemplos: riesgo alto de oídio en zonas bajas entre el 30 de abril y el 7 de mayo (hacia 2024); a finales de julio, oídio elevado, mildiu medio y atención a la botritis en envero (newsletter del 31 de julio, sin año).
 
-En La Palma el Consejo Regulador reconoció mildiu y oídio en la campaña 2025 (El Time). En Lanzarote el Consejo Regulador avisó de un hongo en varias fincas sin que la fuente lo identifique [VERIFICAR: patógeno y fecha del aviso].
+En La Palma el Consejo Regulador reconoció mildiu y oídio en la campaña 2025 (El Time). En Lanzarote el Consejo Regulador avisó de un hongo en varias fincas sin que la fuente lo identifique [VERIFICAR: indicio en La Voz de Lanzarote: mildiu detectado por el Cabildo, sin fecha].
 
 La filoxera se detectó en Tenerife en 2025, por primera vez en Canarias, con zona demarcada; en 2026 hubo 16 positivos en 5.429 prospecciones y restricciones al movimiento de uva (AtlánticoHoy). En Lanzarote no hubo positivos. Vive en la raíz, donde ninguna pulverización foliar llega.
 
@@ -48,7 +48,7 @@ Encaja donde la mochila castiga: rastrera sobre lapilli en pendiente; terrazas d
 
 Al depósito sube abono foliar, bioestimulante o corrector de carencias de uso permitido en viña, a dosis de etiqueta: productos pensados para el vigor de la cepa y para que se rehaga tras un golpe de calor, un alisio que quema hoja o una vendimia larga. La vendimia de Gran Canaria de 2023 cayó un 20,6 % por falta de lluvia y calor (Forbes).
 
-El T50 lleva 40 litros y pulveriza hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha de DJI), y en parcelas de pocas fanegadas rara vez se queda corto. El radar de matriz en fase y la visión binocular lo pegan al relieve, frenan ante un muro o una horqueta y ajustan la velocidad a la pendiente.
+El T50 lleva 40 litros y pulveriza hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha de DJI). El radar de matriz en fase y la visión binocular lo pegan al relieve, frenan ante un muro o una horqueta y ajustan la velocidad a la pendiente.
 
 No encaja contra la filoxera ni contra mildiu, oídio o botritis: eso va por los avisos y por sanidad vegetal del Cabildo. Tampoco con alisio fuerte sobre los zocos de La Geria o los lomos del sur de La Palma (se espera), ni con un producto sin uso permitido en viña.
 

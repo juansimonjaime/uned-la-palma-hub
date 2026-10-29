@@ -33,7 +33,7 @@ Es también la época de plantar la hortaliza de verano al aire libre, el 95 % d
 
 El boletín de Agrocabildo de finales de julio mantiene riesgo elevado de oídio, medio de mildiu y pide atención a la botritis en envero. Es el último tramo con recorrido para una aplicación foliar con dron sobre la viña antes de la vendimia, siempre a dosis de etiqueta.
 
-La filoxera, detectada en Tenerife en 2025, dejó en 2026 un total de 16 positivos en 5.429 prospecciones y restricciones al movimiento de uva en vendimia (AtlánticoHoy) [VERIFICAR: si Candelaria está en la zona demarcada]. No se trata con pulverización, pero cambia la logística del verano.
+La filoxera, detectada en Tenerife en 2025, dejó en 2026 un total de 16 positivos en 5.429 prospecciones y restricciones al movimiento de uva en vendimia (AtlánticoHoy); la zona demarcada abarca la DO Tacoronte-Acentejo, no Candelaria (Vinetur, 2026). No se trata con pulverización, pero cambia la logística del verano.
 
 ## Otoño e invierno: papa, huerta de hoja y poda
 

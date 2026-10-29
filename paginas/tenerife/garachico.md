@@ -38,9 +38,9 @@ Ese control es del Cabildo. La ventana de otoño del dron pulverizador en platan
 
 ## Invierno: papa de medianías y viña parada
 
-En las medianías hay papa. El Cabildo emitió aviso de riesgo alto de mildiu de la papa para el norte de Tenerife (hacia 2024) [VERIFICAR: época del aviso] y la polilla guatemalteca castiga al norte con pérdidas cercanas al 50 % en secano (eldiario.es): las dos van con el Cabildo. Con dron, en la papa, un abono foliar sobre la mata.
+En las medianías hay papa. El Cabildo emitió aviso de riesgo alto de mildiu de la papa para el norte de Tenerife, Isla Baja incluida, en abril de 2026 (newsletter Agrocabildo del 23 de abril) y la polilla guatemalteca castiga al norte con pérdidas cercanas al 50 % en secano (eldiario.es): las dos van con el Cabildo. Con dron, en la papa, un abono foliar sobre la mata.
 
-La viña en parada no se trata, pero la filoxera se detectó en Tenerife en 2025, con zona demarcada y bioseguridad en la vendimia de 2026 [VERIFICAR: si Garachico está en la zona demarcada]. Es plaga de raíz; no hay pulverización que valga.
+La viña en parada no se trata, pero la filoxera se detectó en Tenerife en 2025, con zona demarcada en la DO Tacoronte-Acentejo, no en Garachico (Vinetur, 2026), y bioseguridad en la vendimia de 2026. Es plaga de raíz; no hay pulverización que valga.
 
 ## Dron agrícola en Garachico: la plataforma y los bancales del Reparo
 

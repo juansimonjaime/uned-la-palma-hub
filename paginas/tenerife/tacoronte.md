@@ -54,7 +54,7 @@ Lo demás va por cuenta del operador: categoría específica de AESA/EASA, en es
 
 Tienen sentido: viña en terrazas sin camino de tractor, aguacateros altos, papa en medianías de acceso complicado, platanera descubierta de la costa.
 
-Tienen poco sentido: lo que vaya bajo malla o invernadero, parcelas minúsculas entre viviendas sin margen de seguridad, y plagas que ninguna pulverización resuelve, como la filoxera detectada en Tenerife en 2025 [VERIFICAR: municipios de la zona demarcada].
+Tienen poco sentido: lo que vaya bajo malla o invernadero, parcelas minúsculas entre viviendas sin margen de seguridad, y plagas que ninguna pulverización resuelve, como la filoxera detectada en Tenerife en 2025, cuya zona demarcada abarca toda la DO Tacoronte-Acentejo (Vinetur, 2026).
 
 Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [tratamientos con dron en viña](https://agrodroncanarias.es/dron-agricola-vina/) y [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/). Y el vecino: [dron agrícola en El Sauzal](https://agrodroncanarias.es/dron-agricola-tenerife/el-sauzal/).
 

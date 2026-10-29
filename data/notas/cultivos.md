@@ -251,18 +251,28 @@ Fuente oficial: https://ag.dji.com/es/t50 (no accesible en este entorno). Datos 
 1. Texto literal del artículo 27 del RD 1311/2012 (BOE) y anexos VI y VII.
 2. Contenido de "Normativa aplicable a tratamientos fitosanitarios mediante drones" del Gobierno de Canarias y cualquier resolución del BOC (2024-2026) sobre aplicaciones aéreas con dron.
 3. Vigencia del RD 1036/2017 frente al RD 517/2024 (UAS) y requisitos de AESA para un dron de más de 25 kg.
-4. Ficha oficial DJI Agras T50: depósito, caudal, anchura efectiva, ha/h, peso y MTOW, radares y visión binocular.
-5. Reparto por islas de la platanera (ASPROCAN, ISTAC) y porcentaje bajo invernadero por isla; altura y marco de plantación con fuente.
+4. Ficha oficial DJI Agras T50: anchura efectiva, ha/h, peso y MTOW (depósito, caudal, radares y visión binocular: ver "Confirmado en la segunda pasada").
+5. Reparto por islas de la platanera (ASPROCAN, ISTAC) y porcentaje bajo invernadero por isla (indicio: La Palma 2.928,15 ha de plátano y 742 ha de invernadero de todos los cultivos, Mapa de Cultivos 2017 vía eldiario.es); base de las 9.940 ha y 3.100 ha bajo invernadero de Mercasa 2026 (no localizadas en búsqueda).
 6. Superficie de viñedo por DO (Lanzarote, La Palma, Tenerife) y estatus de Xylella fastidiosa, Lobesia botrana y filoxera en Canarias.
-7. Superficie de aguacate 2023 (2.000 vs 2.255 vs 2.484 ha) y estatus del ácaro cristalino.
+7. Superficie de aguacate 2023 (2.000 vs 2.255 vs 2.484 ha); altura del aguacatero con fuente canaria; hectáreas en Gran Canaria (indicio RTVC 2025: >1.000 ha entre papaya, mango, aguacate y pitaya).
 8. Superficie de papa 2023 (3.300-3.555 vs 6.710 ha) y municipios de medianías.
-9. Hectáreas actuales de tomate y confirmación de que las 38.000 t (2024) y 32.000 t (2025) de Infoagro se refieren al tomate.
-10. Hectáreas de mango y piña, zonas de piña en El Hierro, plagas de mango y papaya con fuente canaria.
-11. Cítricos: superficie y plagas en Canarias.
+9. Hectáreas actuales de tomate; fuente del 90 % de Gran Canaria; trips en tomate.
+10. Hectáreas de mango (indicio: unas 436 ha, ICIA con estadística de 2003-2005) y cubierta actual de la piña en El Golfo; plagas de mango y papaya con fuente canaria (solo hallado Pantoea ananatis en mango, Plant Disease 2019).
+11. Cítricos: superficie (indicio: ~128 ha de naranjo en Canarias, Anuario MAPA 2019, lectura dudosa) y plagas en Canarias (indicio: minador estudiado en la revista Granja).
 12. Almendro: lectura fiable de la tabla MAPA 7.10.1.2 y datos municipales.
 13. Hortícolas: hectáreas de cebolla, col y calabacín en ISTAC y unidades de la tabla Mercasa.
 14. Aloe: superficie oficial (93 vs 150 ha) y plagas.
-15. Flores: cifra oficial reciente de superficie y plagas de proteas.
+15. Flores: cifra oficial reciente de superficie, plagas de proteas y hectáreas por municipio (indicio: cooperativa Proteas La Palma, Breña Alta, ~28 ha y 50 agricultores).
 16. Cereales y forrajes: superficie en ISTAC.
 17. Estudios con cifras sobre ventajas del dron frente a mochila o tractor.
 18. Mención a una norma que permitiría drones en plátano y viñedo con pendiente superior al 20%: identificar origen y vigencia.
+
+### Confirmado en la segunda pasada
+
+- DJI Agras T50: depósito de pulverización de 40 L; caudal 16 L/min con dos boquillas y 24 L/min con cuatro (kit opcional); radar de matriz en fase delantero y trasero y visión binocular para seguimiento del terreno y obstáculos (fichas de distribuidores; la ficha oficial de DJI no es accesible): https://www.dslrpros.com/products/dji-agras-t50 | https://eastcoastdrones.com.au/product/dji-agras-t50-oversea/ | https://megadron.pl/en/products/agras-t50-agricultural-drone-29579.html
+- Platanera, altura: Pequeña Enana unos 2,25 m; Gran Enana medio metro más (hoja divulgadora del MAPA, 1967): https://www.mapa.gob.es/ministerio/pags/biblioteca/hojas/hd_1967_17-18.pdf . Corrige los "3-4 m" de la página.
+- Platanera, marco (no usado en la página): ensayo de Agrocabildo con unas 2.222 plantas/ha, en líneas simples de 3 x 1,5 m o dobles de 3 x 2 x 1,8 m: https://www.agrocabildo.org/publica/Publicaciones/subt_53_L_maralcala.pdf
+- Aguacate, marco: 7 x 7 u 8 x 8 m en el sur; 6 x 6 o 7 x 7 m en el norte y en las cotas altas (apuntes de fruticultura de la ULPGC, sin fecha): https://mdc.ulpgc.es/files/original/ec0660d7a6bebe4cccc5f031f57d39901c0eacf6.pdf
+- Ácaro cristalino (Oligonychus perseae): presente en Canarias (EPPO, 2024; detectado en Tenerife en 2006 según el Cabildo de Tenerife): https://gd.eppo.int/taxon/OLIGPA/distribution/ES | https://agrocabildo.org/publica/publicaciones/subt_327_acaro.pdf
+- Tomate: las 38.000 t (2024) y 32.000 t (2025) de Infoagro son de tomate (reunión Gobierno de Canarias-FEDEX sobre la campaña del tomate); FEDEX trabaja en variedades resistentes al virus rugoso (ToBRFV): https://www.infoagro.com/noticias/noticia_imprimir.asp?idn=43754
+- Proteas: los Leucospermum alcanzan de 1 a 5 m; se plantan en líneas pareadas a 0,8 x 1 m o, en variedades vigorosas, en líneas simples a 2 x 1 m (revista Granja, Cabildo de Gran Canaria): https://revistas.grancanaria.com/index.php/GRANJA/article/download/9747/9243/11088

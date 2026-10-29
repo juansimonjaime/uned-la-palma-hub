@@ -46,7 +46,7 @@ El aguacate sí es candidato a un foliar: árbol alto, difícil de mojar desde e
 
 El Cabildo publica avisos semanales por comarca de mildiu, oídio y botritis, con actualización diaria (datos.tenerife.es). Hubo riesgo alto de oídio en las zonas bajas de la isla del 30 de abril al 7 de mayo; el oídio es la enfermedad considerada endémica en Canarias (guía Agrocabildo, 2020).
 
-La filoxera apareció en Tenerife en 2025, por primera vez en Canarias, con zona demarcada; en 2026 se contaron 16 positivos en 5.429 prospecciones (AtlánticoHoy) [VERIFICAR: si La Matanza está en la zona demarcada]. Es un problema de raíz y de movimiento de material vegetal, no de pulverización.
+La filoxera apareció en Tenerife en 2025, por primera vez en Canarias, con zona demarcada; en 2026 se contaron 16 positivos en 5.429 prospecciones (AtlánticoHoy). La Matanza queda dentro: la zona demarcada abarca la DO Tacoronte-Acentejo (Vinetur, 2026). Es un problema de raíz y de movimiento de material vegetal, no de pulverización.
 
 ## Cómo trabaja un dron agrícola en La Matanza de Acentejo
 

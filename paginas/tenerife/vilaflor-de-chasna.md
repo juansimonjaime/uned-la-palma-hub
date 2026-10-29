@@ -34,7 +34,7 @@ Los Frontones es el viñedo más alto de Europa según AtlánticoHoy, dentro de 
 
 El Cabildo publica avisos semanales de mildiu, oídio y botritis por comarca (datos.tenerife.es); a 1.400 metros el ciclo va más tarde que en las zonas bajas, donde dio riesgo alto de oídio entre el 30 de abril y el 7 de mayo de un año reciente. El dron trata el bancal de arriba sin subir la mochila.
 
-Y la filoxera, detectada en Tenerife en 2025 con zona demarcada y 16 positivos en 5.429 prospecciones en 2026 (AtlánticoHoy) [VERIFICAR: si Vilaflor está en la zona demarcada]: el dron no la elimina, pero evita mover maquinaria entre viñas.
+Y la filoxera, detectada en Tenerife en 2025 con zona demarcada y 16 positivos en 5.429 prospecciones en 2026 (AtlánticoHoy), con zona demarcada en la DO Tacoronte-Acentejo, no en Vilaflor (Vinetur, 2026): el dron no la elimina, pero evita mover maquinaria entre viñas.
 
 [IMAGEN: Parras bajas de Los Frontones sobre jable con el Teide al fondo en un día despejado | alt: Viñedo de altura de Los Frontones en Vilaflor de Chasna, DOP Abona, entre 1.100 y 1.600 metros]
 

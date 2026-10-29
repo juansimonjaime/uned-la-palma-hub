@@ -24,7 +24,7 @@ El depósito del T50 carga 40 litros, de sobra para tu parcela y las dos del vec
 
 ## ¿Y con la niebla de Teror, cuándo se vuela?
 
-Cuando levanta. El mar de nubes del alisio se asienta entre 800 y 1.500 metros según GEVIC; el casco de Teror está a unos 600 y las fincas suben hasta los 1.400 en Osorio, en una de las zonas con más niebla y lluvia de la isla [VERIFICAR: precipitación media anual de Teror]. Eso quita horas de vuelo, no días.
+Cuando levanta. El mar de nubes del alisio se asienta entre 800 y 1.500 metros según GEVIC; el casco de Teror está a unos 600 y las fincas suben hasta los 1.400 en Osorio, en una de las zonas con más niebla y lluvia de la isla [VERIFICAR: indicio en el IGN: 700–1.000 mm en las medianías del norte, sin dato municipal]. Eso quita horas de vuelo, no días.
 
 Con niebla cerrada no se vuela: el radar sigue el relieve, pero la deriva y el mojado de la hoja con el aire saturado no son los previstos. Se mira la finca a primera hora y se espera la ventana.
 
@@ -47,7 +47,7 @@ Y una nuestra, el orden del vuelo. El piloto de Agrodrón vuela en la categoría
 - Flores: en Gran Canaria van sobre todo bajo invernadero o malla, y lo cubierto no se trata desde el aire [VERIFICAR: sistema de cultivo de las flores de Teror].
 - Frutales de medianías: solo en parcelas agrupadas [VERIFICAR: superficie de frutales en Teror].
 
-La superficie cultivada del municipio no la tenemos con fuente [VERIFICAR: hectáreas cultivadas de Teror, serie municipal del ISTAC]; la isla suma 8.102,8 según el ISTAC de 2024, y el resto, en [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/). El vecino de la vega, con la misma papa y las mismas nieblas, tiene su página de [dron agrícola en Vega de San Mateo](https://agrodroncanarias.es/dron-agricola-gran-canaria/vega-de-san-mateo/).
+Los cultivos ocupaban más del 13 % del término según el ISTAC (datos de 2017 recogidos por Canarias7); la isla suma 8.102,8 según el ISTAC de 2024, y el resto, en [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/). El vecino de la vega, con la misma papa y las mismas nieblas, tiene su página de [dron agrícola en Vega de San Mateo](https://agrodroncanarias.es/dron-agricola-gran-canaria/vega-de-san-mateo/).
 
 [IMAGEN: Almacén de papas de Teror con contenedor del Cabildo para la retirada de tubérculos afectados por polilla guatemalteca | alt: almacén de papas en Teror con contenedor de recogida de papa afectada por polilla guatemalteca]
 

@@ -26,9 +26,9 @@ Contra la polilla el dron no hace nada: se combate retirando tubérculo afectado
 
 ## Primavera: hoja mojada y riesgo de mildiu
 
-Con la papa en plena hoja y la humedad del alisio, el mildiu (Phytophthora infestans) es la enfermedad que vigilan los técnicos: Agrocabildo emite avisos de riesgo alto por comarcas (2024) [VERIFICAR: calendario de avisos de mildiu en papa para las medianías de Gran Canaria e incidencia en San Mateo].
+Con la papa en plena hoja y la humedad del alisio, el mildiu (Phytophthora infestans) es la enfermedad que vigilan los técnicos: los avisos de riesgo alto de 2024 los dio el Cabildo de Tenerife (Agrocabildo) para el norte de esa isla, y para las medianías de Gran Canaria no hemos encontrado calendario publicado [VERIFICAR: avisos de mildiu en Gran Canaria e incidencia en San Mateo].
 
-Del mildiu se ocupan esos avisos y tu técnico; el dron no lo trata. Lo que encaja es un bioestimulante para una papa con semanas de hoja mojada: cultivo bajo, bancal en pendiente y una ventana corta entre dos días de humedad. El T50 vuela cerca de la hoja siguiendo el relieve con el radar y adapta la velocidad a la pendiente.
+Del mildiu se ocupan la sanidad vegetal y tu técnico; el dron no lo trata. Lo que encaja es un bioestimulante para una papa con semanas de hoja mojada: cultivo bajo, bancal en pendiente y una ventana corta entre dos días de humedad. El T50 vuela cerca de la hoja siguiendo el relieve con el radar y adapta la velocidad a la pendiente.
 
 ## Verano y otoño: hortalizas, millo y frutales
 

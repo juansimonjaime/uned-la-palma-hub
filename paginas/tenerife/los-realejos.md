@@ -48,7 +48,7 @@ Aquí el dron espera ventana sin niebla ni racha; cuando la hay, el bancal de se
 
 Se aplica lo foliar al aire libre: abonos, bioestimulantes y correctores sobre papa, viña, platanera y aguacate, a dosis de etiqueta, para el vigor tras calor, viento o cosecha. Los avisos del Cabildo por comarca de mildiu, oídio y botritis (datos.tenerife.es), con riesgo alto de oídio en zonas bajas del 30 de abril al 7 de mayo, son manejo del viticultor, no del dron.
 
-El dron tampoco va contra la polilla guatemalteca (tubérculo), el picudo (cormo), los hongos de la madera que Agrocabildo estudió en el Valle en 2024 (tronco) ni la filoxera detectada en Tenerife en 2025 [VERIFICAR: si Los Realejos está en la zona demarcada], que es de raíz. Ni vuela sobre nada bajo malla o invernadero.
+El dron tampoco va contra la polilla guatemalteca (tubérculo), el picudo (cormo), los hongos de la madera que Agrocabildo estudió en el Valle en 2024 (tronco) ni la filoxera detectada en Tenerife en 2025 (zona demarcada en la DO Tacoronte-Acentejo, Vinetur 2026), que es de raíz. Ni vuela sobre nada bajo malla o invernadero.
 
 Dos frases sobre el vuelo: el piloto, certificado, opera en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01), y cada parcela se mira en el mapa de zonas geográficas de UAS de ENAIRE antes de planificar. Y una sobre el producto: solo abonos foliares, bioestimulantes y correctores de uso permitido en el cultivo, a dosis de etiqueta, al aire libre.
 

@@ -44,7 +44,7 @@ Platanera, primero. El picudo negro (Cosmopolites sordidus) es la principal plag
 
 Papa de medianías. La polilla guatemalteca (Tecia solanivora) entró en Tenerife en 1999 por Icod de los Vinos y castiga sobre todo el norte, con pérdidas cercanas al 50 % en medianías y secano (Cabildo, ICIA). El mildiu de la papa tiene avisos de riesgo alto del Cabildo para el norte de la isla; el dron entra en esa papa con el abonado foliar, no con la plaga.
 
-Viña. El Cabildo publica avisos semanales por comarca de mildiu, oídio y botritis, y en 2025 se detectó filoxera en Tenerife con zona demarcada [VERIFICAR: municipios de la zona demarcada]. La viña de Buenavista entra en la DO Ycoden-Daute-Isora.
+Viña. El Cabildo publica avisos semanales por comarca de mildiu, oídio y botritis, y en 2025 se detectó filoxera en Tenerife con zona demarcada en la DO Tacoronte-Acentejo (Vinetur, 2026). La viña de Buenavista entra en la DO Ycoden-Daute-Isora.
 
 Puedes ampliar en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [tratamientos con dron en platanera](https://agrodroncanarias.es/dron-agricola-platanera/) y [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/). El municipio vecino tiene su página: [dron agrícola en Los Silos](https://agrodroncanarias.es/dron-agricola-tenerife/los-silos/).
 
