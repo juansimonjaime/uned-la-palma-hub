@@ -24,7 +24,7 @@ El problema con nombre es el mildiu y el oídio: el Consejo Regulador los docume
 
 ## ¿Qué pasa con un aguacatero de seis metros en un bancal de El Paso?
 
-El Paso era en 2017 el tercer municipio aguacatero de la isla, tras Tijarafe y Los Llanos (eldiario.es) [VERIFICAR: hectáreas de aguacate actuales]. Un árbol de seis metros no es un obstáculo para el dron, que vuela por encima de la copa; lo que cambia es la penetración. Una copa densa recibe bien el caldo en la parte alta y exterior, y peor en el interior y en la cara baja de la hoja.
+El Paso era en 2017 el tercer municipio aguacatero de la isla, tras Tijarafe y Los Llanos (eldiario.es). Un árbol de seis metros no es un obstáculo para el dron, que vuela por encima de la copa; lo que cambia es la penetración. Una copa densa recibe bien el caldo en la parte alta y exterior, y peor en el interior y en la cara baja de la hoja.
 
 La plaga principal es el ácaro cristalino (Oligonychus perseae), en La Palma desde 2005 y en todas las zonas productoras, con incidencia creciente de trips y de la cochinilla Nipaecoccus nipae (Canal Agrario La Palma); su control lo marca el técnico, no el dron. Para lo que sí se usa el dron en aguacate, un abono foliar o un corrector tras la cosecha o la poda, esa penetración parcial importa: se mira la finca, el marco y la poda, y se decide si encaja.
 
@@ -32,11 +32,11 @@ La plaga principal es el ácaro cristalino (Oligonychus perseae), en La Palma de
 
 Depende de para qué. El almendro es cultivo tradicional en recuperación: en 2021 el Ayuntamiento coordinó con las Agencias de Extensión Agraria y la Reserva de la Biosfera la entrega de almendreros a vecinos, también como barrera frente a incendios (Canal Agrario), y el Cabildo habilitó 7 ha para el cultivo en la isla (El Time). Son árboles en lindes y bancales, no una plantación regular.
 
-En los datos no hay plaga ni carencia del almendro documentada para El Paso [VERIFICAR: indicio en RTVC: pulgón negro en almendros de la isla]. Si tu técnico marca un abono foliar o un corrector que aplicar, el dron puede hacerlo sobre árboles sueltos, pero con muchas paradas y poca superficie por vuelo; en esos casos lo decimos antes de dar presupuesto.
+No hay una carencia del almendro documentada en El Paso que pida por sí sola un abonado foliar. Si tu técnico marca un abono foliar o un corrector que aplicar, el dron puede hacerlo sobre árboles sueltos, pero con muchas paradas y poca superficie por vuelo; en esos casos lo decimos antes de dar presupuesto.
 
 ## ¿Cómo afecta el volcán de 2021 a los tratamientos en El Paso?
 
-El cono del Tajogaite está en el municipio y las coladas de 2021 cruzan Las Manchas y Tacande. La ceniza cubrió en la isla 128 ha de viña, 84 de aguacate y 412 de platanera (Valencia Fruits), y las proteas de la cara oeste perdieron un 40 % por los gases (Proteas de La Palma). El Paso tenía 591,6 ha en producción en 2019 según el Observatorio de Sostenibilidad 2020; parte quedó sepultada [VERIFICAR: superficie municipal tras la erupción].
+El cono del Tajogaite está en el municipio y las coladas de 2021 cruzan Las Manchas y Tacande. La ceniza cubrió en la isla 128 ha de viña, 84 de aguacate y 412 de platanera (Valencia Fruits), y las proteas de la cara oeste perdieron un 40 % por los gases (Proteas de La Palma). El Paso tenía 591,6 ha en producción en 2019 según el Observatorio de Sostenibilidad 2020; parte quedó sepultada.
 
 Para el dron, las coladas son sobre todo accesos cambiados: pistas nuevas, fincas a las que se llega por otro lado y bancales que quedaron en isla entre lava. El vuelo se planifica sobre el plano actual de la parcela y el despegue se hace desde el punto más cercano con acceso. Y la ceniza es, para la planta, estrés acumulado: ahí un bioestimulante foliar tiene su finalidad, sin promesa de resultado.
 
@@ -48,7 +48,7 @@ Tres cosas: los datos de la finca (ubicación, cultivo, superficie, accesos, cab
 
 El piloto vuela en la categoría específica de AESA, como operador STS o bajo el PDRA-S01, y antes de cada vuelo en El Paso revisa el mapa de zonas geográficas de UAS de ENAIRE para saber en qué zona cae el bancal.
 
-El día del vuelo se miran las condiciones. En El Paso los vientos son de componente E-NE, canalizados por la cumbre, y el mar de nubes desborda a veces la Cumbre Nueva y mete niebla en las medianías [VERIFICAR: frecuencia; visitlapalma.es solo dice «a veces»]. Con niebla o racha no se trata; se espera a la siguiente ventana.
+El día del vuelo se miran las condiciones. En El Paso los vientos son de componente E-NE, canalizados por la cumbre, y el mar de nubes desborda a veces la Cumbre Nueva y mete niebla en las medianías. Con niebla o racha no se trata; se espera a la siguiente ventana.
 
 ## ¿Qué cultivos de El Paso tienen sentido con dron y cuáles no?
 
@@ -56,14 +56,14 @@ El día del vuelo se miran las condiciones. En El Paso los vientos son de compon
 - Aguacate de medianías: sí, con la reserva de la penetración en copas densas.
 - Almendro disperso: posible, poco eficiente por vuelo.
 - Papas, hortalizas y frutales de huerta: parcelas pequeñas y mezcladas; se estudia caso a caso.
-- Proteas [VERIFICAR: superficie en el municipio] y platanera marginal de Las Manchas y Tajuya [VERIFICAR: superficie]: solo al aire libre; nada bajo malla o invernadero.
+- Proteas y platanera de Las Manchas y Tajuya: solo al aire libre; nada bajo malla o invernadero.
 
 Para ver el conjunto, consulta [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/); el detalle por cultivo está en [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/) y [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/), y la platanera del municipio vecino en [dron agrícola en Los Llanos de Aridane](https://agrodroncanarias.es/dron-agricola-la-palma/los-llanos-de-aridane/).
 
 ## Preguntas frecuentes sobre el dron agrícola en El Paso
 
 ### ¿A qué altitud puede trabajar el dron en El Paso?
-Las fincas del municipio están entre 400 y 1.000 m, y el casco a 600-650 m [VERIFICAR: indicio en Wikipedia: 644 m]. El T50 trabaja en ese rango; lo que manda no es la altitud sino el viento y la niebla del día.
+Las fincas del municipio están entre 400 y 1.000 m, y el casco a 644 m (Wikipedia). El T50 trabaja en ese rango; lo que manda no es la altitud sino el viento y la niebla del día.
 
 ### ¿Se puede tratar un bancal de viña de media hectárea en Tacande?
 Sí. Las parcelas pequeñas se tratan; lo que cambia es que el dron pasa poco tiempo en el aire por cada despegue. Si tienes varios bancales cercanos conviene agruparlos en la misma salida.

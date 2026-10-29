@@ -14,29 +14,27 @@ municipio: "Breña Alta"
 
 Breña Alta tiene 30,82 kilómetros cuadrados y solo 1,30 de costa (Gobierno de Canarias), así que casi toda su agricultura está en las medianías de la vertiente este, en laderas de pendiente media-alta cortadas en bancales. Son 350 hectáreas en producción en 2019 (Observatorio de Sostenibilidad de la Reserva de la Biosfera) en fincas pequeñas y variadas: aguacate, viña rastrera, platanera, huerta, proteas y flor. Un dron agrícola en Breña Alta sirve para unas y no para otras; las separamos zona por zona.
 
-[IMAGEN: Bancales de aguacateros en una ladera de medianías de Breña Alta, con el mar de nubes entrando desde el nordeste y el casco urbano abajo | alt: fincas de aguacate en bancales en las medianías de Breña Alta, La Palma]
-
 ## La costa: 1,3 kilómetros de litoral y la platanera que queda
 
-Con tan poco frente de mar, la platanera de Breña Alta es una franja estrecha [VERIFICAR: hectáreas de platanera en el Mapa de Cultivos], más soleada que el resto del término y con las plagas de toda la platanera canaria: picudo negro, cochinilla algodonosa y trips.
+Con tan poco frente de mar, la platanera de Breña Alta es una franja estrecha, más soleada que el resto del término y con las plagas de toda la platanera canaria: picudo negro, cochinilla algodonosa y trips.
 
 La pendiente es menor y las fincas en sorriba reciben bien un abonado foliar desde el aire si están descubiertas; lo que lleve malla de cubierta queda fuera, y las plagas van por el cauce de sanidad vegetal, no por el dron. El detalle está en [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/).
 
 ## Las medianías: aguacate, viña rastrera y huerta en bancales
 
-Aquí está el grueso. Breña Alta era en 2017 el cuarto municipio de la isla en aguacate, con 82 hectáreas y un 67,35 % más que en 2008 (Mapa de Cultivos de La Palma 2017, vía Canarias Agrícola), en fincas pequeñas y dispersas por las laderas [VERIFICAR: tamaño de las fincas de aguacate].
+Aquí está el grueso. Breña Alta era en 2017 el cuarto municipio de la isla en aguacate, con 82 hectáreas y un 67,35 % más que en 2008 (Mapa de Cultivos de La Palma 2017, vía Canarias Agrícola).
 
 La plaga es conocida: el ácaro o araña cristalina, Oligonychus perseae, en La Palma desde 2005 y presente en todas las zonas productoras (Canal Agrario La Palma), con cochinilla Nipaecoccus nipae y trips detrás.
 
 Para el dron, el aguacatero es un árbol alto de copa densa plantado en bancal, muchas veces con una casa o una carretera a pocos metros. El T50 lleva radar y visión binocular para seguir el relieve y detectar obstáculos, pero el trabajo de verdad está antes: dibujar cada bancal, cada cable y cada árbol que sobresale en el plan de vuelo. El cultivo, en [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/).
 
-La viña entra en la subzona Hoyo de Mazo de la DO Vinos La Palma, rastrera sobre picón o empedrados (ICCA) [VERIFICAR: hectáreas de viña en Breña Alta]. El mildiu y el oídio que recorrieron el viñedo palmero en 2025 (El Time) los maneja cada viticultor con su técnico.
+La viña entra en la subzona Hoyo de Mazo de la DO Vinos La Palma, rastrera sobre picón o empedrados (ICCA). El mildiu y el oídio que recorrieron el viñedo palmero en 2025 (El Time) los maneja cada viticultor con su técnico.
 
 Donde entra el dron es en el abonado foliar y los bioestimulantes de una viña baja en ladera sin acceso para tractor, con la finalidad de sostener el vigor de la cepa entre brotación y envero. Papas y huerta de medianías también se pulverizan al aire libre, agrupando parcelas chicas. La producción no platanera del municipio sale en parte por la Cooperativa Campo Palmero.
 
 ## Hacia la cumbre: proteas, mar de nubes y lo que se queda en tierra
 
-Subiendo hacia la Cumbre Nueva, con el mar de nubes del alisio casi fijo entre los 500 y los 1.200 metros, aparecen las proteas. La isla tiene entre 25 y 32 hectáreas repartidas por las medianías de casi todos los municipios, 45 agricultores y entre 1,1 y 1,5 millones de tallos por campaña, casi todos exportados (eldiario.es, Proteas de La Palma) [VERIFICAR: superficie de proteas en Breña Alta].
+Subiendo hacia la Cumbre Nueva, con el mar de nubes del alisio casi fijo entre los 500 y los 1.200 metros, aparecen las proteas. La isla tiene entre 25 y 32 hectáreas repartidas por las medianías de casi todos los municipios, 45 agricultores y entre 1,1 y 1,5 millones de tallos por campaña, casi todos exportados (eldiario.es, Proteas de La Palma).
 
 Las proteas crecen al aire libre, así que podrían recibir un abonado foliar desde el aire. Pero no tenemos documentado con fuente canaria qué pide la protea en hoja, y no vamos a inventarte una necesidad para venderte un vuelo. La flor cortada y la planta ornamental van mayoritariamente bajo invernadero o malla, y ahí el dron no entra. Si tienes flor, lee [dron agrícola para flores y ornamentales](https://agrodroncanarias.es/dron-agricola-flores-ornamentales/) antes de llamar.
 
@@ -53,7 +51,7 @@ Las proteas crecen al aire libre, así que podrían recibir un abonado foliar de
 
 ## Cómo se trabaja entre fincas pequeñas y vecinos cerca
 
-Breña Alta está en la vertiente este, donde se dan los valores más altos de humedad media anual de la isla (AECLIM), y las ventanas de calma suelen darse por la mañana [VERIFICAR: régimen de viento en las medianías]. Antes de volar se miran viento y humedad en la propia parcela, no en el parte general.
+Breña Alta está en la vertiente este, donde se dan los valores más altos de humedad media anual de la isla (AECLIM), así que la humedad pesa en la decisión de volar. Antes de volar se miran viento y humedad en la propia parcela, no en el parte general.
 
 El resto es método: ubicación, cultivo, superficie, accesos y obstáculos; plan de vuelo sobre el mapa de cada bancal; producto de uso permitido en ese cultivo a la dosis de su etiqueta; registro. Con fincas de media hectárea o menos, lo habitual es agrupar las de un mismo pago en una salida.
 

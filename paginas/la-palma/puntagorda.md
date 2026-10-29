@@ -18,7 +18,7 @@ Puntagorda está a unos 600 m de altitud media (turismorural.com), en el noroest
 
 ## Invierno: almendro en flor, viña parada y planos sobre la mesa
 
-El almendro florece en pleno invierno y Puntagorda lo celebra con la Fiesta del Almendro en Flor. En esa época no hay aplicación foliar que hacer en la viña, que está en reposo, y en los datos no figura ninguna plaga del almendro documentada en el municipio [VERIFICAR: indicio en RTVC: pulgón negro en almendros de la isla].
+El almendro florece en pleno invierno y Puntagorda lo celebra con la Fiesta del Almendro en Flor. En esa época no hay aplicación foliar que hacer en la viña, que está en reposo, y para el almendro no hay documentada en el municipio ninguna carencia que pida un abonado foliar.
 
 Es el momento de levantar el plano de las fincas, listar obstáculos y mirar en el mapa de ENAIRE en qué zona cae cada parcela, para llegar a la primavera con los vuelos ya dibujados.
 
@@ -26,7 +26,7 @@ Es el momento de levantar el plano de las fincas, listar obstáculos y mirar en 
 
 Con la brotación arranca el riesgo de mildiu en la viña, y detrás el de oídio. El Consejo Regulador documentó ambos en la campaña de 2025 en toda la isla, con el norte mejor situado que el resto (El Time). Ese frente lo lleva cada viticultor con su técnico y los avisos de sanidad vegetal.
 
-Lo que entra en el calendario del dron en este tramo es el abonado foliar de brotación en viña, con un producto de uso permitido a su dosis de etiqueta, pensado para el vigor del brote, no como garantía. La viña de Puntagorda [VERIFICAR: hectáreas] va en bancales entre barrancos, parcelas cortas y a distintas alturas.
+Lo que entra en el calendario del dron en este tramo es el abonado foliar de brotación en viña, con un producto de uso permitido a su dosis de etiqueta, pensado para el vigor del brote, no como garantía. La viña de Puntagorda va en bancales entre barrancos, parcelas cortas y a distintas alturas.
 
 El aguacate está en floración y cuajado; el ácaro cristalino (Oligonychus perseae) está presente en todas las zonas productoras de la isla (Canal Agrario La Palma), y su control es cosa del técnico. Si ese técnico marca un abono foliar de cuajado, las 46 ha de aguacate del municipio en 2017 están repartidas en fincas pequeñas, lo que obliga a agrupar parcelas en cada salida.
 
@@ -46,13 +46,13 @@ Tras la vendimia la viña baja el ritmo; un foliar de poscosecha, si tu técnico
 
 ## Terreno y accesos: dónde vuela un dron agrícola en Puntagorda
 
-El municipio ocupa unos 31 km² [VERIFICAR: indicio en Wikipedia: 31,10 km²] de lomos suaves entre barrancos profundos, Garome e Izcagua entre ellos [VERIFICAR: indicio en Wikipedia: son sus límites norte y sur], con bancales de almendro y viña, y una costa acantilada con platanera en pequeños llanos. Las pistas van en pendiente y la agricultura es minifundista y dispersa [VERIFICAR: estructura de la propiedad]. Para el dron eso significa fincas pequeñas tratadas en poco tiempo y desplazamientos entre fincas que pesan en la jornada.
+El municipio ocupa unos 31 km² de lomos suaves entre barrancos profundos, Garome e Izcagua entre ellos, con bancales de almendro y viña, y una costa acantilada con platanera en pequeños llanos. Las pistas van en pendiente y las fincas se reparten entre barrancos. Para el dron eso significa fincas pequeñas tratadas en poco tiempo y desplazamientos entre fincas que pesan en la jornada.
 
 El T50 lleva 40 litros y aplica hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (DJI): en un bancal de almendro o viña una carga puede dar para toda la parcela, y el radar de matriz en fase mantiene la altura sobre el cultivo cuando el lomo baja al barranco. Agrupar parcelas vecinas en la misma salida es la forma de que salga a cuenta.
 
 ## Viento del noroeste, nieblas y cielos limpios: cuándo se vuela
 
-Puntagorda está en la transición entre el norte húmedo y el oeste seco: insolación alta, precipitación media-baja y nieblas ocasionales en la parte alta. La zona está expuesta a viento de componente N-NO [VERIFICAR: régimen de viento por zona agrícola], y los cielos limpios que le dieron la Reserva Starlight acompañan a días de mucha evaporación. Se mide el viento en la finca antes de volar; con racha o niebla, se aplaza.
+Puntagorda está en la transición entre el norte húmedo y el oeste seco: insolación alta, precipitación media-baja y nieblas ocasionales en la parte alta. El viento manda en la zona, y los cielos limpios que le dieron la Reserva Starlight acompañan a días de mucha evaporación. Se mide el viento en la finca antes de volar; con racha o niebla, se aplaza.
 
 Quien pilota lleva certificado de AESA para la categoría específica, como operador STS o bajo el PDRA-S01, y la ruta de cada parcela se dibuja después de consultar el mapa de zonas geográficas de UAS de ENAIRE, que en invierno ya quedó mirado. Al depósito solo va producto de uso permitido en almendro, viña, aguacate o platanera, según el bancal, a su dosis de etiqueta, y solo sobre cultivo descubierto. El calendario de arriba se cuadra con esas ventanas de viento.
 

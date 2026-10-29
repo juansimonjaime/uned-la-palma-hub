@@ -14,11 +14,11 @@ municipio: "Breña Baja"
 
 Quince kilómetros cuadrados, el segundo término más pequeño de la isla, y una franja corta que sube de la platanera de la costa a la viña sobre picón de la zona alta, con aguacate y huerta en medio. Breña Baja tenía 239,1 hectáreas en producción en 2019 (Observatorio de Sostenibilidad de la Reserva de la Biosfera), en laderas de pendiente media con bancales. Un dron agrícola en Breña Baja trabaja en poco espacio y con dos condicionantes: la pendiente y el aeropuerto del límite sur.
 
-[IMAGEN: Bancales de platanera y aguacate en la ladera de Breña Baja, con la pista del aeropuerto de La Palma y el mar al fondo | alt: fincas en bancales de platanera y aguacate en Breña Baja, La Palma, con el aeropuerto al fondo]
+![Bancales de platanera en una ladera de La Palma con el mar al fondo](/imagenes/bancales-platanera-nordeste-la-palma.webp)
 
 ## Bancales, pendiente media y poco frente de costa
 
-La costa es platanera [VERIFICAR: hectáreas y localización en el Mapa de Cultivos 2022]; de los 300 a los 700 metros, en torno al casco, aguacate y huerta con papas y frutales, que La Palma Biosfera describe como los cultivos tradicionales del municipio junto al plátano; y en la zona alta, hacia Mazo, viña sobre picón de la subzona Hoyo de Mazo de la DO.
+La costa es platanera; de los 300 a los 700 metros, en torno al casco, aguacate y huerta con papas y frutales, que La Palma Biosfera describe como los cultivos tradicionales del municipio junto al plátano; y en la zona alta, hacia Mazo, viña sobre picón de la subzona Hoyo de Mazo de la DO.
 
 Todo en una ladera que mira al este, bajo el alisio, con nubosidad y humedad altas en medianías y una costa más soleada.
 
@@ -42,11 +42,9 @@ El aeropuerto de La Palma está en el límite sur del municipio. Eso obliga, ant
 
 No es un impedimento general, es un paso más de la planificación, y lo asume el operador. Para ti cambia una cosa: en Breña Baja conviene pedir la aplicación con más margen que en una finca del interior, porque hay una comprobación añadida con ENAIRE antes de fijar el día.
 
-[IMAGEN: Vista desde las medianías de Breña Baja hacia la pista del aeropuerto de La Palma, con plataneras al aire libre y bajo malla en la franja costera | alt: plataneras junto al aeropuerto de La Palma en la costa de Breña Baja]
-
 ## Cultivos y plagas documentadas en Breña Baja
 
-- Platanera: picudo negro (en La Palma desde 2001, ICIA), cochinilla algodonosa Dysmicoccus grassii y trips (Cuaderno de plagas de Coplaca, 2014). Solo se trata desde el aire la que está al aire libre; parte de la platanera junto al aeropuerto puede ir bajo malla, como las 165 hectáreas citadas para Mazo [VERIFICAR: superficie protegida en Breña Baja]. Más en [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/).
+- Platanera: picudo negro (en La Palma desde 2001, ICIA), cochinilla algodonosa Dysmicoccus grassii y trips (Cuaderno de plagas de Coplaca, 2014). Solo se trata desde el aire la que está al aire libre; parte de la platanera junto al aeropuerto puede ir bajo malla, como ocurre en la costa de Mazo, y esa queda fuera. Más en [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/).
 - Aguacate: ácaro cristalino Oligonychus perseae en todas las zonas productoras de la isla, cochinilla y trips (Canal Agrario La Palma). Árboles altos en bancal: el plan de vuelo pesa más que el tamaño de la finca. Más en [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/).
 - Viña: mildiu y oídio en la campaña 2025 a nivel insular (El Time). Rastrera sobre picón, parcelas chicas, al aire libre.
 - Papas y frutales de huerta: parcelas pequeñas que se agrupan por zona.

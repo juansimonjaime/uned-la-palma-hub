@@ -14,13 +14,11 @@ municipio: "Tazacorte"
 
 El Mapa de Cultivos de La Palma de 2022 (Gobierno de Canarias) da para Tazacorte 450,54 hectáreas de platanera frente a 3,40 de aguacate y 0,18 de viña: un término de 12,04 km² desde las fajanas de 2021 (RTVC) donde casi todo lo que se cultiva es plátano. Un dron agrícola en Tazacorte se juzga por una sola cosa: cómo trata una finca de piña al aire libre en el llano.
 
-[IMAGEN: Fincas de platanera de Tazacorte vistas desde el aire, con los muros de las sorribas y las cadenas de riego marcando las parcelas | alt: Platanera al aire libre en el llano costero de Tazacorte, La Palma]
-
 ## Cómo está plantado el plátano en Tazacorte
 
 Es el municipio más pequeño de la isla y las fincas, casi exclusivamente de plátano, ocupan hasta el 85 % de su superficie (Wikipedia). El cultivo va de 0 a 300 m, en sorribas sobre tierra aportada y, desde 2022, también sobre las coladas de la erupción con una capa nueva de suelo encima. El relieve es llano o de pendiente suave.
 
-El parcelario es regular y buena parte de la propiedad está en manos de no residentes (Wikipedia). Entre parcela y parcela, muros de sorriba, cadenas de riego y cortavientos. En 2019 había 695,6 ha en producción según el Observatorio de Sostenibilidad 2020; el total agrícola de 2022 oscila entre 484,91 y 456,42 ha según el fragmento de la tabla [VERIFICAR: total agrícola 2022 en el PDF del Mapa de Cultivos].
+El parcelario es regular y buena parte de la propiedad está en manos de no residentes (Wikipedia). Entre parcela y parcela, muros de sorriba, cadenas de riego y cortavientos. En 2019 había 695,6 ha en producción según el Observatorio de Sostenibilidad 2020.
 
 ## Picudo, cochinilla algodonosa y trips: los problemas con nombre
 
@@ -45,17 +43,17 @@ Aquí la ventaja no está en el relieve, que es suave, sino en el tiempo y en el
 - El día de la aplicación se comprueban viento y condiciones; la dosis es la que marca la etiqueta del producto.
 - Se registra el tratamiento.
 
-El viento es de componente N-NO, canalizado por el Barranco de las Angustias, con brisas marinas [VERIFICAR: régimen de viento en la costa de Tazacorte]. Es la zona más soleada y seca de la isla, con cielo despejado casi permanente (AECLIM) y menos de 250 mm al año en la costa suroeste (macaronesian.org); la evapotranspiración es alta, así que las horas tempranas suelen ser las buenas para pulverizar.
+El viento manda: se mide en la finca el mismo día, con la brisa marina y lo que canalice el Barranco de las Angustias. Es la zona más soleada y seca de la isla, con cielo despejado casi permanente (AECLIM) y menos de 250 mm al año en la costa suroeste (macaronesian.org); la evapotranspiración es alta, así que las horas tempranas suelen ser las buenas para pulverizar.
 
 ## Malla, invernadero y viento: lo que el dron no puede hacer
 
-El dron solo trata cultivo al aire libre. En Canarias unas 3.200 de las 9.100 ha de platanera están protegidas (Agroislas con datos del Gobierno de Canarias), pero el desglose de La Palma no está localizado [VERIFICAR: proporción bajo malla o invernadero en La Palma y en Tazacorte]. En Tazacorte el invernadero es minoritario [VERIFICAR: proporción] y lo habitual son mallas cortaviento verticales, que no tapan por arriba: esa finca sí es tratable, con el cortavientos marcado como obstáculo en el plan de vuelo.
+El dron solo trata cultivo al aire libre. En Canarias unas 3.200 de las 9.100 ha de platanera están protegidas (Agroislas con datos del Gobierno de Canarias), pero el desglose de La Palma no está localizado. Si tu finca de Tazacorte lleva mallas cortaviento verticales, que no tapan por arriba, sí es tratable, con el cortavientos marcado como obstáculo en el plan de vuelo.
 
 Dos cosas más. El piloto vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el análisis de riesgo predefinido PDRA-S01 (Reglamento de Ejecución (UE) 2019/947), y el llano se comprueba finca a finca en el mapa de zonas geográficas de UAS de ENAIRE antes de dibujar la ruta. Al depósito solo sube producto de uso permitido en platanera, a dosis de etiqueta; con viento fuerte, se aplaza.
 
 ## Lo poco que no es plátano, y los vecinos
 
-Con 3,40 ha de aguacate y 0,18 ha de viña en 2022, más papaya y mango marginales [VERIFICAR: superficies], el resto del municipio apenas da para una visita aparte; se pulveriza junto a la platanera de la misma finca si el producto está permitido también en ese cultivo. La nueva carretera de la costa se llevó unas 10 ha de plataneras (ASPROCAN, 2022), y Cupalma, Covalle, Europlátano y La Prosperidad recogen la fruta del municipio.
+Fuera de la platanera queda poco, con algo de aguacate y de viña, y apenas da para una visita aparte; se pulveriza junto a la platanera de la misma finca si el producto está permitido también en ese cultivo. La nueva carretera de la costa se llevó unas 10 ha de plataneras (ASPROCAN, 2022), y Cupalma, Covalle, Europlátano y La Prosperidad recogen la fruta del municipio.
 
 Si tu finca queda ya en término de Los Llanos, mira la página de [dron agrícola en Los Llanos de Aridane](https://agrodroncanarias.es/dron-agricola-la-palma/los-llanos-de-aridane/). El contexto de toda la isla está en [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) y el cultivo a fondo en [tratamientos con dron para platanera](https://agrodroncanarias.es/dron-agricola-platanera/).
 

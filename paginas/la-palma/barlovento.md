@@ -20,7 +20,7 @@ Barlovento es el principal municipio productor de papas de la isla, según la En
 
 Para la polilla guatemalteca, no. La Tecia solanivora llegó a La Palma en 2002 y está extendida por toda la isla según la guía de gestión integrada del ICIA. La larva come dentro del tubérculo, bajo tierra, y un caldo pulverizado sobre la hoja no la toca. Lo que funciona lo tiene documentado el Cabildo de Tenerife: trampas de feromona, rotación de parcelas y no dejar ni una papa en el campo tras la cosecha.
 
-Para el abonado foliar de la papa la respuesta cambia. El mildiu de la hoja [VERIFICAR: indicio en Agrocabildo (Cabildo de Tenerife): enfermedad más grave de la papa en Canarias; sin aviso local de La Palma] lo sigue tu técnico con lo que marque sanidad vegetal; el dron aplica abono foliar o un corrector de carencias para una mata que viene de sequía o de semanas de niebla. Y en las terrazas de papa de las medianías arrastrar un atomizador cuesta más que la propia aplicación.
+Para el abonado foliar de la papa la respuesta cambia. El mildiu de la hoja lo sigue tu técnico con lo que marque sanidad vegetal; el dron aplica abono foliar o un corrector de carencias para una mata que viene de sequía o de semanas de niebla. Y en las terrazas de papa de las medianías arrastrar un atomizador cuesta más que la propia aplicación.
 
 Un apunte más sobre esas medianías. La Laguna de Barlovento, la gran balsa de riego comarcal del norte, estaba vacía en pleno invierno de 2020 (Diario de Avisos), con efecto sobre papas, viña y almendro. La papa de aquí sabe de niebla y también de sequía.
 
@@ -32,7 +32,7 @@ Con niebla no se vuela: el piloto necesita ver el dron y la hoja mojada no retie
 
 ## ¿Qué hace un dron agrícola en Barlovento con la platanera de la costa?
 
-La platanera es el cultivo dominante de la franja costera de regadío, transformada desde los años 60 con aguas subterráneas y los canales de los barrancos. Wikipedia habla de 226 hectáreas de plátano en el municipio [VERIFICAR: superficie de platanera de Barlovento en el Mapa de Cultivos]. Está en sorribas y bancales y, en su mayor parte, al aire libre [VERIFICAR: proporción de platanera bajo malla en Barlovento].
+La platanera es el cultivo dominante de la franja costera de regadío, transformada desde los años 60 con aguas subterráneas y los canales de los barrancos. Está en sorribas y bancales, y antes de plantear un vuelo se mira finca a finca cuál va al aire libre y cuál bajo malla.
 
 Sobre esas terrazas el Agras T50 pulveriza abono foliar y bioestimulante desde encima del penacho, siguiendo el desnivel con su radar y su visión binocular y ajustando la velocidad al bancal. Una platanera que recibe el alisio y el salitre de frente es la que más sentido le da a esa aplicación, siempre como finalidad del producto y no como resultado prometido.
 
@@ -50,7 +50,7 @@ Al depósito solo va producto de uso permitido en el cultivo, a la dosis de su e
 
 - Platanera al aire libre: sí, para abonado foliar y bioestimulantes tras rachas de alisio o salitre, con producto de uso permitido en platanera.
 - Papa: sí para abono foliar y correctores en hoja; para la polilla guatemalteca, no.
-- Viña residual de la subzona Norte [VERIFICAR: hectáreas de viña en Barlovento]: sí para foliares de vigor; el mildiu y el oídio que en 2025 afectaron a toda la isla según El Time los lleva el viticultor con su técnico.
+- Viña de la subzona Norte: sí para foliares de vigor; el mildiu y el oídio que en 2025 afectaron a toda la isla según El Time los lleva el viticultor con su técnico.
 - Aguacate, manzana y naranja de medianías: con reservas, porque una copa densa reparte peor el abono foliar hacia el interior y el envés de la hoja.
 - Platanera bajo malla o techo: no se puede tratar desde el aire.
 - Pastos y colmenas de medianías: no se tratan, y donde hay colmenas se avisa al apicultor y se elige la hora.

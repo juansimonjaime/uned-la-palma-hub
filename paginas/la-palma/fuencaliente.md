@@ -12,15 +12,15 @@ municipio: "Fuencaliente de la Palma"
 
 # Dron agrícola en Fuencaliente: viña rastrera sobre picón y platanera de costa
 
-Fuencaliente tiene la mayor superficie de viña de La Palma: 297,5 hectáreas según el estudio de suelos del viñedo de la DO Vinos La Palma [VERIFICAR: año del estudio], entre los 200 y los 1.200 metros, sobre picón volcánico. Viña baja, en vaso o rastrera, en parcelas pequeñas por lomos donde el tractor no entra: por eso un dron agrícola en Fuencaliente encaja en más fincas que en casi ningún otro municipio, con límites que también te contamos.
+Fuencaliente tiene la mayor superficie de viña de La Palma: 297,5 hectáreas según el estudio de suelos del viñedo de la DO Vinos La Palma, entre los 200 y los 1.200 metros, sobre picón volcánico. Viña baja, en vaso o rastrera, en parcelas pequeñas por lomos donde el tractor no entra: por eso un dron agrícola en Fuencaliente encaja en más fincas que en casi ningún otro municipio, con límites que también te contamos.
 
-[IMAGEN: Viña rastrera de Malvasía sobre picón negro, protegida con muros bajos de piedra volcánica, en un lomo de Fuencaliente con el volcán de San Antonio detrás | alt: viña rastrera sobre picón con muros cortavientos de piedra volcánica en Fuencaliente, La Palma]
+![Pista de tierra entre bancales de viña en una ladera de La Palma, con una estación RTK sobre trípode](/imagenes/pista-bancales-vina-oeste-la-palma.webp)
 
 ## Cómo está plantada la viña de Fuencaliente
 
 Malvasía aromática, Negramoll, Listán y Sabro, casi siempre rastreras o en vaso bajo sobre el lapilli de los volcanes de San Antonio (1677) y Teneguía (1971), con muros cortavientos de piedra volcánica que el Gobierno de Canarias (ICCA) describe como la seña de las viñas de Malvasía de la zona. La planta vive pegada a la tierra para aguantar el viento.
 
-Las parcelas son pequeñas y están desperdigadas por los lomos del sur, con malpaíses entre medias y pendientes fuertes. Se llega por pistas sobre picón [VERIFICAR: estado de los accesos a las parcelas de viña]. Aquí está la sede del Consejo Regulador de la DO Vinos La Palma y la Cooperativa Llanovid, de vino y Malvasía.
+Las parcelas son pequeñas y están desperdigadas por los lomos del sur, con malpaíses entre medias y pendientes fuertes. Se llega por pistas, y el acceso se mira finca a finca antes de planificar el vuelo. Aquí está la sede del Consejo Regulador de la DO Vinos La Palma y la Cooperativa Llanovid, de vino y Malvasía.
 
 El Ayuntamiento destinó 50.000 euros en 2023 a recuperar viña en Llanos Negros y Las Machuqueras, donde la Malvasía y el Sabro estaban en riesgo de abandono.
 
@@ -56,11 +56,11 @@ Y el mildiu. El dron no lo trata: lo lleva tu técnico con lo que marque sanidad
 
 ## Platanera en Las Indias y Los Quemados, y lo demás que se cultiva
 
-La costa de Fuencaliente, de 0 a 200 metros, está casi toda ocupada por plataneras, igual que el barrio de Los Quemados y Las Indias (La Palma Biosfera). El mismo estudio de suelos da 244,1 hectáreas de plátano [VERIFICAR: año], y buena parte sale por la Cooperativa Teneguía, con 150 socios. En total, el municipio tenía 447 hectáreas en producción en 2019 según el Observatorio de Sostenibilidad de la Reserva de la Biosfera.
+La costa de Fuencaliente, de 0 a 200 metros, está casi toda ocupada por plataneras, igual que el barrio de Los Quemados y Las Indias (La Palma Biosfera). El mismo estudio de suelos da 244,1 hectáreas de plátano, y buena parte sale por la Cooperativa Teneguía, con 150 socios. En total, el municipio tenía 447 hectáreas en producción en 2019 según el Observatorio de Sostenibilidad de la Reserva de la Biosfera.
 
-[IMAGEN: Plataneras al aire libre en la costa de Las Indias, Fuencaliente, con el mar detrás y los lomos de picón subiendo hacia los volcanes | alt: platanera al aire libre en la costa de Las Indias, Fuencaliente, La Palma]
+Esa platanera se mira finca a finca para saber si va al aire libre o bajo malla, y arrastra las plagas de toda la isla: picudo negro, cochinilla algodonosa, que en Canarias encadena hasta ocho generaciones al año, y trips, todas asunto del técnico y de sanidad vegetal.
 
-Esa platanera es mayoritariamente al aire libre [VERIFICAR: proporción bajo malla en Fuencaliente] y arrastra las plagas de toda la isla: picudo negro, cochinilla algodonosa, que en Canarias encadena hasta ocho generaciones al año, y trips, todas asunto del técnico y de sanidad vegetal. El dron aplica en esa costa abono foliar y bioestimulante, no otra cosa. Si tienes piñas en la costa, mira la página de [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/) y, para la viña, la de [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/).
+El dron aplica en esa costa abono foliar y bioestimulante, no otra cosa. Si tienes piñas en la costa, mira la página de [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/) y, para la viña, la de [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/).
 
 Los datos de la isla están en el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/); el vecino del este, con viña del Hoyo de Mazo, tiene su propia página de [dron agrícola en Villa de Mazo](https://agrodroncanarias.es/dron-agricola-la-palma/villa-de-mazo/).
 

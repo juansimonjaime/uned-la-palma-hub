@@ -14,13 +14,13 @@ municipio: "Villa de Mazo"
 
 Villa de Mazo baja sin cortes desde las medianías altas, a unos 1.000 metros, hasta la costa que linda con el aeropuerto, y en esa pendiente continua se escalonan 645,2 hectáreas en producción (Observatorio de Sostenibilidad de la Reserva de la Biosfera, datos de 2019), la tercera cifra de la isla. Cada piso tiene su cultivo y su época mala. Aquí ordenamos el año para que veas cuándo un dron agrícola en Villa de Mazo tiene trabajo en tu finca.
 
-[IMAGEN: Parras rastreras creciendo entre ceniza volcánica en el Hoyo de Mazo, con la ladera bajando hacia la costa y el mar al fondo | alt: viña sobre malpaís y picón en el Hoyo de Mazo, Villa de Mazo, La Palma]
+![Bancales de viña con muros de piedra en una ladera de La Palma, con una estación de posicionamiento RTK en primer término](/imagenes/bancales-vina-oeste-la-palma.webp)
 
 ## El año agrícola de Mazo, piso a piso, y dónde entra el dron agrícola en Villa de Mazo
 
 Tres pisos, tres calendarios:
 
-- Costa, de 0 a 200 metros: platanera, con unas 165 hectáreas bajo protección junto al aeropuerto según tierrasagroecologicas.es [VERIFICAR: año del dato].
+- Costa, de 0 a 200 metros: platanera, con parte de ella bajo protección junto al aeropuerto.
 - De 300 a 700 metros: viña sobre malpaís y picón en el Hoyo de Mazo y San Simón, unas 167 hectáreas de suelo volcánico de las que 80 están amparadas por la DO Vinos La Palma (misma fuente), con tintos apreciados.
 - Medianías altas, hasta los 1.000 metros: papas de la variedad Valor, boniato, hortalizas y cítricos en regadío; cereal, higuera y legumbres en secano.
 
@@ -44,13 +44,11 @@ El picudo negro, en La Palma desde 2001 (ICIA), se vigila con trampas de feromon
 
 Y aquí está la frontera de Mazo: la platanera bajo malla o invernadero de la zona del aeropuerto no se trata con dron, porque el producto no atraviesa la cubierta. Solo cuenta la que está al aire libre, explicada en [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/).
 
-[IMAGEN: Plataneras bajo malla junto a la pista del aeropuerto de La Palma, en la costa de Villa de Mazo, con fincas al aire libre al lado | alt: platanera bajo malla y al aire libre en la costa de Villa de Mazo, junto al aeropuerto de La Palma]
-
 ## Papas, aguacate y lo que el dron no va a resolver en Mazo
 
 La polilla guatemalteca de la papa, Tecia solanivora, está en La Palma desde 2002 y extendida por toda la isla según el ICIA. Ataca el tubérculo, y el Cabildo de Tenerife la combate con trampas de feromona, rotación de parcelas y no dejar papas en el terreno tras la cosecha. Un dron pulverizador no pinta nada ahí, y te lo diremos así.
 
-El aguacate no aparece desglosado en los datos de cultivo que manejamos para Mazo [VERIFICAR: superficie de aguacate en Villa de Mazo en el Mapa de Cultivos 2022], aunque el ácaro cristalino está presente en todas las zonas productoras de la isla desde 2005 (Canal Agrario La Palma). Si tienes aguacateros al aire libre, se estudian como cualquier otra finca, con la altura de los árboles como dato clave.
+El aguacate no aparece desglosado en los datos de cultivo que manejamos para Mazo, aunque el ácaro cristalino está presente en todas las zonas productoras de la isla desde 2005 (Canal Agrario La Palma). Si tienes aguacateros al aire libre, se estudian como cualquier otra finca, con la altura de los árboles como dato clave.
 
 Cereal, higueras y legumbres de secano son cultivos de poco tratamiento. Las hortalizas bajas al aire libre sí, juntando superficie para que la jornada rinda.
 

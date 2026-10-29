@@ -51,7 +51,7 @@ La erupción de Tajogaite (2021, 85 días) sepultó 370 hectáreas de cultivo, 2
 
 ## Qué cultivos se tratan desde el aire y cuáles no
 
-El dron solo trabaja cultivo al aire libre: lo que esté bajo malla o invernadero queda fuera. La platanera palmera es, según el sector, la de mayor proporción descubierta de Canarias, con cortavientos verticales y no de cubierta [VERIFICAR: desglose de platanera protegida en La Palma; el dato canario es un 35 %].
+El dron solo trabaja cultivo al aire libre: lo que esté bajo malla o invernadero queda fuera. En Canarias unas 3.200 de las 9.100 hectáreas de platanera van protegidas, según Agroislas con datos del Gobierno de Canarias. Una finca con cortavientos verticales, que no tapan por arriba, sí se puede tratar; la que va bajo cubierta, no.
 
 El detalle está en [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/) y [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/), donde la polilla guatemalteca no se arregla desde el aire.
 

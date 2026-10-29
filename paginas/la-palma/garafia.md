@@ -14,17 +14,15 @@ municipio: "Garafía"
 
 Cien kilómetros cuadrados de término, el segundo más extenso de la isla, y 568,2 hectáreas en producción según el Observatorio de Sostenibilidad 2020 de la Reserva de la Biosfera (datos de 2019). Eso es Garafía: mucha tierra repartida en pagos que separan barrancos profundos, desfiladeros y acantilados, como lo describe La Palma Biosfera. Un dron agrícola en Garafía tiene sentido por esa dispersión: la furgoneta se queda en la pista y lo que cruza el barranco es el dron, no el atomizador.
 
-[IMAGEN: Bancales de papa en las medianías de Garafía con el mar de nubes bajando del monte | alt: bancales de papa en medianías de Garafía, La Palma, con niebla del alisio al fondo]
-
 ## La costa acantilada: poca platanera y el viento mandando
 
-La costa garafiana es acantilado casi todo el rato. La platanera es escasa aquí [VERIFICAR: superficie de platanera de Garafía en el Mapa de Cultivos]. Lo que sobra es viento: la vertiente norte-noroeste recibe el alisio de frente y en los lomos expuestos y en la costa acantilada sopla fuerte.
+La costa garafiana es acantilado casi todo el rato. Lo que sobra es viento: la vertiente norte-noroeste recibe el alisio de frente y en los lomos expuestos y en la costa acantilada sopla fuerte.
 
 Si hay cultivo al aire libre y un abono foliar o un bioestimulante que aplicar, el T50 puede trabajar una finca de costa desde un punto de despegue junto a la parcela. Pero la ventana la pone el viento, y en la costa de Garafía se cierra más días que en otros municipios.
 
 ## Medianías de 300 a 1.000 metros: papa, viña rastrera, frutales y pasto
 
-Aquí está el grueso de la agricultura del municipio. Papa en bancales y lomos entre barrancos, viña rastrera de la subzona Norte de la DO Vinos La Palma [VERIFICAR: hectáreas de viña en Garafía], frutales y hortalizas, cítricos en la finca El Cántaro dentro del programa ecológico del Cabildo y el CSIC, y pastos para las cabras y vacas que sostienen los quesos garafianos.
+Aquí está el grueso de la agricultura del municipio. Papa en bancales y lomos entre barrancos, viña rastrera de la subzona Norte de la DO Vinos La Palma, frutales y hortalizas, cítricos en la finca El Cántaro dentro del programa ecológico del Cabildo y el CSIC, y pastos para las cabras y vacas que sostienen los quesos garafianos.
 
 La papa manda en superficie y en historia reciente. El Mapa de Cultivos de 2017 recoge una pérdida de 83 hectáreas de papa en la isla y señala que aquel año fue muy seco en el norte. Garafía es norte puro, con sequías estacionales severas en 2017 y 2020.
 
@@ -32,7 +30,7 @@ El encaje del dron en estos bancales viene de los sensores. El DJI Agras T50 lle
 
 ## Las Tricias y los pagos del almendro
 
-Las Tricias es el pueblo de los almendros de Garafía, repartidos en bancales y con árboles ya grandes. En los datos locales no hay ninguna plaga del almendro documentada para el municipio [VERIFICAR: indicio en RTVC: pulgón negro en almendros de la isla], y un técnico serio no pulveriza por pulverizar. Si tu técnico ve una carencia que corregir en hoja, o quieres un bioestimulante tras la poda, el dron puede cubrir copas en terreno quebrado; si no, el almendro se deja estar.
+Las Tricias es el pueblo de los almendros de Garafía, repartidos en bancales y con árboles ya grandes. No hay una carencia del almendro documentada en el municipio, y un técnico serio no pulveriza por pulverizar. Si tu técnico ve una carencia que corregir en hoja, o quieres un bioestimulante tras la poda, el dron puede cubrir copas en terreno quebrado; si no, el almendro se deja estar.
 
 Por encima, el pinar y el Roque de los Muchachos a 2.426 metros. Ahí no hay cultivo, así que ahí el trabajo del dron termina.
 

@@ -20,11 +20,11 @@ Los Llanos de Aridane tenía 984 hectáreas en producción en 2019 según el Obs
 
 El municipio mide 35,79 km² y tiene 6,43 km de costa, con el casco a 325-340 m (Gobierno de Canarias). La platanera ocupa el llano por debajo de los 300 m, en sorribas sobre lava y sobre tierra traída, y el aguacate sube por las medianías de 300 a 600 m.
 
-Clima de sotavento: cielo despejado, insolación alta y capa seca sin nubosidad (AECLIM), menos de 250 mm anuales en la costa suroeste (macaronesian.org). El límite para volar lo ponen los vientos de ladera y las rachas de Puerto Naos [VERIFICAR: intensidad de las rachas en la costa de Puerto Naos].
+Clima de sotavento: cielo despejado, insolación alta y capa seca sin nubosidad (AECLIM), menos de 250 mm anuales en la costa suroeste (macaronesian.org). El límite para volar lo pone el viento del día, que se mide en la propia finca.
 
 ## Costa sur: Puerto Naos, El Remo y La Bombilla
 
-La platanera clásica del Valle, al aire libre con mallas cortaviento puntuales [VERIFICAR: proporción de platanera bajo malla en el municipio]. Fincas en sorriba, cadenas de riego, piñas que salen hacia Covalle, Cupalma, Europlátano o La Prosperidad. Pulverizar con dron esta zona es directo: parcelas regulares, pocos obstáculos altos y relieve fácil para el radar del T50.
+La platanera clásica del Valle, con mallas cortaviento; antes de volar se mira finca a finca si va descubierta o cubierta. Fincas en sorriba, cadenas de riego, piñas que salen hacia Covalle, Cupalma, Europlátano o La Prosperidad. Pulverizar con dron esta zona es directo: parcelas regulares, pocos obstáculos altos y relieve fácil para el radar del T50.
 
 Un matiz: Puerto Naos y La Bombilla siguen con CO2 volcánico residual y en 2026 el Cabildo aún autorizaba la vuelta por fases (RTVC), así que ahí se comprueba el acceso finca a finca.
 
@@ -36,13 +36,11 @@ Desde entonces se han sorribado más de 200 ha de platanera sobre la colada y la
 
 Esas fincas tienen dos pegas para el tratamiento clásico: pistas nuevas que no siempre admiten tractor con atomizador y parcelas a las que se llega dando un rodeo. El dron despega desde el borde, trata y vuelve, sin pisar sorribas recién hechas.
 
-[IMAGEN: Platanera joven replantada sobre la colada de 2021 en la zona de Todoque, con la lava negra asomando en los bordes de la sorriba | alt: Platanera replantada sobre lava del volcán Tajogaite en Todoque, Los Llanos de Aridane]
-
 ## Los Campitos, el llano intacto y las medianías del aguacate
 
 Fuera de la huella de la lava, Los Campitos y el resto del llano siguen como antes de 2021: piña al aire libre, sorribas con muros y su cadena de riego. El dron para plataneras gana aquí cuando hay que tratar sin pisar la finca: suelo encharcado, hierba alta entre pies o semanas de mucha carga en el empaquetado.
 
-En las medianías de 300 a 600 m manda el aguacate; Los Llanos era en 2017 el segundo municipio aguacatero tras Tijarafe (eldiario.es) [VERIFICAR: hectáreas de aguacate 2022]. Hay mango, papaya y hortalizas a menor escala según la web municipal, y viña residual en Las Manchas y Todoque: 20 hectáreas inscritas en la DO según su Consejo Regulador en 2021 (RTVC). En un bancal de aguacateros altos la mochila castiga; el dron trata desde arriba.
+En las medianías de 300 a 600 m manda el aguacate; Los Llanos era en 2017 el segundo municipio aguacatero tras Tijarafe (eldiario.es). Hay mango, papaya y hortalizas a menor escala según la web municipal, y viña residual en Las Manchas y Todoque: 20 hectáreas inscritas en la DO según su Consejo Regulador en 2021 (RTVC). En un bancal de aguacateros altos la mochila castiga; el dron trata desde arriba.
 
 ## Picudo, cochinilla, trips y ácaro cristalino: lo que está documentado
 
@@ -59,7 +57,7 @@ En el aguacate la plaga principal es el ácaro cristalino (Oligonychus perseae),
 
 El DJI Agras T50 lleva depósito de 40 litros y aplica hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha técnica de DJI). El radar de matriz en fase y la visión binocular siguen el relieve y detectan obstáculos, y la velocidad se regula con la pendiente. En el salto entre la colada y la finca vecina eso se agradece.
 
-Lo que no puede hacer: tratar bajo malla de cubierta o invernadero, porque el producto no atraviesa la protección. En Los Llanos la platanera es mayoritariamente al aire libre con cortavientos verticales [VERIFICAR: proporción exacta], así que casi toda es tratable, pero cada finca se mira antes. Tampoco se vuela con viento fuerte ni junto a cables sin planificarlo.
+Lo que no puede hacer: tratar bajo malla de cubierta o invernadero, porque el producto no atraviesa la protección. En Los Llanos la platanera con cortavientos verticales, que no tapan por arriba, es tratable; la que va cubierta, no, y cada finca se mira antes. Tampoco se vuela con viento fuerte ni junto a cables sin planificarlo.
 
 Lo que sí hace: subir abono foliar, bioestimulante o corrector de carencias a una piña joven sobre sorriba nueva o a una finca que ha pasado un verano de calor, siempre como finalidad del producto y sin promesa de resultado.
 

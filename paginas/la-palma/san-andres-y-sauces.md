@@ -24,7 +24,7 @@ Para el dron esto cambia la planificación. En lugar de un vuelo único sobre to
 
 ## Meses de lluvia y niebla: la humedad trabaja para los hongos
 
-El nordeste de La Palma supera los 1.000 mm de lluvia al año (macaronesian.org), con mar de nubes frecuente y humedad relativa alta casi siempre. En ese ambiente los hongos foliares encuentran hoja mojada a diario [VERIFICAR: fuente local sobre hongos foliares en platanera; indicio en El Independiente (2019): Canarias sigue libre de Sigatoka].
+El nordeste de La Palma supera los 1.000 mm de lluvia al año (macaronesian.org), con mar de nubes frecuente y humedad relativa alta casi siempre. En ese ambiente la hoja tarda en secarse, y eso pesa a la hora de elegir cuándo volar.
 
 En los meses más húmedos el dron tiene dos límites claros. Con la hoja chorreando, el producto resbala y se pierde, así que se espera a que seque. Y con la niebla pegada a la ladera o la llovizna entrando por el Barranco del Agua no se despega. Las ventanas existen, pero son cortas y hay que mirar el parte y la propia ladera.
 
@@ -42,7 +42,7 @@ El picudo negro (Cosmopolites sordidus) está en La Palma desde 2001 (ICIA) y si
 
 La platanera de Los Sauces y San Andrés ocupa el llano costero y las laderas bajas, de 0 a 350 metros, en bancales y sorribas. Entre medias, barrancos encajados y accesos complicados que dejan al atomizador fuera de muchas fincas. Las medianías suben hasta 800 metros con aguacate y frutales; el ñame va en los barrancos húmedos.
 
-El T50 sigue el relieve con radar de matriz en fase y visión binocular, y detecta obstáculos: cortavientos verticales [VERIFICAR: proporción de platanera al aire libre con cortavientos en el municipio], postes, cables de riego elevados. Todo eso se marca en el mapa antes del vuelo. Lo que esté bajo malla o invernadero queda fuera: desde el aire no se trata.
+El T50 sigue el relieve con radar de matriz en fase y visión binocular, y detecta obstáculos: cortavientos verticales, postes, cables de riego elevados. Todo eso se marca en el mapa antes del vuelo. Lo que esté bajo malla o invernadero queda fuera: desde el aire no se trata.
 
 ## Cuándo encaja un dron agrícola en San Andrés y Sauces y con qué reglas
 
@@ -51,8 +51,6 @@ Encaja cuando hay platanera al aire libre, un abono foliar o un bioestimulante q
 Las reglas, en el orden de Los Sauces: primero el cielo, porque sin ventana seca no hay vuelo; después el mapa de zonas geográficas de UAS de ENAIRE, sorriba por sorriba; y siempre el piloto, certificado por AESA en la categoría específica (STS o PDRA-S01). Tú aportas finca y producto; nada bajo malla.
 
 Para el resto de la isla está la página de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/), y para el cultivo que manda aquí, la de [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/). El aguacate de las medianías tiene la suya: [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/). El vecino [Barlovento](https://agrodroncanarias.es/dron-agricola-la-palma/barlovento/) comparte alisio y platanera de costa.
-
-[IMAGEN: Agras T50 sobrevolando el penacho de una platanera en una sorriba de San Andrés con el mar al fondo | alt: dron agrícola DJI Agras T50 pulverizando platanera en San Andrés, La Palma]
 
 ## Preguntas frecuentes sobre tratamientos con dron en San Andrés y Sauces
 

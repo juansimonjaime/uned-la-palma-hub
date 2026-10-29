@@ -18,9 +18,9 @@ Tijarafe tiene 11,5 km de costa y el casco a 640 m (Gobierno de Canarias): entre
 
 ## Del acantilado a los 900 metros: así es el terreno
 
-El término mide 53,76 km² y tenía 614,9 ha en producción en 2019 según el Observatorio de Sostenibilidad 2020, la tercera superficie agrícola de la isla. La platanera ocupa las plataformas costeras de 0 a 250 m, en zonas como Candelaria y El Jesús [VERIFICAR: indicio en las rutas de senderos del Ayuntamiento de Tijarafe: plataneras en el camino El Jesús–El Time y Porís de Candelaria al pie del Jurado], a las que se baja por pistas abiertas en el acantilado. Aguacate y viña van en los bancales de medianías entre 400 y 900 m; arriba, pinar.
+El término mide 53,76 km² y tenía 614,9 ha en producción en 2019 según el Observatorio de Sostenibilidad 2020, la tercera superficie agrícola de la isla. La platanera ocupa las plataformas costeras de 0 a 250 m, en zonas como Candelaria y El Jesús, a las que se baja por pistas abiertas en el acantilado. Aguacate y viña van en los bancales de medianías entre 400 y 900 m; arriba, pinar.
 
-Los barrancos están muy encajados: Garome y Jurado (web turística del Ayuntamiento de Tijarafe), y Tinizara [VERIFICAR: Tinizara figura como pago con ermita; confirmar si hay barranco con ese nombre]. Eso parte el municipio en lomos con fincas pequeñas, bancales estrechos y muros altos, con pistas que entran a una finca y no a la de al lado. La mayoría trabaja el plátano en la costa por ser el más rentable, mientras las medianías tienen cultivos de subsistencia (EnciclopediaGuanche).
+Los barrancos están muy encajados: Garome y Jurado (web turística del Ayuntamiento de Tijarafe). Eso parte el municipio en lomos con fincas pequeñas, bancales estrechos y muros altos, con pistas que entran a una finca y no a la de al lado. La mayoría trabaja el plátano en la costa por ser el más rentable, mientras las medianías tienen cultivos de subsistencia (EnciclopediaGuanche).
 
 ## Lo que cuesta hoy tratar una finca de Tijarafe a mano
 
@@ -38,11 +38,11 @@ El depósito de 40 litros y el caudal de hasta 16 L/min con dos boquillas o 24 L
 
 ## Viento del noroeste y nieblas de medianías
 
-Tijarafe mira al noroeste, en la transición entre el norte húmedo y el Valle seco: insolación alta, precipitación media-baja y nieblas ocasionales en las medianías altas. El viento es de componente N-NO en los lomos y en los acantilados de la costa [VERIFICAR: régimen de viento por zona agrícola]. Antes de cada vuelo se mide en la finca; con racha o niebla se espera. La brisa de costa cambia con las horas, y eso marca cuándo se trata en las plataformas.
+Tijarafe mira al noroeste, en la transición entre el norte húmedo y el Valle seco: insolación alta, precipitación media-baja y nieblas ocasionales en las medianías altas. El viento manda en los lomos y en los acantilados de la costa. Antes de cada vuelo se mide en la finca; con racha o niebla se espera. La brisa de costa cambia con las horas, y eso marca cuándo se trata en las plataformas.
 
 ## Platanera, aguacate y viña: cultivos y plagas documentadas en Tijarafe
 
-Platanera: 239 ha en el Mapa de Cultivos 2017, con picudo negro, cochinilla algodonosa y trips como problemas documentados en Canarias. Aguacate: 132,9 ha según el estudio de Mercatenerife de 2018, la mayor superficie municipal de la isla, con ácaro cristalino (Oligonychus perseae) en todas las zonas productoras, cochinilla Nipaecoccus nipae y trips (Canal Agrario La Palma). Viña de la subzona Norte de la DO, en Tinizara [VERIFICAR: hectáreas], con mildiu y oídio en la campaña 2025 (El Time).
+Platanera: 239 ha en el Mapa de Cultivos 2017, con picudo negro, cochinilla algodonosa y trips como problemas documentados en Canarias. Aguacate: 132,9 ha según el estudio de Mercatenerife de 2018, la mayor superficie municipal de la isla, con ácaro cristalino (Oligonychus perseae) en todas las zonas productoras, cochinilla Nipaecoccus nipae y trips (Canal Agrario La Palma). Viña de la subzona Norte de la DO, en Tinizara, con mildiu y oídio en la campaña 2025 (El Time).
 
 Ninguna de esas plagas se combate con el dron; las vigila el técnico con lo que marca sanidad vegetal del Cabildo. El dron en Tijarafe aplica abono foliar, bioestimulante y corrector de carencias, con la finalidad de sostener la planta y sin prometer cómo responderá.
 
@@ -63,7 +63,7 @@ Sí. Basta con que el piloto llegue a un punto con vista a la finca y sitio para
 El radar lee el escalón y mantiene la altura sobre las copas; el plan de vuelo lleva marcados muros, cables y árboles altos. El aplicador no baja al bancal.
 
 ### ¿Qué aplica el dron en la viña de Tinizara?
-Abono foliar y bioestimulantes de uso permitido en viña, a la dosis de su etiqueta, si la parcela está abierta. El mildiu lo maneja el viticultor con su técnico; el dron no entra ahí. Lo comprobamos etiqueta por etiqueta al preparar el vuelo [VERIFICAR: hectáreas de viña en Tinizara].
+Abono foliar y bioestimulantes de uso permitido en viña, a la dosis de su etiqueta, si la parcela está abierta. El mildiu lo maneja el viticultor con su técnico; el dron no entra ahí. Lo comprobamos etiqueta por etiqueta al preparar el vuelo.
 
 ### ¿Qué pasa si hay viento en los lomos el día del tratamiento?
 Se mide en la finca antes de volar. Con racha que pueda llevar el caldo fuera de la parcela se aplaza y se busca otra ventana.

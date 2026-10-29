@@ -311,3 +311,28 @@ Fotos descartadas y motivo:
 | Dron pulverizando sobre monte y matorral con un risco detrás (Los Llanos de Aridane, dic-2025) | Vegetación silvestre, no cultivo | No se ve un cultivo y no se sabe qué producto se aplicaba |
 | Dron en vuelo junto a la casa al atardecer | Dron sobre un patio con vivienda y furgoneta | Sin cultivo; vivienda y vehículo identificables |
 | Logos y carteles (Agrodrón, DJI Enterprise, La Palma Reserva de la Biosfera, cartel Agrotech) | Gráficos con texto | Texto y logos; no son fotos |
+
+## Cierre de La Palma antes de publicar (29-10-2026)
+
+Las 15 páginas de La Palma (hub y 14 municipios) ya no tienen marcas `[VERIFICAR]` ni marcadores `[IMAGEN]`. Cada marca se resolvió de una de estas formas: la fuente citada ya respaldaba la frase y se quitó la marca; se confirmó el dato (31,10 km² y barrancos de Izcagua y Garome en Puntagorda, casco de El Paso a 644 m y barrios de Puntallana, todo según Wikipedia); o no se pudo confirmar y se quitó la cifra o se reescribió la frase sin ella (hectáreas por municipio, proporción de platanera bajo malla, régimen de viento por zona). Las tablas oficiales municipales del Mapa de Cultivos siguen sin abrirse desde esta sesión.
+
+Se reutilizan cuatro fotos en páginas que se habrían quedado sin ninguna imagen. El alt no nombra el municipio:
+
+- `la-palma/brena-baja`: `imagenes/bancales-platanera-nordeste-la-palma.webp`
+- `la-palma/santa-cruz-de-la-palma`: `imagenes/platanera-costa-barlovento.webp`
+- `la-palma/villa-de-mazo`: `imagenes/bancales-vina-oeste-la-palma.webp`
+- `la-palma/fuencaliente`: `imagenes/pista-bancales-vina-oeste-la-palma.webp`
+
+Marcadores `[IMAGEN]` retirados (quedan pendientes de foto propia si se quieren recuperar):
+
+| Página | Línea original | Marcador |
+|---|---|---|
+| la-palma/brena-alta | 17 | [IMAGEN: Bancales de aguacateros en una ladera de medianías de Breña Alta, con el mar de nubes entrando desde el nordeste y el casco urbano abajo | alt: fincas de aguacate en bancales en las medianías de Breña Alta, La Palma] |
+| la-palma/brena-baja | 45 | [IMAGEN: Vista desde las medianías de Breña Baja hacia la pista del aeropuerto de La Palma, con plataneras al aire libre y bajo malla en la franja costera | alt: plataneras junto al aeropuerto de La Palma en la costa de Breña Baja] |
+| la-palma/fuencaliente | 61 | [IMAGEN: Plataneras al aire libre en la costa de Las Indias, Fuencaliente, con el mar detrás y los lomos de picón subiendo hacia los volcanes | alt: platanera al aire libre en la costa de Las Indias, Fuencaliente, La Palma] |
+| la-palma/garafia | 17 | [IMAGEN: Bancales de papa en las medianías de Garafía con el mar de nubes bajando del monte | alt: bancales de papa en medianías de Garafía, La Palma, con niebla del alisio al fondo] |
+| la-palma/los-llanos-de-aridane | 39 | [IMAGEN: Platanera joven replantada sobre la colada de 2021 en la zona de Todoque, con la lava negra asomando en los bordes de la sorriba | alt: Platanera replantada sobre lava del volcán Tajogaite en Todoque, Los Llanos de Aridane] |
+| la-palma/san-andres-y-sauces | 55 | [IMAGEN: Agras T50 sobrevolando el penacho de una platanera en una sorriba de San Andrés con el mar al fondo | alt: dron agrícola DJI Agras T50 pulverizando platanera en San Andrés, La Palma] |
+| la-palma/santa-cruz-de-la-palma | 45 | [IMAGEN: Finca de platanera pequeña en la costa de Santa Cruz de La Palma, encajada entre la ladera y una vivienda | alt: platanera pequeña entre viviendas en la costa de Santa Cruz de La Palma] |
+| la-palma/tazacorte | 17 | [IMAGEN: Fincas de platanera de Tazacorte vistas desde el aire, con los muros de las sorribas y las cadenas de riego marcando las parcelas | alt: Platanera al aire libre en el llano costero de Tazacorte, La Palma] |
+| la-palma/villa-de-mazo | 47 | [IMAGEN: Plataneras bajo malla junto a la pista del aeropuerto de La Palma, en la costa de Villa de Mazo, con fincas al aire libre al lado | alt: platanera bajo malla y al aire libre en la costa de Villa de Mazo, junto al aeropuerto de La Palma] |

@@ -14,7 +14,7 @@ municipio: "Santa Cruz de La Palma"
 
 Santa Cruz de La Palma es el municipio con menos agricultura de la isla: 210,2 hectáreas en producción en 2019 (Observatorio de Sostenibilidad de la Reserva de la Biosfera), en fincas pequeñas de platanera, aguacate y huerta colgadas de laderas y barrancos. También es donde Agrodrón Canarias tiene su base desde junio de 2025, así que las preguntas sobre el dron agrícola en Santa Cruz de La Palma nos llegan de vecinos con un cuarto de hectárea, y las respondemos tal cual.
 
-[IMAGEN: Bancales de platanera y huerta en una ladera de fuerte pendiente sobre la ciudad de Santa Cruz de La Palma, con el barranco de las Nieves y el mar al fondo | alt: fincas pequeñas de platanera y huerta en bancales sobre Santa Cruz de La Palma]
+![Plataneras en una costa acantilada de La Palma](/imagenes/platanera-costa-barlovento.webp)
 
 ## ¿Merece la pena un dron agrícola en Santa Cruz de La Palma para media hectárea?
 
@@ -24,9 +24,9 @@ La respuesta corta: depende de la cuesta y del acceso, no del tamaño. Media hec
 
 ## ¿Qué se cultiva en la capital y qué plaga tiene cada cosa?
 
-El aguacate es lo que crece: 49 hectáreas en 2017, un 68,97 % más que en 2008 (Mapa de Cultivos de La Palma 2017, vía Canarias Agrícola). La platanera va al revés: 29 hectáreas en 2017, un 14,71 % menos que en 2008 (misma fuente), en fincas pequeñas de la costa que a menudo tienen agua propia [VERIFICAR: fincas plataneras de Mirca con agua propia].
+El aguacate es lo que crece: 49 hectáreas en 2017, un 68,97 % más que en 2008 (Mapa de Cultivos de La Palma 2017, vía Canarias Agrícola). La platanera va al revés: 29 hectáreas en 2017, un 14,71 % menos que en 2008 (misma fuente), en fincas pequeñas de la costa.
 
-La viña entra en la subzona Hoyo de Mazo de la DO [VERIFICAR: indicio en Guía Peñín: bodega Agrícola Velhoco; sin superficie de viña], y el resto es huerta y frutales de medianías.
+La viña entra en la subzona Hoyo de Mazo de la DO, y el resto es huerta y frutales de medianías.
 
 Las plagas son las de la vertiente este:
 
@@ -41,8 +41,6 @@ El clima ayuda a los hongos: alisio del nordeste, nubosidad frecuente en median�
 Se puede estudiar, que no es lo mismo. El T50 va leyendo el relieve con su radar de matriz en fase y la visión binocular, detecta obstáculos y adapta la velocidad a la pendiente, que es lo que pide una ladera de barranco. Lo que decide es lo que hay alrededor: cables que cruzan, viviendas pegadas, árboles más altos que la platanera, la propia pared del barranco.
 
 Todo eso se dibuja en el mapa de la parcela antes de volar. Hay fincas en los barrancos de la capital donde el plan de vuelo sale limpio y otras donde no sale, y preferimos decirlo con el mapa delante que después de haber ido. Como la base está a un paso, mirar la finca sobre el terreno no supone desplazamiento.
-
-[IMAGEN: Finca de platanera pequeña en la costa de Santa Cruz de La Palma, encajada entre la ladera y una vivienda | alt: platanera pequeña entre viviendas en la costa de Santa Cruz de La Palma]
 
 ## ¿Qué hace falta para contratar un tratamiento con dron desde la capital?
 
