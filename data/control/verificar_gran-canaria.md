@@ -1,0 +1,92 @@
+# Marcas [VERIFICAR] pendientes: gran-canaria
+
+Total: 44 marcas en 13 páginas.
+
+- `paginas/gran-canaria/agaete.md` | [VERIFICAR: superficie cultivada total de Agaete según el ISTAC]
+  - Contexto: El café da fama al valle, pero ocupa poco suelo: entre 10 y 15 hectáreas según el Gobierno de Canarias y Agropopular (2026). El censo de cafedeagaete.es suma 206,11 hectáreas en 87 explotaciones y estima unas 300 cultivadas en el valle. Una cifra cuenta cafetos; la otra, fincas mixtas con el café de
+- `paginas/gran-canaria/agaete.md` | [VERIFICAR: altitudes]
+  - Contexto: Esa mezcla manda. En una misma finca hay naranjos de porte medio, mangos y aguacates más altos, papayos y, al pie, cafetos a la sombra. Los bancales suben desde la costa hasta El Hornillo y Los Berrazales, a unos 600 metros [VERIFICAR: altitudes].
+- `paginas/gran-canaria/agaete.md` | [VERIFICAR: avisos de sanidad vegetal del Gobierno de Canarias sobre cítricos]
+  - Contexto: En los naranjos, el cotonet de Sudáfrica no está documentado en Gran Canaria [VERIFICAR: avisos de sanidad vegetal del Gobierno de Canarias sobre cítricos].
+- `paginas/gran-canaria/agaete.md` | [VERIFICAR: hectáreas por cultivo]
+  - Contexto: El cafeto que crece a la sombra de los frutales queda debajo de la copa que el dron moja: la pulverización desde el aire cubre el arbolado de arriba, no el café de abajo. Tampoco lo que quede de platanera o tomate bajo malla o invernadero [VERIFICAR: hectáreas por cultivo]. Con viento fuerte en la c
+- `paginas/gran-canaria/agaete.md` | [VERIFICAR: datos de viento y precipitación]
+  - Contexto: El cafeto que crece a la sombra de los frutales queda debajo de la copa que el dron moja: la pulverización desde el aire cubre el arbolado de arriba, no el café de abajo. Tampoco lo que quede de platanera o tomate bajo malla o invernadero [VERIFICAR: hectáreas por cultivo]. Con viento fuerte en la c
+- `paginas/gran-canaria/arucas.md` | [VERIFICAR: hectáreas cultivadas de Arucas en el ISTAC]
+  - Contexto: No hay cifra municipal de superficie cultivada en los datos de partida [VERIFICAR: hectáreas cultivadas de Arucas en el ISTAC]. Para situarlo, el ISTAC da 8.102,8 ha cultivadas en Gran Canaria en 2024 y el Mapa de Cultivos de ese año 1.940,7 ha de platanera en la isla.
+- `paginas/gran-canaria/arucas.md` | [VERIFICAR: porcentaje de platanera bajo malla en Arucas]
+  - Contexto: Durante la aplicación nadie está bajo la nube de caldo y la finca no se pisa con ruedas. Los límites: lo que esté bajo malla de techo o invernadero queda fuera, y en Arucas parte de la platanera va cubierta [VERIFICAR: porcentaje de platanera bajo malla en Arucas]. Con viento fuerte de costa no se v
+- `paginas/gran-canaria/arucas.md` | [VERIFICAR: hectáreas por cultivo en Arucas]
+  - Contexto: Fuera de la platanera, Arucas tiene hortalizas, papa de medianías y flores [VERIFICAR: hectáreas por cultivo en Arucas], y el proyecto Lairaga Tropical del Cabildo lo incluye entre los municipios con tierras en desuso a recuperar para mango, aguacate y papaya. Mango y aguacate al aire libre son trat
+- `paginas/gran-canaria/galdar.md` | [VERIFICAR: porcentaje de platanera bajo malla en Gáldar]
+  - Contexto: La vega de Gáldar a Sardina del Norte, entre el mar y los 200 metros, mezcla plataneras con invernaderos de tomate. El alisio entra por el noroeste casi a diario, así que la platanera crece entre cortavientos, la mayor parte al aire libre y una parte bajo malla [VERIFICAR: porcentaje de platanera ba
+- `paginas/gran-canaria/galdar.md` | [VERIFICAR: hectáreas de viña en Gáldar]
+  - Contexto: Hay mango y aguacate, y Canarias7 (enero de 2026) incluye a Gáldar en el proyecto Lairaga Tropical de subtropicales; la viña es puntual [VERIFICAR: hectáreas de viña en Gáldar]. Más en [dron agrícola para platanera](https://agrodroncanarias.es/dron-agricola-platanera/), [dron agrícola para papa](htt
+- `paginas/gran-canaria/la-aldea-de-san-nicolas.md` | [VERIFICAR: unidad, probablemente porcentaje de suelo agrícola cultivado]
+  - Contexto: La Aldea de San Nicolás encabeza el Mapa de Cultivos de Gran Canaria 2024 con un 38,9 según COAG y Canarias7 [VERIFICAR: unidad, probablemente porcentaje de suelo agrícola cultivado] y es la primera zona tomatera de la isla: entre 100 y 110 hectáreas de tomate según el alcalde (2021) y Coagrisan (20
+- `paginas/gran-canaria/la-aldea-de-san-nicolas.md` | [VERIFICAR: hectáreas por cultivo]
+  - Contexto: Las de árbol al aire libre: mango, aguacate y plátano puntual [VERIFICAR: hectáreas por cultivo]. El proyecto Lairaga Tropical del Cabildo y la Cooperativa Agrícola del Norte (2025-2026) quiere recuperar 100 hectáreas en desuso para subtropicales (45 de mango, 40 de aguacate, 15 de papaya) en nueve 
+- `paginas/gran-canaria/la-aldea-de-san-nicolas.md` | [VERIFICAR: porcentaje al aire libre]
+  - Contexto: La papaya suele ir bajo malla o invernadero en Canarias [VERIFICAR: porcentaje al aire libre], así que una papaya cubierta queda fuera. Un mango o un aguacate adulto es donde el DJI Agras T50 rinde: pulveriza desde arriba abono foliar o bioestimulante, con depósito de 40 litros y hasta 24 L/min con 
+- `paginas/gran-canaria/la-aldea-de-san-nicolas.md` | [VERIFICAR: precipitación media]
+  - Contexto: El llano aluvial de La Aldea, entre 0 y 200 metros, es un fondo de barranco ancho rodeado de laderas abruptas, en un término de 139 kilómetros cuadrados casi todo escarpado. El oeste queda a sotavento del alisio: calmas, mucha insolación y aridez [VERIFICAR: precipitación media].
+- `paginas/gran-canaria/mogan.md` | [VERIFICAR: avisos de sanidad vegetal del Gobierno de Canarias para mango]
+  - Contexto: Para el mango no hay plaga documentada en Gran Canaria [VERIFICAR: avisos de sanidad vegetal del Gobierno de Canarias para mango]. En 2025 el Ayuntamiento repartió 101 plantones de una nueva variedad de mango. El tomate que queda va bajo invernadero y no se trata desde el aire; la papaya bajo malla,
+- `paginas/gran-canaria/mogan.md` | [VERIFICAR: superficie de papaya y tomate]
+  - Contexto: Para el mango no hay plaga documentada en Gran Canaria [VERIFICAR: avisos de sanidad vegetal del Gobierno de Canarias para mango]. En 2025 el Ayuntamiento repartió 101 plantones de una nueva variedad de mango. El tomate que queda va bajo invernadero y no se trata desde el aire; la papaya bajo malla,
+- `paginas/gran-canaria/moya.md` | [VERIFICAR: épocas de siembra y arranque de la papa en Moya y Fontanales]
+  - Contexto: El calendario fino de siembras y arranques de la papa de Moya no está en los datos de partida [VERIFICAR: épocas de siembra y arranque de la papa en Moya y Fontanales]. A escala insular, el Cabildo habla de unas 1.200 ha de papa, un 90,5 % en regadío (Feria Insular de la Papa 2025-2026); el Mapa de 
+- `paginas/gran-canaria/moya.md` | [VERIFICAR: época de los avisos y comarca de Moya]
+  - Contexto: El mildiu (Phytophthora infestans) es la otra cara: enfermedad de hoja que avanza con humedad y que en Canarias genera avisos de riesgo alto por comarcas (Agrocabildo, 2024) [VERIFICAR: época de los avisos y comarca de Moya]. Qué hacer con él lo dicen esos avisos y el técnico; el dron no entra en el
+- `paginas/gran-canaria/moya.md` | [VERIFICAR: superficie de platanera en la costa de Moya]
+  - Contexto: - Encaja: papa y cebolla al aire libre en ciclo de hoja, con abono foliar, bioestimulante o corrector de carencias de uso permitido; hortícolas de ciclo corto en bancales; platanera descubierta de San Felipe y El Pagador [VERIFICAR: superficie de platanera en la costa de Moya]; frutales sin malla.
+- `paginas/gran-canaria/moya.md` | [VERIFICAR: dato climático de Fontanales]
+  - Contexto: Fontanales está entre los puntos más lluviosos y neblinosos de la isla [VERIFICAR: dato climático de Fontanales]; la laurisilva de Los Tilos lo confirma sin cifras. Alisio y mar de nubes son frecuentes en las medianías y la costa de San Felipe tiene viento propio. Antes de cada vuelo se mide y, si n
+- `paginas/gran-canaria/san-bartolome-de-tirajana.md` | [VERIFICAR: fechas locales de floración]
+  - Contexto: El albaricoque abre el año. La flor sale al final del invierno en los bancales de Fataga y Tirajana [VERIFICAR: fechas locales de floración]; la cosecha de 2021 ya se contaba a mediados de junio (Canarias7). Entre flor y recogida, el Ayuntamiento reparte mosqueros contra la mosca de la fruta (1.700 
+- `paginas/gran-canaria/san-bartolome-de-tirajana.md` | [VERIFICAR: especie]
+  - Contexto: El albaricoque abre el año. La flor sale al final del invierno en los bancales de Fataga y Tirajana [VERIFICAR: fechas locales de floración]; la cosecha de 2021 ya se contaba a mediados de junio (Canarias7). Entre flor y recogida, el Ayuntamiento reparte mosqueros contra la mosca de la fruta (1.700 
+- `paginas/gran-canaria/san-bartolome-de-tirajana.md` | [VERIFICAR: especies]
+  - Contexto: En mango y aguacate la temporada es larga; sus plagas (araña del aguacate, trips, cochinillas, según GOIA y Agrocabildo) las sigue la sanidad vegetal, y el dron entra con bioestimulantes y abono foliar. Para el olivar, el Cabildo estudia sus plagas por comarcas desde 2024 [VERIFICAR: especies].
+- `paginas/gran-canaria/san-bartolome-de-tirajana.md` | [VERIFICAR: hectáreas actuales]
+  - Contexto: A mediados del siglo XX la costa de Tirajana tenía más de 500 hectáreas de tomate (ULPGC). Lo que queda de tomate y pepino va bajo invernadero [VERIFICAR: hectáreas actuales], y el plástico no se atraviesa con pulverización aérea: el dron aquí es cosa de la medianía, no de la costa.
+- `paginas/gran-canaria/santa-maria-de-guia.md` | [VERIFICAR: porcentaje de platanera bajo malla en Guía]
+  - Contexto: La franja baja es platanera entre cortavientos, porque el alisio pega de frente en esta costa. Guía forma con Gáldar la comarca platanera del noroeste; un estudio de la ULPGC cita a Gáldar, Guía y Arucas como los municipios plataneros que sobresalen en la isla. La mayoría de las fincas van al aire l
+- `paginas/gran-canaria/santa-maria-de-guia.md` | [VERIFICAR: sistema de cultivo de la papaya en Guía]
+  - Contexto: Guía figura además en Lairaga Tropical, el proyecto para recuperar 100 ha de tierras en desuso de la isla con mango, aguacate y papaya. Mango y aguacate crecen al aire libre; la papaya suele ir bajo malla [VERIFICAR: sistema de cultivo de la papaya en Guía].
+- `paginas/gran-canaria/telde.md` | [VERIFICAR: superficie cultivada actual en el ISTAC]
+  - Contexto: Telde cultiva en torno a un millar de hectáreas con técnicas intensivas, según Wikipedia (sin año) [VERIFICAR: superficie cultivada actual en el ISTAC], y figura segundo en el ranking municipal del Mapa de Cultivos de Canarias 2024 (Canarias7) [VERIFICAR: unidad del valor 36,8]. Un dron agrícola en 
+- `paginas/gran-canaria/telde.md` | [VERIFICAR: unidad del valor 36,8]
+  - Contexto: Telde cultiva en torno a un millar de hectáreas con técnicas intensivas, según Wikipedia (sin año) [VERIFICAR: superficie cultivada actual en el ISTAC], y figura segundo en el ranking municipal del Mapa de Cultivos de Canarias 2024 (Canarias7) [VERIFICAR: unidad del valor 36,8]. Un dron agrícola en 
+- `paginas/gran-canaria/telde.md` | [VERIFICAR: fuente del porcentaje]
+  - Contexto: Entre el mar y los 150 metros, la vega costera es tomate y hortaliza de exportación, casi todo bajo invernadero o malla. Gran Canaria mantiene unas 350 hectáreas de tomate (Canarias7, marzo de 2025) y concentra en torno al 90 % del tomate de invernadero de Canarias [VERIFICAR: fuente del porcentaje]
+- `paginas/gran-canaria/telde.md` | [VERIFICAR: plagas de los cítricos de Telde]
+  - Contexto: El cítrico es frutal arbóreo al aire libre: tratable con abono foliar o correctores de carencias. Qué plaga tiene no lo afirmamos: el cotonet de Sudáfrica no está documentado en Gran Canaria (plan de acción del MAPA, 2024) y de minador o piojo rojo no hay cita canaria [VERIFICAR: plagas de los cítri
+- `paginas/gran-canaria/telde.md` | [VERIFICAR: sistema de cultivo de la papaya en Telde]
+  - Contexto: Aguacate y mango crecen: el proyecto Lairaga Tropical (Cabildo y Cooperativa Agrícola del Norte, 2025-2026) quiere recuperar 100 hectáreas en desuso de la isla para subtropicales, y Telde está en la lista (Canarias7, enero de 2026). Aguacate y mango van al aire libre; la papaya suele ir bajo malla [
+- `paginas/gran-canaria/teror.md` | [VERIFICAR: precipitación media anual de Teror]
+  - Contexto: Cuando levanta. El mar de nubes del alisio se asienta entre 800 y 1.500 metros según GEVIC; el casco de Teror está a unos 600 y las fincas suben hasta los 1.400 en Osorio, en una de las zonas con más niebla y lluvia de la isla [VERIFICAR: precipitación media anual de Teror]. Eso quita horas de vuelo
+- `paginas/gran-canaria/teror.md` | [VERIFICAR: sistema de cultivo de las flores de Teror]
+  - Contexto: - Flores: en Gran Canaria van sobre todo bajo invernadero o malla, y lo cubierto no se trata desde el aire [VERIFICAR: sistema de cultivo de las flores de Teror].
+- `paginas/gran-canaria/teror.md` | [VERIFICAR: superficie de frutales en Teror]
+  - Contexto: - Frutales de medianías: solo en parcelas agrupadas [VERIFICAR: superficie de frutales en Teror].
+- `paginas/gran-canaria/teror.md` | [VERIFICAR: hectáreas cultivadas de Teror, serie municipal del ISTAC]
+  - Contexto: La superficie cultivada del municipio no la tenemos con fuente [VERIFICAR: hectáreas cultivadas de Teror, serie municipal del ISTAC]; la isla suma 8.102,8 según el ISTAC de 2024, y el resto, en [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/). El vecino de la 
+- `paginas/gran-canaria/valsequillo.md` | [VERIFICAR: sistema de cultivo y hectáreas de la fresa de Valsequillo]
+  - Contexto: La fresa de Valsequillo va, según los datos que manejamos, bajo túnel o invernadero [VERIFICAR: sistema de cultivo y hectáreas de la fresa de Valsequillo]. Si es así, queda fuera: el producto aplicado desde el aire no atraviesa un plástico ni una malla. Si tienes fresa a cielo abierto, es otra conve
+- `paginas/gran-canaria/valsequillo.md` | [VERIFICAR: plagas de la fresa en Gran Canaria]
+  - Contexto: La fresa de Valsequillo va, según los datos que manejamos, bajo túnel o invernadero [VERIFICAR: sistema de cultivo y hectáreas de la fresa de Valsequillo]. Si es así, queda fuera: el producto aplicado desde el aire no atraviesa un plástico ni una malla. Si tienes fresa a cielo abierto, es otra conve
+- `paginas/gran-canaria/valsequillo.md` | [VERIFICAR: hectáreas de almendro, cítricos y frutales en Valsequillo]
+  - Contexto: El almendro es el otro cultivo de peso: el Cabildo sitúa en Tejeda y Valsequillo la mayor tradición y producción de almendra de la isla. Árboles de secano, en ladera, al aire libre. Cítricos y frutales de medianías completan el cuadro [VERIFICAR: hectáreas de almendro, cítricos y frutales en Valsequ
+- `paginas/gran-canaria/valsequillo.md` | [VERIFICAR: incidencia en el municipio]
+  - Contexto: En papa, la referencia insular es la polilla guatemalteca (Tecia solanivora), en Gran Canaria desde 2002 y con hasta un tercio de la papa afectada hacia 2021 (Valencia Fruits); para Valsequillo no hay cita específica [VERIFICAR: incidencia en el municipio]. Su control es de almacén y retirada de tub
+- `paginas/gran-canaria/valsequillo.md` | [VERIFICAR: monilia en los almendros de Gran Canaria]
+  - Contexto: En almendro, el tigre del almendro (Monosteira unicostata) es una especie muy invasora extendida por Europa y Canarias (Agronews); la monilia, con máxima susceptibilidad en floración, solo está documentada en fuentes peninsulares [VERIFICAR: monilia en los almendros de Gran Canaria]. En cítricos no 
+- `paginas/gran-canaria/vega-de-san-mateo.md` | [VERIFICAR: calendario de avisos de mildiu en papa para las medianías de Gran Canaria e incidencia en San Mateo]
+  - Contexto: Con la papa en plena hoja y la humedad del alisio, el mildiu (Phytophthora infestans) es la enfermedad que vigilan los técnicos: Agrocabildo emite avisos de riesgo alto por comarcas (2024) [VERIFICAR: calendario de avisos de mildiu en papa para las medianías de Gran Canaria e incidencia en San Mateo
+- `paginas/gran-canaria/vega-de-san-mateo.md` | [VERIFICAR: hectáreas de frutales en San Mateo y plagas de manzano y peral en Gran Canaria]
+  - Contexto: Pasada la papa, la vega se llena de hortalizas de mercado y millo, y en las fincas altas quedan manzana, pera y castaño, sin plagas documentadas con fuente local [VERIFICAR: hectáreas de frutales en San Mateo y plagas de manzano y peral en Gran Canaria]; no proponemos tratamientos sin saber si hacen
+- `paginas/islas/gran-canaria.md` | [VERIFICAR: porcentaje bajo cubierta]
+  - Contexto: - Norte platanero (Gáldar, Guía, Arucas): plátano entre cortavientos, parte bajo malla [VERIFICAR: porcentaje bajo cubierta].
+- `paginas/islas/gran-canaria.md` | [VERIFICAR]
+  - Contexto: Bajo invernadero o malla, y fuera: tomate y pepino de La Aldea, el sureste y la costa de Gáldar y Mogán; flores de Guía y Santa Lucía; fresa de Valsequillo si va bajo túnel [VERIFICAR]; papaya cuando va cubierta. El DJI Agras T50 pulveriza desde arriba; lo que tiene techo no lo trata.

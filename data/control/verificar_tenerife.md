@@ -1,0 +1,150 @@
+# Marcas [VERIFICAR] pendientes: tenerife
+
+Total: 73 marcas en 23 páginas.
+
+- `paginas/islas/tenerife.md` | [VERIFICAR: cifra actual]
+  - Contexto: - Platanera: 45 % de la superficie platanera canaria en 2022 (CCE a partir del ISTAC), unas 4.000 hectáreas [VERIFICAR: cifra actual]. En Canarias unas 3.200 de 9.100 hectáreas van bajo cubierta (eldiario.es, 2023); en Tenerife, sobre todo en el sur, con Arona en cabeza (Guía Repsol).
+- `paginas/islas/tenerife.md` | [VERIFICAR: año del dato]
+  - Contexto: - Viña: 2.763,5 hectáreas (ISTAC vía Diagnóstico de la viticultura, 2020) [VERIFICAR: año del dato], cinco denominaciones de origen, toda descubierta.
+- `paginas/islas/tenerife.md` | [VERIFICAR: conciliar cifras]
+  - Contexto: - Papa: tercer cultivo; 2.869 hectáreas (Cabildo, 2019) o 1.745 (Mapa de Cultivos 2021) [VERIFICAR: conciliar cifras].
+- `paginas/tenerife/adeje.md` | [VERIFICAR: porcentaje de platanera cubierta en Adeje]
+  - Contexto: Depende de lo que tenga encima. La platanera del sur de Tenerife va en gran parte bajo invernadero o malla [VERIFICAR: porcentaje de platanera cubierta en Adeje], y desde el aire no se trata nada que tenga techo. La finca abierta, con cortavientos laterales y la piña al descubierto, sí.
+- `paginas/tenerife/adeje.md` | [VERIFICAR: si Adeje está dentro]
+  - Contexto: La parra va por brotación, envero y vendimia; las enfermedades (mildiu, oídio y botritis, con riesgo alto de oídio en zonas bajas entre el 30 de abril y el 7 de mayo) las siguen los avisos del Cabildo, no el dron. Desde 2025 hay filoxera en Tenerife con zona demarcada [VERIFICAR: si Adeje está dentr
+- `paginas/tenerife/arico.md` | [VERIFICAR: proporción de pitaya bajo malla en Arico]
+  - Contexto: En la misma franja de 0 a 100 metros ha crecido la pitaya, que el Cabildo describe como cultivo comercial consolidado con ensayos iniciales en Arico. Es un cactus bajo sobre tutores, al aire libre en la mayoría de las parcelas [VERIFICAR: proporción de pitaya bajo malla en Arico]. Ahí el dron encaja
+- `paginas/tenerife/arico.md` | [VERIFICAR: presencia documentada en Arico]
+  - Contexto: Por encima de los pueblos siguen bancales de secano con almendros dispersos y cereal. El almendro se trata desde el aire si no está mezclado con tendidos; el tigre del almendro (Monosteira unicostata) figura como especie extendida por Europa y Canarias (Agronews) [VERIFICAR: presencia documentada en
+- `paginas/tenerife/arico.md` | [VERIFICAR: municipios incluidos]
+  - Contexto: - Viña: mildiu, oídio y botritis, con avisos semanales por comarca en datos.tenerife.es; riesgo alto de oídio en zonas bajas entre el 30 de abril y el 7 de mayo de un año reciente. Filoxera en Tenerife desde 2025, con zona demarcada [VERIFICAR: municipios incluidos].
+- `paginas/tenerife/arona.md` | [VERIFICAR: superficie de platanera al aire libre en Arona]
+  - Contexto: Lo que va dentro queda fuera del dron: la pulverización no atraviesa la cubierta. Las fincas descubiertas de esta franja [VERIFICAR: superficie de platanera al aire libre en Arona] sí se tratan, y son las que buscamos en una consulta de la costa. Las Galletas es además ventosa, con brisas del suroes
+- `paginas/tenerife/arona.md` | [VERIFICAR: si la zona demarcada toca Arona]
+  - Contexto: - Viña (medianías): mildiu, oídio y botritis, con los avisos por comarca del Cabildo en datos.tenerife.es y riesgo alto de oídio en zonas bajas entre el 30 de abril y el 7 de mayo. Filoxera en Tenerife desde 2025 [VERIFICAR: si la zona demarcada toca Arona].
+- `paginas/tenerife/buenavista-del-norte.md` | [VERIFICAR: superficie de viña y papa en El Palmar, Las Portelas y Teno Alto]
+  - Contexto: La parte alta son los valles de Teno dentro del Parque Rural: El Palmar entre 500 y 700 metros, Las Portelas, y Teno Alto entre 700 y 800, con bancales de piedra, pistas estrechas y nieblas frecuentes. Teno Alto es muy ventoso. Allí la viña y la papa ocupan parcelas pequeñas y escalonadas [VERIFICAR
+- `paginas/tenerife/buenavista-del-norte.md` | [VERIFICAR: altura media en la zona]
+  - Contexto: En la platanera de costa el tratamiento clásico es atomizador arrastrado o pistola desde el pasillo, con la cadena de riego por medio y plantas de 3 a 4 metros [VERIFICAR: altura media en la zona]. Se moja quien aplica, se compacta el suelo húmedo y en fincas sin pasillo ancho el tractor no entra.
+- `paginas/tenerife/buenavista-del-norte.md` | [VERIFICAR: municipios de la zona demarcada]
+  - Contexto: Viña. El Cabildo publica avisos semanales por comarca de mildiu, oídio y botritis, y en 2025 se detectó filoxera en Tenerife con zona demarcada [VERIFICAR: municipios de la zona demarcada]. La viña de Buenavista entra en la DO Ycoden-Daute-Isora.
+- `paginas/tenerife/candelaria.md` | [VERIFICAR: calendario de siembra de papa en Candelaria]
+  - Contexto: - Otoño: siembra de papa [VERIFICAR: calendario de siembra de papa en Candelaria]; hortaliza de hoja.
+- `paginas/tenerife/candelaria.md` | [VERIFICAR: si Candelaria está en la zona demarcada]
+  - Contexto: La filoxera, detectada en Tenerife en 2025, dejó en 2026 un total de 16 positivos en 5.429 prospecciones y restricciones al movimiento de uva en vendimia (AtlánticoHoy) [VERIFICAR: si Candelaria está en la zona demarcada]. No se trata con pulverización, pero cambia la logística del verano.
+- `paginas/tenerife/candelaria.md` | [VERIFICAR: plagas de cítricos en el Valle de Güímar]
+  - Contexto: Al aguacate le pesa la araña cristalina (Oligonychus perseae), en Tenerife desde 2006 y presente en el 81,5 % de las parcelas encuestadas por el Cabildo, con cochinilla y trips detrás. De los cítricos no hay plaga con fuente local [VERIFICAR: plagas de cítricos en el Valle de Güímar].
+- `paginas/tenerife/el-sauzal.md` | [VERIFICAR: año y comarcas de ese aviso]
+  - Contexto: Primavera, brotación y primeras hojas: el oídio es la enfermedad considerada endémica en Canarias (guía de la viña de Agrocabildo, 2020). Los avisos del Cabildo marcaron riesgo alto de oídio en las zonas bajas de Tenerife del 30 de abril al 7 de mayo [VERIFICAR: año y comarcas de ese aviso].
+- `paginas/tenerife/el-sauzal.md` | [VERIFICAR: si El Sauzal está en la zona demarcada]
+  - Contexto: Vendimia: en 2025 se detectó filoxera en Tenerife, por primera vez en Canarias, con zona demarcada, y la vendimia de 2026 llevó medidas de bioseguridad y restricciones al movimiento de uva (AtlánticoHoy) [VERIFICAR: si El Sauzal está en la zona demarcada]. La filoxera no se trata con pulverización; 
+- `paginas/tenerife/el-sauzal.md` | [VERIFICAR: superficie de platanera en El Sauzal]
+  - Contexto: Fuera de la viña, El Sauzal tiene papa, frutales y huerta en las medianías, y algo de platanera residual en la costa [VERIFICAR: superficie de platanera en El Sauzal]. La papa del norte carga con la polilla guatemalteca (Tecia solanivora), en la isla desde 1999 y con pérdidas cercanas al 50 % en med
+- `paginas/tenerife/garachico.md` | [VERIFICAR: cotas]
+  - Contexto: La viña del Reparo y Genovés está entre 500 y 900 m [VERIFICAR: cotas], en bancales de medianías. El Cabildo publica avisos por comarca de mildiu, oídio y botritis (datos.tenerife.es), y hacia 2024 marcó riesgo alto de oídio en zonas bajas de la isla entre el 30 de abril y el 7 de mayo.
+- `paginas/tenerife/garachico.md` | [VERIFICAR: épocas de riesgo en platanera del norte de Tenerife]
+  - Contexto: En la platanera de la plataforma el verano es de calor: Agroseguro registró en 2024 daños por calor en platanera, sobre todo en La Palma. No hay calendario de plagas con fuente para la platanera [VERIFICAR: épocas de riesgo en platanera del norte de Tenerife]; finca a finca se decide si tras el calo
+- `paginas/tenerife/garachico.md` | [VERIFICAR: época del aviso]
+  - Contexto: En las medianías hay papa. El Cabildo emitió aviso de riesgo alto de mildiu de la papa para el norte de Tenerife (hacia 2024) [VERIFICAR: época del aviso] y la polilla guatemalteca castiga al norte con pérdidas cercanas al 50 % en secano (eldiario.es): las dos van con el Cabildo. Con dron, en la pap
+- `paginas/tenerife/garachico.md` | [VERIFICAR: si Garachico está en la zona demarcada]
+  - Contexto: La viña en parada no se trata, pero la filoxera se detectó en Tenerife en 2025, con zona demarcada y bioseguridad en la vendimia de 2026 [VERIFICAR: si Garachico está en la zona demarcada]. Es plaga de raíz; no hay pulverización que valga.
+- `paginas/tenerife/garachico.md` | [VERIFICAR: porcentaje de platanera bajo malla en Garachico]
+  - Contexto: La plataforma es terreno cómodo para el dron si la finca va al aire libre, que en la Isla Baja es la mayoría [VERIFICAR: porcentaje de platanera bajo malla en Garachico]; lo que esté bajo malla o invernadero no se trata. En los bancales del Reparo el dron ahorra subir la mochila.
+- `paginas/tenerife/granadilla-de-abona.md` | [VERIFICAR: fechas de siembra en Charco del Pino y Cruz de Tea]
+  - Contexto: En la vecina Vilaflor la siembra de papa va del 15 de julio al 15 de agosto según su web municipal, y en las cotas altas de Granadilla es parecido [VERIFICAR: fechas de siembra en Charco del Pino y Cruz de Tea]. En la provincia el 60 % de la papa es de media estación, el 25 % temprana y el 15 % tard
+- `paginas/tenerife/granadilla-de-abona.md` | [VERIFICAR: si Granadilla está en la zona demarcada]
+  - Contexto: Para la viña, el final de julio trae riesgo elevado de oídio, riesgo medio de mildiu en algunas comarcas y atención a la botritis en envero (boletín Agrocabildo del 31 de julio, año sin indicar). Luego la vendimia, con bioseguridad y límites al movimiento de uva desde la filoxera detectada en Teneri
+- `paginas/tenerife/guia-de-isora.md` | [VERIFICAR: porcentaje bajo cubierta en Guía de Isora]
+  - Contexto: Falta saber cuánta piña va cubierta. Canarias tiene unas 3.200 ha de platanera bajo invernadero o malla de 9.100 totales (eldiario.es, 2023), y el sur de Tenerife concentra buena parte [VERIFICAR: porcentaje bajo cubierta en Guía de Isora]. La finca con techo de plástico o malla horizontal queda fue
+- `paginas/tenerife/guia-de-isora.md` | [VERIFICAR: si Guía de Isora está en la zona demarcada]
+  - Contexto: Guía de Isora cierra por el sur la DO Ycoden-Daute-Isora, que suma entre 1.000 y 1.600 ha de viña con 306 ha controladas por el Consejo (descorchandoversos, 2018). En las medianías de Chío, Chirche y Aripe la parra va al aire libre y su calendario de mildiu, oídio y botritis lo dictan los avisos del
+- `paginas/tenerife/guimar.md` | [VERIFICAR: hectáreas de viña-papa en la ficha de Güímar]
+  - Contexto: La ficha recoge la asociación viña-papa en una tabla parcialmente ilegible en nuestra consulta [VERIFICAR: hectáreas de viña-papa en la ficha de Güímar]. En el campo: parcelas pequeñas, parras bajas, muros en escalones y caminos sin tractor.
+- `paginas/tenerife/guimar.md` | [VERIFICAR: si el Valle de Güímar está en la zona demarcada]
+  - Contexto: Desde 2025 hay otro frente: la filoxera, detectada en Tenerife con zona demarcada y 16 positivos sobre 5.429 prospecciones en 2026 (AtlánticoHoy) [VERIFICAR: si el Valle de Güímar está en la zona demarcada]. El dron no la combate; sí reduce entradas de maquinaria en la viña.
+- `paginas/tenerife/guimar.md` | [VERIFICAR: horario de calma habitual en las medianías de Güímar]
+  - Contexto: Recogemos ubicación, cultivo, superficie, accesos y obstáculos (tendidos, cortavientos, árboles altos), dibujamos el vuelo sobre el mapa de la parcela y medimos el viento antes de despegar. En el Valle de Güímar importa: el alisio entra por la tarde con viento moderado o fuerte en la costa, así que 
+- `paginas/tenerife/guimar.md` | [VERIFICAR: proporción de platanera bajo cubierta en la costa de Güímar]
+  - Contexto: Nada bajo malla o invernadero se trata desde el aire: en el valle, las ornamentales de la comarca y la platanera que lleve malla [VERIFICAR: proporción de platanera bajo cubierta en la costa de Güímar]. Con viento sobre el límite seguro, se aplaza.
+- `paginas/tenerife/icod-de-los-vinos.md` | [VERIFICAR: cotas por pago]
+  - Contexto: Icod de los Vinos mide 95,9 km² y va del mar al Teide: platanera por debajo de los 300 m, viña entre 200 y 700 m y papa de 400 a 1.000 m [VERIFICAR: cotas por pago]. Tres cultivos, tres alturas y una misma pega, la pendiente. Un dron agrícola en Icod de los Vinos se justifica por el terreno antes qu
+- `paginas/tenerife/icod-de-los-vinos.md` | [VERIFICAR: hectáreas de viña en el municipio]
+  - Contexto: Viña: la DO Ycoden-Daute-Isora suma entre 1.000 y 1.600 ha en la comarca, con 306 ha controladas por el Consejo (descorchandoversos, 2018) [VERIFICAR: hectáreas de viña en el municipio]. El Cabildo publica avisos semanales por comarca de mildiu, oídio y botritis (datos.tenerife.es). La filoxera apar
+- `paginas/tenerife/icod-de-los-vinos.md` | [VERIFICAR: si Icod está en la zona demarcada]
+  - Contexto: Viña: la DO Ycoden-Daute-Isora suma entre 1.000 y 1.600 ha en la comarca, con 306 ha controladas por el Consejo (descorchandoversos, 2018) [VERIFICAR: hectáreas de viña en el municipio]. El Cabildo publica avisos semanales por comarca de mildiu, oídio y botritis (datos.tenerife.es). La filoxera apar
+- `paginas/tenerife/icod-de-los-vinos.md` | [VERIFICAR: porcentaje bajo malla en Icod]
+  - Contexto: La platanera bajo malla o invernadero no se trata: la cubierta frena el producto. En el noroeste la mayoría va al aire libre [VERIFICAR: porcentaje bajo malla en Icod].
+- `paginas/tenerife/la-matanza-de-acentejo.md` | [VERIFICAR: cultivos presentes en la costa del municipio]
+  - Contexto: La franja baja de La Matanza es acantilado, con poco suelo cultivable y accesos difíciles [VERIFICAR: cultivos presentes en la costa del municipio]. Para el dron no es zona prioritaria.
+- `paginas/tenerife/la-matanza-de-acentejo.md` | [VERIFICAR: ha de viña de La Matanza en el Mapa de Cultivos]
+  - Contexto: La superficie de viña del municipio no está en fuente oficial localizada [VERIFICAR: ha de viña de La Matanza en el Mapa de Cultivos]; para la comarca van de 760 ha inscritas en la DO (2022) a 1.583 ha cultivadas (ICCA). El patrón es el mismo: muchas terrazas, pocos caminos de tractor.
+- `paginas/tenerife/la-matanza-de-acentejo.md` | [VERIFICAR: superficie de castaño, aguacate y huerta en la zona alta]
+  - Contexto: Por encima, el monte de La Matanza tiene castaños, frutales (entre ellos aguacate) y huerta [VERIFICAR: superficie de castaño, aguacate y huerta en la zona alta]. El castaño de monte queda fuera: el dron se centra en cultivo agrícola al aire libre.
+- `paginas/tenerife/la-matanza-de-acentejo.md` | [VERIFICAR: si La Matanza está en la zona demarcada]
+  - Contexto: La filoxera apareció en Tenerife en 2025, por primera vez en Canarias, con zona demarcada; en 2026 se contaron 16 positivos en 5.429 prospecciones (AtlánticoHoy) [VERIFICAR: si La Matanza está en la zona demarcada]. Es un problema de raíz y de movimiento de material vegetal, no de pulverización.
+- `paginas/tenerife/la-orotava.md` | [VERIFICAR: cotas por pago]
+  - Contexto: La EnciclopediaGuanche, sin fecha, da 574,22 ha de papa y otras 197,32 ha de viña y papa asociadas. Papa de medianías y zona alta, en bancales desde los 300 m hasta pasar los 1.000 [VERIFICAR: cotas por pago].
+- `paginas/tenerife/la-orotava.md` | [VERIFICAR: proporción en cordón trenzado]
+  - Contexto: La viña del Valle suma 313,1 ha según Agrocabildo (2024), un 47,8 % menos que diez años antes; en La Orotava es el 19,7 % de la superficie agrícola. Viña baja en el cordón trenzado propio del valle [VERIFICAR: proporción en cordón trenzado], el único cultivo que creció tras la DO de 1994 (Investigac
+- `paginas/tenerife/la-orotava.md` | [VERIFICAR: si el Valle entra en la zona demarcada]
+  - Contexto: En viña, el Cabildo publica avisos por comarca de mildiu, oídio y botritis (datos.tenerife.es); el oídio estuvo en riesgo alto en zonas bajas del 30 de abril al 7 de mayo. Agrocabildo estudió en 2024 los hongos de la madera en el Valle, y la filoxera se detectó en Tenerife en 2025 [VERIFICAR: si el 
+- `paginas/tenerife/la-orotava.md` | [VERIFICAR: porcentaje bajo malla en La Orotava]
+  - Contexto: La platanera bajo malla o invernadero no se trata desde el aire. En el norte de Tenerife la mayoría está al aire libre [VERIFICAR: porcentaje bajo malla en La Orotava]. Y las medianías pasan buena parte del año dentro del mar de nubes: con niebla cerrada o racha fuerte no se vuela.
+- `paginas/tenerife/la-victoria-de-acentejo.md` | [VERIFICAR: hectáreas de viña en la ficha del Mapa de Cultivos de La Victoria de Acentejo]
+  - Contexto: La comarca de Acentejo suma 1.583 hectáreas de viña cultivada según el ICCA del Gobierno de Canarias; el Consejo Regulador contaba en 2022 con 760 hectáreas inscritas, 1.100 viticultores y 32 bodegas. Para La Victoria no hay dato municipal localizado [VERIFICAR: hectáreas de viña en la ficha del Map
+- `paginas/tenerife/la-victoria-de-acentejo.md` | [VERIFICAR: si La Victoria está dentro de la zona demarcada]
+  - Contexto: La filoxera se detectó en Tenerife en 2025, con zona demarcada; en 2026 hubo 16 positivos en 5.429 prospecciones (AtlánticoHoy) [VERIFICAR: si La Victoria está dentro de la zona demarcada]. Es plaga de raíz y la pulverización no la toca, pero condiciona el movimiento de uva en vendimia.
+- `paginas/tenerife/la-victoria-de-acentejo.md` | [VERIFICAR: superficie de platanera en La Victoria]
+  - Contexto: Frutales y huerta completan las medianías; en la costa queda platanera residual [VERIFICAR: superficie de platanera en La Victoria]. Más en [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/), el hub d
+- `paginas/tenerife/los-realejos.md` | [VERIFICAR: cotas por pago]
+  - Contexto: El municipio arranca en la platanera de los acantilados costeros y sube hasta las medianías de Icod el Alto y Palo Blanco, entre 600 y 1.000 m [VERIFICAR: cotas por pago]. Los barrancos de Ruiz y Godínez lo cortan y los bancales ganan terreno a la pendiente.
+- `paginas/tenerife/los-realejos.md` | [VERIFICAR: hectáreas de platanera en la costa de Los Realejos]
+  - Contexto: La platanera realejera está en la franja baja, en Rambla de Castro y La Gordejuela [VERIFICAR: hectáreas de platanera en la costa de Los Realejos], casi toda al aire libre [VERIFICAR: proporción bajo malla]. Fincas colgadas sobre el acantilado, con pistas donde el tractor llega mal. El dron despega 
+- `paginas/tenerife/los-realejos.md` | [VERIFICAR: proporción bajo malla]
+  - Contexto: La platanera realejera está en la franja baja, en Rambla de Castro y La Gordejuela [VERIFICAR: hectáreas de platanera en la costa de Los Realejos], casi toda al aire libre [VERIFICAR: proporción bajo malla]. Fincas colgadas sobre el acantilado, con pistas donde el tractor llega mal. El dron despega 
+- `paginas/tenerife/los-realejos.md` | [VERIFICAR: si Los Realejos está en la zona demarcada]
+  - Contexto: El dron tampoco va contra la polilla guatemalteca (tubérculo), el picudo (cormo), los hongos de la madera que Agrocabildo estudió en el Valle en 2024 (tronco) ni la filoxera detectada en Tenerife en 2025 [VERIFICAR: si Los Realejos está en la zona demarcada], que es de raíz. Ni vuela sobre nada bajo
+- `paginas/tenerife/los-silos.md` | [VERIFICAR: porcentaje de platanera bajo malla en Los Silos]
+  - Contexto: En Canarias cerca de un 35 % del plátano crece bajo invernadero o malla (eldiario.es, 2023), pero ese peso lo lleva el sur de Tenerife; en la Isla Baja predomina la finca al aire libre con cortavientos perimetrales [VERIFICAR: porcentaje de platanera bajo malla en Los Silos]. Lo que va bajo cubierta
+- `paginas/tenerife/los-silos.md` | [VERIFICAR: altura media en la zona]
+  - Contexto: La platanera es un cultivo alto, en torno a 3-4 metros [VERIFICAR: altura media en la zona], denso y cruzado por cadenas de riego. Con mochila toca levantar la lanza y empaparse; con atomizador hace falta pasillo. El dron pulveriza desde arriba, sin pisar el suelo, el abono foliar o el bioestimulant
+- `paginas/tenerife/los-silos.md` | [VERIFICAR: superficie de viña y papa en las medianías de Los Silos]
+  - Contexto: Fuera del plátano, Los Silos tiene huerta y frutales en la franja baja, y viña y papa en las medianías de Tierra del Trigo y Erjos, entre 700 y 1.100 metros, en bancales con nieblas frecuentes [VERIFICAR: superficie de viña y papa en las medianías de Los Silos]. En esa papa pesan la polilla guatemal
+- `paginas/tenerife/san-cristobal-de-la-laguna.md` | [VERIFICAR: proporción actual bajo malla o invernadero en la costa de La Laguna]
+  - Contexto: En la franja baja de la costa norte está la platanera lagunera, históricamente al aire libre [VERIFICAR: proporción actual bajo malla o invernadero en la costa de La Laguna], con cortavientos y un clima más cálido que el de la ciudad. El dron trata desde arriba una planta alta; el radar de matriz en
+- `paginas/tenerife/san-cristobal-de-la-laguna.md` | [VERIFICAR: superficie cultivada en el Anaga lagunero]
+  - Contexto: En la parte de Anaga que cae en La Laguna hay bancales en ladera, huerta y viña de la DO en parcelas pequeñas [VERIFICAR: superficie cultivada en el Anaga lagunero]. Pistas estrechas, mucha humedad y accesos a pie. Es donde la mochila pesa más y donde el dron, que ajusta la velocidad a la pendiente,
+- `paginas/tenerife/san-miguel-de-abona.md` | [VERIFICAR: cotas agrícolas del municipio]
+  - Contexto: San Miguel de Abona baja en una sola pendiente larga orientada al sur, desde las cotas altas de papa hasta la costa industrial de Las Chafiras y el Golf del Sur. Un dron agrícola en San Miguel de Abona trabaja en la franja media, entre 500 y 900 metros [VERIFICAR: cotas agrícolas del municipio], don
+- `paginas/tenerife/san-miguel-de-abona.md` | [VERIFICAR: pagos agrícolas de San Miguel]
+  - Contexto: El término sube de la costa a la cumbre en una vertiente continua a sotavento, árida y de mucho sol, con el frescor nocturno de las medianías como única tregua (tenerifeconnect, webtenerife). La agricultura se reparte entre el casco, El Frontón y Aldea Blanca, en bancales de muro seco sobre jable, l
+- `paginas/tenerife/san-miguel-de-abona.md` | [VERIFICAR: superficie y cultivos de invernadero en la costa]
+  - Contexto: Abajo, en Las Chafiras y Guargacho, lo que queda de agricultura va bajo invernadero: hortalizas y tomate [VERIFICAR: superficie y cultivos de invernadero en la costa]. Esa parte no es objetivo del dron.
+- `paginas/tenerife/san-miguel-de-abona.md` | [VERIFICAR: si San Miguel está dentro]
+  - Contexto: La viña de la DOP Abona, 795 ha y 1.467 viticultores en toda la denominación (Consejo Regulador), sigue los avisos semanales por comarca del Cabildo para mildiu, oídio y botritis. En 2025 se detectó filoxera en Tenerife con zona demarcada [VERIFICAR: si San Miguel está dentro]. El tomate de invernad
+- `paginas/tenerife/santa-ursula.md` | [VERIFICAR: superficie de platanera y frutales en la costa de Santa Úrsula]
+  - Contexto: La costa es acantilada y protegida como Paisaje Protegido de la Costa de Acentejo; queda algo de platanera y frutales [VERIFICAR: superficie de platanera y frutales en la costa de Santa Úrsula]. Desde los 300 metros la ladera se escalona en bancales de viña y papa hasta tocar el pinar; el término li
+- `paginas/tenerife/santa-ursula.md` | [VERIFICAR: ficha del Mapa de Cultivos de Santa Úrsula]
+  - Contexto: La viña es el primer cultivo. La comarca de Acentejo cultiva 1.583 hectáreas según el ICCA del Gobierno de Canarias; Santa Úrsula no tiene cifra municipal localizada [VERIFICAR: ficha del Mapa de Cultivos de Santa Úrsula]. El Cabildo publica avisos semanales por comarca de mildiu, oídio y botritis (
+- `paginas/tenerife/tacoronte.md` | [VERIFICAR: superficie de viña de Tacoronte en el Mapa de Cultivos]
+  - Contexto: Para el municipio no hay cifra oficial localizada [VERIFICAR: superficie de viña de Tacoronte en el Mapa de Cultivos]. Para la comarca hay varias y no coinciden: el ICCA habla de 1.583 ha cultivadas; la DO, en su treinta aniversario (2022), de 760 ha inscritas, 1.100 viticultores y 32 bodegas; Vinod
+- `paginas/tenerife/tacoronte.md` | [VERIFICAR: sistemas de conducción predominantes en la viña de Tacoronte]
+  - Contexto: Se mira la parcela: altura del parral, densidad de hoja y producto a aplicar (un foliar para la hoja no es mojar el racimo) deciden si el dron encaja [VERIFICAR: sistemas de conducción predominantes en la viña de Tacoronte].
+- `paginas/tenerife/tacoronte.md` | [VERIFICAR: altura]
+  - Contexto: El aguacate crece: el Cabildo recuperó 3 hectáreas entre Tacoronte y La Laguna para 500 árboles de aguacate y café, con 512.015 euros (eldiario.es). Su plaga principal en Tenerife es la araña cristalina (Oligonychus perseae), presente desde 2006 en el 81,5 % de las parcelas encuestadas por el Cabild
+- `paginas/tenerife/tacoronte.md` | [VERIFICAR: superficie]
+  - Contexto: La platanera de El Pris y Mesa del Mar es residual [VERIFICAR: superficie] y, al aire libre, se trata como en el resto de la isla.
+- `paginas/tenerife/tacoronte.md` | [VERIFICAR: municipios de la zona demarcada]
+  - Contexto: Tienen poco sentido: lo que vaya bajo malla o invernadero, parcelas minúsculas entre viviendas sin margen de seguridad, y plagas que ninguna pulverización resuelve, como la filoxera detectada en Tenerife en 2025 [VERIFICAR: municipios de la zona demarcada].
+- `paginas/tenerife/tegueste.md` | [VERIFICAR: hectáreas actuales de viña en Tegueste en el Mapa de Cultivos]
+  - Contexto: Sí: en Tegueste la viña está toda al aire libre. El valle figura entre los municipios con más registros de viña en el Diagnóstico de la viticultura en Canarias (diciembre de 2020), y parte del término entra en la DO Tacoronte-Acentejo. GEVIC habla de más de 300 hectáreas y llama a la viña "producto 
+- `paginas/tenerife/tegueste.md` | [VERIFICAR: cultivo protegido en el municipio]
+  - Contexto: Viña, papa y huerta al aire libre, sí; los frutales también, porque el dron trata desde arriba sin importar la altura del árbol. Lo que esté bajo malla o invernadero, no: el producto no atraviesa la cubierta. Los datos de Tegueste no recogen superficie bajo plástico [VERIFICAR: cultivo protegido en 
+- `paginas/tenerife/vilaflor-de-chasna.md` | [VERIFICAR: rendimiento del T50 por encima de 1.400 m con depósito lleno]
+  - Contexto: Sí. El DJI Agras T50 ajusta la velocidad a la pendiente y sigue el terreno con radar de matriz en fase y visión binocular, también en un bancal estrecho. Lo que cambia con la altura es la densidad del aire: los motores trabajan más para sostener el depósito de 40 litros y cada batería dura menos [VE
+- `paginas/tenerife/vilaflor-de-chasna.md` | [VERIFICAR: si Vilaflor está en la zona demarcada]
+  - Contexto: Y la filoxera, detectada en Tenerife en 2025 con zona demarcada y 16 positivos en 5.429 prospecciones en 2026 (AtlánticoHoy) [VERIFICAR: si Vilaflor está en la zona demarcada]: el dron no la elimina, pero evita mover maquinaria entre viñas.
+- `paginas/tenerife/vilaflor-de-chasna.md` | [VERIFICAR: régimen de viento local en Vilaflor]
+  - Contexto: - Las horas más tranquilas suelen ser primera de la mañana y última de la tarde [VERIFICAR: régimen de viento local en Vilaflor].
+- `paginas/tenerife/vilaflor-de-chasna.md` | [VERIFICAR: daños documentados en Tenerife]
+  - Contexto: - Almendro y frutales templados: árboles dispersos en secano, tratables si no hay tendidos. El tigre del almendro (Monosteira unicostata) se cita como especie extendida por Europa y Canarias (Agronews) [VERIFICAR: daños documentados en Tenerife].
