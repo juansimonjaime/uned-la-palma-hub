@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Buenavista del Norte | Agrodrón Canarias"
+title: "Dron agrícola en Buenavista del Norte | AgroDron Canarias"
 slug: "buenavista-del-norte"
 meta_description: "Dron agrícola en Buenavista del Norte: platanera de costa frente a Teno y bancales de El Palmar. Tratamientos con desplazamiento desde La Palma."
 keyword: "dron agrícola en Buenavista del Norte"
@@ -12,7 +12,7 @@ municipio: "Buenavista del Norte"
 
 # Dron agrícola en Buenavista del Norte: de las fincas de costa a los bancales de Teno
 
-Buenavista del Norte es el municipio con más platanera de la Isla Baja: 567,2 hectáreas en 2011 según el boletín de Desarrollo Rural del Cabildo (agosto de 2011), en el llano a los pies del macizo de Teno. Detrás, en El Palmar, Las Portelas y Teno Alto, la agricultura cambia a bancales de papa y viña. Un dron agrícola en Buenavista del Norte tiene que servir en ambos sitios. Agrodrón Canarias trabaja aquí con desplazamiento desde La Palma y bajo consulta de disponibilidad.
+Buenavista del Norte es el municipio con más platanera de la Isla Baja: 567,2 hectáreas en 2011 según el boletín de Desarrollo Rural del Cabildo (agosto de 2011), en el llano a los pies del macizo de Teno. Detrás, en El Palmar, Las Portelas y Teno Alto, la agricultura cambia a bancales de papa y viña. Un dron agrícola en Buenavista del Norte tiene que servir en ambos sitios. AgroDron Canarias trabaja aquí con desplazamiento desde La Palma y bajo consulta de disponibilidad.
 
 ## Un término de 67,4 km² con dos agriculturas
 
@@ -28,7 +28,7 @@ En los bancales de El Palmar o Teno Alto es peor: mochila a la espalda, cuesta a
 
 ## Qué cambia con un dron agrícola en Buenavista del Norte
 
-El DJI Agras T50 de Agrodrón pulveriza desde el aire y no toca el suelo. Carga 40 litros y aplica hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha técnica de DJI). En la costa eso significa repartir un abono foliar o un bioestimulante por la finca completa sin abrir pasillo y sin que nadie camine bajo el producto.
+El DJI Agras T50 de AgroDron pulveriza desde el aire y no toca el suelo. Carga 40 litros y aplica hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha técnica de DJI). En la costa eso significa repartir un abono foliar o un bioestimulante por la finca completa sin abrir pasillo y sin que nadie camine bajo el producto.
 
 En los bancales importa otro detalle: el radar de matriz en fase y la visión binocular siguen el relieve y regulan la velocidad con la pendiente, así que el dron mantiene la altura sobre el cultivo al pasar de una terraza a la siguiente. Despega desde la pista o desde el propio bancal.
 
@@ -46,7 +46,7 @@ Puedes ampliar en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-
 
 ## Normativa en dos frases
 
-El piloto de Agrodrón vuela en categoría específica de AESA/EASA (STS o PDRA-S01), con certificado en vigor, y el llano de Buenavista y los valles de Teno, dentro del Parque Rural, se comprueban en el mapa de zonas geográficas de UAS de ENAIRE antes de trazar el plan. Solo productos de uso permitido en el cultivo, a dosis de etiqueta, sobre parcela al aire libre; con viento fuerte, lluvia o niebla no se despega.
+El piloto de AgroDron vuela en categoría específica de AESA/EASA (STS o PDRA-S01), con certificado en vigor, y el llano de Buenavista y los valles de Teno, dentro del Parque Rural, se comprueban en el mapa de zonas geográficas de UAS de ENAIRE antes de trazar el plan. Solo productos de uso permitido en el cultivo, a dosis de etiqueta, sobre parcela al aire libre; con viento fuerte, lluvia o niebla no se despega.
 
 ## Preguntas frecuentes sobre tratamientos con dron en Buenavista del Norte
 
@@ -67,7 +67,7 @@ Depende de la disponibilidad y de la superficie. Lo habitual es agrupar varias f
 
 ## Pide presupuesto para tu finca en Buenavista del Norte
 
-Mándanos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) ubicación, cultivo, hectáreas y accesos de tu finca, en el llano o en los valles de Teno. Te decimos si el dron encaja y te pasamos un presupuesto que tenga en cuenta el desplazamiento desde La Palma.
+Mándanos desde [AgroDron Canarias](https://agrodroncanarias.es/contacto) ubicación, cultivo, hectáreas y accesos de tu finca, en el llano o en los valles de Teno. Te decimos si el dron encaja y te pasamos un presupuesto que tenga en cuenta el desplazamiento desde La Palma.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -83,7 +83,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/buenavista-del-norte/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

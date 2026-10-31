@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Valle Gran Rey | Agrodrón Canarias"
+title: "Dron agrícola en Valle Gran Rey | AgroDron Canarias"
 slug: "valle-gran-rey"
 meta_description: "Dron agrícola en Valle Gran Rey: el año de la platanera y los frutales del valle, cuándo encaja un tratamiento con dron y cómo venimos desde La Palma."
 keyword: "dron agrícola en Valle Gran Rey"
@@ -20,7 +20,7 @@ Valle Gran Rey es un valle encajado del oeste de La Gomera que sube de la costa 
 
 Por eso la página es de nivel B con reserva [VERIFICAR: superficie de platanera y frutales] y se ciñe a lo que tiene fuente. Los datos hablan de frutales sin desglose [VERIFICAR: indicio en la AEAT, índices del IRPF: aguacate y mango en el municipio]; tomamos mango y papaya como referencia.
 
-Clima de sotavento: por debajo de 800–1.000 m el valle queda fuera del alisio, con pocos días de nubes y lluvia (Arozena), y con brisas de valle. Agrodrón Canarias sale de Santa Cruz de La Palma y viene a La Gomera con desplazamiento y bajo disponibilidad: la fecha ideal del tratamiento y la fecha en que el equipo puede estar en el valle tienen que cuadrar.
+Clima de sotavento: por debajo de 800–1.000 m el valle queda fuera del alisio, con pocos días de nubes y lluvia (Arozena), y con brisas de valle. AgroDron Canarias sale de Santa Cruz de La Palma y viene a La Gomera con desplazamiento y bajo disponibilidad: la fecha ideal del tratamiento y la fecha en que el equipo puede estar en el valle tienen que cuadrar.
 
 ## De enero a abril: humedad baja, lluvias de abril y arranque
 
@@ -53,7 +53,7 @@ El DJI Agras T50 lleva 40 litros de depósito y hasta 16 L/min con dos boquillas
 
 Al valle se entra por una sola carretera y las fincas están en terrazas a ambos lados del barranco. El T50 sigue el relieve con radar de matriz en fase y visión binocular y ajusta la velocidad a la pendiente; las palmeras, altas y repartidas entre bancales, son el obstáculo típico del plan de vuelo.
 
-Sobre el papel: Agrodrón opera en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01) con piloto certificado; la terraza se sitúa en el mapa de zonas geográficas de UAS de ENAIRE; y solo se pulverizan productos de uso permitido en el cultivo, a dosis de etiqueta, sobre parcela descubierta. Más en [dron agrícola en La Gomera](https://agrodroncanarias.es/dron-agricola-la-gomera/), [dron para plataneras](https://agrodroncanarias.es/dron-agricola-platanera/) y [dron agrícola para frutales subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/).
+Sobre el papel: AgroDron opera en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01) con piloto certificado; la terraza se sitúa en el mapa de zonas geográficas de UAS de ENAIRE; y solo se pulverizan productos de uso permitido en el cultivo, a dosis de etiqueta, sobre parcela descubierta. Más en [dron agrícola en La Gomera](https://agrodroncanarias.es/dron-agricola-la-gomera/), [dron para plataneras](https://agrodroncanarias.es/dron-agricola-platanera/) y [dron agrícola para frutales subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/).
 
 ## Preguntas frecuentes sobre el dron en Valle Gran Rey
 
@@ -71,7 +71,7 @@ Se avisa con margen y se agrupan fincas del valle o del municipio vecino. Venimo
 
 ## Pide presupuesto y cuadramos la fecha
 
-Dinos qué tienes en el valle (platanera, frutales, huerta), en qué cota, cuánta superficie y en qué momento del año te preocupa. Te decimos si el dron encaja, con qué reservas, y te mandamos un presupuesto que cuenta el desplazamiento desde La Palma. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Dinos qué tienes en el valle (platanera, frutales, huerta), en qué cota, cuánta superficie y en qué momento del año te preocupa. Te decimos si el dron encaja, con qué reservas, y te mandamos un presupuesto que cuenta el desplazamiento desde La Palma. Escríbenos desde [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -87,7 +87,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-la-gomera/valle-gran-rey/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Valsequillo | Agrodrón Canarias"
+title: "Dron agrícola en Valsequillo | AgroDron Canarias"
 slug: "valsequillo"
 meta_description: "Dron agrícola en Valsequillo: la fresa bajo túnel no se trata desde el aire; papa, millo, almendro y cítricos de medianías sí. Pide presupuesto."
 keyword: "dron agrícola en Valsequillo"
@@ -50,7 +50,7 @@ Después, mesa y campo: ubicación de cada parcela, superficie, acceso y obstác
 
 El barranco de San Miguel y las laderas más cerradas marcan dónde se vuela con seguridad; las parcelas estrechas entre casas se estudian una a una. El viento se mira el día del tratamiento y, si no permite una aplicación limpia, se cambia.
 
-Y el espacio aéreo. Agrodrón vuela en la categoría específica de AESA, en escenarios estándar STS o bajo el PDRA-S01, con piloto certificado, y comprueba las zonas geográficas de UAS de ENAIRE para cada bancal de Tenteniguada o del valle. En el depósito solo va producto de uso permitido en papa, almendro o cítrico, a dosis de etiqueta, sobre cultivo descubierto.
+Y el espacio aéreo. AgroDron vuela en la categoría específica de AESA, en escenarios estándar STS o bajo el PDRA-S01, con piloto certificado, y comprueba las zonas geográficas de UAS de ENAIRE para cada bancal de Tenteniguada o del valle. En el depósito solo va producto de uso permitido en papa, almendro o cítrico, a dosis de etiqueta, sobre cultivo descubierto.
 
 La isla, con 8.102,8 hectáreas cultivadas en 2024 según el ISTAC, está en [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/); ladera abajo, el vecino tiene la suya: [dron agrícola en Telde](https://agrodroncanarias.es/dron-agricola-gran-canaria/telde/). Para la papa, [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/).
 
@@ -90,7 +90,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/valsequillo/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

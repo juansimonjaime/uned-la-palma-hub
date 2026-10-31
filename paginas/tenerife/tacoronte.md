@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Tacoronte | Agrodrón Canarias"
+title: "Dron agrícola en Tacoronte | AgroDron Canarias"
 slug: "tacoronte"
 meta_description: "Dron agrícola en Tacoronte: viña de la DO Tacoronte-Acentejo en terrazas, papa, aguacate y platanera. Presupuesto con desplazamiento desde La Palma."
 keyword: "dron agrícola en Tacoronte"
@@ -44,7 +44,7 @@ La platanera de El Pris y Mesa del Mar, si va al aire libre, se trata como en el
 
 ## ¿Qué hace falta para contratar un tratamiento con dron desde La Palma?
 
-Datos de la parcela (ubicación, cultivo, superficie, accesos, obstáculos) y el producto previsto: abono foliar, bioestimulante o corrector. Con eso Agrodrón planifica el vuelo y cuadra el desplazamiento desde La Palma por disponibilidad, agrupando parcelas de Acentejo si puede.
+Datos de la parcela (ubicación, cultivo, superficie, accesos, obstáculos) y el producto previsto: abono foliar, bioestimulante o corrector. Con eso AgroDron planifica el vuelo y cuadra el desplazamiento desde La Palma por disponibilidad, agrupando parcelas de Acentejo si puede.
 
 Lo demás va por cuenta del operador: categoría específica de AESA/EASA, en escenario estándar o bajo el PDRA-S01, con piloto certificado; consulta de las zonas geográficas de UAS en el mapa de ENAIRE, con el aeropuerto de Tenerife Norte a pocos kilómetros; y solo productos de uso permitido en viña, papa o aguacate, a dosis de etiqueta, sobre parcela descubierta.
 
@@ -72,7 +72,7 @@ No hay tarifa cerrada: depende de pendiente, número de terrazas, producto y des
 
 ## Pide presupuesto para tu viña o tu finca en Tacoronte
 
-Entra en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) y cuéntanos qué tienes (viña en parral o en vaso, papa, aguacate, platanera), dónde y cuánto. Te decimos si encaja y te mandamos presupuesto; la salida desde La Palma va según disponibilidad.
+Entra en [AgroDron Canarias](https://agrodroncanarias.es/contacto) y cuéntanos qué tienes (viña en parral o en vaso, papa, aguacate, platanera), dónde y cuánto. Te decimos si encaja y te mandamos presupuesto; la salida desde La Palma va según disponibilidad.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -88,7 +88,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/tacoronte/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

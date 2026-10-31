@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Arico | Agrodrón Canarias"
+title: "Dron agrícola en Arico | AgroDron Canarias"
 slug: "arico"
 meta_description: "Dron agrícola en Arico por zonas: papa y viña de medianías en bancal y jable, pitaya en costa; el tomate de invernadero no. Desplazamiento desde La Palma."
 keyword: "dron agrícola en Arico"
@@ -64,7 +64,7 @@ Sin ver la parcela no hay cifra: cuentan superficie, número de bancales, acceso
 
 ## Presupuesto para tu finca de Arico, zona por zona
 
-Cuéntanos en qué zona está la finca (costa, medianías o secano alto), cultivo y superficie, y si hay cables o invernaderos alrededor. Te decimos si entra en la próxima salida con desplazamiento desde La Palma y te mandamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Cuéntanos en qué zona está la finca (costa, medianías o secano alto), cultivo y superficie, y si hay cables o invernaderos alrededor. Te decimos si entra en la próxima salida con desplazamiento desde La Palma y te mandamos presupuesto desde [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -80,7 +80,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/arico/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

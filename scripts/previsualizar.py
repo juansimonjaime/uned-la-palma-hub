@@ -131,14 +131,14 @@ def maquetar(cuerpo_html, fm, rel, a_raiz):
         cta = f"<section class='cta'><div class='in'><h2>¿Encaja el dron en tu finca?</h2><p><a class='btn' href='{CONTACTO}'>Pedir presupuesto</a></p></div></section>"
 
     titulo = h1.group(1) if h1 else fm.get("title", "")
-    return (f"<div class='nav'><a class='logo' href='{a_raiz}index.html'>Agrodrón <span>Canarias</span></a>"
+    return (f"<div class='nav'><a class='logo' href='{a_raiz}index.html'>AgroDron <span>Canarias</span></a>"
             f"<a class='btn peq' href='{CONTACTO}'>Pedir presupuesto</a></div>"
             f"<section class='hero'><div class='in'><div><h1>{titulo}</h1>{lede}"
             f"<a class='btn' href='{CONTACTO}'>Pedir presupuesto</a>"
             f"<div class='nota'>Cuéntanos finca, cultivo y superficie y te decimos si el dron encaja.</div></div>"
             f"<div>{foto_html}</div></div></section>{confianza}"
             f"<main>{intro}{''.join(secciones)}</main>{cta}"
-            f"<footer>Agrodrón Canarias · Santa Cruz de La Palma · agrodroncanarias.es</footer>"
+            f"<footer>AgroDron Canarias · Santa Cruz de La Palma · agrodroncanarias.es</footer>"
             f"<div class='fijo'><a class='btn' href='{CONTACTO}'>Pedir presupuesto</a></div>")
 
 

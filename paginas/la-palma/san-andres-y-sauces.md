@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en San Andrés y Sauces | Agrodrón Canarias"
+title: "Dron agrícola en San Andrés y Sauces | AgroDron Canarias"
 slug: "san-andres-y-sauces"
 meta_description: "Dron agrícola en San Andrés y Sauces: platanera de Los Sauces, cochinilla y trips todo el año, humedad del alisio. Cuándo encaja el vuelo y presupuesto."
 keyword: "dron agrícola en San Andrés y Sauces"
@@ -74,7 +74,7 @@ Con la superficie real de los bancales, los sectores en que haya que dividir la 
 
 ## Cuéntanos qué cuelga en tus bancales y te pasamos presupuesto
 
-Dinos en qué parte de Los Sauces o San Andrés está la finca, cuántos bancales tiene, qué sectores están con piña y si hay cortavientos o cables. Con eso, en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) te decimos si el dron encaja y te preparamos el presupuesto.
+Dinos en qué parte de Los Sauces o San Andrés está la finca, cuántos bancales tiene, qué sectores están con piña y si hay cortavientos o cables. Con eso, en [AgroDron Canarias](https://agrodroncanarias.es/contacto) te decimos si el dron encaja y te preparamos el presupuesto.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -90,7 +90,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/san-andres-y-sauces/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

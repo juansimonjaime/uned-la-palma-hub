@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Fuerteventura | Agrodrón Canarias"
+title: "Dron agrícola en Fuerteventura | AgroDron Canarias"
 slug: "dron-agricola-fuerteventura"
 meta_description: "Dron agrícola en Fuerteventura: unas 760 ha cultivadas, tomate bajo cubierta que no se trata y un hueco real en aloe, forrajes y gavias. Pide presupuesto."
 keyword: "dron agrícola en Fuerteventura"
@@ -12,7 +12,7 @@ municipio: ""
 
 # Dron agrícola en Fuerteventura: un hueco pequeño, y cuál es
 
-Fuerteventura cultivaba unas 760 hectáreas en 2021 según el ISTAC (vía ASAGA), alrededor del 2 % de las casi 40.000 ha canarias (cálculo propio). Es poca tierra, su cultivo de exportación va bajo cubierta y el viento no afloja, así que esta página de dron agrícola en Fuerteventura empieza por lo que no hacemos y sigue por el hueco real. Agrodrón Canarias tiene base en Santa Cruz de La Palma; aquí el servicio es con desplazamiento y bajo disponibilidad.
+Fuerteventura cultivaba unas 760 hectáreas en 2021 según el ISTAC (vía ASAGA), alrededor del 2 % de las casi 40.000 ha canarias (cálculo propio). Es poca tierra, su cultivo de exportación va bajo cubierta y el viento no afloja, así que esta página de dron agrícola en Fuerteventura empieza por lo que no hacemos y sigue por el hueco real. AgroDron Canarias tiene base en Santa Cruz de La Palma; aquí el servicio es con desplazamiento y bajo disponibilidad.
 
 [IMAGEN: Paisaje de gavias con trastones de tierra en el centro de Fuerteventura, con una parcela de aloe vera y el macizo de Betancuria al fondo | alt: Gavias y aloe vera al aire libre en el interior de Fuerteventura]
 
@@ -55,7 +55,7 @@ Nos mandas ubicación, cultivo, superficie, accesos, obstáculos y el producto q
 
 ## Las condiciones para pulverizar con dron en la isla
 
-El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01, con piloto certificado. Lo que se pulveriza son abonos foliares, bioestimulantes y correctores de carencias de uso permitido en el cultivo, a la dosis de la etiqueta, solo sobre parcela descubierta.
+El piloto de AgroDron vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01, con piloto certificado. Lo que se pulveriza son abonos foliares, bioestimulantes y correctores de carencias de uso permitido en el cultivo, a la dosis de la etiqueta, solo sobre parcela descubierta.
 
 Y en una isla sin relieve que frene el alisio, el viento se mide en la gavia el mismo día y decide si se vuela; con lluvia o niebla tampoco se despega.
 
@@ -77,7 +77,7 @@ Porque ese tomate va bajo invernadero y el dron no lo trata; al aire libre queda
 
 ## Pide presupuesto para tu finca al aire libre en Fuerteventura
 
-Si cultivas aloe, olivar, forraje u hortícola al aire libre, mándanos dónde está la finca, cuántas hectáreas y qué problema hay. Te decimos si el dron encaja y te pasamos un presupuesto que cuenta con el desplazamiento desde La Palma: [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Si cultivas aloe, olivar, forraje u hortícola al aire libre, mándanos dónde está la finca, cuántas hectáreas y qué problema hay. Te decimos si el dron encaja y te pasamos un presupuesto que cuenta con el desplazamiento desde La Palma: [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -93,7 +93,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-fuerteventura/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

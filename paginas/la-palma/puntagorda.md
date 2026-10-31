@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Puntagorda | Agrodrón Canarias"
+title: "Dron agrícola en Puntagorda | AgroDron Canarias"
 slug: "puntagorda"
 meta_description: "Dron agrícola en Puntagorda: calendario de tratamientos para almendro, viña, aguacate y platanera de costa en fincas pequeñas y ventosas. Pide presupuesto."
 keyword: "dron agrícola en Puntagorda"
@@ -77,7 +77,7 @@ Pesa la superficie, el cultivo y, sobre todo aquí, lo repartidas que estén las
 
 ## Pide presupuesto para tus fincas de Puntagorda
 
-Cuéntanos qué tienes (almendro, viña, aguacate o platanera), en qué pagos están las parcelas y qué quieres tratar y cuándo. Te decimos si encaja en el calendario y te mandamos un presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto). Sin desplazamiento: salimos desde Santa Cruz de La Palma.
+Cuéntanos qué tienes (almendro, viña, aguacate o platanera), en qué pagos están las parcelas y qué quieres tratar y cuándo. Te decimos si encaja en el calendario y te mandamos un presupuesto desde [AgroDron Canarias](https://agrodroncanarias.es/contacto). Sin desplazamiento: salimos desde Santa Cruz de La Palma.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -93,7 +93,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/puntagorda/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

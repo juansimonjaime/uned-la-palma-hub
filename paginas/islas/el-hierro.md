@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en El Hierro | Agrodrón Canarias"
+title: "Dron agrícola en El Hierro | AgroDron Canarias"
 slug: "dron-agricola-el-hierro"
 meta_description: "Dron agrícola en El Hierro: viña, piña tropical y platanera de El Golfo, 1.835 ha cultivadas en 2021, viento y secano. Desplazamiento desde La Palma."
 keyword: "dron agrícola en El Hierro"
@@ -50,13 +50,13 @@ Lo que sí hace un dron: aplicar foliares y bioestimulantes de uso permitido sob
 
 ## Cómo se organiza una salida a El Hierro desde La Palma
 
-Agrodrón Canarias tiene base en Santa Cruz de La Palma y trabaja con un DJI Agras T50 de 40 litros que sigue el relieve con radar y visión binocular. Venir a El Hierro es mover equipo, baterías y piloto: la salida se organiza con fincas agrupadas, datos de cada parcela recibidos antes (mapa, cultivo, superficie, accesos, malla, cables) y una ventana de viento aceptable, bajo disponibilidad y sin plazos prometidos.
+AgroDron Canarias tiene base en Santa Cruz de La Palma y trabaja con un DJI Agras T50 de 40 litros que sigue el relieve con radar y visión binocular. Venir a El Hierro es mover equipo, baterías y piloto: la salida se organiza con fincas agrupadas, datos de cada parcela recibidos antes (mapa, cultivo, superficie, accesos, malla, cables) y una ventana de viento aceptable, bajo disponibilidad y sin plazos prometidos.
 
 Marco en un párrafo: el piloto opera en la categoría específica de AESA/EASA como operador STS y bajo PDRA-S01; la parcela de El Golfo o de Echedo se comprueba en el mapa de zonas geográficas de UAS de ENAIRE antes de planificar; se pulveriza solo producto de uso permitido en el cultivo, a la dosis de su etiqueta, sobre cultivo descubierto; y con brisa fuerte, lluvia o niebla no se vuela.
 
 ## Preguntas frecuentes sobre el dron agrícola en El Hierro
 
-### ¿Agrodrón trabaja en El Hierro o solo en La Palma?
+### ¿AgroDron trabaja en El Hierro o solo en La Palma?
 En toda Canarias, pero fuera de La Palma con desplazamiento y bajo disponibilidad. En El Hierro una salida tiene sentido con varias parcelas, normalmente en El Golfo, en el mismo viaje.
 
 ### ¿Se puede tratar la piña tropical de El Golfo con dron?
@@ -70,7 +70,7 @@ A veces: alisio en cumbre, noreste en medianías, brisa en El Golfo. Se mide en 
 
 ## Presupuesto para tu finca en El Hierro
 
-Cuéntanos qué tienes en El Golfo, en las medianías o en el sur, cuánta superficie y si va descubierto o bajo malla. Te respondemos con lo que se puede tratar desde el aire y un presupuesto con el desplazamiento desde La Palma incluido. Escríbenos en [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Cuéntanos qué tienes en El Golfo, en las medianías o en el sur, cuánta superficie y si va descubierto o bajo malla. Te respondemos con lo que se puede tratar desde el aire y un presupuesto con el desplazamiento desde La Palma incluido. Escríbenos en [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -86,7 +86,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-el-hierro/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -106,7 +106,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "¿Agrodrón trabaja en El Hierro o solo en La Palma?",
+          "name": "¿AgroDron trabaja en El Hierro o solo en La Palma?",
           "acceptedAnswer": { "@type": "Answer", "text": "En toda Canarias, pero fuera de La Palma con desplazamiento y bajo disponibilidad. En El Hierro una salida tiene sentido con varias parcelas, normalmente en El Golfo, en el mismo viaje." }
         },
         {

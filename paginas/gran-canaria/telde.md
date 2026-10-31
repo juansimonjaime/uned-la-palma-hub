@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Telde | Agrodrón Canarias"
+title: "Dron agrícola en Telde | AgroDron Canarias"
 slug: "telde"
 meta_description: "Dron agrícola en Telde: naranja de El Ejido y Valle de los Nueve, platanera y aguacate al aire libre; el tomate de invernadero no. Pide presupuesto."
 keyword: "dron agrícola en Telde"
@@ -16,7 +16,7 @@ Telde tenía 716,6 hectáreas cultivadas según el ISTAC (datos de 2017 recogido
 
 [IMAGEN: Naranjos en producción en una finca de El Ejido, Telde, con cortavientos y la vega de Valle de los Nueve al fondo | alt: finca de naranjos de la naranja de Telde en El Ejido, Gran Canaria]
 
-Antes de entrar en zonas: Agrodrón Canarias trabaja en Telde con desplazamiento desde La Palma y bajo disponibilidad; las fincas se agrupan por zona en una misma salida.
+Antes de entrar en zonas: AgroDron Canarias trabaja en Telde con desplazamiento desde La Palma y bajo disponibilidad; las fincas se agrupan por zona en una misma salida.
 
 ## Costa y llanos: Ojos de Garza, Melenara y Salinetas
 
@@ -90,7 +90,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/telde/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

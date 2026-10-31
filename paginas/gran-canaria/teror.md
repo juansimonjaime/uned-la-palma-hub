@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Teror | Agrodrón Canarias"
+title: "Dron agrícola en Teror | AgroDron Canarias"
 slug: "teror"
 meta_description: "Dron agrícola en Teror para papa, millo y hortalizas de medianías en bancales pequeños: cuándo encaja, qué pasa con la niebla y cómo pedir presupuesto."
 keyword: "dron agrícola en Teror"
@@ -20,7 +20,7 @@ Teror cultiva papa y millo desde el siglo XVIII, según el Atlas Rural de Gran C
 
 Sí, si está al aire libre y se puede mapear. Lo que decide no es el tamaño sino el acceso: media fanegada en ladera, con el muro del bancal de por medio y el coche en la pista de arriba, es la finca que siempre se ha tratado con la mochila al hombro. El DJI Agras T50 despega desde esa misma pista.
 
-El depósito del T50 carga 40 litros, de sobra para tu parcela y las dos del vecino, así que en Teror se juntan varias fincas de un mismo pago en una jornada. Agrodrón Canarias tiene la base en Santa Cruz de La Palma; a Gran Canaria se viene con desplazamiento y según disponibilidad, y agrupar parcelas es lo que hace que la salida compense.
+El depósito del T50 carga 40 litros, de sobra para tu parcela y las dos del vecino, así que en Teror se juntan varias fincas de un mismo pago en una jornada. AgroDron Canarias tiene la base en Santa Cruz de La Palma; a Gran Canaria se viene con desplazamiento y según disponibilidad, y agrupar parcelas es lo que hace que la salida compense.
 
 ## ¿Y con la niebla de Teror, cuándo se vuela?
 
@@ -38,7 +38,7 @@ La larva vive dentro del tubérculo y la lucha se gana en el almacén, en la rot
 
 Tres cosas tuyas: la ubicación de la parcela (vale un punto en el mapa), el cultivo y la superficie, y qué hay alrededor: cables, árboles altos, un invernadero de flores. Con eso se planifica el vuelo.
 
-Y una nuestra, el orden del vuelo. El piloto de Agrodrón vuela en la categoría específica de AESA, en escenarios estándar STS o bajo el PDRA-S01, con certificado; antes de dibujar la ruta sobre tu bancal se comprueban las zonas geográficas de UAS de ENAIRE. En el depósito solo va producto de uso permitido en papa, millo u hortaliza, a dosis de etiqueta, sobre cultivo descubierto.
+Y una nuestra, el orden del vuelo. El piloto de AgroDron vuela en la categoría específica de AESA, en escenarios estándar STS o bajo el PDRA-S01, con certificado; antes de dibujar la ruta sobre tu bancal se comprueban las zonas geográficas de UAS de ENAIRE. En el depósito solo va producto de uso permitido en papa, millo u hortaliza, a dosis de etiqueta, sobre cultivo descubierto.
 
 ## ¿Qué cultivos de Teror encajan con el dron y cuáles no?
 
@@ -87,7 +87,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/teror/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

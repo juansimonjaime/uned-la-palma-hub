@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Guía de Isora | Agrodrón Canarias"
+title: "Dron agrícola en Guía de Isora | AgroDron Canarias"
 slug: "guia-de-isora"
 meta_description: "Dron agrícola en Guía de Isora para la platanera al aire libre y la viña de Ycoden-Daute-Isora. Salida desde La Palma con desplazamiento; pide presupuesto."
 keyword: "dron agrícola en Guía de Isora"
@@ -12,7 +12,7 @@ municipio: "Guía de Isora"
 
 # Dron agrícola en Guía de Isora: la platanera más grande del sur, finca a finca
 
-Guía de Isora tenía 845,4 hectáreas de platanera en 2021 según el informe de plátano de Mercatenerife, la mayor superficie del sur de Tenerife. Un dron agrícola en Guía de Isora solo tiene sentido en la parte de esa platanera que crece al aire libre: lo que va bajo malla o invernadero no se trata desde el aire. Agrodrón Canarias sale desde Santa Cruz de La Palma, así que aquí el servicio es con desplazamiento y bajo consulta de disponibilidad.
+Guía de Isora tenía 845,4 hectáreas de platanera en 2021 según el informe de plátano de Mercatenerife, la mayor superficie del sur de Tenerife. Un dron agrícola en Guía de Isora solo tiene sentido en la parte de esa platanera que crece al aire libre: lo que va bajo malla o invernadero no se trata desde el aire. AgroDron Canarias sale desde Santa Cruz de La Palma, así que aquí el servicio es con desplazamiento y bajo consulta de disponibilidad.
 
 ## 845 hectáreas de platanera: cuánta va descubierta y cuánta con techo
 
@@ -28,7 +28,7 @@ El picudo negro (Cosmopolites sordidus), la plaga número uno de la platanera ca
 
 ## Por qué un dron agrícola en Guía de Isora encaja en la platanera abierta
 
-Una platanera adulta levanta varios metros y la mochila moja sobre todo la parte baja; el dron pulveriza desde arriba, sobre la hoja, y ahí van los abonos foliares, bioestimulantes y correctores que la finca necesite tras un verano de calor. El DJI Agras T50 de Agrodrón lleva 40 litros y aplica hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha técnica de DJI).
+Una platanera adulta levanta varios metros y la mochila moja sobre todo la parte baja; el dron pulveriza desde arriba, sobre la hoja, y ahí van los abonos foliares, bioestimulantes y correctores que la finca necesite tras un verano de calor. El DJI Agras T50 de AgroDron lleva 40 litros y aplica hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha técnica de DJI).
 
 Su radar de matriz en fase y la visión binocular siguen el relieve y detectan obstáculos. En la costa isorana las fincas son bastante llanas, pero hay cables, depósitos y naves de empaquetado entre parcelas, y se marcan en el mapa antes de volar.
 
@@ -36,7 +36,7 @@ Su radar de matriz en fase y la visión binocular siguen el relieve y detectan o
 
 La cubierta ya queda dicha. La salida desde La Palma se agrupa con otras fincas de la comarca, sin plazos prometidos, y antes se recogen los datos: ubicación, hectáreas, malla, cables o árboles altos, y el producto que quieres aplicar, con su etiqueta. El viento se comprueba en la finca: la vertiente sur es más tranquila que la norte, pero el suroeste tiene rachas locales (webtenerife) y con racha no se despega.
 
-Ese producto tiene que ser de uso permitido en platanera o en viña y va a la dosis de su etiqueta: abonos foliares, bioestimulantes, correctores de carencias, siempre sobre cultivo al aire libre. El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el PDRA-S01, y la costa isorana, como cualquier parcela, se comprueba antes en el mapa de zonas geográficas de UAS de ENAIRE.
+Ese producto tiene que ser de uso permitido en platanera o en viña y va a la dosis de su etiqueta: abonos foliares, bioestimulantes, correctores de carencias, siempre sobre cultivo al aire libre. El piloto de AgroDron vuela en la categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el PDRA-S01, y la costa isorana, como cualquier parcela, se comprueba antes en el mapa de zonas geográficas de UAS de ENAIRE.
 
 ## Viña de Ycoden-Daute-Isora, tomate residual, higos y almendros
 
@@ -62,7 +62,7 @@ Sí, la viña va al aire libre y admite abonado foliar y bioestimulantes con el 
 
 ## Pide presupuesto para tu finca de Guía de Isora
 
-Dinos zona, qué parte de la platanera va descubierta, hectáreas y qué quieres aplicar; te decimos si el dron encaja y te mandamos un presupuesto con el desplazamiento desde La Palma incluido. Escríbenos en [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Dinos zona, qué parte de la platanera va descubierta, hectáreas y qué quieres aplicar; te decimos si el dron encaja y te mandamos un presupuesto con el desplazamiento desde La Palma incluido. Escríbenos en [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -78,7 +78,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/guia-de-isora/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

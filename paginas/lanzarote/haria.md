@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Haría | Agrodrón Canarias"
+title: "Dron agrícola en Haría | AgroDron Canarias"
 slug: "haria"
 meta_description: "Dron agrícola en Haría: papa, cebolla y viña en enarenados pequeños al pie del risco de Famara, con viento y paredes de piedra. Pide presupuesto."
 keyword: "dron agrícola en Haría"
@@ -12,7 +12,7 @@ municipio: "Haría"
 
 # Dron agrícola en Haría: fincas pequeñas al pie del risco de Famara
 
-El valle de Haría y los pagos de Máguez y Ye quedan al pie del macizo de Famara, el relieve más alto de Lanzarote (Peñas del Chache, unos 670 m), y cultivan en enarenados entre unos 200 y 450 m [VERIFICAR: indicio en Hispanopedia: Haría a 270 m]. Fincas chicas, paredes de piedra y alisio: ese es el terreno para un dron agrícola en Haría. Agrodrón Canarias sale de Santa Cruz de La Palma y en Lanzarote trabaja con desplazamiento y según disponibilidad.
+El valle de Haría y los pagos de Máguez y Ye quedan al pie del macizo de Famara, el relieve más alto de Lanzarote (Peñas del Chache, unos 670 m), y cultivan en enarenados entre unos 200 y 450 m [VERIFICAR: indicio en Hispanopedia: Haría a 270 m]. Fincas chicas, paredes de piedra y alisio: ese es el terreno para un dron agrícola en Haría. AgroDron Canarias sale de Santa Cruz de La Palma y en Lanzarote trabaja con desplazamiento y según disponibilidad.
 
 [IMAGEN: Valle de Haría visto desde el mirador, con palmeras, paredes de piedra y enarenados de picón en parcelas pequeñas | alt: Parcelas de enarenado y palmeral en el valle de Haría, Lanzarote]
 
@@ -30,7 +30,7 @@ Con tractor y atomizador no se entra en un bancal de pared de piedra, y si se en
 
 ## Qué cambia con un dron agrícola en Haría
 
-El DJI Agras T50 de Agrodrón lleva 40 litros en el depósito y aplica hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha técnica de DJI). En una finca pequeña del valle el límite no es el depósito, es el viento. Y el dron no pisa el picón ni toca una pared.
+El DJI Agras T50 de AgroDron lleva 40 litros en el depósito y aplica hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha técnica de DJI). En una finca pequeña del valle el límite no es el depósito, es el viento. Y el dron no pisa el picón ni toca una pared.
 
 El radar de matriz en fase y la visión binocular siguen el relieve: suben con la ladera de Máguez, bajan al fondo del valle y esquivan palmeras y postes.
 
@@ -50,7 +50,7 @@ En viña, las prospecciones de filoxera iniciadas con la Orden de 20 de agosto d
 
 ## Piloto, mapa de vuelo y viento: las condiciones en Haría
 
-Agrodrón vuela en la categoría específica de AESA/EASA, en escenario estándar STS o bajo el PDRA-S01, con piloto certificado. Antes de cada salida la parcela se sitúa en el mapa de zonas geográficas de UAS de ENAIRE, y sobre la papa, la cebolla o la viña de Ye solo va producto de uso permitido en ese cultivo, a dosis de etiqueta, al aire libre.
+AgroDron vuela en la categoría específica de AESA/EASA, en escenario estándar STS o bajo el PDRA-S01, con piloto certificado. Antes de cada salida la parcela se sitúa en el mapa de zonas geográficas de UAS de ENAIRE, y sobre la papa, la cebolla o la viña de Ye solo va producto de uso permitido en ese cultivo, a dosis de etiqueta, al aire libre.
 
 El viento es la otra condición: se mide en la parcela el día del tratamiento y, si el alisio baja por el valle con fuerza, se espera.
 
@@ -72,7 +72,7 @@ No hay tarifa fija: cuentan la superficie real, el número de parcelas, los acce
 
 ## Pide presupuesto para tu finca en Haría, Máguez o Ye
 
-Dinos dónde está la finca, qué cultivas (papa, cebolla, viña), cuántas parcelas son y qué quieres aplicar. Te contestamos si el dron encaja y te mandamos presupuesto con el desplazamiento contemplado: [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Dinos dónde está la finca, qué cultivas (papa, cebolla, viña), cuántas parcelas son y qué quieres aplicar. Te contestamos si el dron encaja y te mandamos presupuesto con el desplazamiento contemplado: [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -88,7 +88,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-lanzarote/haria/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Arona | Agrodrón Canarias"
+title: "Dron agrícola en Arona | AgroDron Canarias"
 slug: "arona"
 meta_description: "Dron agrícola en Arona para la viña y la papa de La Escalona y la platanera descubierta de la costa. Desplazamiento desde La Palma; pide presupuesto."
 keyword: "dron agrícola en Arona"
@@ -12,7 +12,7 @@ municipio: "Arona"
 
 # Dron agrícola en Arona: costa de invernaderos, medianías de viña y papa
 
-Arona produce el 10 % del plátano de Tenerife con 685,7 hectáreas de platanera en 2021 (Mercatenerife; Diario de Avisos, 2023), y es el primer municipio en producción bajo invernadero según Guía Repsol. Para un dron agrícola en Arona eso cambia el mapa: la piña de Guaza, Las Galletas y Buzanada crece casi toda con techo y queda fuera, y el trabajo útil sube a las medianías de La Escalona y Vento. Agrodrón llega desde La Palma con desplazamiento, bajo consulta.
+Arona produce el 10 % del plátano de Tenerife con 685,7 hectáreas de platanera en 2021 (Mercatenerife; Diario de Avisos, 2023), y es el primer municipio en producción bajo invernadero según Guía Repsol. Para un dron agrícola en Arona eso cambia el mapa: la piña de Guaza, Las Galletas y Buzanada crece casi toda con techo y queda fuera, y el trabajo útil sube a las medianías de La Escalona y Vento. AgroDron llega desde La Palma con desplazamiento, bajo consulta.
 
 ## Costa: Guaza, Las Galletas y Buzanada, platanera con techo
 
@@ -35,11 +35,11 @@ Con la viña va la papa y algo de huerta: cultivos bajos al aire libre donde la 
 
 ## Cómo se trabaja un tratamiento con dron agrícola en Arona
 
-Agrodrón Canarias tiene base en Santa Cruz de La Palma y opera en Tenerife con desplazamiento, bajo consulta y según disponibilidad. Las fincas de Arona se agrupan con las de Adeje, San Miguel o Vilaflor, y la fecha se cierra cuando hay hueco.
+AgroDron Canarias tiene base en Santa Cruz de La Palma y opera en Tenerife con desplazamiento, bajo consulta y según disponibilidad. Las fincas de Arona se agrupan con las de Adeje, San Miguel o Vilaflor, y la fecha se cierra cuando hay hueco.
 
 El DJI Agras T50 lleva 40 litros y pulveriza a 16 L/min con dos boquillas centrífugas o a 24 L/min con cuatro (ficha de DJI). En viña y papa de medianías, con parcelas de pocos miles de metros, manda la planificación: mapa de cada parcela, cables y muros marcados, dosis de etiqueta y registro al terminar. El viento se mide antes de despegar.
 
-Los productos son los de uso permitido en viña, papa o platanera (abonos foliares, bioestimulantes, correctores), a dosis de etiqueta y solo sobre cultivo descubierto. Agrodrón opera en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01) con piloto certificado y, en la costa de Arona, mira el mapa de zonas geográficas de UAS de ENAIRE por la cercanía de Tenerife Sur.
+Los productos son los de uso permitido en viña, papa o platanera (abonos foliares, bioestimulantes, correctores), a dosis de etiqueta y solo sobre cultivo descubierto. AgroDron opera en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01) con piloto certificado y, en la costa de Arona, mira el mapa de zonas geográficas de UAS de ENAIRE por la cercanía de Tenerife Sur.
 
 ## Zona a zona: dónde encaja el dron en Arona
 
@@ -66,7 +66,7 @@ Abonos foliares, bioestimulantes y correctores de uso permitido en el cultivo, a
 
 ## Presupuesto para tu finca de Arona
 
-Zona (costa o medianías), cultivo, hectáreas y si hay cubierta: con eso te decimos si el dron encaja y preparamos un presupuesto con el desplazamiento desde La Palma incluido. Entra en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) y cuéntanoslo.
+Zona (costa o medianías), cultivo, hectáreas y si hay cubierta: con eso te decimos si el dron encaja y preparamos un presupuesto con el desplazamiento desde La Palma incluido. Entra en [AgroDron Canarias](https://agrodroncanarias.es/contacto) y cuéntanoslo.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -82,7 +82,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/arona/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

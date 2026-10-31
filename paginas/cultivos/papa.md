@@ -1,7 +1,7 @@
 ---
-title: "Dron agrícola para papa en Canarias | Agrodrón"
+title: "Dron agrícola para papa en Canarias | AgroDron"
 slug: "dron-agricola-papa"
-meta_description: "Dron agrícola para papa en Canarias: abonado foliar y bioestimulantes en bancales de medianías, con varias siembras al año. Pide presupuesto a Agrodrón."
+meta_description: "Dron agrícola para papa en Canarias: abonado foliar y bioestimulantes en bancales de medianías, con varias siembras al año. Pide presupuesto a AgroDron."
 keyword: "dron agrícola para papa"
 keywords_secundarias: "pulverización con dron en papas, abonado foliar con dron en papa de medianías, dron pulverizador para papa en bancales, bioestimulantes con dron en papa, dron para papas en bancales"
 parent: ""
@@ -26,7 +26,7 @@ El mildiu (Phytophthora infestans) es otra historia. Agrocabildo emite avisos de
 
 Ese aviso lo gestionas con lo que indique el Cabildo; el dron no va contra el hongo. Entra después: tras semanas de bancal mojado o tras una sequía como la que costó el 60 % de una cosecha de papa en el norte de Tenerife (ASAGA), cuando se plantea un foliar o un bioestimulante pensado para que la mata recupere vigor. Del escarabajo hay ensayos de Agrocabildo (2008).
 
-Agrodrón Canarias sale desde Santa Cruz de La Palma: en la isla sin desplazamiento, en Tenerife y Gran Canaria con desplazamiento y bajo disponibilidad.
+AgroDron Canarias sale desde Santa Cruz de La Palma: en la isla sin desplazamiento, en Tenerife y Gran Canaria con desplazamiento y bajo disponibilidad.
 
 ## Cuánta papa hay en Canarias: tres cifras para 2023
 
@@ -46,13 +46,13 @@ Para esos bancales el T50 aporta un depósito de 40 litros que se rellena desde 
 
 El Plan Anual del Cabildo de Tenerife (2017) repartía la papa en 60 % de media estación, 25 % temprana y 15 % tardía, con las zonas tradicionales en las cotas altas de San Miguel, Granadilla y Vilaflor. Cada siembra tiene su tramo de riesgo de mildiu en los avisos y su momento para un foliar, así que el calendario se hace por siembra, no por cultivo.
 
-Lo que no cambia de una siembra a otra: solo productos de uso permitido en papa, a dosis de etiqueta, y solo sobre bancal descubierto. El piloto de Agrodrón, certificado, vuela en la categoría específica de AESA/EASA (STS o PDRA-S01) y contrasta cada plano con las zonas geográficas de UAS de ENAIRE. Con niebla cerrada, lluvia o viento fuerte se aplaza, y eso se decide en la finca esa misma mañana.
+Lo que no cambia de una siembra a otra: solo productos de uso permitido en papa, a dosis de etiqueta, y solo sobre bancal descubierto. El piloto de AgroDron, certificado, vuela en la categoría específica de AESA/EASA (STS o PDRA-S01) y contrasta cada plano con las zonas geográficas de UAS de ENAIRE. Con niebla cerrada, lluvia o viento fuerte se aplaza, y eso se decide en la finca esa misma mañana.
 
 ## Islas y municipios donde la papa pesa
 
 Tenerife concentra la mayor superficie, 2.257 ha en 2023 (ISTAC): tratamientos con dron en Tenerife, con el detalle de bancales y enarenados en dron agrícola en La Orotava y dron agrícola en Vilaflor de Chasna.
 
-En La Palma, [tratamientos con dron en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) y [dron agrícola en Barlovento](https://agrodroncanarias.es/dron-agricola-la-palma/barlovento/), con Garafía al lado, donde el año seco de 2017 costó 83 ha de papa a la isla (Mapa de Cultivos 2017). En Gran Canaria, tratamientos con dron en Gran Canaria y dron agrícola en Teror, sede de la Feria Insular de la Papa;
+En La Palma, [tratamientos con dron en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) y [dron agrícola en Barlovento](https://agrodroncanarias.es/dron-agricola-la-palma/barlovento/), con Garafía al lado, donde el año seco de 2017 costó 83 ha de papa a la isla (Mapa de Cultivos 2017). En Gran Canaria, tratamientos con dron en Gran Canaria y dron agrícola en Teror, sede de la Feria Insular de la Papa.
 
 ## Preguntas frecuentes sobre el dron en la papa canaria
 
@@ -73,7 +73,7 @@ En La Palma sin desplazamiento. En Tenerife, Gran Canaria y el resto de islas, c
 
 ## Pide presupuesto para tus papas
 
-Cuéntanos municipio, cota, cuántas fanegadas siembras y en cuántas siembras, cómo se llega a los bancales y qué quieres aplicar. Te decimos si el dron encaja y te mandamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto). Fuera de La Palma, el desplazamiento va dentro del presupuesto y según la agenda.
+Cuéntanos municipio, cota, cuántas fanegadas siembras y en cuántas siembras, cómo se llega a los bancales y qué quieres aplicar. Te decimos si el dron encaja y te mandamos presupuesto desde [AgroDron Canarias](https://agrodroncanarias.es/contacto). Fuera de La Palma, el desplazamiento va dentro del presupuesto y según la agenda.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -89,7 +89,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-papa/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

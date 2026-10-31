@@ -1,7 +1,7 @@
 ---
-title: "Dron agrícola para hortalizas en Canarias | Agrodrón"
+title: "Dron agrícola para hortalizas en Canarias | AgroDron"
 slug: "dron-agricola-horticolas"
-meta_description: "Dron agrícola para hortalizas en Canarias: cebolla, col, lechuga y millo al aire libre en parcelas pequeñas de medianías. Pide presupuesto a Agrodrón."
+meta_description: "Dron agrícola para hortalizas en Canarias: cebolla, col, lechuga y millo al aire libre en parcelas pequeñas de medianías. Pide presupuesto a AgroDron."
 keyword: "dron agrícola para hortalizas"
 keywords_secundarias: "pulverización con dron en hortalizas, abonado foliar con dron en cebolla, dron pulverizador para huerta en medianías, bioestimulantes con dron en hortícolas, dron para lechuga y col al aire libre"
 parent: ""
@@ -22,7 +22,7 @@ En una finca hortícola de medianías conviven siembras escalonadas: se planta u
 
 Las cifras son escasas. La lechuga ocupaba 1.182 ha según el ISTAC citado por RTVC (periodo 2010-2021); de cebolla, col y calabacín no hay hectáreas que podamos citar. Mercasa sitúa a Canarias entre las primeras regiones productoras de pepino y calabacín.
 
-Agrodrón Canarias sale de Santa Cruz de La Palma; en Gran Canaria, Tenerife y Lanzarote el servicio lleva desplazamiento y depende de la disponibilidad, así que una comarca hortícola rinde más si varios vecinos agrupan sus tablas.
+AgroDron Canarias sale de Santa Cruz de La Palma; en Gran Canaria, Tenerife y Lanzarote el servicio lleva desplazamiento y depende de la disponibilidad, así que una comarca hortícola rinde más si varios vecinos agrupan sus tablas.
 
 ## Parcelas pequeñas en bancal: cómo es la finca hortícola canaria
 
@@ -50,11 +50,11 @@ Primero los datos: municipio, cota, qué hay en cada tabla y cuándo se recoge, 
 
 Los 40 litros del T50 son la medida justa: un cuarto de hectárea de col va con una carga y la máquina se queda en el camino. El radar de matriz en fase y la visión binocular mantienen la altura sobre cada bancal; el caudal va de 16 L/min con dos boquillas centrífugas a 24 con cuatro (DJI).
 
-Sobre la norma, lo justo. Agrodrón vuela en la categoría específica de AESA/EASA (escenarios STS o PDRA-S01) con piloto certificado y contrasta el plano de cada finca con las zonas geográficas de UAS de ENAIRE. Solo productos de uso permitido en la hortaliza que toca, a dosis de etiqueta, y solo sobre tablas descubiertas. Si el parte da viento fuerte, lluvia o niebla cerrada en Fontanales, se aplaza.
+Sobre la norma, lo justo. AgroDron vuela en la categoría específica de AESA/EASA (escenarios STS o PDRA-S01) con piloto certificado y contrasta el plano de cada finca con las zonas geográficas de UAS de ENAIRE. Solo productos de uso permitido en la hortaliza que toca, a dosis de etiqueta, y solo sobre tablas descubiertas. Si el parte da viento fuerte, lluvia o niebla cerrada en Fontanales, se aplaza.
 
 ## Islas y municipios con huerta al aire libre
 
-Gran Canaria: tratamientos con dron en Gran Canaria y, en detalle, dron agrícola en Moya, dron agrícola en Santa María de Guía y dron agrícola en Vega de San Mateo; Teror aparece en la página de la isla. Tenerife: tratamientos con dron en Tenerife. Lanzarote: tratamientos con dron en Lanzarote y dron agrícola en Teguise, con el jable y Los Valles;
+Gran Canaria: tratamientos con dron en Gran Canaria y, en detalle, dron agrícola en Moya, dron agrícola en Santa María de Guía y dron agrícola en Vega de San Mateo; Teror aparece en la página de la isla. Tenerife: tratamientos con dron en Tenerife. Lanzarote: tratamientos con dron en Lanzarote y dron agrícola en Teguise, con el jable y Los Valles.
 
 ## Preguntas frecuentes sobre el dron en las hortalizas canarias
 
@@ -75,7 +75,7 @@ Sí, con desplazamiento y según disponibilidad. En zonas como Moya-Guía o el j
 
 ## Pide presupuesto para tu huerta
 
-Mándanos municipio, qué tienes sembrado y en qué tabla, superficie, acceso y qué quieres aplicar; vemos si el dron encaja y te preparamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto). En La Palma sin desplazamiento; en Gran Canaria, Tenerife y Lanzarote, con desplazamiento y según la agenda.
+Mándanos municipio, qué tienes sembrado y en qué tabla, superficie, acceso y qué quieres aplicar; vemos si el dron encaja y te preparamos presupuesto desde [AgroDron Canarias](https://agrodroncanarias.es/contacto). En La Palma sin desplazamiento; en Gran Canaria, Tenerife y Lanzarote, con desplazamiento y según la agenda.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -91,7 +91,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-horticolas/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

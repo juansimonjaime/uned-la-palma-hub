@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Los Realejos | Agrodrón Canarias"
+title: "Dron agrícola en Los Realejos | AgroDron Canarias"
 slug: "los-realejos"
 meta_description: "Dron agrícola en Los Realejos por zonas: platanera de costa, papa y viña de medianías, aguacate. Desplazamiento desde La Palma. Pide presupuesto."
 keyword: "dron agrícola en Los Realejos"
@@ -12,7 +12,7 @@ municipio: "Los Realejos"
 
 # Dron agrícola en Los Realejos: costa, medianías y zona alta
 
-Los Realejos tiene 57,2 km² y 15,8 km² de suelo cultivable, con la papa como primer cultivo y detrás la viña, el cereal y el aguacate (ayuntamiento, vía Tribuna de Canarias). El término cae del acantilado al mar, así que un dron agrícola en Los Realejos se plantea zona a zona. Agrodrón Canarias trabaja desde La Palma, con desplazamiento a Tenerife y bajo disponibilidad.
+Los Realejos tiene 57,2 km² y 15,8 km² de suelo cultivable, con la papa como primer cultivo y detrás la viña, el cereal y el aguacate (ayuntamiento, vía Tribuna de Canarias). El término cae del acantilado al mar, así que un dron agrícola en Los Realejos se plantea zona a zona. AgroDron Canarias trabaja desde La Palma, con desplazamiento a Tenerife y bajo disponibilidad.
 
 ## Tres pisos entre el mar y Palo Blanco
 
@@ -70,7 +70,7 @@ Depende de la disponibilidad y de cuántas fincas haya en la zona: te decimos cu
 
 ## Pide presupuesto para tu finca de Los Realejos
 
-Indícanos zona (costa, medianías o alta), cultivo, hectáreas y producto a aplicar. Te decimos si el dron encaja y te preparamos presupuesto con el desplazamiento desde La Palma en [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Indícanos zona (costa, medianías o alta), cultivo, hectáreas y producto a aplicar. Te decimos si el dron encaja y te preparamos presupuesto con el desplazamiento desde La Palma en [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -86,7 +86,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/los-realejos/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Vega de San Mateo | Agrodrón Canarias"
+title: "Dron agrícola en Vega de San Mateo | AgroDron Canarias"
 slug: "vega-de-san-mateo"
 meta_description: "Dron agrícola en Vega de San Mateo: el año de la papa y la huerta de medianías, en qué época encaja el dron y cómo pedir presupuesto."
 keyword: "dron agrícola en Vega de San Mateo"
@@ -16,7 +16,7 @@ San Mateo cultiva millo, papas y hortalizas en terrazas y frutales de medianías
 
 [IMAGEN: Terrazas de papa y millo en la vega de San Mateo con las laderas del barranco Guiniguada y nubes bajas sobre Las Lagunetas | alt: bancales de papa y millo en la vega de San Mateo, Gran Canaria, con niebla en Las Lagunetas]
 
-Aviso previo: Agrodrón Canarias sale desde La Palma; en San Mateo el servicio lleva desplazamiento y se cierra bajo consulta, según disponibilidad.
+Aviso previo: AgroDron Canarias sale desde La Palma; en San Mateo el servicio lleva desplazamiento y se cierra bajo consulta, según disponibilidad.
 
 ## Invierno: poca lluvia, polilla y papa de medianías
 
@@ -52,7 +52,7 @@ Los obstáculos son los de un paisaje habitado: cables entre casas, castaños al
 
 ## Lo que hay que tener en orden antes de volar
 
-El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01, con certificado en vigor, y antes de cada salida comprueba las zonas geográficas de UAS de ENAIRE para la vega y Las Lagunetas. Tú aportas finca y producto, de uso permitido en tu cultivo; la dosis es la de la etiqueta y el vuelo, solo sobre cultivo descubierto.
+El piloto de AgroDron vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01, con certificado en vigor, y antes de cada salida comprueba las zonas geográficas de UAS de ENAIRE para la vega y Las Lagunetas. Tú aportas finca y producto, de uso permitido en tu cultivo; la dosis es la de la etiqueta y el vuelo, solo sobre cultivo descubierto.
 
 La isla, con 8.102,8 hectáreas cultivadas según el ISTAC de 2024, está en [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/). El vecino, sede de la Feria Insular de la Papa del Cabildo, tiene la suya: [dron agrícola en Teror](https://agrodroncanarias.es/dron-agricola-gran-canaria/teror/).
 
@@ -92,7 +92,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/vega-de-san-mateo/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

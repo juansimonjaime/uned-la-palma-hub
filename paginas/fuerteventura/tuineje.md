@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Tuineje | Agrodrón Canarias"
+title: "Dron agrícola en Tuineje | AgroDron Canarias"
 slug: "tuineje"
 meta_description: "Dron agrícola en Tuineje zona a zona: tomate bajo cubierta en Gran Tarajal que no se trata, gavias de Tiscamanita, aloe y olivar. Pide presupuesto."
 keyword: "dron agrícola en Tuineje"
@@ -12,7 +12,7 @@ municipio: "Tuineje"
 
 # Dron agrícola en Tuineje: qué zona se trata y cuál no
 
-Tuineje es el municipio agrícola de referencia de Fuerteventura: aquí nació el tomate de exportación con la Cooperativa Agrícola de Gran Tarajal, en torno al 20 % de la exportación insular, y después COEXFUR desde 1983-84 (ULPGC, 1992). Ese tomate va bajo cubierta, así que un dron agrícola en Tuineje solo tiene trabajo donde el cultivo está destapado: gavias, aloe y olivar. Vamos zona por zona. Agrodrón Canarias trabaja en Fuerteventura con desplazamiento desde La Palma y bajo consulta.
+Tuineje es el municipio agrícola de referencia de Fuerteventura: aquí nació el tomate de exportación con la Cooperativa Agrícola de Gran Tarajal, en torno al 20 % de la exportación insular, y después COEXFUR desde 1983-84 (ULPGC, 1992). Ese tomate va bajo cubierta, así que un dron agrícola en Tuineje solo tiene trabajo donde el cultivo está destapado: gavias, aloe y olivar. Vamos zona por zona. AgroDron Canarias trabaja en Fuerteventura con desplazamiento desde La Palma y bajo consulta.
 
 [IMAGEN: Vista del valle de Gran Tarajal con las naves de tomate junto a la costa y las lomas secas detrás | alt: Invernaderos de tomate en Gran Tarajal, municipio de Tuineje, Fuerteventura]
 
@@ -46,7 +46,7 @@ El sur tiene mayor insolación y mejores suelos que el norte (ULPGC), lo que ayu
 
 Primero, los datos: dónde está la gavia o la parcela de aloe, cuántas hectáreas, por dónde entra el vehículo de apoyo y qué obstáculos hay (naves, cables, palmeras). Con eso se traza el vuelo y se mira la parcela en el mapa de zonas UAS de ENAIRE.
 
-Lo que manda: el piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01; solo se aplica producto de uso permitido en el cultivo, a la dosis que marca su etiqueta, y solo sobre parcela descubierta. La salida se fija según disponibilidad, agrupando fincas de Tuineje, Antigua o Pájara; no prometemos plazos.
+Lo que manda: el piloto de AgroDron vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01; solo se aplica producto de uso permitido en el cultivo, a la dosis que marca su etiqueta, y solo sobre parcela descubierta. La salida se fija según disponibilidad, agrupando fincas de Tuineje, Antigua o Pájara; no prometemos plazos.
 
 La visión de isla, en [dron agrícola en Fuerteventura](https://agrodroncanarias.es/dron-agricola-fuerteventura/); por cultivo, [dron agrícola para tomate](https://agrodroncanarias.es/dron-agricola-tomate/) y [tratamientos con dron en hortícolas al aire libre](https://agrodroncanarias.es/dron-agricola-horticolas/); al lado, [dron agrícola en Antigua](https://agrodroncanarias.es/dron-agricola-fuerteventura/antigua/).
 
@@ -61,7 +61,7 @@ Sí, es un cultivo al aire libre y el T50 ajusta la altura sobre la copa; se apl
 ### ¿Las gavias recién rehabilitadas por el Cabildo se pueden volar?
 Sí. Son parcelas llanas y despejadas, lo más sencillo para el dron. La cuestión es si el cereal o el forraje que se siembre necesita tratamiento.
 
-### ¿Agrodrón viene a Tuineje desde La Palma para un solo encargo?
+### ¿AgroDron viene a Tuineje desde La Palma para un solo encargo?
 Puede, pero el servicio en Fuerteventura es con desplazamiento y bajo disponibilidad; lo normal es agrupar varias fincas del sur de la isla en la misma salida.
 
 ### ¿Cuánto cuesta pulverizar con dron en Tuineje?
@@ -69,7 +69,7 @@ No hay tarifa plana: depende de la superficie al aire libre, del cultivo, de los
 
 ## Pide presupuesto para tu gavia, tu aloe o tu olivar en Tuineje
 
-Dinos en qué zona está la finca (Gran Tarajal, Tiscamanita, Tuineje casco, Tesejerague), qué cultivas al aire libre y cuántas hectáreas. Si el dron encaja te lo decimos y te pasamos presupuesto con el desplazamiento contemplado: [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Dinos en qué zona está la finca (Gran Tarajal, Tiscamanita, Tuineje casco, Tesejerague), qué cultivas al aire libre y cuántas hectáreas. Si el dron encaja te lo decimos y te pasamos presupuesto con el desplazamiento contemplado: [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -85,7 +85,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-fuerteventura/tuineje/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -120,7 +120,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
         },
         {
           "@type": "Question",
-          "name": "¿Agrodrón viene a Tuineje desde La Palma para un solo encargo?",
+          "name": "¿AgroDron viene a Tuineje desde La Palma para un solo encargo?",
           "acceptedAnswer": { "@type": "Answer", "text": "Puede, pero el servicio en Fuerteventura es con desplazamiento y bajo disponibilidad; lo normal es agrupar varias fincas del sur de la isla en la misma salida." }
         },
         {

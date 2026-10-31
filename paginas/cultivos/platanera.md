@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola para platanera en Canarias | Agrodrón"
+title: "Dron agrícola para platanera en Canarias | AgroDron"
 slug: "dron-agricola-platanera"
 meta_description: "Dron agrícola para platanera en Canarias: abonado foliar y bioestimulantes en fincas de costa al aire libre. Base en La Palma, otras islas bajo consulta."
 keyword: "dron agrícola para platanera"
@@ -48,7 +48,7 @@ El verano manda en el calendario de riesgo: Agroseguro contabilizó en 2024 unas
 
 ## Dron agrícola para platanera: dónde trabajamos y con qué papeles
 
-Agrodrón Canarias tiene la base en Santa Cruz de La Palma, así que en la isla no cobramos desplazamiento. En Tenerife, Gran Canaria, La Gomera y El Hierro salimos con desplazamiento y según disponibilidad.
+AgroDron Canarias tiene la base en Santa Cruz de La Palma, así que en la isla no cobramos desplazamiento. En Tenerife, Gran Canaria, La Gomera y El Hierro salimos con desplazamiento y según disponibilidad.
 
 Tenerife tiene el 45 % de la superficie platanera (Confederación Canaria de Empresarios sobre datos del ISTAC, 2022) y La Palma un tercio de la producción (Justicia Alimentaria, enero de 2025).
 
@@ -56,7 +56,7 @@ En [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) están [Tazac
 
 En Tenerife, Guía de Isora sumaba 845,4 ha en 2021 según Mercatenerife. En Gran Canaria, Gáldar tiene 630,42 ha de platanera según su portal de transparencia, de las 1.940,7 ha de la isla (Mapa de Cultivos 2024). En La Gomera, la platanera de Hermigua y Valle Gran Rey va en terrazas de fondo de barranco donde la maquinaria terrestre apenas entra.
 
-Sobre el papel, lo justo. Agrodrón vuela en la categoría específica de AESA/EASA (escenarios STS o PDRA-S01) con piloto certificado, y antes de dar fecha consulta el mapa de zonas geográficas de UAS de ENAIRE: el aeropuerto de La Palma linda con fincas de plátano de Breña Baja y Mazo, y ahí el mapa manda. Solo productos de uso permitido en el plátano, a dosis de etiqueta, y solo sobre finca descubierta.
+Sobre el papel, lo justo. AgroDron vuela en la categoría específica de AESA/EASA (escenarios STS o PDRA-S01) con piloto certificado, y antes de dar fecha consulta el mapa de zonas geográficas de UAS de ENAIRE: el aeropuerto de La Palma linda con fincas de plátano de Breña Baja y Mazo, y ahí el mapa manda. Solo productos de uso permitido en el plátano, a dosis de etiqueta, y solo sobre finca descubierta.
 
 ## Preguntas frecuentes sobre el dron en la platanera
 
@@ -77,7 +77,7 @@ Solo en la parcela que se trata y mientras dura el vuelo; si la etiqueta del pro
 
 ## Pide presupuesto para tu finca de platanera
 
-Mándanos el municipio, las hectáreas, si la finca va a cielo abierto o tiene parte bajo malla de cubierta, y qué quieres aplicar. Con eso te decimos si el dron encaja y te preparamos el presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto): en La Palma sin desplazamiento, en el resto de islas con desplazamiento y según disponibilidad.
+Mándanos el municipio, las hectáreas, si la finca va a cielo abierto o tiene parte bajo malla de cubierta, y qué quieres aplicar. Con eso te decimos si el dron encaja y te preparamos el presupuesto desde [AgroDron Canarias](https://agrodroncanarias.es/contacto): en La Palma sin desplazamiento, en el resto de islas con desplazamiento y según disponibilidad.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -93,7 +93,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-platanera/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

@@ -1,7 +1,7 @@
 ---
-title: "Dron agrícola en Barlovento | Agrodrón Canarias"
+title: "Dron agrícola en Barlovento | AgroDron Canarias"
 slug: "barlovento"
-meta_description: "Dron agrícola en Barlovento para papa y platanera: qué se trata, qué no, y cómo pesan niebla y alisio. Respuestas directas y presupuesto de Agrodrón."
+meta_description: "Dron agrícola en Barlovento para papa y platanera: qué se trata, qué no, y cómo pesan niebla y alisio. Respuestas directas y presupuesto de AgroDron."
 keyword: "dron agrícola en Barlovento"
 keywords_secundarias: "pulverización con dron en Barlovento, tratamiento con drones en papa, abonado foliar con dron norte de La Palma, bioestimulantes con dron en platanera de Barlovento"
 parent: "dron-agricola-la-palma"
@@ -78,7 +78,7 @@ Lo marcan la superficie real, el cultivo, el número de terrazas, el acceso y el
 
 ## Pide presupuesto para tu finca de Barlovento
 
-Si tienes papa en las medianías o platanera en la costa de Barlovento y quieres saber si el dron encaja, manda finca, cultivo y hectáreas a [Agrodrón Canarias](https://agrodroncanarias.es/contacto). Te respondemos con un presupuesto y sin prometer lo que el dron no puede hacer.
+Si tienes papa en las medianías o platanera en la costa de Barlovento y quieres saber si el dron encaja, manda finca, cultivo y hectáreas a [AgroDron Canarias](https://agrodroncanarias.es/contacto). Te respondemos con un presupuesto y sin prometer lo que el dron no puede hacer.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -94,7 +94,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/barlovento/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

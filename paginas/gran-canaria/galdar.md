@@ -1,7 +1,7 @@
 ---
-title: "Dron agrícola en Gáldar | Agrodrón Canarias"
+title: "Dron agrícola en Gáldar | AgroDron Canarias"
 slug: "galdar"
-meta_description: "Dron agrícola en Gáldar para la platanera al aire libre de la vega y Sardina del Norte, con desplazamiento desde La Palma. Pide presupuesto a Agrodrón."
+meta_description: "Dron agrícola en Gáldar para la platanera al aire libre de la vega y Sardina del Norte, con desplazamiento desde La Palma. Pide presupuesto a AgroDron."
 keyword: "dron agrícola en Gáldar"
 keywords_secundarias: "pulverización con dron en Gáldar, tratamiento con drones en platanera de Gáldar, dron pulverizador Gran Canaria, abonado foliar con dron en Sardina del Norte"
 parent: "dron-agricola-gran-canaria"
@@ -16,7 +16,7 @@ Gáldar dedica 630,42 hectáreas a platanera según el portal de transparencia d
 
 [IMAGEN: Platanera de la vega costera de Gáldar con cortavientos y la Montaña de Gáldar al fondo | alt: Fincas de platanera al aire libre en la vega de Gáldar, Gran Canaria]
 
-Agrodrón sale desde Santa Cruz de La Palma: en Gran Canaria el servicio lleva desplazamiento y se cierra bajo consulta, según disponibilidad.
+AgroDron sale desde Santa Cruz de La Palma: en Gran Canaria el servicio lleva desplazamiento y se cierra bajo consulta, según disponibilidad.
 
 ## Cómo está plantada la platanera galdense
 
@@ -66,14 +66,14 @@ No. El picudo está en el cormo, donde no llega ninguna pulverización; su contr
 No. El dron solo trata cultivo al aire libre; el tomate de exportación bajo plástico o malla se queda con sus medios de siempre.
 
 ### ¿Cómo funciona el desplazamiento desde La Palma hasta Gáldar?
-Agrodrón tiene base en Santa Cruz de La Palma y viaja a Gran Canaria bajo consulta, según disponibilidad. No damos plazos por adelantado: se estudia la finca, se elige el producto y se organiza la salida.
+AgroDron tiene base en Santa Cruz de La Palma y viaja a Gran Canaria bajo consulta, según disponibilidad. No damos plazos por adelantado: se estudia la finca, se elige el producto y se organiza la salida.
 
 ### ¿Qué datos de la finca hacen falta para pedir presupuesto?
 Ubicación, cultivo, superficie aproximada, accesos y qué hay alrededor: cables, invernaderos, árboles altos.
 
 ## Pide presupuesto para tu platanera en Gáldar
 
-Cuéntanos la zona de la finca, si va al aire libre o con malla, las hectáreas y qué producto quieres aplicar. Te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento desde La Palma. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Cuéntanos la zona de la finca, si va al aire libre o con malla, las hectáreas y qué producto quieres aplicar. Te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento desde La Palma. Escríbenos desde [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -89,7 +89,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/galdar/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -125,7 +125,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
         {
           "@type": "Question",
           "name": "¿Cómo funciona el desplazamiento desde La Palma hasta Gáldar?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Agrodrón tiene base en Santa Cruz de La Palma y viaja a Gran Canaria bajo consulta, según disponibilidad. No damos plazos por adelantado: se estudia la finca, se elige el producto y se organiza la salida." }
+          "acceptedAnswer": { "@type": "Answer", "text": "AgroDron tiene base en Santa Cruz de La Palma y viaja a Gran Canaria bajo consulta, según disponibilidad. No damos plazos por adelantado: se estudia la finca, se elige el producto y se organiza la salida." }
         },
         {
           "@type": "Question",

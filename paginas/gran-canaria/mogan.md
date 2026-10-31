@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Mogán | Agrodrón Canarias"
+title: "Dron agrícola en Mogán | AgroDron Canarias"
 slug: "mogan"
 meta_description: "Dron agrícola en Mogán: mango y aguacate de los barrancos de Veneguera, Arguineguín y Mogán, en bancales sin acceso para tractor. Pide presupuesto."
 keyword: "dron agrícola en Mogán"
@@ -22,7 +22,7 @@ El término es una sucesión de barrancos profundos: Mogán, Arguineguín, Veneg
 
 Los subtropicales rozaban las 100 hectáreas hacia 2017, con 22 nuevas en Veneguera y en los barrancos de Arguineguín y Mogán (Canarias7). El ISTAC daba 55 hectáreas de mango y 8 de aguacate en 2015; en 2025 el Ayuntamiento habla de 100 y 40.
 
-Agrodrón Canarias trabaja desde La Palma: venir a Mogán es una salida con desplazamiento, sujeta a disponibilidad, que preparamos agrupando fincas del sur y el oeste de la isla.
+AgroDron Canarias trabaja desde La Palma: venir a Mogán es una salida con desplazamiento, sujeta a disponibilidad, que preparamos agrupando fincas del sur y el oeste de la isla.
 
 ## Lo que cuesta tratar un mango en bancal con mochila o atomizador
 
@@ -50,7 +50,7 @@ Mogán es el sector más árido y soleado de la isla, a sotavento del alisio; la
 
 ## Piloto, zonas UAS y desplazamiento antes de volar
 
-El piloto de Agrodrón vuela en categoría específica de AESA/EASA, bajo PDRA-S01 o escenarios STS, con certificado en vigor. Los barrancos de Mogán y Veneguera se miran antes en el mapa de zonas geográficas de UAS de ENAIRE, y en el depósito solo va producto de uso permitido en mango o aguacate, a dosis de etiqueta, sobre árbol descubierto.
+El piloto de AgroDron vuela en categoría específica de AESA/EASA, bajo PDRA-S01 o escenarios STS, con certificado en vigor. Los barrancos de Mogán y Veneguera se miran antes en el mapa de zonas geográficas de UAS de ENAIRE, y en el depósito solo va producto de uso permitido en mango o aguacate, a dosis de etiqueta, sobre árbol descubierto.
 
 La isla, en [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/); el cultivo, en [dron para mango, papaya y subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/) y en [tratamientos con dron en aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/). Barranco arriba, [dron agrícola en San Bartolomé de Tirajana](https://agrodroncanarias.es/dron-agricola-gran-canaria/san-bartolome-de-tirajana/).
 
@@ -65,15 +65,15 @@ No. La araña anida en el envés y su control es de la sanidad vegetal del Cabil
 ### ¿Cuándo es mejor volar en los barrancos de Mogán?
 A primera hora, con calma y antes de que apriete el sol. Con viento de barranco o calor fuerte se aplaza.
 
-### ¿Cuánto cobra Agrodrón por tratar una finca en Mogán?
+### ¿Cuánto cobra AgroDron por tratar una finca en Mogán?
 Sin tarifa fija. El presupuesto sale de la superficie, el cultivo, el acceso al barranco, el producto y el desplazamiento desde La Palma.
 
-### ¿Trabaja Agrodrón de forma habitual en el sur de Gran Canaria?
+### ¿Trabaja AgroDron de forma habitual en el sur de Gran Canaria?
 Con desplazamiento desde La Palma y según disponibilidad. Las salidas se organizan cuando hay varias fincas de la comarca; no fijamos frecuencia.
 
 ## Pide presupuesto para tu finca de mango o aguacate en Mogán
 
-Si tu finca está en Veneguera, Arguineguín, Tauro o Mogán y los árboles crecen al aire libre, entra en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) y mándanos ubicación, hectáreas y cultivo. Te decimos si el dron encaja en ese bancal y te preparamos presupuesto con el desplazamiento.
+Si tu finca está en Veneguera, Arguineguín, Tauro o Mogán y los árboles crecen al aire libre, entra en [AgroDron Canarias](https://agrodroncanarias.es/contacto) y mándanos ubicación, hectáreas y cultivo. Te decimos si el dron encaja en ese bancal y te preparamos presupuesto con el desplazamiento.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -89,7 +89,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/mogan/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -124,12 +124,12 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
         },
         {
           "@type": "Question",
-          "name": "¿Cuánto cobra Agrodrón por tratar una finca en Mogán?",
+          "name": "¿Cuánto cobra AgroDron por tratar una finca en Mogán?",
           "acceptedAnswer": { "@type": "Answer", "text": "Sin tarifa fija. El presupuesto sale de la superficie, el cultivo, el acceso al barranco, el producto y el desplazamiento desde La Palma." }
         },
         {
           "@type": "Question",
-          "name": "¿Trabaja Agrodrón de forma habitual en el sur de Gran Canaria?",
+          "name": "¿Trabaja AgroDron de forma habitual en el sur de Gran Canaria?",
           "acceptedAnswer": { "@type": "Answer", "text": "Con desplazamiento desde La Palma y según disponibilidad. Las salidas se organizan cuando hay varias fincas de la comarca; no fijamos frecuencia." }
         }
       ]

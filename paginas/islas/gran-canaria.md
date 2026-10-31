@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Gran Canaria | Agrodrón Canarias"
+title: "Dron agrícola en Gran Canaria | AgroDron Canarias"
 slug: "dron-agricola-gran-canaria"
 meta_description: "Dron agrícola en Gran Canaria: platanera, papa, subtropicales y viña al aire libre, con desplazamiento desde La Palma y bajo consulta. Pide presupuesto."
 keyword: "dron agrícola en Gran Canaria"
@@ -16,7 +16,7 @@ Gran Canaria cultivaba 8.102,8 hectáreas en 2024 según el ISTAC, el 20,4 % de 
 
 [IMAGEN: Vista aérea del norte de Gran Canaria con plataneras entre cortavientos en la costa y bancales de papa en las medianías | alt: Platanera y medianías del norte de Gran Canaria desde el aire]
 
-Agrodrón Canarias tiene la base en Santa Cruz de La Palma; en Gran Canaria trabaja con desplazamiento y bajo consulta, según disponibilidad, sin plazos fijos y agrupando fincas de la misma comarca.
+AgroDron Canarias tiene la base en Santa Cruz de La Palma; en Gran Canaria trabaja con desplazamiento y bajo consulta, según disponibilidad, sin plazos fijos y agrupando fincas de la misma comarca.
 
 ## Cifras de la isla
 
@@ -65,13 +65,13 @@ Nos mandas ubicación, cultivo, superficie, accesos y obstáculos. Comprobamos q
 
 ## Piloto, espacio aéreo y producto
 
-Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el PDRA-S01, con piloto certificado. Con el aeropuerto en la costa este, cada parcela se comprueba antes en el mapa de zonas geográficas de UAS de ENAIRE, de Gáldar a Mogán. En el depósito solo va producto de uso permitido en el cultivo, a dosis de etiqueta, y no se vuela con viento fuerte, lluvia ni niebla.
+AgroDron vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el PDRA-S01, con piloto certificado. Con el aeropuerto en la costa este, cada parcela se comprueba antes en el mapa de zonas geográficas de UAS de ENAIRE, de Gáldar a Mogán. En el depósito solo va producto de uso permitido en el cultivo, a dosis de etiqueta, y no se vuela con viento fuerte, lluvia ni niebla.
 
 Páginas de cultivo: [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/), [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/), [dron para mango, papaya y subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/), [tratamientos con dron en cítricos](https://agrodroncanarias.es/dron-agricola-citricos/) y [tomate de invernadero y dron](https://agrodroncanarias.es/dron-agricola-tomate/).
 
 ## Preguntas frecuentes sobre el dron agrícola en Gran Canaria
 
-### ¿Agrodrón trabaja en Gran Canaria o solo en La Palma?
+### ¿AgroDron trabaja en Gran Canaria o solo en La Palma?
 Con base en La Palma y en toda Canarias. En Gran Canaria, con desplazamiento y bajo consulta: salimos cuando hay disponibilidad y varias fincas de la comarca.
 
 ### ¿Se puede tratar el tomate de Gran Canaria con dron?
@@ -85,7 +85,7 @@ No publicamos tarifas. Depende de la superficie total de la salida, cultivos, ac
 
 ## Pide presupuesto para tu finca en Gran Canaria
 
-Entra en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) y cuéntanos municipio, cultivo, hectáreas y si hay malla o invernadero. Te decimos si el dron encaja y te pasamos presupuesto para la próxima salida a Gran Canaria.
+Entra en [AgroDron Canarias](https://agrodroncanarias.es/contacto) y cuéntanos municipio, cultivo, hectáreas y si hay malla o invernadero. Te decimos si el dron encaja y te pasamos presupuesto para la próxima salida a Gran Canaria.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -101,7 +101,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -121,7 +121,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "¿Agrodrón trabaja en Gran Canaria o solo en La Palma?",
+          "name": "¿AgroDron trabaja en Gran Canaria o solo en La Palma?",
           "acceptedAnswer": { "@type": "Answer", "text": "Con base en La Palma y en toda Canarias. En Gran Canaria, con desplazamiento y bajo consulta: salimos cuando hay disponibilidad y varias fincas de la comarca." }
         },
         {

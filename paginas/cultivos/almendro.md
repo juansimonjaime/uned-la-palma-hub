@@ -1,7 +1,7 @@
 ---
-title: "Dron agrícola para almendro en Canarias | Agrodrón"
+title: "Dron agrícola para almendro en Canarias | AgroDron"
 slug: "dron-agricola-almendro"
-meta_description: "Dron agrícola para almendro en Canarias: árboles de secano dispersos en lomos y bancales de Puntagorda, Garafía o Vilaflor. Pide presupuesto a Agrodrón."
+meta_description: "Dron agrícola para almendro en Canarias: árboles de secano dispersos en lomos y bancales de Puntagorda, Garafía o Vilaflor. Pide presupuesto a AgroDron."
 keyword: "dron agrícola para almendro"
 keywords_secundarias: "pulverización con dron en almendros, abonado foliar con dron en almendro de secano, dron pulverizador para almendros en pendiente, bioestimulantes con dron en almendro, dron para almendros dispersos"
 parent: ""
@@ -24,7 +24,7 @@ El Cabildo de La Palma habilitó 7 ha para nuevas plantaciones en tres años (El
 
 En Tenerife, Santiago del Teide cuenta más de 3.000 almendros (GEVIC); en El Hierro hay plan de recuperación de higueras y almendros desde 2024. Lo que une a todas estas zonas es que no hay marco regular: árboles en el borde del bancal, filas cortas, pies viejos aislados. Para el dron eso significa tratar por árbol, no por hectárea.
 
-Agrodrón Canarias sale de Santa Cruz de La Palma: Puntagorda y Garafía sin desplazamiento; Tenerife y Gran Canaria con desplazamiento y bajo disponibilidad.
+AgroDron Canarias sale de Santa Cruz de La Palma: Puntagorda y Garafía sin desplazamiento; Tenerife y Gran Canaria con desplazamiento y bajo disponibilidad.
 
 ## Unas 279 hectáreas, y por qué la cifra es poco fiable
 
@@ -50,7 +50,7 @@ Los 40 litros del T50 dan para muchos árboles así, porque el gasto va por copa
 
 En Tejeda y Vilaflor la altitud y el viento de cresta se valoran antes de comprometer un vuelo. En Puntagorda, igual: el viento se mide en la finca el mismo día.
 
-Lo que no se salta: el piloto de Agrodrón, con certificados AESA/EASA (PDRA-S01, operador STS), vuela en la categoría específica, y antes de subir a Las Tricias o a Timagada el plano se contrasta con las zonas geográficas de UAS de ENAIRE. Solo árboles al aire libre, y sin despegar con viento fuerte, lluvia o niebla: la ventana se decide en la finca el mismo día.
+Lo que no se salta: el piloto de AgroDron, con certificados AESA/EASA (PDRA-S01, operador STS), vuela en la categoría específica, y antes de subir a Las Tricias o a Timagada el plano se contrasta con las zonas geográficas de UAS de ENAIRE. Solo árboles al aire libre, y sin despegar con viento fuerte, lluvia o niebla: la ventana se decide en la finca el mismo día.
 
 ![Dron agrícola en vuelo junto a almendros en flor en las medianías de El Paso, La Palma](/imagenes/dron-junto-almendros-el-paso.webp)
 
@@ -79,7 +79,7 @@ Depende del número de árboles, de lo dispersos que estén, del acceso y del pr
 
 ## Pide presupuesto para tus almendros
 
-Dinos municipio, cuántos árboles tienes y cómo están repartidos, cómo se sube a la finca y qué quieres aplicar. Te decimos si el dron encaja y te preparamos presupuesto en [Agrodrón Canarias](https://agrodroncanarias.es/contacto). Puntagorda y Garafía sin desplazamiento; Tenerife y Gran Canaria con él y según agenda.
+Dinos municipio, cuántos árboles tienes y cómo están repartidos, cómo se sube a la finca y qué quieres aplicar. Te decimos si el dron encaja y te preparamos presupuesto en [AgroDron Canarias](https://agrodroncanarias.es/contacto). Puntagorda y Garafía sin desplazamiento; Tenerife y Gran Canaria con él y según agenda.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -95,7 +95,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-almendro/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

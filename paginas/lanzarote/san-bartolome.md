@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en San Bartolomé | Agrodrón Canarias"
+title: "Dron agrícola en San Bartolomé | AgroDron Canarias"
 slug: "san-bartolome"
 meta_description: "Dron agrícola en San Bartolomé de Lanzarote: cebolla en enarenado, batata en el jable y viña de La Geria con el alisio de por medio. Pide presupuesto."
 keyword: "dron agrícola en San Bartolomé"
@@ -12,7 +12,7 @@ municipio: "San Bartolomé"
 
 # Dron agrícola en San Bartolomé (Lanzarote): preguntas desde el jable y la viña
 
-Hablamos de San Bartolomé de Lanzarote, el municipio del centro de la isla cuyos vecinos son los Batateros, no del San Bartolomé de Tirajana grancanario. El jable, arena marina que el alisio arrastra desde Famara (FAO, 2025), da batata casi sin riego; el enarenado da cebolla y el borde oeste entra en La Geria. Un dron agrícola en San Bartolomé plantea preguntas propias. Lo básico primero: Agrodrón Canarias tiene base en Santa Cruz de La Palma y viene a Lanzarote con desplazamiento y bajo consulta.
+Hablamos de San Bartolomé de Lanzarote, el municipio del centro de la isla cuyos vecinos son los Batateros, no del San Bartolomé de Tirajana grancanario. El jable, arena marina que el alisio arrastra desde Famara (FAO, 2025), da batata casi sin riego; el enarenado da cebolla y el borde oeste entra en La Geria. Un dron agrícola en San Bartolomé plantea preguntas propias. Lo básico primero: AgroDron Canarias tiene base en Santa Cruz de La Palma y viene a Lanzarote con desplazamiento y bajo consulta.
 
 [IMAGEN: Llano del jable entre San Bartolomé y Teguise con surcos de batata sobre arena clara y conos volcánicos al fondo | alt: Cultivo de batata en el jable de San Bartolomé, Lanzarote]
 
@@ -46,7 +46,7 @@ Si en plena campaña hace falta un foliar o un corrector, el dron lo aplica sin 
 
 Tres cosas: datos, producto y fecha. Los datos son los de tu finca: dónde está, qué cultivo, cuántas hectáreas, por dónde se entra y qué obstáculos hay (cables, naves, palmeras). Con eso se dibuja el plan de vuelo.
 
-El producto lo eliges tú entre los de uso permitido en tu cultivo, a la dosis de su etiqueta, y solo se pulveriza parcela al aire libre. El piloto vuela en la categoría específica de AESA/EASA, en escenario STS o bajo el PDRA-S01, y sitúa la finca en el mapa de zonas geográficas de UAS de ENAIRE. La fecha depende de la campaña y de la disponibilidad: Agrodrón viene desde La Palma y agrupa fincas de Lanzarote en la misma salida.
+El producto lo eliges tú entre los de uso permitido en tu cultivo, a la dosis de su etiqueta, y solo se pulveriza parcela al aire libre. El piloto vuela en la categoría específica de AESA/EASA, en escenario STS o bajo el PDRA-S01, y sitúa la finca en el mapa de zonas geográficas de UAS de ENAIRE. La fecha depende de la campaña y de la disponibilidad: AgroDron viene desde La Palma y agrupa fincas de Lanzarote en la misma salida.
 
 ## ¿Qué cultivos de San Bartolomé tienen sentido y cuáles no?
 
@@ -67,12 +67,12 @@ Sí, si el abono foliar o el bioestimulante que quieres aplicar está permitido 
 ### ¿Cuánto viento es demasiado para volar en el jable?
 El límite lo marcan el fabricante del dron y la deriva que se mida en la parcela ese día. No damos cifra porque el viento en Montaña Blanca y el del llano del jable no son el mismo.
 
-### ¿Con qué frecuencia cubre Agrodrón San Bartolomé desde La Palma?
+### ¿Con qué frecuencia cubre AgroDron San Bartolomé desde La Palma?
 Sin frecuencia fija. El servicio fuera de La Palma es con desplazamiento y bajo disponibilidad; se organiza por campañas juntando fincas de varios municipios en el mismo viaje.
 
 ## Pide presupuesto para tu finca de San Bartolomé
 
-Cuéntanos si es cebolla en enarenado, batata en el jable o viña en Montaña Blanca, cuántas hectáreas y qué quieres aplicar, y te decimos si el dron encaja. El presupuesto tiene en cuenta el desplazamiento desde La Palma: [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Cuéntanos si es cebolla en enarenado, batata en el jable o viña en Montaña Blanca, cuántas hectáreas y qué quieres aplicar, y te decimos si el dron encaja. El presupuesto tiene en cuenta el desplazamiento desde La Palma: [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -88,7 +88,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-lanzarote/san-bartolome/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -123,7 +123,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
         },
         {
           "@type": "Question",
-          "name": "¿Con qué frecuencia cubre Agrodrón San Bartolomé desde La Palma?",
+          "name": "¿Con qué frecuencia cubre AgroDron San Bartolomé desde La Palma?",
           "acceptedAnswer": { "@type": "Answer", "text": "Sin frecuencia fija. El servicio fuera de La Palma es con desplazamiento y bajo disponibilidad; se organiza por campañas juntando fincas de varios municipios en el mismo viaje." }
         }
       ]

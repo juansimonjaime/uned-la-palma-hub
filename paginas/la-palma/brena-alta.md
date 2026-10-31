@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Breña Alta | Agrodrón Canarias"
+title: "Dron agrícola en Breña Alta | AgroDron Canarias"
 slug: "brena-alta"
 meta_description: "Dron agrícola en Breña Alta zona a zona: aguacate y viña de medianías, platanera de costa, proteas y lo que no se trata desde el aire. Pide presupuesto."
 keyword: "dron agrícola en Breña Alta"
@@ -97,7 +97,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

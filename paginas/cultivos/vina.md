@@ -1,7 +1,7 @@
 ---
-title: "Dron agrícola para viña en Canarias | Agrodrón"
+title: "Dron agrícola para viña en Canarias | AgroDron"
 slug: "dron-agricola-vina"
-meta_description: "Dron agrícola para viña en Canarias: abonado foliar y bioestimulantes en rastrera, parral, cordón trenzado y hoyos de La Geria. Presupuesto en Agrodrón."
+meta_description: "Dron agrícola para viña en Canarias: abonado foliar y bioestimulantes en rastrera, parral, cordón trenzado y hoyos de La Geria. Presupuesto en AgroDron."
 keyword: "dron agrícola para viña"
 keywords_secundarias: "pulverización con dron en viña, abonado foliar con dron en viñedo, dron pulverizador para parrales, bioestimulantes con dron en viña canaria, dron para viña rastrera"
 parent: ""
@@ -30,7 +30,7 @@ El ISTAC, citado por ASAGA, daba 6.191 ha en 2021 frente a 8.651 ha en 2010; par
 
 El reparto sí está claro. Las cinco DO de Tenerife suman en torno al 60 % de la uva del archipiélago (Interprofesional del Vino, 2024). La DO Lanzarote tenía 1.865 ha inscritas en 2024 y La Geria 1.368 ha, 237 de ellas abandonadas (Mapa de Cultivos vía Infoagro, 2024). La DO Vinos La Palma habla de unas 800 ha censadas (ICCA), con otras fuentes entre 441 y 736 ha. El Hierro ronda las 200 ha (Cabildo).
 
-Ese reparto importa porque la base de Agrodrón Canarias está en Santa Cruz de La Palma: en la isla no hay desplazamiento; en el resto de Canarias el servicio lleva desplazamiento y queda sujeto a disponibilidad.
+Ese reparto importa porque la base de AgroDron Canarias está en Santa Cruz de La Palma: en la isla no hay desplazamiento; en el resto de Canarias el servicio lleva desplazamiento y queda sujeto a disponibilidad.
 
 ## Mildiu, oídio y botritis con el calendario de los avisos del Cabildo de Tenerife
 
@@ -52,7 +52,7 @@ El T50 lleva 40 litros y pulveriza hasta 16 L/min con dos boquillas centrífugas
 
 No encaja contra la filoxera ni contra mildiu, oídio o botritis: eso va por los avisos y por sanidad vegetal del Cabildo. Tampoco con alisio fuerte sobre los zocos de La Geria o los lomos del sur de La Palma (se espera), ni con un producto sin uso permitido en viña.
 
-El plano de vuelo se contrasta con las zonas geográficas de UAS de ENAIRE: una rastrera del Hoyo de Mazo queda a un paso del aeropuerto de La Palma. Agrodrón vuela en la categoría específica de AESA/EASA (STS o PDRA-S01) con piloto certificado, solo sobre viña al aire libre, y con lluvia, niebla o viento fuerte no despega.
+El plano de vuelo se contrasta con las zonas geográficas de UAS de ENAIRE: una rastrera del Hoyo de Mazo queda a un paso del aeropuerto de La Palma. AgroDron vuela en la categoría específica de AESA/EASA (STS o PDRA-S01) con piloto certificado, solo sobre viña al aire libre, y con lluvia, niebla o viento fuerte no despega.
 
 ![Brote de vid en primavera en un viñedo del nordeste de La Palma](/imagenes/brote-vid-primavera-la-palma.webp)
 
@@ -81,7 +81,7 @@ Depende de la superficie, del sistema de conducción (un hoyo de La Geria no es 
 
 ## Pide presupuesto para tu viña
 
-Dinos municipio, cómo va conducida la viña, hectáreas o número de cepas, acceso y qué producto quieres aplicar. Te decimos si el dron encaja y te mandamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto). En La Palma sin desplazamiento; en el resto de islas, con desplazamiento y bajo disponibilidad.
+Dinos municipio, cómo va conducida la viña, hectáreas o número de cepas, acceso y qué producto quieres aplicar. Te decimos si el dron encaja y te mandamos presupuesto desde [AgroDron Canarias](https://agrodroncanarias.es/contacto). En La Palma sin desplazamiento; en el resto de islas, con desplazamiento y bajo disponibilidad.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -97,7 +97,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-vina/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

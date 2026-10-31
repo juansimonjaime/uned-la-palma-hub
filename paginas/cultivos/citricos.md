@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola para cítricos en Canarias | Agrodrón"
+title: "Dron agrícola para cítricos en Canarias | AgroDron"
 slug: "dron-agricola-citricos"
 meta_description: "Dron agrícola para cítricos en Canarias: naranjos de Telde, Agaete, Valsequillo y La Palma tratados desde arriba sin pisar la vega. Base en La Palma."
 keyword: "dron agrícola para cítricos"
@@ -40,7 +40,7 @@ Valsequillo es cítrico de medianías, entre 300 y 1.800 m, en bancales de lader
 
 En La Palma el cítrico es de huerta y regadío, sin grandes extensiones. [Villa de Mazo](https://agrodroncanarias.es/dron-agricola-la-palma/villa-de-mazo/) tiene cítricos en regadío junto a la platanera y la viña; Barlovento, naranja en huertos familiares de medianías; y en Garafía la finca El Cántaro produce cítricos dentro del programa de agricultura ecológica del Cabildo y el CSIC.
 
-Agrodrón Canarias sale de Santa Cruz de La Palma, así que en la isla no hay desplazamiento; el conjunto está en la página de [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/).
+AgroDron Canarias sale de Santa Cruz de La Palma, así que en la isla no hay desplazamiento; el conjunto está en la página de [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/).
 
 ## Cotonet, minador y mosca de la fruta: lo documentado y lo que no
 
@@ -52,7 +52,7 @@ Su trabajo en el naranjo es otro: abonado foliar, correctores de carencias y bio
 
 ## El papel que va antes del vuelo
 
-Es menos de lo que parece. El piloto de Agrodrón, con más de diez años de experiencia profesional y radiofonista, vuela en la categoría específica de AESA/EASA (STS o PDRA-S01). Cada huerto se mira antes en el mapa de zonas geográficas de UAS de ENAIRE, y en Telde eso pesa: el aeropuerto de Gran Canaria está dentro del municipio y su zona condiciona qué vegas se vuelan.
+Es menos de lo que parece. El piloto de AgroDron, con más de diez años de experiencia profesional y radiofonista, vuela en la categoría específica de AESA/EASA (STS o PDRA-S01). Cada huerto se mira antes en el mapa de zonas geográficas de UAS de ENAIRE, y en Telde eso pesa: el aeropuerto de Gran Canaria está dentro del municipio y su zona condiciona qué vegas se vuelan.
 
 Solo productos de uso permitido en cítricos, a dosis de etiqueta, sobre huertos a cielo abierto; con viento, lluvia o niebla se cambia el día.
 
@@ -80,7 +80,7 @@ Depende de la superficie, del porte de los árboles, de los accesos y del produc
 
 ## Pide presupuesto para tus naranjos
 
-Dinos dónde está el huerto, cuántos árboles o hectáreas tienes y qué quieres aplicar. En [Agrodrón Canarias](https://agrodroncanarias.es/contacto) te decimos si el dron encaja y te mandamos presupuesto: sin desplazamiento en La Palma, con desplazamiento y según disponibilidad en Gran Canaria y Tenerife.
+Dinos dónde está el huerto, cuántos árboles o hectáreas tienes y qué quieres aplicar. En [AgroDron Canarias](https://agrodroncanarias.es/contacto) te decimos si el dron encaja y te mandamos presupuesto: sin desplazamiento en La Palma, con desplazamiento y según disponibilidad en Gran Canaria y Tenerife.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -96,7 +96,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-citricos/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Villa de Mazo | Agrodrón Canarias"
+title: "Dron agrícola en Villa de Mazo | AgroDron Canarias"
 slug: "villa-de-mazo"
 meta_description: "Dron agrícola en Villa de Mazo: calendario de riesgos de la viña del Hoyo de Mazo y la platanera de costa, qué encaja con dron y cuándo pedir presupuesto."
 keyword: "dron agrícola en Villa de Mazo"
@@ -102,7 +102,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/villa-de-mazo/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

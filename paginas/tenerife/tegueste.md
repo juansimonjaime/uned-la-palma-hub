@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Tegueste | Agrodrón Canarias"
+title: "Dron agrícola en Tegueste | AgroDron Canarias"
 slug: "tegueste"
 meta_description: "Dron agrícola en Tegueste: respuestas para viticultores del valle y de El Socorro, papa temprana y huerta. Desplazamiento desde La Palma. Pide presupuesto."
 keyword: "dron agrícola en Tegueste"
@@ -38,7 +38,7 @@ Cultivo bajo, al aire libre y en parcelas pequeñas: encaja con el dron para el 
 
 ## ¿Qué hace falta para contratar un tratamiento con dron en Tegueste?
 
-Dos cosas tuyas: los datos de la finca (ubicación, superficie, accesos, cables o árboles altos alrededor) y el producto que quieres aplicar, de uso permitido en viña o en papa y a la dosis de su etiqueta. Agrodrón vuela en la categoría específica de AESA/EASA (STS o PDRA-S01) con piloto certificado y antes de cada salida comprueba la parcela en el mapa de zonas geográficas de UAS de ENAIRE: el valle no queda lejos de Los Rodeos y se mira finca a finca.
+Dos cosas tuyas: los datos de la finca (ubicación, superficie, accesos, cables o árboles altos alrededor) y el producto que quieres aplicar, de uso permitido en viña o en papa y a la dosis de su etiqueta. AgroDron vuela en la categoría específica de AESA/EASA (STS o PDRA-S01) con piloto certificado y antes de cada salida comprueba la parcela en el mapa de zonas geográficas de UAS de ENAIRE: el valle no queda lejos de Los Rodeos y se mira finca a finca.
 
 Nosotros preparamos el plan de vuelo sobre el mapa de tu parcela, comprobamos viento y humedad antes de despegar y dejamos la aplicación registrada.
 
@@ -67,7 +67,7 @@ Sale de la superficie, la pendiente, los accesos, el producto y el desplazamient
 
 ## Pide presupuesto para tu viña en Tegueste
 
-Entra en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) y cuéntanos dónde está la viña, cuántas hectáreas tiene y qué quieres aplicar. Te respondemos con un presupuesto y con las fechas en que el equipo puede desplazarse desde La Palma.
+Entra en [AgroDron Canarias](https://agrodroncanarias.es/contacto) y cuéntanos dónde está la viña, cuántas hectáreas tiene y qué quieres aplicar. Te respondemos con un presupuesto y con las fechas en que el equipo puede desplazarse desde La Palma.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -83,7 +83,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/tegueste/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

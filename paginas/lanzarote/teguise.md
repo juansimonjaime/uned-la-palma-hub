@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Teguise | Agrodrón Canarias"
+title: "Dron agrícola en Teguise | AgroDron Canarias"
 slug: "teguise"
 meta_description: "Dron agrícola en Teguise para viña de la DO Lanzarote, cebolla y batata del jable y papa de Los Valles. Con desplazamiento desde La Palma, bajo consulta."
 keyword: "dron agrícola en Teguise"
@@ -12,7 +12,7 @@ municipio: "Teguise"
 
 # Dron agrícola en Teguise: jable, Los Valles y el borde de La Geria
 
-Teguise es el municipio más extenso de Lanzarote y junta tres sistemas de cultivo: el jable de arena marina de Soo hacia San Bartolomé, la papa de Los Valles al pie de Famara y un sector de La Geria con viña en enarenado. Un dron agrícola en Teguise no vuela igual sobre una batata a ras de suelo que sobre una cepa en su zoco. Agrodrón Canarias llega con desplazamiento desde La Palma y bajo disponibilidad.
+Teguise es el municipio más extenso de Lanzarote y junta tres sistemas de cultivo: el jable de arena marina de Soo hacia San Bartolomé, la papa de Los Valles al pie de Famara y un sector de La Geria con viña en enarenado. Un dron agrícola en Teguise no vuela igual sobre una batata a ras de suelo que sobre una cepa en su zoco. AgroDron Canarias llega con desplazamiento desde La Palma y bajo disponibilidad.
 
 [IMAGEN: Llano del jable entre Soo y Teguise con surcos de batata sobre arena clara y el macizo de Famara al fondo | alt: Cultivo de batata en el jable de Teguise, Lanzarote, con el macizo de Famara detrás]
 
@@ -52,7 +52,7 @@ El DJI Agras T50 carga 40 litros y pulveriza hasta 16 L/min con dos boquillas o 
 
 Dos comprobaciones y una regla: piloto en la categoría específica de AESA/EASA (operador STS, PDRA-S01); parcela situada en el mapa de zonas geográficas de UAS de ENAIRE; y en el depósito solo producto de uso permitido en el cultivo, a dosis de etiqueta.
 
-Agrodrón agrupa fincas de Teguise por viaje según disponibilidad. Más en [tratamientos con dron en Lanzarote](https://agrodroncanarias.es/dron-agricola-lanzarote/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [dron agrícola para hortícolas](https://agrodroncanarias.es/dron-agricola-horticolas/) y [dron agrícola en San Bartolomé](https://agrodroncanarias.es/dron-agricola-lanzarote/san-bartolome/).
+AgroDron agrupa fincas de Teguise por viaje según disponibilidad. Más en [tratamientos con dron en Lanzarote](https://agrodroncanarias.es/dron-agricola-lanzarote/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/), [dron agrícola para hortícolas](https://agrodroncanarias.es/dron-agricola-horticolas/) y [dron agrícola en San Bartolomé](https://agrodroncanarias.es/dron-agricola-lanzarote/san-bartolome/).
 
 ## Preguntas frecuentes sobre pulverizar con dron en Teguise
 
@@ -65,12 +65,12 @@ Planta a planta: cada hoyo entra en el plan de vuelo y el dron suelta la dosis s
 ### ¿Sirve el dron contra la polilla guatemalteca en la papa de Los Valles?
 No. El MAPA la localiza en almacenes de Lanzarote, no en campo, y es plaga de tubérculo: cosa del Cabildo. El dron sirve para abonado foliar de la papa, no contra plagas.
 
-### ¿Cuánto tarda Agrodrón en venir a Teguise desde La Palma?
+### ¿Cuánto tarda AgroDron en venir a Teguise desde La Palma?
 No damos plazos. En Lanzarote el servicio es con desplazamiento y bajo disponibilidad: agrupamos fincas de la zona y te decimos cuándo es posible.
 
 ## Pide presupuesto para tu finca en Teguise
 
-Dinos si tu parcela está en el jable, en Los Valles o en el borde de La Geria, qué cultivas y cuántas hectáreas son. Te preparamos un presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) y confirmamos la salida desde La Palma cuando haya fecha.
+Dinos si tu parcela está en el jable, en Los Valles o en el borde de La Geria, qué cultivas y cuántas hectáreas son. Te preparamos un presupuesto desde [AgroDron Canarias](https://agrodroncanarias.es/contacto) y confirmamos la salida desde La Palma cuando haya fecha.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -86,7 +86,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-lanzarote/teguise/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -121,7 +121,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
         },
         {
           "@type": "Question",
-          "name": "¿Cuánto tarda Agrodrón en venir a Teguise desde La Palma?",
+          "name": "¿Cuánto tarda AgroDron en venir a Teguise desde La Palma?",
           "acceptedAnswer": { "@type": "Answer", "text": "No damos plazos. En Lanzarote el servicio es con desplazamiento y bajo disponibilidad: agrupamos fincas de la zona y te decimos cuándo es posible." }
         }
       ]

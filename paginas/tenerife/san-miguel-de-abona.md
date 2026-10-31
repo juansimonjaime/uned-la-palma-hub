@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en San Miguel de Abona | Agrodrón Canarias"
+title: "Dron agrícola en San Miguel de Abona | AgroDron Canarias"
 slug: "san-miguel-de-abona"
 meta_description: "Dron agrícola en San Miguel de Abona para papa y viña en bancales de jable. Planificación con el mapa de ENAIRE y salida desde La Palma. Pide presupuesto."
 keyword: "dron agrícola en San Miguel de Abona"
@@ -12,7 +12,7 @@ municipio: "San Miguel de Abona"
 
 # Dron agrícola en San Miguel de Abona: del jable de las medianías al vuelo
 
-San Miguel de Abona baja en una sola pendiente larga orientada al sur, desde las cotas altas de papa hasta la costa industrial de Las Chafiras y el Golf del Sur. Un dron agrícola en San Miguel de Abona trabaja en la franja media, donde papa y viña de la DOP Abona van en bancales sobre jable. Agrodrón Canarias llega desde La Palma con desplazamiento, bajo consulta y según disponibilidad.
+San Miguel de Abona baja en una sola pendiente larga orientada al sur, desde las cotas altas de papa hasta la costa industrial de Las Chafiras y el Golf del Sur. Un dron agrícola en San Miguel de Abona trabaja en la franja media, donde papa y viña de la DOP Abona van en bancales sobre jable. AgroDron Canarias llega desde La Palma con desplazamiento, bajo consulta y según disponibilidad.
 
 ## Una ladera larga: bancales, jable y pistas estrechas
 
@@ -44,7 +44,7 @@ Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-t
 
 ## Reglas de vuelo y organización de la salida
 
-Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el PDRA-S01, con piloto certificado. El mapa de ENAIRE ya ha salido: en San Miguel es la primera comprobación. Después, las de siempre: producto de uso permitido en papa o viña, dosis de etiqueta, cultivo al aire libre y nada de volar con viento fuerte, lluvia o niebla.
+AgroDron vuela en la categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el PDRA-S01, con piloto certificado. El mapa de ENAIRE ya ha salido: en San Miguel es la primera comprobación. Después, las de siempre: producto de uso permitido en papa o viña, dosis de etiqueta, cultivo al aire libre y nada de volar con viento fuerte, lluvia o niebla.
 
 La salida se monta desde Santa Cruz de La Palma cuando hay disponibilidad y varias fincas del sur en la misma semana; San Miguel se agrupa con Granadilla, Arona y Vilaflor. Tú aportas parcela y producto; se planifica el vuelo sobre el mapa, se mide el viento y se registra la aplicación.
 
@@ -64,7 +64,7 @@ Con semanas de margen. La salida desde La Palma se cuadra con otras fincas del s
 
 ## Pide presupuesto para tu finca de San Miguel de Abona
 
-Dinos dónde están los bancales (casco, El Frontón, Aldea Blanca o costa), qué cultivas y cuántas parcelas. Miramos el mapa de ENAIRE, te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento incluido. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Dinos dónde están los bancales (casco, El Frontón, Aldea Blanca o costa), qué cultivas y cuántas parcelas. Miramos el mapa de ENAIRE, te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento incluido. Escríbenos desde [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -80,7 +80,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/san-miguel-de-abona/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

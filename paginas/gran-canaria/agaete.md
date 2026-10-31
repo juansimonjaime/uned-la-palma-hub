@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Agaete | Agrodrón Canarias"
+title: "Dron agrícola en Agaete | AgroDron Canarias"
 slug: "agaete"
 meta_description: "Dron agrícola en Agaete: naranjos, mangos y aguacates del valle al aire libre, en bancales estrechos. Con desplazamiento desde La Palma. Pide presupuesto."
 keyword: "dron agrícola en Agaete"
@@ -16,7 +16,7 @@ El Valle de Agaete concentra casi toda la tierra cultivada del municipio: naranj
 
 [IMAGEN: Vista del Valle de Agaete desde El Hornillo, con bancales de naranjos y mangos y los cafetales bajo la sombra de los frutales | alt: Fincas mixtas de cítricos, mango y café en el Valle de Agaete, Gran Canaria]
 
-Agrodrón Canarias sale desde Santa Cruz de La Palma: en Agaete el servicio es con desplazamiento y según disponibilidad, agrupando fincas vecinas en cada salida.
+AgroDron Canarias sale desde Santa Cruz de La Palma: en Agaete el servicio es con desplazamiento y según disponibilidad, agrupando fincas vecinas en cada salida.
 
 ## Cómo está plantado el valle: fincas mixtas y café bajo sombra
 
@@ -46,7 +46,7 @@ Nos mandas ubicación, superficie, cultivos y obstáculos de la finca: cables, p
 
 El cafeto que crece a la sombra de los frutales queda debajo de la copa que el dron moja: la pulverización desde el aire cubre el arbolado de arriba, no el café de abajo. Tampoco lo que quede de platanera o tomate bajo malla o invernadero [VERIFICAR: hectáreas por cultivo]. Con viento fuerte en la costa o niebla en la cabecera del valle [VERIFICAR: datos de viento y precipitación], el vuelo se aplaza.
 
-Agrodrón vuela en la categoría específica de AESA, en escenarios estándar STS o bajo el PDRA-S01, con piloto certificado. Antes de cada salida al valle se comprueban las zonas geográficas de UAS en el mapa de ENAIRE, y en el depósito solo va producto de uso permitido en naranjo, mango o aguacate, a dosis de etiqueta.
+AgroDron vuela en la categoría específica de AESA, en escenarios estándar STS o bajo el PDRA-S01, con piloto certificado. Antes de cada salida al valle se comprueban las zonas geográficas de UAS en el mapa de ENAIRE, y en el depósito solo va producto de uso permitido en naranjo, mango o aguacate, a dosis de etiqueta.
 
 La uva moscatel y los olivos de la almazara local (Canarias7, mayo de 2024) sí entran en una salida si hay un abono foliar de uso permitido que aplicar. El contexto insular está en [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/); el cultivo, en [tratamientos con dron en cítricos](https://agrodroncanarias.es/dron-agricola-citricos/) y en [dron para mango, papaya y otros subtropicales](https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/). En la costa platanera vecina, [dron agrícola en Gáldar](https://agrodroncanarias.es/dron-agricola-gran-canaria/galdar/).
 
@@ -64,12 +64,12 @@ Sí: el T50 sigue el relieve con radar y ajusta la velocidad a la pendiente. Lo 
 ### ¿Qué productos aplica el dron en los frutales de Agaete?
 Abonos foliares, bioestimulantes y correctores de carencias de uso permitido en naranjo, mango o aguacate, a dosis de etiqueta. Las plagas del aguacate y el mango descritas arriba las lleva la sanidad vegetal del Cabildo; el dron no las trata.
 
-### ¿Cada cuánto viene Agrodrón a Gran Canaria?
+### ¿Cada cuánto viene AgroDron a Gran Canaria?
 No hay calendario fijo. Las salidas desde La Palma van según disponibilidad y se agrupan por comarca para que compense el desplazamiento.
 
 ## Pide presupuesto para tu finca del Valle de Agaete
 
-Si tienes naranjos, mangos, aguacates o papayos al aire libre en Agaete, entra en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) y cuéntanos dónde está la finca, cuántas hectáreas tiene y qué producto quieres aplicar. Te respondemos con un presupuesto y la fecha más cercana para cruzar desde La Palma.
+Si tienes naranjos, mangos, aguacates o papayos al aire libre en Agaete, entra en [AgroDron Canarias](https://agrodroncanarias.es/contacto) y cuéntanos dónde está la finca, cuántas hectáreas tiene y qué producto quieres aplicar. Te respondemos con un presupuesto y la fecha más cercana para cruzar desde La Palma.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -85,7 +85,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/agaete/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -125,7 +125,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
         },
         {
           "@type": "Question",
-          "name": "¿Cada cuánto viene Agrodrón a Gran Canaria?",
+          "name": "¿Cada cuánto viene AgroDron a Gran Canaria?",
           "acceptedAnswer": { "@type": "Answer", "text": "No hay calendario fijo. Las salidas desde La Palma van según disponibilidad y se agrupan por comarca para que compense el desplazamiento." }
         }
       ]

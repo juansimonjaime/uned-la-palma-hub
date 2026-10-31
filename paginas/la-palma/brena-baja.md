@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Breña Baja | Agrodrón Canarias"
+title: "Dron agrícola en Breña Baja | AgroDron Canarias"
 slug: "brena-baja"
 meta_description: "Dron agrícola en Breña Baja: platanera de costa y aguacate de medianías en 15 km², con el aeropuerto al lado y cada vuelo planificado. Pide presupuesto."
 keyword: "dron agrícola en Breña Baja"
@@ -55,7 +55,7 @@ Ninguna de esas plagas se combate desde el dron: ese frente lo llevan tu técnic
 
 Tres reglas. El piloto opera en la categoría específica de AESA/EASA, en escenario estándar STS o bajo el análisis de riesgo PDRA-S01. En el dron solo va producto de uso permitido en el cultivo que se pulveriza, a la dosis que marca su etiqueta, y solo sobre cultivo descubierto.
 
-Y si la mañana amanece con lluvia, niebla en las medianías o viento fuerte en la costa, la ventana se decide en la propia finca y, si no la hay, se aplaza. Tú aportas parcela y producto; lo demás lo pone Agrodrón Canarias.
+Y si la mañana amanece con lluvia, niebla en las medianías o viento fuerte en la costa, la ventana se decide en la propia finca y, si no la hay, se aplaza. Tú aportas parcela y producto; lo demás lo pone AgroDron Canarias.
 
 ## Preguntas que nos hacen en Breña Baja antes de contratar
 
@@ -69,7 +69,7 @@ Platanera al aire libre, aguacate, viña rastrera y huerta en bancales, siempre 
 
 ### ¿Qué productos aplica el dron en Breña Baja?
 
-Abonos foliares, bioestimulantes y correctores de carencias de uso permitido en tu cultivo, a la dosis de su etiqueta. Tú dices qué quieres aplicar, normalmente lo que te haya recomendado tu técnico; la comprobación de la etiqueta y la planificación del vuelo las hace Agrodrón Canarias.
+Abonos foliares, bioestimulantes y correctores de carencias de uso permitido en tu cultivo, a la dosis de su etiqueta. Tú dices qué quieres aplicar, normalmente lo que te haya recomendado tu técnico; la comprobación de la etiqueta y la planificación del vuelo las hace AgroDron Canarias.
 
 ### ¿Qué tengo que preparar en la finca antes de que llegue el dron?
 
@@ -97,7 +97,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/brena-baja/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -128,7 +128,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
         {
           "@type": "Question",
           "name": "¿Qué productos aplica el dron en Breña Baja?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Abonos foliares, bioestimulantes y correctores de carencias de uso permitido en el cultivo, a la dosis de su etiqueta. El agricultor dice qué quiere aplicar, normalmente lo que le haya recomendado su técnico; la comprobación de la etiqueta y la planificación del vuelo las hace Agrodrón Canarias." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Abonos foliares, bioestimulantes y correctores de carencias de uso permitido en el cultivo, a la dosis de su etiqueta. El agricultor dice qué quiere aplicar, normalmente lo que le haya recomendado su técnico; la comprobación de la etiqueta y la planificación del vuelo las hace AgroDron Canarias." }
         },
         {
           "@type": "Question",

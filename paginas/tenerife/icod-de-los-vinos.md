@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Icod de los Vinos | Agrodrón Canarias"
+title: "Dron agrícola en Icod de los Vinos | AgroDron Canarias"
 slug: "icod-de-los-vinos"
 meta_description: "Dron agrícola en Icod de los Vinos: platanera de San Marcos, viña Ycoden-Daute-Isora y papa de La Vega. Desplazamiento desde La Palma. Pide presupuesto."
 keyword: "dron agrícola en Icod de los Vinos"
@@ -12,7 +12,7 @@ municipio: "Icod de los Vinos"
 
 # Dron agrícola en Icod de los Vinos: de la costa de San Marcos a la papa de La Vega
 
-Icod de los Vinos mide 95,9 km² y va del mar al Teide: platanera en la franja baja, viña en las medianías y papa más arriba. Tres cultivos, tres alturas y una misma pega, la pendiente. Un dron agrícola en Icod de los Vinos se justifica por el terreno antes que por nada. Agrodrón Canarias sale desde La Palma; a Tenerife venimos con desplazamiento y según disponibilidad.
+Icod de los Vinos mide 95,9 km² y va del mar al Teide: platanera en la franja baja, viña en las medianías y papa más arriba. Tres cultivos, tres alturas y una misma pega, la pendiente. Un dron agrícola en Icod de los Vinos se justifica por el terreno antes que por nada. AgroDron Canarias sale desde La Palma; a Tenerife venimos con desplazamiento y según disponibilidad.
 
 ## Del mar al Teide: bancales, barrancos y pistas que no admiten tractor
 
@@ -64,7 +64,7 @@ Depende de la superficie, el cultivo, los accesos, el producto y el desplazamien
 
 ## Pide presupuesto para tu finca de Icod de los Vinos
 
-Mándanos el pago (costa, medianías o zona de La Vega), cultivo, hectáreas y producto a aplicar. Te confirmamos si el dron encaja y te enviamos un presupuesto con desplazamiento desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Mándanos el pago (costa, medianías o zona de La Vega), cultivo, hectáreas y producto a aplicar. Te confirmamos si el dron encaja y te enviamos un presupuesto con desplazamiento desde [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -80,7 +80,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/icod-de-los-vinos/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

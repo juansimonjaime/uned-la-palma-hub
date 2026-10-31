@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Vilaflor | Agrodrón Canarias"
+title: "Dron agrícola en Vilaflor | AgroDron Canarias"
 slug: "vilaflor-de-chasna"
 meta_description: "Dron agrícola en Vilaflor para papa tardía sobre jable y viña de Los Frontones hasta 1.600 m. Servicio con desplazamiento desde La Palma; pide presupuesto."
 keyword: "dron agrícola en Vilaflor"
@@ -73,7 +73,7 @@ Abonos foliares, bioestimulantes y correctores de carencias de uso permitido en 
 
 ## Pide presupuesto para tu bancal de Vilaflor
 
-Dinos cota, número de bancales, cultivo y qué quieres aplicar. Te decimos si el dron encaja a esa altura y te pasamos presupuesto con el desplazamiento desde La Palma, desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Dinos cota, número de bancales, cultivo y qué quieres aplicar. Te decimos si el dron encaja a esa altura y te pasamos presupuesto con el desplazamiento desde La Palma, desde [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -89,7 +89,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/vilaflor-de-chasna/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en La Victoria de Acentejo | Agrodrón"
+title: "Dron agrícola en La Victoria de Acentejo | AgroDron"
 slug: "la-victoria-de-acentejo"
 meta_description: "Dron agrícola en La Victoria de Acentejo: viña en terrazas de 300 a 750 m, papa y frutales. Con desplazamiento desde La Palma. Pide presupuesto."
 keyword: "dron agrícola en La Victoria de Acentejo"
@@ -12,7 +12,7 @@ municipio: "La Victoria de Acentejo"
 
 # Dron agrícola en La Victoria de Acentejo: viña en terrazas
 
-La viña de La Victoria de Acentejo está colgada en terrazas entre los 300 y los 750 metros, dentro de la DO Tacoronte-Acentejo, en bancales estrechos donde el tractor no cabe. Un dron agrícola en La Victoria de Acentejo trata esas terrazas sin pisarlas: despega desde el camino, sigue el desnivel y vuelve a cargar. Agrodrón Canarias tiene su base en La Palma; en Tenerife trabaja con desplazamiento y bajo consulta de disponibilidad.
+La viña de La Victoria de Acentejo está colgada en terrazas entre los 300 y los 750 metros, dentro de la DO Tacoronte-Acentejo, en bancales estrechos donde el tractor no cabe. Un dron agrícola en La Victoria de Acentejo trata esas terrazas sin pisarlas: despega desde el camino, sigue el desnivel y vuelve a cargar. AgroDron Canarias tiene su base en La Palma; en Tenerife trabaja con desplazamiento y bajo consulta de disponibilidad.
 
 ## Cómo está plantada la viña de La Victoria
 
@@ -46,7 +46,7 @@ Primero, los datos de la finca: dónde está, cultivo, superficie, accesos y obs
 
 Con el alisio fuerte en los lomos no se vuela, y lo que esté bajo malla o invernadero no se trata desde el aire.
 
-El espacio aéreo se mira antes que la finca: las terrazas se localizan en el mapa de zonas geográficas de UAS de ENAIRE y, si el pago está limpio, se traza el vuelo. Agrodrón opera en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01, con piloto certificado, y aplica únicamente productos de uso permitido en la viña o la papa, a la dosis de su etiqueta.
+El espacio aéreo se mira antes que la finca: las terrazas se localizan en el mapa de zonas geográficas de UAS de ENAIRE y, si el pago está limpio, se traza el vuelo. AgroDron opera en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01, con piloto certificado, y aplica únicamente productos de uso permitido en la viña o la papa, a la dosis de su etiqueta.
 
 ## Papa, frutales y huerta: los otros cultivos del municipio
 
@@ -70,7 +70,7 @@ Depende de la superficie, del número de terrazas, de los accesos y del producto
 
 ## Pide presupuesto para tu viña en La Victoria de Acentejo
 
-Mándanos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) la ubicación de la finca, las hectáreas, el cultivo y el producto que quieres aplicar. Te decimos si el dron encaja en tus terrazas y te pasamos un presupuesto con el desplazamiento desde La Palma, según disponibilidad y mejor agrupando varias fincas de Acentejo.
+Mándanos desde [AgroDron Canarias](https://agrodroncanarias.es/contacto) la ubicación de la finca, las hectáreas, el cultivo y el producto que quieres aplicar. Te decimos si el dron encaja en tus terrazas y te pasamos un presupuesto con el desplazamiento desde La Palma, según disponibilidad y mejor agrupando varias fincas de Acentejo.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -86,7 +86,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/la-victoria-de-acentejo/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

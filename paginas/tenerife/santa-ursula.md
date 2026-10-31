@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Santa Úrsula | Agrodrón Canarias"
+title: "Dron agrícola en Santa Úrsula | AgroDron Canarias"
 slug: "santa-ursula"
 meta_description: "Dron agrícola en Santa Úrsula para viña en bancales, papa de medianías y platanera de costa. Servicio con desplazamiento desde La Palma. Pide presupuesto."
 keyword: "dron agrícola en Santa Úrsula"
@@ -69,7 +69,7 @@ Venimos desde La Palma según disponibilidad, mejor con varias fincas agrupadas.
 
 ## Presupuesto para tu finca en Santa Úrsula
 
-Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) con la ubicación de la finca, el cultivo y las hectáreas. Te decimos si el dron encaja en tu ladera y te preparamos un presupuesto que incluye el desplazamiento desde La Palma.
+Escríbenos desde [AgroDron Canarias](https://agrodroncanarias.es/contacto) con la ubicación de la finca, el cultivo y las hectáreas. Te decimos si el dron encaja en tu ladera y te preparamos un presupuesto que incluye el desplazamiento desde La Palma.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -85,7 +85,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/santa-ursula/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

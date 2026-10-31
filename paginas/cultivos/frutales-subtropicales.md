@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola para frutales subtropicales | Agrodrón"
+title: "Dron agrícola para frutales subtropicales | AgroDron"
 slug: "dron-agricola-frutales-subtropicales"
 meta_description: "Dron agrícola para frutales subtropicales en Canarias: mango y piña al aire libre en barrancos y bancales; la papaya bajo malla queda fuera."
 keyword: "dron agrícola para frutales subtropicales"
@@ -59,7 +59,7 @@ En un barranco estrecho el DJI Agras T50 trabaja a lo largo, siguiendo el fondo.
 
 Antes va el papel, que es poco. El piloto vuela en la categoría específica de AESA/EASA (STS o PDRA-S01), y las zonas geográficas de UAS se comprueban en el mapa de ENAIRE isla por isla: Gran Canaria, El Hierro y Tenerife no tienen las mismas. Solo productos de uso permitido en mango, papaya o piña, a dosis de etiqueta, sobre parcela descubierta; si el barranco amanece con viento, lluvia o niebla, se espera.
 
-Agrodrón Canarias, con base en Santa Cruz de La Palma, prepara el vuelo y el registro con los datos de tu parcela y del producto. En Tenerife, donde el Mapa de Cultivos de 2021 señala a los subtropicales como el grupo que más crece, también vamos con desplazamiento.
+AgroDron Canarias, con base en Santa Cruz de La Palma, prepara el vuelo y el registro con los datos de tu parcela y del producto. En Tenerife, donde el Mapa de Cultivos de 2021 señala a los subtropicales como el grupo que más crece, también vamos con desplazamiento.
 
 ## Preguntas frecuentes sobre el dron en mango, papaya y piña
 
@@ -77,7 +77,7 @@ Sí, con desplazamiento y según disponibilidad. Agrupar fincas de la misma coma
 
 ## Pide presupuesto para tu finca de mango, papaya o piña
 
-Mándanos municipio, cultivo, hectáreas al aire libre y bajo malla por separado, altura de los árboles y qué producto quieres aplicar desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto), y te decimos si el dron encaja y con qué presupuesto. Desde Santa Cruz de La Palma salimos sin desplazamiento en la isla; a Gran Canaria, El Hierro y Tenerife con desplazamiento y según disponibilidad.
+Mándanos municipio, cultivo, hectáreas al aire libre y bajo malla por separado, altura de los árboles y qué producto quieres aplicar desde [AgroDron Canarias](https://agrodroncanarias.es/contacto), y te decimos si el dron encaja y con qué presupuesto. Desde Santa Cruz de La Palma salimos sin desplazamiento en la isla; a Gran Canaria, El Hierro y Tenerife con desplazamiento y según disponibilidad.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -93,7 +93,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-frutales-subtropicales/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

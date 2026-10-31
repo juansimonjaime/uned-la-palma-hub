@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en La Matanza de Acentejo | Agrodrón Canarias"
+title: "Dron agrícola en La Matanza de Acentejo | AgroDron Canarias"
 slug: "la-matanza-de-acentejo"
 meta_description: "Dron agrícola en La Matanza de Acentejo: viña en terrazas, papa de medianías y frutales del monte, zona a zona. Con desplazamiento desde La Palma."
 keyword: "dron agrícola en La Matanza de Acentejo"
@@ -12,7 +12,7 @@ municipio: "La Matanza de Acentejo"
 
 # Dron agrícola en La Matanza de Acentejo: qué zonas del municipio encajan y cuáles no
 
-La Matanza de Acentejo sube de golpe: acantilado en la costa, medianías de viña y papa en terrazas entre 300 y 750 metros, y monte con castaños y frutales por encima. Un dron agrícola en La Matanza de Acentejo no vale igual en cada piso, así que esta página va zona por zona. Agrodrón Canarias tiene base en La Palma y en Tenerife trabaja con desplazamiento, bajo consulta y según disponibilidad.
+La Matanza de Acentejo sube de golpe: acantilado en la costa, medianías de viña y papa en terrazas entre 300 y 750 metros, y monte con castaños y frutales por encima. Un dron agrícola en La Matanza de Acentejo no vale igual en cada piso, así que esta página va zona por zona. AgroDron Canarias tiene base en La Palma y en Tenerife trabaja con desplazamiento, bajo consulta y según disponibilidad.
 
 ![Dron agrícola en vuelo bajo sobre una viña al anochecer](/imagenes/dron-vina-anochecer.webp)
 
@@ -26,7 +26,7 @@ Aquí el dron más aporta. La viña de la DO Tacoronte-Acentejo ocupa bancales e
 
 La superficie de viña del municipio no está en fuente oficial localizada; para la comarca van de 760 ha inscritas en la DO (2022) a 1.583 ha cultivadas (ICCA). El patrón es el mismo: muchas terrazas, pocos caminos de tractor.
 
-Con mochila, tratar estas terrazas es media jornada de subir y bajar muros. El DJI Agras T50 de Agrodrón lo hace desde el aire: sigue el relieve con radar de matriz en fase y visión binocular, baja la velocidad en la pendiente y pasa de un bancal al siguiente. Su depósito de 40 litros cubre varias parcelas pequeñas de una tacada.
+Con mochila, tratar estas terrazas es media jornada de subir y bajar muros. El DJI Agras T50 de AgroDron lo hace desde el aire: sigue el relieve con radar de matriz en fase y visión binocular, baja la velocidad en la pendiente y pasa de un bancal al siguiente. Su depósito de 40 litros cubre varias parcelas pequeñas de una tacada.
 
 ## Medianías: la papa entre viñas
 
@@ -72,7 +72,7 @@ Abonos foliares, bioestimulantes y correctores de uso permitido en viña, papa o
 
 ## Pide presupuesto para tus terrazas en La Matanza de Acentejo
 
-Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) con tus parcelas de viña, papa o frutales, dónde están y cuánto suman. Te decimos qué zona encaja y te pasamos un presupuesto que cuente con el desplazamiento desde La Palma.
+Escríbenos desde [AgroDron Canarias](https://agrodroncanarias.es/contacto) con tus parcelas de viña, papa o frutales, dónde están y cuánto suman. Te decimos qué zona encaja y te pasamos un presupuesto que cuente con el desplazamiento desde La Palma.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -88,7 +88,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/la-matanza-de-acentejo/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

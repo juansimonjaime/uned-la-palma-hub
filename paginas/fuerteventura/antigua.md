@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Antigua | Agrodrón Canarias"
+title: "Dron agrícola en Antigua | AgroDron Canarias"
 slug: "antigua"
 meta_description: "Dron agrícola en Antigua, Fuerteventura: el tomate bajo cubierta no se trata; aloe, forrajes y gavias al aire libre sí, viento mediante. Pide presupuesto."
 keyword: "dron agrícola en Antigua"
@@ -12,7 +12,7 @@ municipio: "Antigua"
 
 # Dron agrícola en Antigua: respuestas para una isla de viento e invernaderos
 
-Antigua es uno de los tres municipios majoreros con tomate de exportación, junto a Tuineje y Pájara (FreshPlaza), y ese tomate va bajo malla o invernadero: un dron no lo trata. Al aire libre quedan el aloe vera, los forrajes y el cereal de las gavias y la huerta de autoconsumo: sobre eso trabaja un dron agrícola en Antigua, con un viento medio de 21,6 km/h en el aeropuerto (año 2000). Agrodrón Canarias viene desde La Palma, con desplazamiento y bajo disponibilidad.
+Antigua es uno de los tres municipios majoreros con tomate de exportación, junto a Tuineje y Pájara (FreshPlaza), y ese tomate va bajo malla o invernadero: un dron no lo trata. Al aire libre quedan el aloe vera, los forrajes y el cereal de las gavias y la huerta de autoconsumo: sobre eso trabaja un dron agrícola en Antigua, con un viento medio de 21,6 km/h en el aeropuerto (año 2000). AgroDron Canarias viene desde La Palma, con desplazamiento y bajo disponibilidad.
 
 [IMAGEN: Gavias con trastones de tierra en la llanura de Antigua, con el macizo de Betancuria al fondo y una nave de tomate a un lado | alt: Gavias y nave de tomate en el municipio de Antigua, Fuerteventura]
 
@@ -62,7 +62,7 @@ No. La malla frena la gota igual que el plástico y el producto se queda en la c
 ### ¿Hay plagas documentadas en el aloe de Antigua?
 En las fuentes que manejamos, ninguna con nombre y fecha para Fuerteventura [VERIFICAR]. Si apareciera una, la llevaría el Cabildo; el dron aplica en aloe abonos foliares y bioestimulantes permitidos cuando la planta lo pide, no por calendario.
 
-### ¿Agrodrón se desplaza a Antigua por una sola gavia?
+### ¿AgroDron se desplaza a Antigua por una sola gavia?
 Puede, pero conviene juntar fincas. El servicio en Fuerteventura es con desplazamiento desde La Palma y bajo disponibilidad; cuanto más trabajo en el mismo viaje, mejor.
 
 ### ¿Qué cuesta un tratamiento con dron en Antigua?
@@ -70,7 +70,7 @@ Depende de la superficie al aire libre, del cultivo, de los accesos, del product
 
 ## Pide presupuesto para tu finca al aire libre en Antigua
 
-Si tienes aloe, forraje, cereal en gavia o huerta descubierta en Antigua, Valles de Ortega o Triquivijate, cuéntanos qué, cuánto y qué quieres aplicar; te decimos si el dron encaja y te mandamos presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Si tienes aloe, forraje, cereal en gavia o huerta descubierta en Antigua, Valles de Ortega o Triquivijate, cuéntanos qué, cuánto y qué quieres aplicar; te decimos si el dron encaja y te mandamos presupuesto desde [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -86,7 +86,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-fuerteventura/antigua/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -116,7 +116,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
         },
         {
           "@type": "Question",
-          "name": "¿Agrodrón se desplaza a Antigua por una sola gavia?",
+          "name": "¿AgroDron se desplaza a Antigua por una sola gavia?",
           "acceptedAnswer": { "@type": "Answer", "text": "Puede, pero conviene juntar fincas. El servicio en Fuerteventura es con desplazamiento desde La Palma y bajo disponibilidad; cuanto más trabajo en el mismo viaje, mejor." }
         },
         {

@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Frontera | Agrodrón Canarias"
+title: "Dron agrícola en Frontera | AgroDron Canarias"
 slug: "frontera"
 meta_description: "Dron agrícola en Frontera para la piña tropical de El Golfo al aire libre, platanera y viña: qué se trata desde el aire y qué no. Pide presupuesto."
 keyword: "dron agrícola en Frontera"
@@ -20,7 +20,7 @@ La piña tropical Roja Española del Valle de El Golfo define Frontera: 123 ha s
 
 El Golfo es una depresión de deslizamiento abierta al noroeste, con plataforma costera y laderas hasta un escarpe de más de 1.000 m (spain.info); cultivos de la costa a unos 400 m [VERIFICAR: cota máxima de la piña], brisas marinas y unas 3.000 horas de sol (fuentes vinícolas). La Cooperativa del Campo de Frontera, con más de 450 socios, trabaja piña, mango, plátano y aguacate.
 
-Cómo está plantada es la clave. En 1988 "la mayoría de las parcelas de Frontera se cultivaban al aire libre, aunque hay algunas plantaciones bajo malla e incluso en invernaderos" (revista Fruits, CIRAD). [VERIFICAR: proporción actual bajo malla o invernadero; indicio en Público: invernaderos de platanera en El Golfo]. Agrodrón Canarias trabaja desde Santa Cruz de La Palma; a El Hierro se viene con desplazamiento y bajo disponibilidad.
+Cómo está plantada es la clave. En 1988 "la mayoría de las parcelas de Frontera se cultivaban al aire libre, aunque hay algunas plantaciones bajo malla e incluso en invernaderos" (revista Fruits, CIRAD). [VERIFICAR: proporción actual bajo malla o invernadero; indicio en Público: invernaderos de platanera en El Golfo]. AgroDron Canarias trabaja desde Santa Cruz de La Palma; a El Hierro se viene con desplazamiento y bajo disponibilidad.
 
 ## Cochinilla de la piña y complejo viral: el problema documentado
 
@@ -42,7 +42,7 @@ Lo que esté bajo malla o en invernadero no se trata con dron. Punto. En Fronter
 
 Antes de ofertar recogemos ubicación, cultivo, superficie, accesos y cubiertas de cada parcela, planificamos el vuelo sobre el mapa y aplicamos el producto que elijas, permitido en tu cultivo, a la dosis de su etiqueta; si varios productores agrupan parcelas, la salida desde La Palma rinde más.
 
-El papel: Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo PDRA-S01, con piloto certificado, y antes de aceptar una parcela de El Golfo la sitúa en el mapa de zonas geográficas de UAS de ENAIRE. Nada de volar con brisa fuerte, lluvia o niebla, y nada bajo malla.
+El papel: AgroDron vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo PDRA-S01, con piloto certificado, y antes de aceptar una parcela de El Golfo la sitúa en el mapa de zonas geográficas de UAS de ENAIRE. Nada de volar con brisa fuerte, lluvia o niebla, y nada bajo malla.
 
 ## Platanera, viña y frutales: los otros cultivos de Frontera
 
@@ -61,12 +61,12 @@ No. La cochinilla y el complejo viral los llevan el Cabildo y sanidad vegetal de
 ### ¿Qué parte de la piña de Frontera está bajo malla?
 No lo sabemos con cifra. El único dato es de 1988, cuando la mayoría iba al aire libre con algunas parcelas bajo malla e invernadero. Por eso vemos cada finca antes.
 
-### ¿Agrodrón se desplaza a El Hierro?
+### ¿AgroDron se desplaza a El Hierro?
 Sí, con desplazamiento desde Santa Cruz de La Palma y bajo disponibilidad; compensa con varias parcelas de El Golfo en la misma salida.
 
 ## Pide presupuesto para tu piña, tu platanera o tu viña en Frontera
 
-Mándanos la parcela en un mapa, cultivo, superficie y, en la piña, si va descubierta o bajo malla. Te decimos qué se trata desde el aire y te preparamos un presupuesto que cuenta el viaje desde La Palma. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Mándanos la parcela en un mapa, cultivo, superficie y, en la piña, si va descubierta o bajo malla. Te decimos qué se trata desde el aire y te preparamos un presupuesto que cuenta el viaje desde La Palma. Escríbenos desde [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -82,7 +82,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-el-hierro/frontera/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -117,7 +117,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
         },
         {
           "@type": "Question",
-          "name": "¿Agrodrón se desplaza a El Hierro?",
+          "name": "¿AgroDron se desplaza a El Hierro?",
           "acceptedAnswer": { "@type": "Answer", "text": "Sí, con desplazamiento desde Santa Cruz de La Palma y bajo disponibilidad; compensa con varias parcelas de El Golfo en la misma salida." }
         }
       ]

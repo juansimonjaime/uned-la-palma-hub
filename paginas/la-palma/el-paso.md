@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en El Paso | Agrodrón Canarias"
+title: "Dron agrícola en El Paso | AgroDron Canarias"
 slug: "el-paso"
 meta_description: "Dron agrícola en El Paso para viña, aguacate y almendro de medianías: respuestas sobre altura de copa, pendiente, viento y volcán. Pide presupuesto."
 keyword: "dron agrícola en El Paso"
@@ -76,7 +76,7 @@ Depende de la superficie, de la altura y densidad de los árboles, del acceso y 
 
 ## Pide presupuesto para tu finca de El Paso
 
-Mándanos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) la ubicación de la finca, el cultivo (viña, aguacate, almendro), la superficie y el problema. Te decimos con franqueza si el dron encaja en tu bancal de medianías y te pasamos un presupuesto; la base está en Santa Cruz de La Palma y El Paso se atiende sin desplazamiento.
+Mándanos desde [AgroDron Canarias](https://agrodroncanarias.es/contacto) la ubicación de la finca, el cultivo (viña, aguacate, almendro), la superficie y el problema. Te decimos con franqueza si el dron encaja en tu bancal de medianías y te pasamos un presupuesto; la base está en Santa Cruz de La Palma y El Paso se atiende sin desplazamiento.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -92,7 +92,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/el-paso/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

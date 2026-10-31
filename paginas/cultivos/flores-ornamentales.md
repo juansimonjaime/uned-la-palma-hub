@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola para flores y ornamentales | Agrodrón"
+title: "Dron agrícola para flores y ornamentales | AgroDron"
 slug: "dron-agricola-flores-ornamentales"
 meta_description: "Dron agrícola para flores en Canarias: proteas y ornamentales al aire libre en La Palma, Tenerife y Gran Canaria. La flor bajo invernadero queda fuera."
 keyword: "dron agrícola para flores"
@@ -54,13 +54,13 @@ Para lo que hace el dron no hace falta esperarla: en protea el trabajo es el abo
 
 ## Dónde: La Palma, Tenerife y Gran Canaria
 
-Agrodrón Canarias tiene la base en Santa Cruz de La Palma, la isla con más proteas al aire libre, y aquí no cobramos desplazamiento.
+AgroDron Canarias tiene la base en Santa Cruz de La Palma, la isla con más proteas al aire libre, y aquí no cobramos desplazamiento.
 
 En [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) las proteas se reparten por las medianías de casi todos los municipios: [Breña Alta](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/) las tiene en sus medianías y [El Paso](https://agrodroncanarias.es/dron-agricola-la-palma/el-paso/) es la cara oeste que sufrió los gases del volcán.
 
 En Tenerife las 15 ha de proteas de 2017 (Infoagro) conviven con el grueso de la flor bajo invernadero del norte. En Gran Canaria el ejemplo es al revés: en Santa María de Guía las 32 ha de flores van bajo invernadero y no se tratan con dron, mientras que la platanera y la papa del municipio sí. En ambas islas trabajamos con desplazamiento y según disponibilidad.
 
-Del papel, lo necesario. Agrodrón vuela en la categoría específica de AESA/EASA (STS o PDRA-S01) con piloto certificado, y antes de dar fecha consulta las zonas geográficas de UAS en el mapa de ENAIRE. Solo productos de uso permitido en el cultivo, a dosis de etiqueta y sobre plantación descubierta. Con el mar de nubes metido en los bancales, con lluvia o con viento, no se despega: la ventana se decide en la finca esa mañana.
+Del papel, lo necesario. AgroDron vuela en la categoría específica de AESA/EASA (STS o PDRA-S01) con piloto certificado, y antes de dar fecha consulta las zonas geográficas de UAS en el mapa de ENAIRE. Solo productos de uso permitido en el cultivo, a dosis de etiqueta y sobre plantación descubierta. Con el mar de nubes metido en los bancales, con lluvia o con viento, no se despega: la ventana se decide en la finca esa mañana.
 
 ## Preguntas frecuentes sobre el dron en flores y ornamentales
 
@@ -81,7 +81,7 @@ Sí, es justo lo que hace: abonos foliares, correctores de carencias y bioestimu
 
 ## Pide presupuesto para tu plantación de proteas u ornamentales
 
-Dinos el municipio, las hectáreas al aire libre, la altura de las plantas y qué quieres aplicar. Desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) te confirmamos si el dron encaja y te preparamos el presupuesto; en La Palma sin desplazamiento, en Tenerife y Gran Canaria con desplazamiento y según disponibilidad.
+Dinos el municipio, las hectáreas al aire libre, la altura de las plantas y qué quieres aplicar. Desde [AgroDron Canarias](https://agrodroncanarias.es/contacto) te confirmamos si el dron encaja y te preparamos el presupuesto; en La Palma sin desplazamiento, en Tenerife y Gran Canaria con desplazamiento y según disponibilidad.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -97,7 +97,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-flores-ornamentales/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

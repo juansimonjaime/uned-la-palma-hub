@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en La Orotava | Agrodrón Canarias"
+title: "Dron agrícola en La Orotava | AgroDron Canarias"
 slug: "la-orotava"
 meta_description: "Dron agrícola en La Orotava para la papa en bancal, la viña del Valle y la platanera de costa. Salimos desde La Palma con desplazamiento: pide presupuesto."
 keyword: "dron agrícola en La Orotava"
@@ -12,7 +12,7 @@ municipio: "La Orotava"
 
 # Dron agrícola en La Orotava: papa, viña y platanera del Valle
 
-La Orotava siembra más de 400 hectáreas de papa, más del 30 % de su superficie cultivada según el ISTAC (vía ayuntamiento), y detrás vienen la viña de la DO Valle de La Orotava y la platanera de costa. Un dron agrícola en La Orotava tiene sentido donde el tractor no entra: el bancal de papa y la viña tendida en pendiente. Agrodrón Canarias tiene la base en La Palma; en Tenerife el servicio es con desplazamiento y bajo consulta de disponibilidad.
+La Orotava siembra más de 400 hectáreas de papa, más del 30 % de su superficie cultivada según el ISTAC (vía ayuntamiento), y detrás vienen la viña de la DO Valle de La Orotava y la platanera de costa. Un dron agrícola en La Orotava tiene sentido donde el tractor no entra: el bancal de papa y la viña tendida en pendiente. AgroDron Canarias tiene la base en La Palma; en Tenerife el servicio es con desplazamiento y bajo consulta de disponibilidad.
 
 ## La papa manda en el municipio y la viña viene detrás
 
@@ -44,7 +44,7 @@ Recogemos pago, cultivo, superficie, accesos y obstáculos (cables, cortavientos
 
 La platanera bajo malla o invernadero no se trata desde el aire. En La Orotava cada finca se mira antes para saber si va al aire libre. Y las medianías pasan buena parte del año dentro del mar de nubes: con niebla cerrada o racha fuerte no se vuela.
 
-Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el PDRA-S01, con piloto certificado, y antes de salir se consulta el mapa de zonas geográficas de UAS de ENAIRE para el pago exacto del Valle. En el depósito solo van abonos foliares, bioestimulantes y correctores de uso permitido en el cultivo, a dosis de etiqueta, y solo sobre finca descubierta.
+AgroDron vuela en la categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el PDRA-S01, con piloto certificado, y antes de salir se consulta el mapa de zonas geográficas de UAS de ENAIRE para el pago exacto del Valle. En el depósito solo van abonos foliares, bioestimulantes y correctores de uso permitido en el cultivo, a dosis de etiqueta, y solo sobre finca descubierta.
 
 ## Platanera y aguacate en la costa del municipio
 
@@ -70,7 +70,7 @@ Fuera de La Palma el servicio es con desplazamiento y depende de la disponibilid
 
 ## Pide presupuesto para tu finca de La Orotava
 
-Dinos el pago, el cultivo, las hectáreas y el producto que quieres aplicar. Te confirmamos si el dron encaja y te mandamos presupuesto con el desplazamiento incluido desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Dinos el pago, el cultivo, las hectáreas y el producto que quieres aplicar. Te confirmamos si el dron encaja y te mandamos presupuesto con el desplazamiento incluido desde [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -86,7 +86,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/la-orotava/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

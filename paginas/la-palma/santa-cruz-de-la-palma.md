@@ -1,7 +1,7 @@
 ---
-title: "Dron agrícola en Santa Cruz de La Palma | Agrodrón"
+title: "Dron agrícola en Santa Cruz de La Palma | AgroDron"
 slug: "santa-cruz-de-la-palma"
-meta_description: "Dron agrícola en Santa Cruz de La Palma, base de Agrodrón Canarias: fincas pequeñas de platanera, aguacate y huerta sin desplazamiento. Pide presupuesto."
+meta_description: "Dron agrícola en Santa Cruz de La Palma, base de AgroDron Canarias: fincas pequeñas de platanera, aguacate y huerta sin desplazamiento. Pide presupuesto."
 keyword: "dron agrícola en Santa Cruz de La Palma"
 keywords_secundarias: "pulverización con dron en Santa Cruz de La Palma, tratamiento con drones en platanera, dron pulverizador La Palma, abonado foliar con dron Santa Cruz de La Palma, dron para aguacate"
 parent: "dron-agricola-la-palma"
@@ -12,7 +12,7 @@ municipio: "Santa Cruz de La Palma"
 
 # Dron agrícola en Santa Cruz de La Palma: las preguntas que nos hacen en casa
 
-Santa Cruz de La Palma es el municipio con menos agricultura de la isla: 210,2 hectáreas en producción en 2019 (Observatorio de Sostenibilidad de la Reserva de la Biosfera), en fincas pequeñas de platanera, aguacate y huerta colgadas de laderas y barrancos. También es donde Agrodrón Canarias tiene su base desde junio de 2025, así que las preguntas sobre el dron agrícola en Santa Cruz de La Palma nos llegan de vecinos con un cuarto de hectárea, y las respondemos tal cual.
+Santa Cruz de La Palma es el municipio con menos agricultura de la isla: 210,2 hectáreas en producción en 2019 (Observatorio de Sostenibilidad de la Reserva de la Biosfera), en fincas pequeñas de platanera, aguacate y huerta colgadas de laderas y barrancos. También es donde AgroDron Canarias tiene su base desde junio de 2025, así que las preguntas sobre el dron agrícola en Santa Cruz de La Palma nos llegan de vecinos con un cuarto de hectárea, y las respondemos tal cual.
 
 ![Plataneras en una costa acantilada de La Palma](/imagenes/platanera-costa-barlovento.webp)
 
@@ -64,13 +64,13 @@ No tienen sentido:
 
 ## ¿Por qué la base está en Santa Cruz de La Palma si hay tan poca finca?
 
-Porque desde aquí se llega a toda la isla. La capital tiene la menor superficie agrícola de los 14 municipios, pero está a un paso de las Breñas, de Mazo y de Puntallana, y a una carretera de la costa platanera del oeste. Agrodrón Canarias trabaja en toda La Palma sin desplazamiento; en el resto de Canarias, con desplazamiento y bajo consulta.
+Porque desde aquí se llega a toda la isla. La capital tiene la menor superficie agrícola de los 14 municipios, pero está a un paso de las Breñas, de Mazo y de Puntallana, y a una carretera de la costa platanera del oeste. AgroDron Canarias trabaja en toda La Palma sin desplazamiento; en el resto de Canarias, con desplazamiento y bajo consulta.
 
 La isla entera, municipio a municipio, está en el hub de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/), y los del vecino de arriba, con 82 hectáreas de aguacate, en [dron agrícola en Breña Alta](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/). Para el cultivo, mira [tratamientos con dron en la platanera](https://agrodroncanarias.es/dron-agricola-platanera/) y [dron agrícola para aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/).
 
 ## Preguntas frecuentes de agricultores de Santa Cruz de La Palma
 
-### ¿Agrodrón Canarias cobra desplazamiento por tratar una finca en Santa Cruz de La Palma?
+### ¿AgroDron Canarias cobra desplazamiento por tratar una finca en Santa Cruz de La Palma?
 
 No. La base está en el municipio y en toda La Palma se trabaja sin desplazamiento. El presupuesto sale de la superficie, el cultivo, el acceso y el producto.
 
@@ -104,11 +104,11 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "@type": "Service",
       "name": "Tratamientos agrícolas con dron en Santa Cruz de La Palma",
       "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
-      "description": "Abonado foliar y bioestimulantes con dron DJI Agras T50 en fincas pequeñas de platanera, aguacate, viña y huerta de Santa Cruz de La Palma, desde la base de Agrodrón Canarias en la propia capital y sin desplazamiento.",
+      "description": "Abonado foliar y bioestimulantes con dron DJI Agras T50 en fincas pequeñas de platanera, aguacate, viña y huerta de Santa Cruz de La Palma, desde la base de AgroDron Canarias en la propia capital y sin desplazamiento.",
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/santa-cruz-de-la-palma/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -128,7 +128,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "¿Agrodrón Canarias cobra desplazamiento por tratar una finca en Santa Cruz de La Palma?",
+          "name": "¿AgroDron Canarias cobra desplazamiento por tratar una finca en Santa Cruz de La Palma?",
           "acceptedAnswer": { "@type": "Answer", "text": "No. La base está en el municipio y en toda La Palma se trabaja sin desplazamiento. El presupuesto sale de la superficie, el cultivo, el acceso y el producto." }
         },
         {

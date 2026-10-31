@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Tazacorte | Agrodrón Canarias"
+title: "Dron agrícola en Tazacorte | AgroDron Canarias"
 slug: "tazacorte"
 meta_description: "Dron agrícola en Tazacorte: tratamientos en platanera al aire libre con DJI Agras T50, 40 L de depósito y recarga al borde de la finca. Pide presupuesto."
 keyword: "dron agrícola en Tazacorte"
@@ -76,7 +76,7 @@ Ubicación de la finca, superficie, si hay malla o invernadero, obstáculos cerc
 
 ## Pide presupuesto para tu platanera en Tazacorte
 
-Si tienes una finca de piña al aire libre en el llano de Tazacorte, escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) con la ubicación, las hectáreas y lo que quieres aplicar. Te decimos si el dron encaja y te pasamos un presupuesto sin desplazamiento, porque salimos desde la propia isla.
+Si tienes una finca de piña al aire libre en el llano de Tazacorte, escríbenos desde [AgroDron Canarias](https://agrodroncanarias.es/contacto) con la ubicación, las hectáreas y lo que quieres aplicar. Te decimos si el dron encaja y te pasamos un presupuesto sin desplazamiento, porque salimos desde la propia isla.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -92,7 +92,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/tazacorte/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

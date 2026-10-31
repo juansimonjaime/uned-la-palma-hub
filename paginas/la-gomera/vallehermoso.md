@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Vallehermoso | Agrodrón Canarias"
+title: "Dron agrícola en Vallehermoso | AgroDron Canarias"
 slug: "vallehermoso"
 meta_description: "Dron agrícola en Vallehermoso: platanera en la playa, viña DO La Gomera en bancales de 300 a 1.000 m y huerta de medianías, zona a zona. Pide presupuesto."
 keyword: "dron agrícola en Vallehermoso"
@@ -20,7 +20,7 @@ Vallehermoso es el municipio más extenso de La Gomera, 114 km² de la costa nor
 
 La DO La Gomera suma 120–125 ha, unos 230 viticultores y 20–22 bodegas (cosecha 2021, datos de la DO), con viñedos entre 50 y 1.450 m y la Forastera blanca en tres cuartas partes de la superficie. El vino calificado de 2022/23 fue de 414 hl, el más bajo de las DO canarias (MAPA, Informe DOPs 2023–2024). Sin desglose municipal [VERIFICAR: hectáreas de viña y platanera en Vallehermoso].
 
-Lo del viaje, antes de bajar a las zonas: Agrodrón Canarias trabaja desde Santa Cruz de La Palma y viene a La Gomera con desplazamiento, bajo consulta y según disponibilidad.
+Lo del viaje, antes de bajar a las zonas: AgroDron Canarias trabaja desde Santa Cruz de La Palma y viene a La Gomera con desplazamiento, bajo consulta y según disponibilidad.
 
 ## Zona 1. La playa de Vallehermoso: platanera de costa
 
@@ -63,12 +63,12 @@ Para abonado foliar o bioestimulantes con superficie seguida, sí. Contra cochin
 ### ¿La polilla guatemalteca de la papa se trata con dron?
 No. En campo la lleva sanidad vegetal y en el almacén, donde el MAPA también la cita, el dron no pinta nada; en la papa de medianías sirve para abonado foliar.
 
-### ¿Cuándo viene Agrodrón a La Gomera?
+### ¿Cuándo viene AgroDron a La Gomera?
 Cuando hay fincas suficientes y fecha con buen viento. Se viaja desde La Palma con desplazamiento y bajo disponibilidad; cuanto antes nos cuentes la finca, antes encaja.
 
 ## Presupuesto para tu finca en Vallehermoso, zona por zona
 
-Cuéntanos en qué zona está tu viña, tu platanera o tu huerta y cuánta superficie quieres tratar. Te respondemos con un presupuesto que cuenta el desplazamiento desde La Palma y te decimos si entra en una próxima salida. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Cuéntanos en qué zona está tu viña, tu platanera o tu huerta y cuánta superficie quieres tratar. Te respondemos con un presupuesto que cuenta el desplazamiento desde La Palma y te decimos si entra en una próxima salida. Escríbenos desde [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -84,7 +84,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-la-gomera/vallehermoso/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -119,7 +119,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
         },
         {
           "@type": "Question",
-          "name": "¿Cuándo viene Agrodrón a La Gomera?",
+          "name": "¿Cuándo viene AgroDron a La Gomera?",
           "acceptedAnswer": { "@type": "Answer", "text": "Cuando hay fincas suficientes y fecha con buen viento. Se viaja desde La Palma con desplazamiento y bajo disponibilidad; cuanto antes nos cuentes la finca, antes encaja." }
         }
       ]

@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Garafía | Agrodrón Canarias"
+title: "Dron agrícola en Garafía | AgroDron Canarias"
 slug: "garafia"
 meta_description: "Dron agrícola en Garafía para papa, viña y almendro en pagos separados por barrancos. Tratamiento con DJI Agras T50 sin mover maquinaria. Pide presupuesto."
 keyword: "dron agrícola en Garafía"
@@ -40,11 +40,11 @@ La polilla guatemalteca de la papa, Tecia solanivora, está en La Palma desde 20
 
 En la viña, la campaña de 2025 trajo mildiu y oídio en toda la isla, según El Time citando al Consejo Regulador, con el norte algo mejor situado. Ese frente es del viticultor y de los avisos de sanidad vegetal. Lo que sí se adapta al vuelo es el abonado foliar y el bioestimulante sobre viña rastrera: cultivo bajo, cobertura desde arriba, parcelas que no admiten tractor, producto de uso permitido en viña a su dosis de etiqueta.
 
-## Cómo organiza Agrodrón Canarias un dron agrícola en Garafía
+## Cómo organiza AgroDron Canarias un dron agrícola en Garafía
 
 Primero los datos: dónde está cada pago, qué cultivo, cuántos bancales, por dónde se entra y qué cables, árboles altos o construcciones hay alrededor. Con eso se dibuja el vuelo sobre el mapa de cada parcela. El día señalado se mide el viento en el propio lomo; si sopla o la niebla está abajo, no se vuela y se busca otro día. Se aplica la dosis de la etiqueta y queda registrado.
 
-Y las reglas, en corto. El piloto vuela en la categoría específica de AESA, en escenarios estándar o bajo el PDRA-S01, y con el Roque de los Muchachos en el término el mapa de zonas geográficas de UAS de ENAIRE se consulta pago por pago, no se da por sabido. Al depósito solo sube producto de uso permitido en el cultivo de ese bancal, a dosis de etiqueta, sobre cultivo descubierto. Ni Agrodrón ni nadie vuela por libre en Garafía.
+Y las reglas, en corto. El piloto vuela en la categoría específica de AESA, en escenarios estándar o bajo el PDRA-S01, y con el Roque de los Muchachos en el término el mapa de zonas geográficas de UAS de ENAIRE se consulta pago por pago, no se da por sabido. Al depósito solo sube producto de uso permitido en el cultivo de ese bancal, a dosis de etiqueta, sobre cultivo descubierto. Ni AgroDron ni nadie vuela por libre en Garafía.
 
 Para ver el resto de la isla, la página de [tratamientos con dron en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/) recoge los catorce municipios. Y para los cultivos que más pesan aquí, la de [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/) y la de [dron agrícola para almendro](https://agrodroncanarias.es/dron-agricola-almendro/). El vecino del suroeste, [Puntagorda](https://agrodroncanarias.es/dron-agricola-la-palma/puntagorda/), comparte almendro y viña de la subzona Norte.
 
@@ -69,7 +69,7 @@ Depende de la superficie real de cada pago, del cultivo, de lo repartidas que es
 
 ## Pide presupuesto para tus pagos de Garafía
 
-Mándanos dónde están tus bancales, qué tienes plantado y cuántas hectáreas suman, aunque estén repartidas entre Las Tricias, el casco y la costa. En [Agrodrón Canarias](https://agrodroncanarias.es/contacto) te decimos si el dron encaja en tu caso y te preparamos un presupuesto sin cifras redondas ni promesas de cosecha.
+Mándanos dónde están tus bancales, qué tienes plantado y cuántas hectáreas suman, aunque estén repartidas entre Las Tricias, el casco y la costa. En [AgroDron Canarias](https://agrodroncanarias.es/contacto) te decimos si el dron encaja en tu caso y te preparamos un presupuesto sin cifras redondas ni promesas de cosecha.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -85,7 +85,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/garafia/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Fuencaliente | Agrodrón Canarias"
+title: "Dron agrícola en Fuencaliente | AgroDron Canarias"
 slug: "fuencaliente"
 meta_description: "Dron agrícola en Fuencaliente para viña rastrera sobre picón y platanera de costa: qué parcelas encajan, qué límites tiene y cómo pedir presupuesto."
 keyword: "dron agrícola en Fuencaliente"
@@ -104,7 +104,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/fuencaliente/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

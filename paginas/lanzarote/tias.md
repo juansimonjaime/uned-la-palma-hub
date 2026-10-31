@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Tías | Agrodrón Canarias"
+title: "Dron agrícola en Tías | AgroDron Canarias"
 slug: "tias"
 meta_description: "Dron agrícola en Tías para la viña de La Geria y Masdache: el año de la cepa en hoyos, la sequía de 2023-2025 y cuándo encaja volar. Pide presupuesto."
 keyword: "dron agrícola en Tías"
@@ -12,7 +12,7 @@ municipio: "Tías"
 
 # Dron agrícola en Tías: el año de la viña de La Geria, hoyo a hoyo
 
-La Geria se extiende entre Yaiza y Tías y suma 1.368 ha de viña según el Mapa de Cultivos de Canarias citado por Infoagro (noviembre de 2024); 237 ha, un 15 %, están abandonadas. Entre hoyos excavados en el picón de 1730-1736, un dron agrícola en Tías no trata hileras: trata cepas sueltas, una por zoco. Agrodrón Canarias sale de Santa Cruz de La Palma; en Lanzarote el servicio es con desplazamiento y bajo disponibilidad.
+La Geria se extiende entre Yaiza y Tías y suma 1.368 ha de viña según el Mapa de Cultivos de Canarias citado por Infoagro (noviembre de 2024); 237 ha, un 15 %, están abandonadas. Entre hoyos excavados en el picón de 1730-1736, un dron agrícola en Tías no trata hileras: trata cepas sueltas, una por zoco. AgroDron Canarias sale de Santa Cruz de La Palma; en Lanzarote el servicio es con desplazamiento y bajo disponibilidad.
 
 [IMAGEN: Hoyos de viña con zocos de piedra en La Geria, término de Tías, con el picón negro y Montaña Blanca al fondo | alt: Viña en hoyos y zocos de La Geria en Tías, Lanzarote]
 
@@ -46,13 +46,13 @@ El otro balance es el agua: la isla no pasa de 150 mm al año en unos 16 días d
 
 La vertiente de La Geria que cae hacia Tías está entre unos 200 y 500 m [VERIFICAR: altitudes], con pendientes suaves a moderadas sobre coladas y conos. Para el atomizador el hoyo es un obstáculo; para la mochila, cada zoco es bajar y subir.
 
-El DJI Agras T50 de Agrodrón lleva depósito de 40 litros y pulveriza hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha técnica de DJI). Radar de matriz en fase y visión binocular siguen el relieve del picón y detectan muros, postes y naves: se trata cepa a cepa sin pisar el enarenado.
+El DJI Agras T50 de AgroDron lleva depósito de 40 litros y pulveriza hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha técnica de DJI). Radar de matriz en fase y visión binocular siguen el relieve del picón y detectan muros, postes y naves: se trata cepa a cepa sin pisar el enarenado.
 
 ## Viento, rocío y zonas de vuelo: cuándo se vuela y cuándo no
 
 El alisio del NE es constante en Tías; los zocos existen para frenarlo a ras de cepa. Antes de cada vuelo se mide el viento en la finca; si no da, no se vuela.
 
-Sobre el papel: Agrodrón opera en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01, con piloto certificado; cada finca de La Geria o Masdache se sitúa antes en el mapa de zonas geográficas de UAS de ENAIRE; y en el depósito solo va producto de uso permitido en viña, a la dosis que marque su etiqueta, sobre cepas al aire libre.
+Sobre el papel: AgroDron opera en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01, con piloto certificado; cada finca de La Geria o Masdache se sitúa antes en el mapa de zonas geográficas de UAS de ENAIRE; y en el depósito solo va producto de uso permitido en viña, a la dosis que marque su etiqueta, sobre cepas al aire libre.
 
 Más en [dron agrícola en Lanzarote](https://agrodroncanarias.es/dron-agricola-lanzarote/), [tratamientos con dron en la viña](https://agrodroncanarias.es/dron-agricola-vina/) y la vecina [dron agrícola en Yaiza](https://agrodroncanarias.es/dron-agricola-lanzarote/yaiza/).
 
@@ -64,7 +64,7 @@ Sí, si está al aire libre y lo que se aplica es un foliar, un bioestimulante o
 ### ¿En qué mes conviene tratar la viña de Tías con dron?
 No hay mes fijo: se vuela cuando hay hoja y la cepa pide un foliar o un bioestimulante, entre brotación y envero, una ventana corta en Lanzarote.
 
-### ¿Cuánto tarda Agrodrón en llegar desde La Palma a Tías?
+### ¿Cuánto tarda AgroDron en llegar desde La Palma a Tías?
 Sin plazo fijo: el servicio en Lanzarote es con desplazamiento y bajo disponibilidad, agrupando fincas de La Geria en un mismo viaje.
 
 ### ¿Qué cuesta un tratamiento con dron en una viña de Tías?
@@ -72,7 +72,7 @@ Depende de las hectáreas plantadas, del número de hoyos, de los accesos y del 
 
 ## Pide presupuesto para la viña de Tías antes de la brotación
 
-Si tienes viña en La Geria o Masdache, mándanos ubicación, hectáreas plantadas, número aproximado de hoyos y el producto que quieres aplicar. Te decimos si el dron encaja y te pasamos un presupuesto que contempla el desplazamiento desde La Palma: [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Si tienes viña en La Geria o Masdache, mándanos ubicación, hectáreas plantadas, número aproximado de hoyos y el producto que quieres aplicar. Te decimos si el dron encaja y te pasamos un presupuesto que contempla el desplazamiento desde La Palma: [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -88,7 +88,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-lanzarote/tias/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -118,7 +118,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
         },
         {
           "@type": "Question",
-          "name": "¿Cuánto tarda Agrodrón en llegar desde La Palma a Tías?",
+          "name": "¿Cuánto tarda AgroDron en llegar desde La Palma a Tías?",
           "acceptedAnswer": { "@type": "Answer", "text": "Sin plazo fijo: el servicio en Lanzarote es con desplazamiento y bajo disponibilidad, agrupando fincas de La Geria en un mismo viaje." }
         },
         {

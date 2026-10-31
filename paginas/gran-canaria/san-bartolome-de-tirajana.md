@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en San Bartolomé de Tirajana | Agrodrón"
+title: "Dron agrícola en San Bartolomé de Tirajana | AgroDron"
 slug: "san-bartolome-de-tirajana"
 meta_description: "Dron agrícola en San Bartolomé de Tirajana: albaricoque de Tunte y Fataga, viña de Los Azules y subtropicales al aire libre, por meses. Pide presupuesto."
 keyword: "dron agrícola en San Bartolomé de Tirajana"
@@ -16,7 +16,7 @@ San Bartolomé de Tirajana es el mayor productor de albaricoque de Canarias, con
 
 [IMAGEN: Bancales de albaricoqueros en flor en Tunte, con la caldera de Tirajana al fondo | alt: Albaricoqueros en flor en bancales de Tunte, San Bartolomé de Tirajana]
 
-Lo que condiciona todo: Agrodrón Canarias sale desde Santa Cruz de La Palma, así que en Tirajana trabajamos con desplazamiento y según disponibilidad, agrupando fincas de la comarca en la época que toque.
+Lo que condiciona todo: AgroDron Canarias sale desde Santa Cruz de La Palma, así que en Tirajana trabajamos con desplazamiento y según disponibilidad, agrupando fincas de la comarca en la época que toque.
 
 ## El año agrícola de la cumbre y las medianías del sur
 
@@ -72,7 +72,7 @@ No hay tarifa fija. Depende de la superficie, el cultivo, el acceso al bancal, e
 
 ## Pide presupuesto para tu finca de Tunte, Fataga o los barrancos del sur
 
-Si tienes albaricoqueros, viña, mangos o aguacates al aire libre en San Bartolomé de Tirajana, escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) con ubicación, hectáreas, cultivo y la época en la que quieres tratar. Te decimos si el dron encaja en tu calendario y te pasamos presupuesto.
+Si tienes albaricoqueros, viña, mangos o aguacates al aire libre en San Bartolomé de Tirajana, escríbenos desde [AgroDron Canarias](https://agrodroncanarias.es/contacto) con ubicación, hectáreas, cultivo y la época en la que quieres tratar. Te decimos si el dron encaja en tu calendario y te pasamos presupuesto.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -88,7 +88,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/san-bartolome-de-tirajana/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

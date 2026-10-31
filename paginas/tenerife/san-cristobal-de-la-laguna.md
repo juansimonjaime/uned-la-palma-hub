@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en La Laguna (Tenerife) | Agrodrón Canarias"
+title: "Dron agrícola en La Laguna (Tenerife) | AgroDron Canarias"
 slug: "san-cristobal-de-la-laguna"
 meta_description: "Dron agrícola en La Laguna: platanera de Tejina y Valle de Guerra, papa de la Vega, bancales de Anaga. Con desplazamiento desde La Palma. Pide presupuesto."
 keyword: "dron agrícola en La Laguna"
@@ -69,7 +69,7 @@ Agrupando fincas: varias parcelas de la costa norte o de la Vega en la misma sal
 
 ## Presupuesto para tu finca en La Laguna
 
-Desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) cuéntanos en qué zona está la finca (costa, Vega o Anaga), el cultivo, las hectáreas y el producto que quieres aplicar. Te confirmamos si el dron encaja, aeropuerto incluido, y te mandamos un presupuesto con el desplazamiento desde La Palma.
+Desde [AgroDron Canarias](https://agrodroncanarias.es/contacto) cuéntanos en qué zona está la finca (costa, Vega o Anaga), el cultivo, las hectáreas y el producto que quieres aplicar. Te confirmamos si el dron encaja, aeropuerto incluido, y te mandamos un presupuesto con el desplazamiento desde La Palma.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -85,7 +85,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/san-cristobal-de-la-laguna/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

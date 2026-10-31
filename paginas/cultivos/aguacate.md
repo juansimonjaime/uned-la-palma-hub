@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola para aguacate en Canarias | Agrodrón"
+title: "Dron agrícola para aguacate en Canarias | AgroDron"
 slug: "dron-agricola-aguacate"
 meta_description: "Dron agrícola para aguacate en Canarias: abonado foliar y bioestimulantes por encima de la copa del árbol. Base en La Palma; resto con desplazamiento."
 keyword: "dron agrícola para aguacate"
@@ -53,7 +53,7 @@ En producción integrada (Orden de 18 de junio de 2012 del Gobierno de Canarias)
 
 ## Dónde pesa el aguacate: islas y municipios
 
-La base de Agrodrón Canarias está en Santa Cruz de La Palma, y en la isla no hay desplazamiento que pagar. A Tenerife y Gran Canaria vamos con desplazamiento y según disponibilidad.
+La base de AgroDron Canarias está en Santa Cruz de La Palma, y en la isla no hay desplazamiento que pagar. A Tenerife y Gran Canaria vamos con desplazamiento y según disponibilidad.
 
 En [La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/), el ranking municipal de 2017 lo encabezaban Tijarafe con 132,9 ha (estudio de Mercatenerife, 2018), Los Llanos de Aridane y [El Paso, tercer municipio aguacatero de la isla](https://agrodroncanarias.es/dron-agricola-la-palma/el-paso/), seguidos de [Breña Alta con 82 ha, un 67 % más que en 2008](https://agrodroncanarias.es/dron-agricola-la-palma/brena-alta/) (Mapa de Cultivos 2017).
 
@@ -78,7 +78,7 @@ Municipio, hectáreas, altura de los árboles, accesos, cables y producto a apli
 
 ## Cuéntanos tu finca de aguacate y pide presupuesto
 
-Dinos en qué municipio está, cuántas hectáreas, qué altura tienen los árboles y qué quieres aplicar; el precio depende de eso y del producto. Te respondemos si el dron encaja, con presupuesto para esa finca. Entra en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) y escríbenos; en La Palma sin desplazamiento, en Tenerife y Gran Canaria con desplazamiento y según disponibilidad.
+Dinos en qué municipio está, cuántas hectáreas, qué altura tienen los árboles y qué quieres aplicar; el precio depende de eso y del producto. Te respondemos si el dron encaja, con presupuesto para esa finca. Entra en [AgroDron Canarias](https://agrodroncanarias.es/contacto) y escríbenos; en La Palma sin desplazamiento, en Tenerife y Gran Canaria con desplazamiento y según disponibilidad.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -94,7 +94,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-aguacate/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

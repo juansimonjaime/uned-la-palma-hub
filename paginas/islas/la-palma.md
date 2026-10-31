@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en La Palma | Agrodrón Canarias"
+title: "Dron agrícola en La Palma | AgroDron Canarias"
 slug: "dron-agricola-la-palma"
 meta_description: "Dron agrícola en La Palma: abonado foliar y bioestimulantes con DJI Agras T50 en platanera, viña, aguacate y papa, sin desplazamiento. Pide presupuesto."
 keyword: "dron agrícola en La Palma"
@@ -12,7 +12,7 @@ municipio: ""
 
 # Dron agrícola en La Palma: tratamientos agrícolas con base en Santa Cruz de La Palma
 
-La Palma cultiva 6.895,5 hectáreas, el 17,6 % de la superficie agrícola de Canarias, y produjo 153.536,9 toneladas en 2025, tercera isla de Canarias según el ISTAC. Agrodrón Canarias trabaja desde Santa Cruz de La Palma, así que un dron agrícola en La Palma no lleva desplazamiento: el equipo sale de la isla para la isla.
+La Palma cultiva 6.895,5 hectáreas, el 17,6 % de la superficie agrícola de Canarias, y produjo 153.536,9 toneladas en 2025, tercera isla de Canarias según el ISTAC. AgroDron Canarias trabaja desde Santa Cruz de La Palma, así que un dron agrícola en La Palma no lleva desplazamiento: el equipo sale de la isla para la isla.
 
 ![Dron agrícola pulverizando una viña en ladera en el nordeste de La Palma](/imagenes/dron-vina-ladera-nordeste-la-palma.webp)
 
@@ -44,7 +44,7 @@ La erupción de Tajogaite (2021, 85 días) sepultó 370 hectáreas de cultivo, 2
 - [Dron agrícola en Puntagorda](https://agrodroncanarias.es/dron-agricola-la-palma/puntagorda/): almendro identitario, viña del Norte y platanera costera.
 - [Dron agrícola en Puntallana](https://agrodroncanarias.es/dron-agricola-la-palma/puntallana/): platanera sobre el acantilado y huerta en medianías.
 - [Dron agrícola en San Andrés y Sauces](https://agrodroncanarias.es/dron-agricola-la-palma/san-andres-y-sauces/): platanera regada por Marcos y Cordero, zona más lluviosa.
-- [Dron agrícola en Santa Cruz de La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/santa-cruz-de-la-palma/): la base de Agrodrón; minifundio de aguacate y platanera.
+- [Dron agrícola en Santa Cruz de La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/santa-cruz-de-la-palma/): la base de AgroDron; minifundio de aguacate y platanera.
 - [Dron agrícola en Tazacorte](https://agrodroncanarias.es/dron-agricola-la-palma/tazacorte/): monocultivo de plátano, 450,54 hectáreas (Mapa de Cultivos 2022).
 - [Dron agrícola en Tijarafe](https://agrodroncanarias.es/dron-agricola-la-palma/tijarafe/): líder insular en aguacate y platanera costera.
 - [Dron agrícola en Villa de Mazo](https://agrodroncanarias.es/dron-agricola-la-palma/villa-de-mazo/): viña del Hoyo de Mazo, papa y platanera bajo malla.
@@ -57,7 +57,7 @@ El detalle está en [tratamientos con dron en la platanera](https://agrodroncana
 
 ## Qué hace falta para contratar un dron agrícola en La Palma
 
-Agrodrón Canarias nació en junio de 2025 y vuela un DJI Agras T50: 40 litros de depósito, hasta 16 litros por minuto con dos boquillas centrífugas y 24 con cuatro, radar y visión binocular para seguir el relieve y detectar obstáculos. Lo lleva un piloto con más de diez años de experiencia profesional, certificados AESA/EASA PDRA-S01 y operador STS, y radiofonista.
+AgroDron Canarias nació en junio de 2025 y vuela un DJI Agras T50: 40 litros de depósito, hasta 16 litros por minuto con dos boquillas centrífugas y 24 con cuatro, radar y visión binocular para seguir el relieve y detectar obstáculos. Lo lleva un piloto con más de diez años de experiencia profesional, certificados AESA/EASA PDRA-S01 y operador STS, y radiofonista.
 
 El dron carga abonos foliares, bioestimulantes y correctores de carencias de uso permitido en cada cultivo, a la dosis de su etiqueta, para el vigor de la planta tras calor, viento o ceniza; las plagas son asunto del Cabildo y del Gobierno de Canarias. El vuelo va en la categoría específica de AESA/EASA, en escenario STS o bajo el PDRA-S01, con las zonas geográficas de UAS de ENAIRE comprobadas en cada municipio, y nunca con lluvia, niebla o viento fuerte.
 
@@ -65,7 +65,7 @@ El dron carga abonos foliares, bioestimulantes y correctores de carencias de uso
 
 ## Preguntas frecuentes sobre el dron agrícola en La Palma
 
-### ¿Agrodrón Canarias cobra desplazamiento dentro de La Palma?
+### ¿AgroDron Canarias cobra desplazamiento dentro de La Palma?
 No. La base está en Santa Cruz de La Palma y toda la isla se atiende sin desplazamiento. El resto de Canarias, con desplazamiento y bajo consulta de disponibilidad.
 
 ### ¿Se puede tratar con dron la platanera bajo malla junto al aeropuerto de Mazo?
@@ -79,7 +79,7 @@ Sí, si la platanera está al aire libre. Son sorribas nuevas sobre terreno irre
 
 ## Pide presupuesto para tu finca en La Palma
 
-Cuéntanos en qué municipio está la finca, qué cultivo tienes, cuántas hectáreas suma y cómo se entra. En [Agrodrón Canarias](https://agrodroncanarias.es/contacto) te decimos si el dron encaja y te preparamos presupuesto, sin desplazamiento.
+Cuéntanos en qué municipio está la finca, qué cultivo tienes, cuántas hectáreas suma y cómo se entra. En [AgroDron Canarias](https://agrodroncanarias.es/contacto) te decimos si el dron encaja y te preparamos presupuesto, sin desplazamiento.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -91,11 +91,11 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "@type": "Service",
       "name": "Tratamientos agrícolas con dron en La Palma",
       "serviceType": "Tratamiento agrícola con dron (pulverización de abonos foliares y bioestimulantes)",
-      "description": "Agrodrón Canarias, con base en Santa Cruz de La Palma, aplica abonos foliares y bioestimulantes con dron DJI Agras T50 en platanera, viña, aguacate y papa de los catorce municipios de la isla, sin desplazamiento.",
+      "description": "AgroDron Canarias, con base en Santa Cruz de La Palma, aplica abonos foliares y bioestimulantes con dron DJI Agras T50 en platanera, viña, aguacate y papa de los catorce municipios de la isla, sin desplazamiento.",
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -115,7 +115,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "¿Agrodrón Canarias cobra desplazamiento dentro de La Palma?",
+          "name": "¿AgroDron Canarias cobra desplazamiento dentro de La Palma?",
           "acceptedAnswer": { "@type": "Answer", "text": "No. La base está en Santa Cruz de La Palma y toda la isla se atiende sin desplazamiento. El resto de Canarias, con desplazamiento y bajo consulta de disponibilidad." }
         },
         {

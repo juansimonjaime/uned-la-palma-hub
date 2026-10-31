@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Hermigua | Agrodrón Canarias"
+title: "Dron agrícola en Hermigua | AgroDron Canarias"
 slug: "hermigua"
 meta_description: "Dron agrícola en Hermigua para platanera en terrazas estrechas y viña en laderas: pendientes fuertes, picudo y humedad del norte. Pide presupuesto."
 keyword: "dron agrícola en Hermigua"
@@ -20,7 +20,7 @@ Hermigua es un barranco que baja de los 1.460 m del límite municipal hasta el m
 
 Las laderas van en bancales de piedra muy pendientes: abajo, en las terrazas más anchas y cerca del mar, la platanera; ladera arriba, viña de Forastera blanca, la variedad que ocupa tres cuartas partes de la DO La Gomera (datos de la DO, cosecha 2021), y huerta de papa y hortalizas.
 
-No hay cifra municipal de superficie; la referencia insular de viña es de 120–125 ha en 2021 [VERIFICAR: hectáreas de platanera y viña en Hermigua]. Agrodrón Canarias tiene base en Santa Cruz de La Palma y a La Gomera viene con desplazamiento y bajo disponibilidad.
+No hay cifra municipal de superficie; la referencia insular de viña es de 120–125 ha en 2021 [VERIFICAR: hectáreas de platanera y viña en Hermigua]. AgroDron Canarias tiene base en Santa Cruz de La Palma y a La Gomera viene con desplazamiento y bajo disponibilidad.
 
 ## Lo que cuesta hoy tratar una terraza de platanera en Hermigua
 
@@ -60,7 +60,7 @@ Para un bancal de pocos pies, no: la mochila sigue siendo lo práctico. Compensa
 ### ¿Puede el dron tratar el picudo negro de la platanera en Hermigua?
 No: el picudo está en el cormo y lo documentado son trampas de feromona, Beauveria bassiana e inyección al tocón, con el Cabildo detrás. El dron encaja para abonado foliar y bioestimulantes en la platanera, según etiqueta.
 
-### ¿Cómo llega Agrodrón a Hermigua desde La Palma?
+### ¿Cómo llega AgroDron a Hermigua desde La Palma?
 Con desplazamiento del equipo desde Santa Cruz de La Palma, bajo disponibilidad. Se agrupan fincas del valle y se elige fecha con margen por el viento y la niebla.
 
 ### ¿Se puede pulverizar con dron la viña de Forastera en las laderas?
@@ -68,7 +68,7 @@ Sí, si está al aire libre y lo que se aplica es un foliar o un bioestimulante 
 
 ## Pide presupuesto para tus bancales de Hermigua
 
-Mándanos dónde está la finca (fondo del valle, ladera, altitud), cultivo, número de terrazas y qué quieres aplicar. Te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento desde La Palma. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Mándanos dónde está la finca (fondo del valle, ladera, altitud), cultivo, número de terrazas y qué quieres aplicar. Te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento desde La Palma. Escríbenos desde [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -84,7 +84,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-la-gomera/hermigua/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -114,7 +114,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
         },
         {
           "@type": "Question",
-          "name": "¿Cómo llega Agrodrón a Hermigua desde La Palma?",
+          "name": "¿Cómo llega AgroDron a Hermigua desde La Palma?",
           "acceptedAnswer": { "@type": "Answer", "text": "Con desplazamiento del equipo desde Santa Cruz de La Palma, bajo disponibilidad. Se agrupan fincas del valle y se elige fecha con margen por el viento y la niebla." }
         },
         {

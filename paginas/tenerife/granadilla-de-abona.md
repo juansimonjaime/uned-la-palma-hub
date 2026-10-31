@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Granadilla de Abona | Agrodrón Canarias"
+title: "Dron agrícola en Granadilla de Abona | AgroDron Canarias"
 slug: "granadilla-de-abona"
 meta_description: "Dron agrícola en Granadilla de Abona: papa de Charco del Pino y viña de la DOP Abona según el calendario. Desplazamiento desde La Palma; pide presupuesto."
 keyword: "dron agrícola en Granadilla de Abona"
@@ -12,7 +12,7 @@ municipio: "Granadilla de Abona"
 
 # Dron agrícola en Granadilla de Abona: el año agrícola de las medianías del sur
 
-En Granadilla de Abona el calendario lo marcan dos cultivos al aire libre: la papa de las medianías altas de Charco del Pino y Cruz de Tea, zona tradicional del sur según el Plan Anual del Cabildo de 2017, y la viña de la DOP Abona entre 600 y 1.200 metros. Un dron agrícola en Granadilla de Abona tiene su hueco en momentos concretos del año, y como Agrodrón viene desde La Palma con desplazamiento, bajo consulta y según disponibilidad, conviene planificar con antelación.
+En Granadilla de Abona el calendario lo marcan dos cultivos al aire libre: la papa de las medianías altas de Charco del Pino y Cruz de Tea, zona tradicional del sur según el Plan Anual del Cabildo de 2017, y la viña de la DOP Abona entre 600 y 1.200 metros. Un dron agrícola en Granadilla de Abona tiene su hueco en momentos concretos del año, y como AgroDron viene desde La Palma con desplazamiento, bajo consulta y según disponibilidad, conviene planificar con antelación.
 
 ## De julio a noviembre: siembra de papa y vendimia
 
@@ -45,7 +45,7 @@ El viento manda: El Médano es la zona más ventosa de Tenerife por el alisio ca
 
 ## Reglas antes que vuelo
 
-El vuelo va en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01) con piloto certificado. Tenerife Sur está en el propio municipio, así que el mapa de zonas geográficas de UAS de ENAIRE se mira antes de aceptar cualquier parcela. Producto de uso permitido en papa o viña, a dosis de etiqueta, solo al aire libre. Tú aportas parcela y producto; Agrodrón prepara vuelo y registro.
+El vuelo va en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01) con piloto certificado. Tenerife Sur está en el propio municipio, así que el mapa de zonas geográficas de UAS de ENAIRE se mira antes de aceptar cualquier parcela. Producto de uso permitido en papa o viña, a dosis de etiqueta, solo al aire libre. Tú aportas parcela y producto; AgroDron prepara vuelo y registro.
 
 Para seguir: [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/) y los vecinos [dron agrícola en San Miguel de Abona](https://agrodroncanarias.es/dron-agricola-tenerife/san-miguel-de-abona/) y [dron agrícola en Vilaflor de Chasna](https://agrodroncanarias.es/dron-agricola-tenerife/vilaflor-de-chasna/).
 
@@ -65,7 +65,7 @@ Sí, es lo habitual: la salida desde La Palma se organiza por comarca y bajo dis
 
 ## Pide presupuesto con el calendario en la mano
 
-Dinos cultivo, pago, número de parcelas y en qué mes quieres la aplicación; te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento desde La Palma. Escríbenos en [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Dinos cultivo, pago, número de parcelas y en qué mes quieres la aplicación; te decimos si el dron encaja y te preparamos un presupuesto con el desplazamiento desde La Palma. Escríbenos en [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -81,7 +81,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/granadilla-de-abona/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

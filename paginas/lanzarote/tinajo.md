@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Tinajo | Agrodrón Canarias"
+title: "Dron agrícola en Tinajo | AgroDron Canarias"
 slug: "tinajo"
 meta_description: "Dron agrícola en Tinajo para la viña más densa de Lanzarote, en enarenado y hoyos de La Geria. Con desplazamiento desde La Palma, bajo consulta."
 keyword: "dron agrícola en Tinajo"
@@ -12,7 +12,7 @@ municipio: "Tinajo"
 
 # Dron agrícola en Tinajo: de la cepa en el enarenado al vuelo planta a planta
 
-En Tinajo la viña va más apretada que en el resto de Lanzarote: marco de alrededor de 1,5 m sobre enarenado, frente a los 4 m de los hoyos de La Geria (ficha de la DO vía Infoagro). Un dron agrícola en Tinajo tiene que entender esa diferencia: parcelas casi continuas junto a otras donde cada cepa vive sola en su hoyo. Agrodrón Canarias viene desde La Palma, con desplazamiento y bajo disponibilidad.
+En Tinajo la viña va más apretada que en el resto de Lanzarote: marco de alrededor de 1,5 m sobre enarenado, frente a los 4 m de los hoyos de La Geria (ficha de la DO vía Infoagro). Un dron agrícola en Tinajo tiene que entender esa diferencia: parcelas casi continuas junto a otras donde cada cepa vive sola en su hoyo. AgroDron Canarias viene desde La Palma, con desplazamiento y bajo disponibilidad.
 
 [IMAGEN: Viña de Tinajo en enarenado de picón negro con cepas rastreras a poca distancia unas de otras y las montañas de Timanfaya al fondo | alt: Viñedo en enarenado de Tinajo, Lanzarote, con marco de plantación denso]
 
@@ -70,7 +70,7 @@ Depende de la disponibilidad y de las demás fincas de la isla. El desplazamient
 
 ## Pide presupuesto para tu viña o tu enarenado en Tinajo
 
-Dinos si tu viña está en enarenado de 1,5 m o en hoyos, cuántas hectáreas tienes y qué quieres aplicar. Desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) te mandamos un presupuesto y la previsión de salida desde La Palma.
+Dinos si tu viña está en enarenado de 1,5 m o en hoyos, cuántas hectáreas tienes y qué quieres aplicar. Desde [AgroDron Canarias](https://agrodroncanarias.es/contacto) te mandamos un presupuesto y la previsión de salida desde La Palma.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -86,7 +86,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-lanzarote/tinajo/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

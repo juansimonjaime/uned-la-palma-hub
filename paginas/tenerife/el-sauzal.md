@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en El Sauzal | Agrodrón Canarias"
+title: "Dron agrícola en El Sauzal | AgroDron Canarias"
 slug: "el-sauzal"
 meta_description: "Dron agrícola en El Sauzal, sede de la DO Tacoronte-Acentejo: abonado foliar y bioestimulantes en la viña, época a época. Desde La Palma."
 keyword: "dron agrícola en El Sauzal"
@@ -12,7 +12,7 @@ municipio: "El Sauzal"
 
 # Dron agrícola en El Sauzal: el año de la viña, aviso a aviso
 
-En El Sauzal están la sede del Consejo Regulador de la DO Tacoronte-Acentejo y la Casa del Vino, y en sus 18 km² la viña sube en bancales desde el acantilado hasta Ravelo, con el grueso entre 300 y 750 metros. El cultivo marca el calendario del municipio y los avisos del Cabildo, el del viticultor. Un dron agrícola en El Sauzal se contrata mirando ese calendario, porque Agrodrón Canarias sale desde La Palma con desplazamiento y según disponibilidad.
+En El Sauzal están la sede del Consejo Regulador de la DO Tacoronte-Acentejo y la Casa del Vino, y en sus 18 km² la viña sube en bancales desde el acantilado hasta Ravelo, con el grueso entre 300 y 750 metros. El cultivo marca el calendario del municipio y los avisos del Cabildo, el del viticultor. Un dron agrícola en El Sauzal se contrata mirando ese calendario, porque AgroDron Canarias sale desde La Palma con desplazamiento y según disponibilidad.
 
 ## De la brotación a la vendimia: cuándo avisa el Cabildo
 
@@ -42,7 +42,7 @@ Para la polilla lo documentado es el monitoreo con feromonas y el control en alm
 
 El municipio pasa de la costa acantilada a las medianías altas de Ravelo en pocos kilómetros, con pendientes fuertes y bancales (elsauzal.es). La parcela típica de viña está partida en niveles con muro de piedra, y el tractor con atomizador no siempre tiene por dónde entrar.
 
-Para eso está el DJI Agras T50 de Agrodrón: radar de matriz en fase y visión binocular que siguen el relieve de terraza en terraza y regulan la velocidad con la pendiente, depósito de 40 litros y hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha de DJI).
+Para eso está el DJI Agras T50 de AgroDron: radar de matriz en fase y visión binocular que siguen el relieve de terraza en terraza y regulan la velocidad con la pendiente, depósito de 40 litros y hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha de DJI).
 
 ## Viento, humedad y mar de nubes: cuándo se vuela
 
@@ -52,7 +52,7 @@ El viento se mide en la parcela antes de cada tratamiento. Si la racha es fuerte
 
 ## El vuelo, en pocas líneas
 
-El operador de Agrodrón vuela en categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el PDRA-S01, con piloto certificado, y el término se comprueba en el mapa de zonas geográficas de UAS de ENAIRE antes de cada campaña. En viña solo se pulverizan abonos foliares, bioestimulantes y correctores de uso permitido, a la dosis de su etiqueta, sobre parcela descubierta.
+El operador de AgroDron vuela en categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el PDRA-S01, con piloto certificado, y el término se comprueba en el mapa de zonas geográficas de UAS de ENAIRE antes de cada campaña. En viña solo se pulverizan abonos foliares, bioestimulantes y correctores de uso permitido, a la dosis de su etiqueta, sobre parcela descubierta.
 
 Más en [dron agrícola en Tenerife](https://agrodroncanarias.es/dron-agricola-tenerife/), [tratamientos con dron en la viña](https://agrodroncanarias.es/dron-agricola-vina/) y [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/). Vecinos: [dron agrícola en Tacoronte](https://agrodroncanarias.es/dron-agricola-tenerife/tacoronte/) y [dron agrícola en La Matanza de Acentejo](https://agrodroncanarias.es/dron-agricola-tenerife/la-matanza-de-acentejo/).
 
@@ -72,7 +72,7 @@ Se espera. No se vuela sin visibilidad ni con viento fuerte; se busca otra franj
 
 ## Pide presupuesto antes de que llegue la campaña en El Sauzal
 
-Cuéntanos en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) cuánta viña tienes, cómo está conducida, dónde está y qué quieres aplicar; te mandamos presupuesto y acordamos fechas probables, con el desplazamiento desde La Palma según disponibilidad.
+Cuéntanos en [AgroDron Canarias](https://agrodroncanarias.es/contacto) cuánta viña tienes, cómo está conducida, dónde está y qué quieres aplicar; te mandamos presupuesto y acordamos fechas probables, con el desplazamiento desde La Palma según disponibilidad.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -88,7 +88,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/el-sauzal/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

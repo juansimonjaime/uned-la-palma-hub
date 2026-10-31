@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Tenerife | Agrodrón Canarias"
+title: "Dron agrícola en Tenerife | AgroDron Canarias"
 slug: "dron-agricola-tenerife"
 meta_description: "Dron agrícola en Tenerife para platanera, viña, papa y aguacate al aire libre, comarca a comarca. Con desplazamiento desde La Palma y bajo disponibilidad."
 keyword: "dron agrícola en Tenerife"
@@ -12,7 +12,7 @@ municipio: ""
 
 # Dron agrícola en Tenerife: tratamientos al aire libre comarca a comarca
 
-Tenerife cultivaba 17.143 hectáreas en 2024, el 43,3 % de la superficie cultivada de Canarias, según el ISTAC. Es la primera isla platanera y la que más uva y papa cultiva; buena parte de la platanera del sur va bajo invernadero. Un dron agrícola en Tenerife tiene mucho campo y un límite claro: solo trata lo que crece al aire libre. Agrodrón Canarias, con base en Santa Cruz de La Palma, atiende la isla con desplazamiento, bajo consulta y según disponibilidad.
+Tenerife cultivaba 17.143 hectáreas en 2024, el 43,3 % de la superficie cultivada de Canarias, según el ISTAC. Es la primera isla platanera y la que más uva y papa cultiva; buena parte de la platanera del sur va bajo invernadero. Un dron agrícola en Tenerife tiene mucho campo y un límite claro: solo trata lo que crece al aire libre. AgroDron Canarias, con base en Santa Cruz de La Palma, atiende la isla con desplazamiento, bajo consulta y según disponibilidad.
 
 ## Qué se cultiva y cuánto va bajo cubierta
 
@@ -44,7 +44,7 @@ No tenemos base en Tenerife: cada salida parte de Santa Cruz de La Palma con el 
 
 El T50 carga 40 litros, pulveriza hasta 16 litros por minuto con dos boquillas centrífugas (24 con cuatro) y sigue el relieve con radar y visión binocular.
 
-Agrodrón opera en la categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el PDRA-S01, con piloto certificado, y comprueba cada finca en el mapa de zonas geográficas de UAS de ENAIRE: con dos aeropuertos y un parque nacional en la isla, eso descarta o condiciona parcelas antes de salir.
+AgroDron opera en la categoría específica de AESA/EASA, en escenarios estándar (STS) o bajo el PDRA-S01, con piloto certificado, y comprueba cada finca en el mapa de zonas geográficas de UAS de ENAIRE: con dos aeropuertos y un parque nacional en la isla, eso descarta o condiciona parcelas antes de salir.
 
 Solo se pulverizan productos de uso permitido en el cultivo (abonos foliares, bioestimulantes, correctores de carencias), a dosis de etiqueta y sobre cultivo al aire libre; las plagas las lleva sanidad vegetal del Cabildo, no el dron.
 
@@ -79,7 +79,7 @@ Nueve municipios no tienen página por poca superficie, cultivo bajo cubierta o 
 
 ## Preguntas frecuentes sobre el dron agrícola en Tenerife
 
-### ¿Agrodrón Canarias tiene base en Tenerife?
+### ¿AgroDron Canarias tiene base en Tenerife?
 No. La base está en Santa Cruz de La Palma; las salidas van con desplazamiento, agrupando fincas de una comarca, y se confirman según disponibilidad.
 
 ### ¿Se puede tratar con dron la platanera bajo invernadero del sur de Tenerife?
@@ -93,7 +93,7 @@ No hay cifra sin ver las fincas: depende de superficie agrupada, cultivos, acces
 
 ## Pide presupuesto para tu finca en Tenerife
 
-Busca tu municipio en la lista y escríbenos con finca, cultivo y superficie desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto). Te decimos si el dron encaja y te pasamos presupuesto con el desplazamiento desde La Palma.
+Busca tu municipio en la lista y escríbenos con finca, cultivo y superficie desde [AgroDron Canarias](https://agrodroncanarias.es/contacto). Te decimos si el dron encaja y te pasamos presupuesto con el desplazamiento desde La Palma.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -109,7 +109,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -129,7 +129,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "¿Agrodrón Canarias tiene base en Tenerife?",
+          "name": "¿AgroDron Canarias tiene base en Tenerife?",
           "acceptedAnswer": { "@type": "Answer", "text": "No. La base está en Santa Cruz de La Palma; las salidas van con desplazamiento, agrupando fincas de una comarca, y se confirman según disponibilidad." }
         },
         {

@@ -1,7 +1,7 @@
 ---
-title: "Dron agrícola en Yaiza | Agrodrón Canarias"
+title: "Dron agrícola en Yaiza | AgroDron Canarias"
 slug: "yaiza"
-meta_description: "Dron agrícola en Yaiza para la viña de La Geria y Uga: hoyos en picón, zocos y parcelas sin camino. Agrodrón llega con desplazamiento desde La Palma."
+meta_description: "Dron agrícola en Yaiza para la viña de La Geria y Uga: hoyos en picón, zocos y parcelas sin camino. AgroDron llega con desplazamiento desde La Palma."
 keyword: "dron agrícola en Yaiza"
 keywords_secundarias: "pulverización con dron en Yaiza, tratamiento con drones en La Geria, abonado foliar con dron en Uga, bioestimulantes con dron en viña de Lanzarote, dron pulverizador sobre picón"
 parent: "dron-agricola-lanzarote"
@@ -12,7 +12,7 @@ municipio: "Yaiza"
 
 # Dron agrícola en Yaiza: tratar la viña de La Geria sin bajar al hoyo
 
-La Geria termina en Yaiza, en el tramo que baja hacia Uga, y aquí el suelo no es tierra sino picón de las erupciones de 1730-1736, con hoyos cónicos excavados en el picón y un zoco de piedra delante de cada cepa. Un dron agrícola en Yaiza se plantea desde ese terreno, porque es lo que hoy obliga a tratar cada planta con la mochila al hombro. Agrodrón Canarias viene desde La Palma, con desplazamiento y bajo consulta de disponibilidad.
+La Geria termina en Yaiza, en el tramo que baja hacia Uga, y aquí el suelo no es tierra sino picón de las erupciones de 1730-1736, con hoyos cónicos excavados en el picón y un zoco de piedra delante de cada cepa. Un dron agrícola en Yaiza se plantea desde ese terreno, porque es lo que hoy obliga a tratar cada planta con la mochila al hombro. AgroDron Canarias viene desde La Palma, con desplazamiento y bajo consulta de disponibilidad.
 
 [IMAGEN: Ladera de La Geria en Yaiza con hoyos cónicos en picón negro y zocos de piedra en semicírculo, una cepa en cada fondo | alt: Hoyos con zocos de piedra en la viña de La Geria, Yaiza, Lanzarote]
 
@@ -46,7 +46,7 @@ Con menos de 150 mm de lluvia al año y calor, la cepa de Yaiza vive del rocío 
 
 ## Dos frases sobre el vuelo y una sobre el viaje
 
-Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01, con piloto certificado, y antes de dibujar el plan sobre los hoyos de Uga comprueba la parcela en el mapa de zonas geográficas de UAS de ENAIRE. En el depósito solo va producto de uso permitido en viña, a la dosis de su etiqueta, y solo sobre cepas al aire libre.
+AgroDron vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01, con piloto certificado, y antes de dibujar el plan sobre los hoyos de Uga comprueba la parcela en el mapa de zonas geográficas de UAS de ENAIRE. En el depósito solo va producto de uso permitido en viña, a la dosis de su etiqueta, y solo sobre cepas al aire libre.
 
 Desde Santa Cruz de La Palma hasta Yaiza hay desplazamiento; agrupamos fincas de la zona por salida y cerramos fecha según disponibilidad. Más en [tratamientos con dron en Lanzarote](https://agrodroncanarias.es/dron-agricola-lanzarote/), [dron agrícola para viña](https://agrodroncanarias.es/dron-agricola-vina/) y la vecina [dron agrícola en Tías](https://agrodroncanarias.es/dron-agricola-lanzarote/tias/).
 
@@ -66,7 +66,7 @@ Reunimos las fincas de La Geria y Uga que lo pidan, miramos la previsión de vie
 
 ## Pide presupuesto para tu viña en Yaiza
 
-Cuéntanos cuántos hoyos tienes en producción, dónde están (La Geria o Uga) y qué quieres aplicar. Desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) te preparamos un presupuesto y te decimos cuándo podemos salir desde La Palma.
+Cuéntanos cuántos hoyos tienes en producción, dónde están (La Geria o Uga) y qué quieres aplicar. Desde [AgroDron Canarias](https://agrodroncanarias.es/contacto) te preparamos un presupuesto y te decimos cuándo podemos salir desde La Palma.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -82,7 +82,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-lanzarote/yaiza/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

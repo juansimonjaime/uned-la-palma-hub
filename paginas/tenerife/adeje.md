@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Adeje | Agrodrón Canarias"
+title: "Dron agrícola en Adeje | AgroDron Canarias"
 slug: "adeje"
 meta_description: "Dron agrícola en Adeje: platanera descubierta de Fañabé y Armeñime y viña de Taucho e Ifonche. Desde La Palma con desplazamiento. Pide presupuesto."
 keyword: "dron agrícola en Adeje"
@@ -28,7 +28,7 @@ El picudo negro es la principal plaga del plátano en Canarias (Gobierno de Cana
 
 ## ¿Compensa desplazar un dron desde La Palma para una finca de Adeje?
 
-Agrodrón Canarias tiene base en Santa Cruz de La Palma; allí no cobra desplazamiento, en Tenerife sí, y la salida se organiza bajo consulta y cuando hay hueco. Para una sola finca pequeña rara vez compensa. Para varias fincas de la misma comarca, o para una platanera de varias hectáreas que quiera un abonado foliar completo, la cuenta cambia.
+AgroDron Canarias tiene base en Santa Cruz de La Palma; allí no cobra desplazamiento, en Tenerife sí, y la salida se organiza bajo consulta y cuando hay hueco. Para una sola finca pequeña rara vez compensa. Para varias fincas de la misma comarca, o para una platanera de varias hectáreas que quiera un abonado foliar completo, la cuenta cambia.
 
 Juntamos trabajo: si en Adeje, Guía de Isora y Arona hay tratamientos pendientes, la salida se planifica para todos. Por eso pedimos superficie, cultivo y zona desde la primera consulta.
 
@@ -42,7 +42,7 @@ La parra va por brotación, envero y vendimia; las enfermedades (mildiu, oídio 
 
 Tres cosas. Los datos de la finca: ubicación, cultivo, hectáreas, accesos y obstáculos como cables, invernaderos vecinos o árboles altos. El producto y la dosis que marque tu técnico, porque el dron aplica lo que dice la etiqueta y no sustituye el asesoramiento. Y que el cultivo esté al aire libre.
 
-El piloto de Agrodrón vuela en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01), con certificado en vigor. Cada finca se comprueba antes en el mapa de zonas geográficas de UAS de ENAIRE y el día del vuelo se decide en la parcela: con viento fuerte, lluvia o niebla en Ifonche no se despega.
+El piloto de AgroDron vuela en la categoría específica de AESA/EASA (escenarios estándar o PDRA-S01), con certificado en vigor. Cada finca se comprueba antes en el mapa de zonas geográficas de UAS de ENAIRE y el día del vuelo se decide en la parcela: con viento fuerte, lluvia o niebla en Ifonche no se despega.
 
 ## ¿Qué cultivos de Adeje quedan fuera?
 
@@ -66,7 +66,7 @@ Sí, es cultivo al aire libre y admite abonado foliar con dron. La polilla guate
 
 ## Pide presupuesto y te decimos si el dron encaja en Adeje
 
-Cuéntanos finca, cultivo, superficie y qué quieres aplicar; te respondemos si merece el desplazamiento desde La Palma y con qué disponibilidad. El presupuesto se pide en [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Cuéntanos finca, cultivo, superficie y qué quieres aplicar; te respondemos si merece el desplazamiento desde La Palma y con qué disponibilidad. El presupuesto se pide en [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -82,7 +82,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/adeje/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

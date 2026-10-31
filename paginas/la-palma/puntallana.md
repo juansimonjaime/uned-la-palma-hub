@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Puntallana | Agrodrón Canarias"
+title: "Dron agrícola en Puntallana | AgroDron Canarias"
 slug: "puntallana"
 meta_description: "Dron agrícola en Puntallana: platanera sobre el acantilado y huerta en medianías. Mochila, atomizador o dron, comparados sin adornos. Pide presupuesto."
 keyword: "dron agrícola en Puntallana"
@@ -44,7 +44,7 @@ En la papa, la polilla guatemalteca Tecia solanivora está extendida por toda la
 
 ## Dos frases sobre las reglas antes de volar en Puntallana
 
-El piloto de Agrodrón, con más de diez años de experiencia profesional, opera en la categoría específica de AESA, en escenarios STS o bajo el PDRA-S01, y antes de bajar al acantilado comprueba en el mapa de zonas geográficas de UAS de ENAIRE en qué zona cae la sorriba. En el depósito solo va producto de uso permitido en platanera, aguacate o huerta, a la dosis de su etiqueta, solo sobre cultivo descubierto, y con el alisio fuerte, lluvia o niebla el vuelo se aplaza.
+El piloto de AgroDron, con más de diez años de experiencia profesional, opera en la categoría específica de AESA, en escenarios STS o bajo el PDRA-S01, y antes de bajar al acantilado comprueba en el mapa de zonas geográficas de UAS de ENAIRE en qué zona cae la sorriba. En el depósito solo va producto de uso permitido en platanera, aguacate o huerta, a la dosis de su etiqueta, solo sobre cultivo descubierto, y con el alisio fuerte, lluvia o niebla el vuelo se aplaza.
 
 Puntallana es uno de los catorce municipios de la página de [dron agrícola en La Palma](https://agrodroncanarias.es/dron-agricola-la-palma/). El detalle de cada cultivo está en las páginas de [dron para plataneras](https://agrodroncanarias.es/dron-agricola-platanera/) y de [tratamientos con dron en aguacate](https://agrodroncanarias.es/dron-agricola-aguacate/). Hacia el norte, el vecino [San Andrés y Sauces](https://agrodroncanarias.es/dron-agricola-la-palma/san-andres-y-sauces/) repite el esquema de platanera en terrazas, con más agua.
 
@@ -69,7 +69,7 @@ Dónde está la finca, qué cultivo tiene, cuántas hectáreas suma, cómo se en
 
 ## Pide presupuesto para tus bancales de Puntallana
 
-Si tienes platanera en la costa, aguacate o huerta en las medianías y te cuesta más llegar al bancal que tratarlo, cuéntanoslo en [Agrodrón Canarias](https://agrodroncanarias.es/contacto). Te decimos con franqueza si el dron encaja en tu finca de Puntallana y te pasamos presupuesto.
+Si tienes platanera en la costa, aguacate o huerta en las medianías y te cuesta más llegar al bancal que tratarlo, cuéntanoslo en [AgroDron Canarias](https://agrodroncanarias.es/contacto). Te decimos con franqueza si el dron encaja en tu finca de Puntallana y te pasamos presupuesto.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -85,7 +85,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/puntallana/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

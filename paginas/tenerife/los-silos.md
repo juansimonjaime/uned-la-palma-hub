@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Los Silos | Agrodrón Canarias"
+title: "Dron agrícola en Los Silos | AgroDron Canarias"
 slug: "los-silos"
 meta_description: "Dron agrícola en Los Silos para la platanera al aire libre de la Isla Baja: abonado foliar entre muros y cortavientos. Con desplazamiento desde La Palma."
 keyword: "dron agrícola en Los Silos"
@@ -12,7 +12,7 @@ municipio: "Los Silos"
 
 # Dron agrícola en Los Silos: tratar la platanera de la Isla Baja desde el aire
 
-Los Silos tenía 542,9 hectáreas de platanera en 2011 según el boletín de Desarrollo Rural del Cabildo de Tenerife de agosto de ese año, casi todas en el llano costero. El plátano aparece hasta en el escudo del municipio. Un dron agrícola en Los Silos encaja en esas fincas llanas cerradas con muros y cortavientos, donde tratar desde arriba evita meter maquinaria entre las piñas. Agrodrón Canarias sale desde La Palma: en Tenerife trabaja con desplazamiento y según disponibilidad.
+Los Silos tenía 542,9 hectáreas de platanera en 2011 según el boletín de Desarrollo Rural del Cabildo de Tenerife de agosto de ese año, casi todas en el llano costero. El plátano aparece hasta en el escudo del municipio. Un dron agrícola en Los Silos encaja en esas fincas llanas cerradas con muros y cortavientos, donde tratar desde arriba evita meter maquinaria entre las piñas. AgroDron Canarias sale desde La Palma: en Tenerife trabaja con desplazamiento y según disponibilidad.
 
 ## Una platanera de llano por debajo de los 150 metros
 
@@ -30,7 +30,7 @@ Trips (Hercinothrips femoralis) y araña roja (Tetranychus) van por hoja y racim
 
 La platanera es un cultivo alto, denso y cruzado por cadenas de riego. Con mochila toca levantar la lanza y empaparse; con atomizador hace falta pasillo. El dron pulveriza desde arriba, sin pisar el suelo, el abono foliar o el bioestimulante que toque.
 
-El DJI Agras T50 que usa Agrodrón lleva depósito de 40 litros y aplica hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha de DJI). En finca llana el vuelo es regular, con pasadas paralelas; el radar de matriz en fase y la visión binocular vigilan cortavientos, postes y cables.
+El DJI Agras T50 que usa AgroDron lleva depósito de 40 litros y aplica hasta 16 L/min con dos boquillas centrífugas o 24 L/min con cuatro (ficha de DJI). En finca llana el vuelo es regular, con pasadas paralelas; el radar de matriz en fase y la visión binocular vigilan cortavientos, postes y cables.
 
 ## Cómo se prepara una salida a Los Silos desde La Palma
 
@@ -40,7 +40,7 @@ Se recogen los datos de la finca (ubicación, hectáreas, accesos, obstáculos),
 
 Tres cosas paran un tratamiento con dron en Los Silos. La malla de cubierta, porque el producto no la atraviesa. El viento, porque el llano costero tiene brisa casi diaria y se vuela solo cuando la racha lo permite. Y el espacio aéreo.
 
-Sobre esto último: Agrodrón vuela en la categoría específica de AESA/EASA, en escenario estándar (STS) o bajo el PDRA-S01, con piloto certificado, y el plan de vuelo del llano silense se cruza con las zonas geográficas de UAS de ENAIRE. En el depósito solo van abonos foliares, bioestimulantes o correctores de carencias de uso permitido en platanera, a la dosis de su etiqueta, y solo sobre finca descubierta.
+Sobre esto último: AgroDron vuela en la categoría específica de AESA/EASA, en escenario estándar (STS) o bajo el PDRA-S01, con piloto certificado, y el plan de vuelo del llano silense se cruza con las zonas geográficas de UAS de ENAIRE. En el depósito solo van abonos foliares, bioestimulantes o correctores de carencias de uso permitido en platanera, a la dosis de su etiqueta, y solo sobre finca descubierta.
 
 ## Huerta, frutales y las medianías de Erjos y Tierra del Trigo
 
@@ -59,12 +59,12 @@ Esa parte queda fuera. El dron trata solo la superficie al aire libre, y en el p
 ### ¿El dron sirve contra el picudo negro?
 No. El picudo está en el cormo y su control (feromonas) lo marca el Cabildo. El dron tiene sentido para abonado foliar, bioestimulantes y correctores, con el producto que admita la etiqueta.
 
-### ¿Cuánto tarda Agrodrón en venir a Los Silos desde La Palma?
+### ¿Cuánto tarda AgroDron en venir a Los Silos desde La Palma?
 No hay plazo fijo. La salida a Tenerife se cuadra con la disponibilidad del equipo y, si se puede, con otras fincas de la Isla Baja el mismo viaje.
 
 ## Pide presupuesto para tu platanera en Los Silos
 
-Si tienes platanera, huerta o frutales al aire libre en Los Silos, escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) con ubicación, hectáreas, accesos y producto a aplicar; te preparamos un presupuesto y cuadramos la salida desde La Palma.
+Si tienes platanera, huerta o frutales al aire libre en Los Silos, escríbenos desde [AgroDron Canarias](https://agrodroncanarias.es/contacto) con ubicación, hectáreas, accesos y producto a aplicar; te preparamos un presupuesto y cuadramos la salida desde La Palma.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -80,7 +80,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/los-silos/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -115,7 +115,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
         },
         {
           "@type": "Question",
-          "name": "¿Cuánto tarda Agrodrón en venir a Los Silos desde La Palma?",
+          "name": "¿Cuánto tarda AgroDron en venir a Los Silos desde La Palma?",
           "acceptedAnswer": { "@type": "Answer", "text": "No hay plazo fijo. La salida a Tenerife se cuadra con la disponibilidad del equipo y, si se puede, con otras fincas de la Isla Baja el mismo viaje." }
         }
       ]

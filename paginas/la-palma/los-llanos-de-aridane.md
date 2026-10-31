@@ -1,7 +1,7 @@
 ---
-title: "Dron agrícola en Los Llanos de Aridane | Agrodrón Canarias"
+title: "Dron agrícola en Los Llanos de Aridane | AgroDron Canarias"
 slug: "los-llanos-de-aridane"
-meta_description: "Dron agrícola en Los Llanos de Aridane para platanera y aguacate: fincas sobre la colada, pistas nuevas y medianías. Pide presupuesto a Agrodrón Canarias."
+meta_description: "Dron agrícola en Los Llanos de Aridane para platanera y aguacate: fincas sobre la colada, pistas nuevas y medianías. Pide presupuesto a AgroDron Canarias."
 keyword: "dron agrícola en Los Llanos de Aridane"
 keywords_secundarias: "pulverización con dron en Los Llanos de Aridane, tratamiento con drones en platanera del Valle de Aridane, abonado foliar con dron La Palma, bioestimulantes con dron en Puerto Naos"
 parent: "dron-agricola-la-palma"
@@ -81,7 +81,7 @@ Depende de la superficie, del cultivo, de los accesos y del producto. Una finca 
 
 ## Pide presupuesto para tu finca en Los Llanos de Aridane
 
-Cuéntanos dónde está la finca (costa, colada, llano o medianía), cultivo, hectáreas y qué problema quieres tratar; te decimos si el dron encaja y te mandamos un presupuesto. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto); salimos de Santa Cruz de La Palma sin coste de desplazamiento dentro de la isla.
+Cuéntanos dónde está la finca (costa, colada, llano o medianía), cultivo, hectáreas y qué problema quieres tratar; te decimos si el dron encaja y te mandamos un presupuesto. Escríbenos desde [AgroDron Canarias](https://agrodroncanarias.es/contacto); salimos de Santa Cruz de La Palma sin coste de desplazamiento dentro de la isla.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -97,7 +97,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/los-llanos-de-aridane/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

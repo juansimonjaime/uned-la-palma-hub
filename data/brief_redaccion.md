@@ -1,11 +1,11 @@
-# Brief de redacción – landings SEO Agrodrón Canarias
+# Brief de redacción – landings SEO AgroDron Canarias
 
 Este documento es la única referencia de estilo, estructura y límites para todas las páginas de `/paginas/`. Quien redacte una página lo lee entero antes de escribir y lo cumple al pie de la letra. Los datos locales salen de `/data/municipios.csv`, `/data/cultivos.csv` y las notas de `/data/notas/`.
 
 ## 1. Hechos de la empresa que SÍ se pueden afirmar
 
-- Nombre: **Agrodrón Canarias**. Web: https://agrodroncanarias.es/. Base en **Santa Cruz de La Palma**. Fundada en **junio de 2025**.
-- Servicio: **tratamientos agrícolas con dron**: pulverización de productos líquidos de uso permitido en el cultivo (abonos foliares, bioestimulantes, correctores de carencias y otros productos permitidos), aplicados con el **DJI Agras T50** (sistema líquido). En las páginas se habla de "tratamientos agrícolas con dron", "pulverización con dron", "abonado foliar con dron", "aplicaciones con dron" o "dron pulverizador". La lista exacta de productos que aplica Agrodrón está pendiente de confirmar con el responsable (consta en el informe, no en las páginas).
+- Nombre: **AgroDron Canarias**. Web: https://agrodroncanarias.es/. Base en **Santa Cruz de La Palma**. Fundada en **junio de 2025**.
+- Servicio: **tratamientos agrícolas con dron**: pulverización de productos líquidos de uso permitido en el cultivo (abonos foliares, bioestimulantes, correctores de carencias y otros productos permitidos), aplicados con el **DJI Agras T50** (sistema líquido). En las páginas se habla de "tratamientos agrícolas con dron", "pulverización con dron", "abonado foliar con dron", "aplicaciones con dron" o "dron pulverizador". La lista exacta de productos que aplica AgroDron está pendiente de confirmar con el responsable (consta en el informe, no en las páginas).
 - Equipo adicional: **tolva para productos sólidos** (p. ej. abonos granulados). Se menciona una vez en la sección final de cada página, sin cifras, sin productos concretos y sin prometer resultados; nunca para plaguicidas ni nada vetado en el punto 2.
 - Datos del T50 que se pueden citar (fuente: ficha técnica de DJI y distribuidores oficiales): depósito de pulverización de **40 litros**; caudal de hasta **16 L/min** con dos boquillas centrífugas y **24 L/min** con cuatro; radar de matriz en fase y visión binocular para **seguir el relieve y detectar obstáculos**; ajusta la velocidad de vuelo a la pendiente. NO citar anchura de pulverización ni hectáreas/hora (no confirmadas).
 - Responsable: **piloto con más de 10 años de experiencia profesional**, con **certificados AESA/EASA (PDRA-S01, operador STS)** y **radiofonista**. No añadir otros títulos.
@@ -16,7 +16,7 @@ Este documento es la única referencia de estilo, estructura y límites para tod
 
 ## 2. Lo que NO se puede afirmar nunca
 
-- La palabra **fitosanitario** en cualquiera de sus formas, ni "fitos", ni plaguicida, pesticida, fungicida, insecticida, acaricida o herbicida, ni "fumigar" o "fumigación". Agrodrón no ofrece ese servicio en Canarias y el responsable no quiere que aparezca en ninguna página. Tampoco se cita el Real Decreto 1311/2012, el "plan de aplicación", la "aplicación aérea de productos", el "anexo VI", la nota MAPA–AESA ni la "autorización previa del órgano competente": todo eso pertenece al régimen de esos productos y no a este servicio.
+- La palabra **fitosanitario** en cualquiera de sus formas, ni "fitos", ni plaguicida, pesticida, fungicida, insecticida, acaricida o herbicida, ni "fumigar" o "fumigación". AgroDron no ofrece ese servicio en Canarias y el responsable no quiere que aparezca en ninguna página. Tampoco se cita el Real Decreto 1311/2012, el "plan de aplicación", la "aplicación aérea de productos", el "anexo VI", la nota MAPA–AESA ni la "autorización previa del órgano competente": todo eso pertenece al régimen de esos productos y no a este servicio.
 - Que el dron combate, controla, elimina o previene una plaga o enfermedad; que un producto "trata" el picudo, la cochinilla, el mildiu, etc.
 - Precios, tarifas, "desde X €", descuentos.
 - Clientes, fincas tratadas, testimonios, casos de éxito, cifras de ahorro, "hemos tratado X hectáreas".
@@ -28,7 +28,7 @@ Este documento es la única referencia de estilo, estructura y límites para tod
 
 Como máximo un párrafo corto por página, redactado distinto cada vez. Solo estas afirmaciones:
 
-1. "Agrodrón vuela en la **categoría específica** de AESA/EASA, en escenarios estándar (STS) o bajo el análisis de riesgo predefinido **PDRA-S01**, con piloto certificado." Fuente: AESA, ámbito drones (https://www.seguridadaerea.gob.es/es/ambitos/drones) y Reglamento de Ejecución (UE) 2019/947.
+1. "AgroDron vuela en la **categoría específica** de AESA/EASA, en escenarios estándar (STS) o bajo el análisis de riesgo predefinido **PDRA-S01**, con piloto certificado." Fuente: AESA, ámbito drones (https://www.seguridadaerea.gob.es/es/ambitos/drones) y Reglamento de Ejecución (UE) 2019/947.
 2. "Cada vuelo se planifica sobre el mapa de la parcela y se comprueban las **zonas geográficas de UAS** (cercanía de aeropuertos, zonas restringidas)." Fuente: mapa de zonas geográficas de UAS de ENAIRE (https://drones.enaire.es/).
 3. "Solo se aplican **productos de uso permitido en el cultivo**, a la dosis que marca su etiqueta, y solo sobre cultivo al aire libre." Sin cita normativa: es la práctica de la empresa.
 4. "Con viento fuerte, lluvia o niebla no se vuela; la ventana se decide en la finca el mismo día." Práctica operativa, sin cifra de viento (no confirmada).
@@ -55,7 +55,7 @@ Enlaces internos obligatorios (en markdown, con URL absoluta):
 
 ```
 ---
-title: "Dron agrícola en Tazacorte | Agrodrón Canarias"
+title: "Dron agrícola en Tazacorte | AgroDron Canarias"
 slug: "tazacorte"
 meta_description: "Entre 120 y 155 caracteres, con la palabra clave y una razón concreta para pedir presupuesto."
 keyword: "dron agrícola en Tazacorte"
@@ -68,7 +68,7 @@ municipio: "Tazacorte"
 ```
 
 - `nivel`: `A` (municipios de La Palma), `B` (municipios de otras islas con página), `hub` (página de isla), `cultivo`.
-- `title`: máximo **60 caracteres**, con la keyword al principio. Fórmulas: municipio → `Dron agrícola en {Municipio} | Agrodrón Canarias` (si pasa de 60, usar `| Agrodrón`); hub → `Dron agrícola en {Isla} | Agrodrón Canarias`; cultivo → `Dron agrícola para {cultivo} en Canarias | Agrodrón`.
+- `title`: máximo **60 caracteres**, con la keyword al principio. Fórmulas: municipio → `Dron agrícola en {Municipio} | AgroDron Canarias` (si pasa de 60, usar `| AgroDron`); hub → `Dron agrícola en {Isla} | AgroDron Canarias`; cultivo → `Dron agrícola para {cultivo} en Canarias | AgroDron`.
 - `keyword` principal: municipio → `dron agrícola en {Municipio}`; hub → `dron agrícola en {Isla}`; cultivo → `dron agrícola para {cultivo}` (ej. `dron agrícola para platanera`, `dron agrícola para viña`, `dron agrícola para papa`).
 - `meta_description`: 120–155 caracteres, contiene la keyword tal cual, sin exclamaciones.
 - En hubs y cultivos, `municipio` se deja vacío (`""`) y en cultivos `isla` también.
@@ -145,7 +145,7 @@ Español de España (coger, vosotros/tú, ordenador). Tildes y mayúsculas corre
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/tazacorte/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

@@ -1,7 +1,7 @@
 ---
-title: "Dron agrícola en Garachico | Agrodrón Canarias"
+title: "Dron agrícola en Garachico | AgroDron Canarias"
 slug: "garachico"
-meta_description: "Dron agrícola en Garachico mes a mes: platanera de la plataforma costera y viña del Reparo. Desplazamiento desde La Palma. Pide presupuesto a Agrodrón."
+meta_description: "Dron agrícola en Garachico mes a mes: platanera de la plataforma costera y viña del Reparo. Desplazamiento desde La Palma. Pide presupuesto a AgroDron."
 keyword: "dron agrícola en Garachico"
 keywords_secundarias: "pulverización con dron en Garachico, tratamiento con drones en platanera de la Isla Baja, dron pulverizador Ycoden-Daute-Isora, abonado foliar con dron en San Juan del Reparo"
 parent: "dron-agricola-tenerife"
@@ -12,7 +12,7 @@ municipio: "Garachico"
 
 # Dron agrícola en Garachico: el año de la platanera y la viña en la Isla Baja
 
-Garachico tenía 204,6 hectáreas de platanera en 2011 según el boletín de Desarrollo Rural del Cabildo, su actividad agraria principal, en la plataforma de costa; en 2024 estrenó empaquetado (Diario de Avisos). Arriba, en San Juan del Reparo y Genovés, la viña de la DO Ycoden-Daute-Isora. Recorremos el año de ambos cultivos para ver cuándo encaja un dron agrícola en Garachico. Agrodrón Canarias viene desde La Palma, con desplazamiento y bajo disponibilidad.
+Garachico tenía 204,6 hectáreas de platanera en 2011 según el boletín de Desarrollo Rural del Cabildo, su actividad agraria principal, en la plataforma de costa; en 2024 estrenó empaquetado (Diario de Avisos). Arriba, en San Juan del Reparo y Genovés, la viña de la DO Ycoden-Daute-Isora. Recorremos el año de ambos cultivos para ver cuándo encaja un dron agrícola en Garachico. AgroDron Canarias viene desde La Palma, con desplazamiento y bajo disponibilidad.
 
 ## Primavera: brotación de la viña y el primer aviso de oídio
 
@@ -68,7 +68,7 @@ Cuanto antes: se agrupan fincas de la Isla Baja y de Icod en la misma salida y l
 
 ## Pide presupuesto para tu finca de Garachico
 
-Dinos si la finca está en la plataforma o en el Reparo, cultivo, hectáreas y época; te confirmamos si el dron encaja y te mandamos presupuesto con el desplazamiento desde La Palma en [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Dinos si la finca está en la plataforma o en el Reparo, cultivo, hectáreas y época; te confirmamos si el dron encaja y te mandamos presupuesto con el desplazamiento desde La Palma en [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -84,7 +84,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/garachico/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

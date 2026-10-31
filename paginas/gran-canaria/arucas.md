@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Arucas | Agrodrón Canarias"
+title: "Dron agrícola en Arucas | AgroDron Canarias"
 slug: "arucas"
 meta_description: "Dron agrícola en Arucas para platanera entre cortavientos en Bañaderos y bancales de medianías. Desplazamiento desde La Palma; pide presupuesto."
 keyword: "dron agrícola en Arucas"
@@ -16,7 +16,7 @@ La platanera de Arucas ocupa una plataforma costera baja, entre el nivel del mar
 
 [IMAGEN: Plataforma costera de Bañaderos con plataneras entre muros cortavientos de bloque y el mar detrás | alt: Platanera entre cortavientos en la costa de Bañaderos, Arucas, Gran Canaria]
 
-Agrodrón viene desde La Palma, con desplazamiento y bajo consulta de disponibilidad. Antes del dron, el terreno: es lo que decide cómo se trata cada finca.
+AgroDron viene desde La Palma, con desplazamiento y bajo consulta de disponibilidad. Antes del dron, el terreno: es lo que decide cómo se trata cada finca.
 
 ## El terreno: muros en la costa, bancales en Santidad y Visvique
 
@@ -48,7 +48,7 @@ Páginas relacionadas: [dron agrícola en Gran Canaria](https://agrodroncanarias
 
 ## La ley, en dos frases
 
-Agrodrón opera en la categoría específica de AESA, en escenarios estándar STS o bajo el PDRA-S01, con piloto certificado, y comprueba cada parcela de Bañaderos o Cardones en el mapa de zonas geográficas de UAS de ENAIRE antes de planificar. En el depósito solo va producto de uso permitido en el cultivo, a dosis de etiqueta, sobre platanera o frutal descubiertos.
+AgroDron opera en la categoría específica de AESA, en escenarios estándar STS o bajo el PDRA-S01, con piloto certificado, y comprueba cada parcela de Bañaderos o Cardones en el mapa de zonas geográficas de UAS de ENAIRE antes de planificar. En el depósito solo va producto de uso permitido en el cultivo, a dosis de etiqueta, sobre platanera o frutal descubiertos.
 
 ## Preguntas frecuentes sobre el dron agrícola en Arucas
 
@@ -69,7 +69,7 @@ Depende de la superficie, el cultivo, los accesos, el producto y el desplazamien
 
 ## Presupuesto para tu finca en Arucas
 
-Mándanos la zona (Bañaderos, Cardones, Trasmontaña, Santidad...), el cultivo, las hectáreas y lo que quieres aplicar, y te decimos si el dron encaja. El presupuesto llega con el desplazamiento desde La Palma desglosado. Escribe a [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Mándanos la zona (Bañaderos, Cardones, Trasmontaña, Santidad...), el cultivo, las hectáreas y lo que quieres aplicar, y te decimos si el dron encaja. El presupuesto llega con el desplazamiento desde La Palma desglosado. Escribe a [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -85,7 +85,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/arucas/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

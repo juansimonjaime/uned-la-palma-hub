@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Lanzarote | Agrodrón Canarias"
+title: "Dron agrícola en Lanzarote | AgroDron Canarias"
 slug: "dron-agricola-lanzarote"
 meta_description: "Dron agrícola en Lanzarote: viña de la DO en enarenados y hoyos, cebolla y batata del jable. Con desplazamiento desde La Palma, bajo consulta."
 keyword: "dron agrícola en Lanzarote"
@@ -12,7 +12,7 @@ municipio: ""
 
 # Dron agrícola en Lanzarote: viña en picón, jable y viento
 
-Lanzarote cultivó 3.872 hectáreas en 2024, la cifra más alta desde 2008, según el Cabildo. Tres cuartas partes son viña, en enarenados y hoyos con zoco; la DO tiene 1.865 ha inscritas (folleto oficial de 2024). Un dron agrícola en Lanzarote trabaja con el alisio, la sequía y parcelas donde cada cepa es un objetivo. Agrodrón Canarias lo hace con desplazamiento desde La Palma y bajo disponibilidad.
+Lanzarote cultivó 3.872 hectáreas en 2024, la cifra más alta desde 2008, según el Cabildo. Tres cuartas partes son viña, en enarenados y hoyos con zoco; la DO tiene 1.865 ha inscritas (folleto oficial de 2024). Un dron agrícola en Lanzarote trabaja con el alisio, la sequía y parcelas donde cada cepa es un objetivo. AgroDron Canarias lo hace con desplazamiento desde La Palma y bajo disponibilidad.
 
 [IMAGEN: Panorámica de La Geria con cientos de hoyos en picón negro y zocos de piedra, bodegas al fondo y el alisio marcando las nubes | alt: Paisaje vitícola de La Geria en Lanzarote con hoyos y zocos de piedra]
 
@@ -56,13 +56,13 @@ En plagas hay poco documentado: filoxera sin positivos tras más de 1.300 inspec
 
 ## Cómo se organiza una salida a Lanzarote desde La Palma
 
-Agrodrón Canarias tiene su base en Santa Cruz de La Palma; fuera de la isla el servicio es con desplazamiento y bajo disponibilidad. Recogemos los datos de cada finca (cultivo, sistema de plantación, superficie, accesos), agrupamos las parcelas de una comarca en una salida y fijamos fecha cuando calendario y previsión de viento lo permiten.
+AgroDron Canarias tiene su base en Santa Cruz de La Palma; fuera de la isla el servicio es con desplazamiento y bajo disponibilidad. Recogemos los datos de cada finca (cultivo, sistema de plantación, superficie, accesos), agrupamos las parcelas de una comarca en una salida y fijamos fecha cuando calendario y previsión de viento lo permiten.
 
 Antes de cada aplicación, tres comprobaciones: piloto en la categoría específica de AESA/EASA, en escenarios estándar o bajo el PDRA-S01; parcela situada en el mapa de zonas geográficas de UAS de ENAIRE; y producto de uso permitido en el cultivo, a la dosis de su etiqueta, solo al aire libre.
 
 ## Preguntas frecuentes sobre el dron agrícola en Lanzarote
 
-### ¿Trabaja Agrodrón Canarias en Lanzarote aunque la base esté en La Palma?
+### ¿Trabaja AgroDron Canarias en Lanzarote aunque la base esté en La Palma?
 Sí, con desplazamiento y bajo disponibilidad: agrupamos fincas por salida y confirmamos fecha cuando hay hueco.
 
 ### ¿Se puede tratar con dron una viña en hoyos de La Geria?
@@ -76,7 +76,7 @@ Depende de superficie, sistema de plantación (enarenado denso o hoyos), accesos
 
 ## Pide presupuesto para tu finca en Lanzarote
 
-Dinos municipio, cultivo, sistema de plantación y hectáreas. Desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) te mandamos un presupuesto y te decimos cuándo puede salir el dron desde La Palma.
+Dinos municipio, cultivo, sistema de plantación y hectáreas. Desde [AgroDron Canarias](https://agrodroncanarias.es/contacto) te mandamos un presupuesto y te decimos cuándo puede salir el dron desde La Palma.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -92,7 +92,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-lanzarote/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -112,7 +112,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "¿Trabaja Agrodrón Canarias en Lanzarote aunque la base esté en La Palma?",
+          "name": "¿Trabaja AgroDron Canarias en Lanzarote aunque la base esté en La Palma?",
           "acceptedAnswer": { "@type": "Answer", "text": "Sí, con desplazamiento y bajo disponibilidad: agrupamos fincas por salida y confirmamos fecha cuando hay hueco." }
         },
         {

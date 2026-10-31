@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en La Aldea de San Nicolás | Agrodrón"
+title: "Dron agrícola en La Aldea de San Nicolás | AgroDron"
 slug: "la-aldea-de-san-nicolas"
 meta_description: "Dron agrícola en La Aldea de San Nicolás: el tomate de invernadero no va con dron; mango, aguacate y platanera al aire libre, sí. Pide presupuesto."
 keyword: "dron agrícola en La Aldea de San Nicolás"
@@ -20,7 +20,7 @@ La Aldea de San Nicolás encabeza el Mapa de Cultivos de Gran Canaria 2024 con u
 
 Para lo que está fuera del plástico. El dron no entra en un invernadero ni trata a través de una malla, lo que deja fuera el tomate y el pepino de exportación. Lo que sí se vuela es el frutal al aire libre del valle, Tasarte y Tasartico: mango, aguacate, la platanera que queda y lo que salga del proyecto Lairaga Tropical.
 
-Agrodrón Canarias tiene la base en Santa Cruz de La Palma. En Gran Canaria trabajamos con desplazamiento y bajo consulta, según disponibilidad; una salida al oeste se planifica juntando varias fincas del valle.
+AgroDron Canarias tiene la base en Santa Cruz de La Palma. En Gran Canaria trabajamos con desplazamiento y bajo consulta, según disponibilidad; una salida al oeste se planifica juntando varias fincas del valle.
 
 ## ¿Se puede pulverizar con dron el tomate de La Aldea cuando entra el mildiu?
 
@@ -46,7 +46,7 @@ Los invernaderos vecinos, con sus estructuras y cables, van marcados en el plan 
 
 Ubicación, superficie, cultivo y lo que rodea la parcela: invernaderos, cables, camino de acceso, punto de carga de agua. Con eso montamos el plan de vuelo y vemos si el dron encaja antes de hablar de fechas.
 
-Después, el orden del vuelo. Agrodrón opera en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el PDRA-S01, con piloto certificado, y mira el mapa de zonas geográficas de UAS de ENAIRE para el llano y para Tasarte antes de dibujar la ruta. El producto lo eliges tú entre los de uso permitido en mango o aguacate; se aplica a dosis de etiqueta, con las calmas de la mañana.
+Después, el orden del vuelo. AgroDron opera en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el PDRA-S01, con piloto certificado, y mira el mapa de zonas geográficas de UAS de ENAIRE para el llano y para Tasarte antes de dibujar la ruta. El producto lo eliges tú entre los de uso permitido en mango o aguacate; se aplica a dosis de etiqueta, con las calmas de la mañana.
 
 ## ¿Y si La Aldea cambia de cultivo?
 
@@ -62,7 +62,7 @@ No. Pepino y tomate van bajo cubierta y la pulverización aérea no atraviesa pl
 ### ¿Se puede tratar la platanera de La Aldea con dron?
 Si está al aire libre, sí, con abono foliar o bioestimulante de uso permitido en platanera; bajo malla de techo o invernadero, no. Los cortavientos verticales se marcan como obstáculo.
 
-### ¿Cuánto tarda en llegar Agrodrón a La Aldea?
+### ¿Cuánto tarda en llegar AgroDron a La Aldea?
 No damos plazos. Salimos desde La Palma según disponibilidad y agrupamos fincas de la misma comarca; cuanto antes avises, antes entras en la siguiente salida.
 
 ### ¿Vale el dron para las nuevas fincas de mango y aguacate de Lairaga Tropical?
@@ -73,7 +73,7 @@ Depende de superficie, cultivo, acceso, producto y desplazamiento desde La Palma
 
 ## Pide presupuesto si tu finca de La Aldea está al aire libre
 
-Si cultivas mango, aguacate o platanera sin cubierta en el valle de La Aldea, en Tasarte o en Tasartico, escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto) con ubicación, hectáreas y producto. Te decimos si el dron encaja y te pasamos presupuesto.
+Si cultivas mango, aguacate o platanera sin cubierta en el valle de La Aldea, en Tasarte o en Tasartico, escríbenos desde [AgroDron Canarias](https://agrodroncanarias.es/contacto) con ubicación, hectáreas y producto. Te decimos si el dron encaja y te pasamos presupuesto.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -89,7 +89,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/la-aldea-de-san-nicolas/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -119,7 +119,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
         },
         {
           "@type": "Question",
-          "name": "¿Cuánto tarda en llegar Agrodrón a La Aldea?",
+          "name": "¿Cuánto tarda en llegar AgroDron a La Aldea?",
           "acceptedAnswer": { "@type": "Answer", "text": "No damos plazos. Salimos desde La Palma según disponibilidad y agrupamos fincas de la misma comarca; cuanto antes avises, antes entras en la siguiente salida." }
         },
         {

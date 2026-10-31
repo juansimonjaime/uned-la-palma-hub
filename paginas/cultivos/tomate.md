@@ -1,7 +1,7 @@
 ---
-title: "Dron agrícola para tomate en Canarias | Agrodrón"
+title: "Dron agrícola para tomate en Canarias | AgroDron"
 slug: "dron-agricola-tomate"
-meta_description: "Dron agrícola para tomate en Canarias: bajo malla o invernadero no se trata desde el aire; al aire libre y en la finca, sí. Pide presupuesto a Agrodrón."
+meta_description: "Dron agrícola para tomate en Canarias: bajo malla o invernadero no se trata desde el aire; al aire libre y en la finca, sí. Pide presupuesto a AgroDron."
 keyword: "dron agrícola para tomate"
 keywords_secundarias: "pulverización con dron en tomate, abonado foliar con dron en tomate al aire libre, dron pulverizador para tomate, bioestimulantes con dron en tomate, dron para tomate de mercado local"
 parent: ""
@@ -20,7 +20,7 @@ Gran Canaria concentra la mayor parte del tomate de invernadero de Canarias, seg
 
 Otro motivo para empezar aquí: el mildiu que arrasó La Aldea en 2021 (25 ha, 4,5 millones de kilos) y volvió en 2023 (55 de 101 ha afectadas) ocurrió dentro de los invernaderos (Coagrisan, Gobierno de Canarias). Un dron no habría cambiado nada ahí. Si tu tomate está cubierto, lo honesto es decirte que busques otra vía.
 
-La base de Agrodrón Canarias está en Santa Cruz de La Palma; en Gran Canaria, Tenerife y Fuerteventura se trabaja con desplazamiento y bajo disponibilidad, así que antes de mover el equipo conviene tener claro qué parcelas están descubiertas.
+La base de AgroDron Canarias está en Santa Cruz de La Palma; en Gran Canaria, Tenerife y Fuerteventura se trabaja con desplazamiento y bajo disponibilidad, así que antes de mover el equipo conviene tener claro qué parcelas están descubiertas.
 
 ## Qué sí queda al aire libre
 
@@ -50,7 +50,7 @@ Tiene sentido si la parcela está descubierta, si lo que quieres aplicar es un f
 
 En Fuerteventura manda el viento: en Antigua la media fue de 21,6 km/h en el aeropuerto (año 2000), con 136,6 mm de lluvia anual (ULPGC), así que las ventanas de vuelo son cortas y se planifican con el parte. Una mata entutorada tras semanas de alisio y sol es el caso típico en que se plantea un foliar pensado para sostener el vigor.
 
-Dos cosas sobre la norma. El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el análisis de riesgo predefinido PDRA-S01 (AESA, Reglamento de Ejecución (UE) 2019/947), y cada plano de vuelo se contrasta con las zonas geográficas de UAS de ENAIRE (cercanía de aeropuertos, zonas restringidas). Y sobre el producto: solo de uso permitido en tomate, a dosis de etiqueta, sobre planta descubierta.
+Dos cosas sobre la norma. El piloto de AgroDron vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el análisis de riesgo predefinido PDRA-S01 (AESA, Reglamento de Ejecución (UE) 2019/947), y cada plano de vuelo se contrasta con las zonas geográficas de UAS de ENAIRE (cercanía de aeropuertos, zonas restringidas). Y sobre el producto: solo de uso permitido en tomate, a dosis de etiqueta, sobre planta descubierta.
 
 ## Islas y municipios con tomate
 
@@ -77,7 +77,7 @@ Sí, con desplazamiento y según disponibilidad. Conviene agrupar varias parcela
 
 ## Pide presupuesto si tu tomate va al aire libre
 
-Si tienes tomate descubierto o parcelas al aire libre junto a los invernaderos, dinos municipio, superficie, acceso y qué quieres aplicar. Pide presupuesto en [Agrodrón Canarias](https://agrodroncanarias.es/contacto); si el tomate está bajo cubierta te lo diremos a la primera para no hacerte perder tiempo.
+Si tienes tomate descubierto o parcelas al aire libre junto a los invernaderos, dinos municipio, superficie, acceso y qué quieres aplicar. Pide presupuesto en [AgroDron Canarias](https://agrodroncanarias.es/contacto); si el tomate está bajo cubierta te lo diremos a la primera para no hacerte perder tiempo.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -93,7 +93,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tomate/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

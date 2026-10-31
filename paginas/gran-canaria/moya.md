@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Moya | Agrodrón Canarias"
+title: "Dron agrícola en Moya | AgroDron Canarias"
 slug: "moya"
 meta_description: "Dron agrícola en Moya para papa, cebolla y hortalizas de medianías según la época y la niebla del norte. Desplazamiento desde La Palma; pide presupuesto."
 keyword: "dron agrícola en Moya"
@@ -47,7 +47,7 @@ Para ese relieve, el DJI Agras T50 sigue el terreno con su radar de matriz en fa
 
 Fontanales está entre los puntos más lluviosos y neblinosos de la isla [VERIFICAR: dato climático de Fontanales]; la laurisilva de Los Tilos lo confirma sin cifras. La costa de San Felipe tiene viento propio. Antes de cada vuelo se mide y, si no hay visibilidad o la racha pasa de límite, se espera.
 
-Normativa en corto: Agrodrón vuela en la categoría específica de AESA, en escenarios STS o bajo el PDRA-S01, con piloto certificado; las zonas geográficas de UAS de ENAIRE se consultan para cada bancal de Moya, y solo se pulverizan productos de uso permitido en papa, cebolla o frutal, a dosis de etiqueta.
+Normativa en corto: AgroDron vuela en la categoría específica de AESA, en escenarios STS o bajo el PDRA-S01, con piloto certificado; las zonas geográficas de UAS de ENAIRE se consultan para cada bancal de Moya, y solo se pulverizan productos de uso permitido en papa, cebolla o frutal, a dosis de etiqueta.
 
 Para seguir leyendo: [dron agrícola en Gran Canaria](https://agrodroncanarias.es/dron-agricola-gran-canaria/), [dron agrícola para papa](https://agrodroncanarias.es/dron-agricola-papa/), [dron agrícola para hortícolas](https://agrodroncanarias.es/dron-agricola-horticolas/) y la vecina [dron agrícola en Arucas](https://agrodroncanarias.es/dron-agricola-gran-canaria/arucas/).
 
@@ -63,11 +63,11 @@ No. La larva está dentro del tubérculo y en el almacén; las medidas con fuent
 No. Hace falta visibilidad y viento dentro de límites; se elige el hueco del día en que el mar de nubes abre y, si no abre, se cambia la fecha.
 
 ### ¿Cómo se organiza el desplazamiento desde La Palma para una finca de Moya?
-Agrodrón sale de Santa Cruz de La Palma bajo consulta y según disponibilidad; no se fijan plazos sin estudiar la finca y el producto. Con varias parcelas de Moya, Guía o Arucas, la salida se cuadra mejor.
+AgroDron sale de Santa Cruz de La Palma bajo consulta y según disponibilidad; no se fijan plazos sin estudiar la finca y el producto. Con varias parcelas de Moya, Guía o Arucas, la salida se cuadra mejor.
 
 ## Pide presupuesto para la próxima campaña en Moya
 
-Dinos qué siembras, en qué pago (San Felipe, El Pagador, Fontanales...), cuántas hectáreas y en qué fechas sueles tratar. Te decimos si el dron encaja en tu calendario y te mandamos presupuesto con el desplazamiento desde La Palma. Escríbenos en [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Dinos qué siembras, en qué pago (San Felipe, El Pagador, Fontanales...), cuántas hectáreas y en qué fechas sueles tratar. Te decimos si el dron encaja en tu calendario y te mandamos presupuesto con el desplazamiento desde La Palma. Escríbenos en [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -83,7 +83,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/moya/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -119,7 +119,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
         {
           "@type": "Question",
           "name": "¿Cómo se organiza el desplazamiento desde La Palma para una finca de Moya?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Agrodrón sale de Santa Cruz de La Palma bajo consulta y según disponibilidad; no se fijan plazos sin estudiar la finca y el producto. Con varias parcelas de Moya, Guía o Arucas, la salida se cuadra mejor." }
+          "acceptedAnswer": { "@type": "Answer", "text": "AgroDron sale de Santa Cruz de La Palma bajo consulta y según disponibilidad; no se fijan plazos sin estudiar la finca y el producto. Con varias parcelas de Moya, Guía o Arucas, la salida se cuadra mejor." }
         }
       ]
     }

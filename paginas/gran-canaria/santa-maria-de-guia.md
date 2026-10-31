@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Santa María de Guía | Agrodrón Canarias"
+title: "Dron agrícola en Santa María de Guía | AgroDron Canarias"
 slug: "santa-maria-de-guia"
 meta_description: "Dron agrícola en Santa María de Guía: platanera de San Felipe y papa de Montaña Alta al aire libre, con desplazamiento desde La Palma. Pide presupuesto."
 keyword: "dron agrícola en Santa María de Guía"
@@ -71,7 +71,7 @@ No damos plazos: fuera de La Palma el servicio es con desplazamiento y bajo cons
 
 ## Pide presupuesto para tu finca en Santa María de Guía
 
-Dinos si tu parcela está en la costa, en las medianías o arriba, qué cultivas, cuántas hectáreas y qué quieres aplicar. Valoramos si el dron encaja y te mandamos presupuesto con el desplazamiento incluido. Entra en [Agrodrón Canarias](https://agrodroncanarias.es/contacto) y escríbenos.
+Dinos si tu parcela está en la costa, en las medianías o arriba, qué cultivas, cuántas hectáreas y qué quieres aplicar. Valoramos si el dron encaja y te mandamos presupuesto con el desplazamiento incluido. Entra en [AgroDron Canarias](https://agrodroncanarias.es/contacto) y escríbenos.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -87,7 +87,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-gran-canaria/santa-maria-de-guia/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

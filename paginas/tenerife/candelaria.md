@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Candelaria | Agrodrón Canarias"
+title: "Dron agrícola en Candelaria | AgroDron Canarias"
 slug: "candelaria"
 meta_description: "Dron agrícola en Candelaria: viña de la DO Valle de Güímar y hortalizas al aire libre, mes a mes. Con desplazamiento desde La Palma. Pide presupuesto."
 keyword: "dron agrícola en Candelaria"
@@ -72,7 +72,7 @@ Con los datos de la finca (zona, cultivo, hectáreas, accesos) planificamos la s
 
 ## Pide presupuesto para tu viña o tu huerta en Candelaria
 
-En [Agrodrón Canarias](https://agrodroncanarias.es/contacto) nos cuentas la zona, el cultivo, las hectáreas y el producto que quieres aplicar. Te decimos en qué punto del calendario encaja el dron y te pasamos un presupuesto con el desplazamiento desde La Palma.
+En [AgroDron Canarias](https://agrodroncanarias.es/contacto) nos cuentas la zona, el cultivo, las hectáreas y el producto que quieres aplicar. Te decimos en qué punto del calendario encaja el dron y te pasamos un presupuesto con el desplazamiento desde La Palma.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -88,7 +88,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/candelaria/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

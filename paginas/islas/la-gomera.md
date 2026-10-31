@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en La Gomera | Agrodrón Canarias"
+title: "Dron agrícola en La Gomera | AgroDron Canarias"
 slug: "dron-agricola-la-gomera"
 meta_description: "Dron agrícola en La Gomera: platanera y viña en bancales de Hermigua, Vallehermoso y Valle Gran Rey, picudo desde 1990 y desplazamiento desde La Palma."
 keyword: "dron agrícola en La Gomera"
@@ -12,7 +12,7 @@ municipio: ""
 
 # Dron agrícola en La Gomera: tratamientos en la isla de los bancales
 
-La Gomera es "la isla de los bancales" (ULPGC, 2019) y su agricultura, según la ficha del Parque Nacional de Garajonay (MITECO), "sufre una profunda crisis", con el plátano para exportación y las hortalizas de autoconsumo como cultivos principales y regadío en la parte baja de los barrancos. Un dron agrícola en La Gomera se justifica por esos bancales, terrazas estrechas en pendiente donde la maquinaria no entra. Agrodrón Canarias viene desde La Palma con desplazamiento y bajo disponibilidad.
+La Gomera es "la isla de los bancales" (ULPGC, 2019) y su agricultura, según la ficha del Parque Nacional de Garajonay (MITECO), "sufre una profunda crisis", con el plátano para exportación y las hortalizas de autoconsumo como cultivos principales y regadío en la parte baja de los barrancos. Un dron agrícola en La Gomera se justifica por esos bancales, terrazas estrechas en pendiente donde la maquinaria no entra. AgroDron Canarias viene desde La Palma con desplazamiento y bajo disponibilidad.
 
 [IMAGEN: Panorámica de un barranco del norte de La Gomera con bancales de piedra escalonados, platanera en el fondo y nubes del alisio en la cumbre | alt: Bancales de platanera y viña en un barranco del norte de La Gomera bajo el alisio]
 
@@ -48,13 +48,13 @@ De trips en platanera gomera y de mildiu u oídio en la viña insular no hay reg
 
 ## Cómo se organiza una salida a La Gomera desde La Palma
 
-Agrodrón Canarias tiene base en Santa Cruz de La Palma. Una salida a La Gomera se monta con varias fincas agrupadas, datos de cada parcela recibidos antes (ubicación, cultivo, superficie, accesos, cables, palmeras, malla) y días de margen por el viento canalizado de los barrancos y la niebla del norte. El DJI Agras T50, de 40 litros y con seguimiento del relieve por radar y visión binocular, se adapta al bancal; el calendario va bajo disponibilidad, sin plazos prometidos.
+AgroDron Canarias tiene base en Santa Cruz de La Palma. Una salida a La Gomera se monta con varias fincas agrupadas, datos de cada parcela recibidos antes (ubicación, cultivo, superficie, accesos, cables, palmeras, malla) y días de margen por el viento canalizado de los barrancos y la niebla del norte. El DJI Agras T50, de 40 litros y con seguimiento del relieve por radar y visión binocular, se adapta al bancal; el calendario va bajo disponibilidad, sin plazos prometidos.
 
 El marco: el operador vuela en la categoría específica de AESA/EASA, en escenarios estándar o bajo PDRA-S01, con piloto certificado; cada bancal se sitúa antes en el mapa de zonas geográficas de UAS de ENAIRE; en el depósito solo va producto de uso permitido en el cultivo, a su dosis de etiqueta; y lo que esté bajo malla, o un día de niebla cerrada en el norte, queda fuera.
 
 ## Preguntas frecuentes sobre el dron agrícola en La Gomera
 
-### ¿Agrodrón trabaja en La Gomera o solo en La Palma?
+### ¿AgroDron trabaja en La Gomera o solo en La Palma?
 Con desplazamiento desde Santa Cruz de La Palma y bajo disponibilidad. La isla vecina está cerca, pero mover equipo y piloto exige agrupar fincas y elegir fecha.
 
 ### ¿Se puede pulverizar con dron una platanera en bancales de La Gomera?
@@ -68,7 +68,7 @@ Varias fincas en la misma zona o en municipios cercanos, datos enviados antes y 
 
 ## Pide presupuesto para tu finca en La Gomera
 
-Dinos municipio, cultivo, superficie, acceso y si hay malla, cables o palmeras. Te decimos si el dron encaja y te mandamos un presupuesto con el desplazamiento desde La Palma incluido. Escríbenos desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Dinos municipio, cultivo, superficie, acceso y si hay malla, cables o palmeras. Te decimos si el dron encaja y te mandamos un presupuesto con el desplazamiento desde La Palma incluido. Escríbenos desde [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -84,7 +84,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-la-gomera/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
@@ -104,7 +104,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "¿Agrodrón trabaja en La Gomera o solo en La Palma?",
+          "name": "¿AgroDron trabaja en La Gomera o solo en La Palma?",
           "acceptedAnswer": { "@type": "Answer", "text": "Con desplazamiento desde Santa Cruz de La Palma y bajo disponibilidad. La isla vecina está cerca, pero mover equipo y piloto exige agrupar fincas y elegir fecha." }
         },
         {

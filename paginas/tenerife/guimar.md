@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Güímar | Agrodrón Canarias"
+title: "Dron agrícola en Güímar | AgroDron Canarias"
 slug: "guimar"
 meta_description: "Dron agrícola en Güímar: viña DO Valle de Güímar en bancales y platanera al aire libre en la costa (Mapa de Cultivos 2021). Desplazamiento desde La Palma."
 keyword: "dron agrícola en Güímar"
@@ -68,7 +68,7 @@ El equipo sale de Santa Cruz de La Palma y agrupa fincas del valle en una visita
 
 ## Pide presupuesto para tu viña o tu platanera de Güímar
 
-Mándanos ubicación, cultivo, hectáreas y el producto que quieres aplicar. Te decimos si el dron encaja y preparamos presupuesto con el desplazamiento desde La Palma, desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto).
+Mándanos ubicación, cultivo, hectáreas y el producto que quieres aplicar. Te decimos si el dron encaja y preparamos presupuesto con el desplazamiento desde La Palma, desde [AgroDron Canarias](https://agrodroncanarias.es/contacto).
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -84,7 +84,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-tenerife/guimar/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",

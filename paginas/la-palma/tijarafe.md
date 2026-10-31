@@ -1,5 +1,5 @@
 ---
-title: "Dron agrícola en Tijarafe | Agrodrón Canarias"
+title: "Dron agrícola en Tijarafe | AgroDron Canarias"
 slug: "tijarafe"
 meta_description: "Dron agrícola en Tijarafe para platanera en plataformas de acantilado y aguacate en bancales: el radar del T50 sigue la pendiente. Pide presupuesto."
 keyword: "dron agrícola en Tijarafe"
@@ -52,7 +52,7 @@ La cooperativa La Prosperidad tiene sede en el municipio: 364 socios plataneros 
 
 ## Reglas de vuelo y productos permitidos, en dos frases
 
-El piloto de Agrodrón vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el PDRA-S01, y cada plataforma y cada bancal de Tijarafe se comprueba antes en el mapa de zonas geográficas de UAS de ENAIRE. Al depósito solo sube producto de uso permitido en platanera, aguacate o viña, a la dosis de su etiqueta, solo sobre cultivo descubierto, y si el noroeste sopla fuerte o hay niebla en las medianías, se espera.
+El piloto de AgroDron vuela en la categoría específica de AESA/EASA, en escenarios estándar STS o bajo el PDRA-S01, y cada plataforma y cada bancal de Tijarafe se comprueba antes en el mapa de zonas geográficas de UAS de ENAIRE. Al depósito solo sube producto de uso permitido en platanera, aguacate o viña, a la dosis de su etiqueta, solo sobre cultivo descubierto, y si el noroeste sopla fuerte o hay niebla en las medianías, se espera.
 
 ## Preguntas frecuentes sobre pulverizar con dron en Tijarafe
 
@@ -73,7 +73,7 @@ Lo marcan cuatro cosas: superficie, cultivo, acceso al punto de despegue y produ
 
 ## Pide presupuesto para tu finca en Tijarafe
 
-Dinos dónde está la finca (costa o medianía), el cultivo, la superficie aproximada y por dónde se llega. Con eso vemos si el dron encaja y te enviamos un presupuesto desde [Agrodrón Canarias](https://agrodroncanarias.es/contacto). Trabajamos en toda La Palma sin coste de desplazamiento.
+Dinos dónde está la finca (costa o medianía), el cultivo, la superficie aproximada y por dónde se llega. Con eso vemos si el dron encaja y te enviamos un presupuesto desde [AgroDron Canarias](https://agrodroncanarias.es/contacto). Trabajamos en toda La Palma sin coste de desplazamiento.
 
 Contamos también con tolva para productos sólidos, como abonos granulados: indícalo en la solicitud y valoramos si encaja.
 
@@ -89,7 +89,7 @@ Contamos también con tolva para productos sólidos, como abonos granulados: ind
       "url": "https://agrodroncanarias.es/dron-agricola-la-palma/tijarafe/",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "Agrodrón Canarias",
+        "name": "AgroDron Canarias",
         "url": "https://agrodroncanarias.es/",
         "address": {
           "@type": "PostalAddress",
